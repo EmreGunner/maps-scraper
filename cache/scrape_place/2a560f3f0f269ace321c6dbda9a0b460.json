@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJJWLV7_a3yhQRDAggJjgGhGw",
+    "name": "KEYDAL HUKUK B\u00dcROSU",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Keydal Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Keydal+Hukuk+B%C3%BCrosu/@41.070734,29.014941000000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Ekinoks Hukuk",
+            "link": "https://www.google.com/maps/search/Ekinoks+Hukuk/@41.0790138,29.0186705?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "SEV\u00dcKTEK\u0130N HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/SEV%C3%9CKTEK%C4%B0N+HUKUK+B%C3%9CROSU/@41.073654999999995,29.0159964?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ali G\u00fcl Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ali+G%C3%BCl+Hukuk+B%C3%BCrosu/@41.0799728,29.0136519?authuser=0&entry=ttu",
+            "reviews": 26,
+            "rating": 4.1,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Uluk\u00f6kl\u00fc & Partners Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Uluk%C3%B6kl%C3%BC+%26+Partners+Hukuk+B%C3%BCrosu/@41.0805094,29.0151561?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 4.6,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "KEYDAL HUKUK B\u00dcROSU (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNqJpl8zBspUwy-Cdz8ay9AMVBPkiGu_vIrrjp6=w408-h306-k-no",
+    "main_category": "Kurumsal Ofis",
+    "categories": [
+        "Kurumsal Ofis"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 232 42 35",
+    "address": "Levent, KEYDAL HUKUK B\u00dcROSU, \u00dclgen Sk. No:52, 34330 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJJWLV7_a3yhQRDAggJjgGhGw",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJJWLV7_a3yhQRDAggJjgGhGw&q=?q=place_id:ChIJJWLV7_a3yhQRDAggJjgGhGw&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0830646,
+        "longitude": 29.0203056
+    },
+    "plus_code": "32MC+64 Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Levent",
+        "street": "\u00dclgen Sk. No:52",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34330",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "7819381691249592332",
+    "data_id": "0x14cab7f6efd56225:0x6c8406382620080c",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNqJpl8zBspUwy-Cdz8ay9AMVBPkiGu_vIrrjp6=w397-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KLEUIEqbDP8SVhEqRWA8gw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=107.71593&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

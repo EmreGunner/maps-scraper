@@ -1,0 +1,103 @@
+{
+    "place_id": "ChIJJ2xeIrejyhQRLeTIA6OcIlg",
+    "name": "Marc'as Law",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Legala Lawyers",
+            "link": "https://www.google.com/maps/search/Legala+Lawyers/@40.9809591,28.781252?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Y\u00fcceli\u015f Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Y%C3%BCceli%C5%9F+Hukuk+B%C3%BCrosu/@40.976574899999996,28.791549900000003?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "The Best Law Office",
+            "link": "https://www.google.com/maps/search/The+Best+Law+Office/@40.9920609,28.82933?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Yaman Hukuk",
+            "link": "https://www.google.com/maps/search/Yaman+Hukuk/@40.977858499999996,28.792190299999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Marc'as Law (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7mSotYFb0dtr-1ZXyNuKeQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=254.1512&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 652 50 54",
+    "address": "\u015eenlikk\u00f6y, Marc'as Law, Mektep Sk. No:29/1, 34153 Bak\u0131rk\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJJ2xeIrejyhQRLeTIA6OcIlg",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJJ2xeIrejyhQRLeTIA6OcIlg&q=?q=place_id:ChIJJ2xeIrejyhQRLeTIA6OcIlg&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.977821299999995,
+        "longitude": 28.7942252
+    },
+    "plus_code": "XQHV+4M Bak\u0131rk\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "\u015eenlikk\u00f6y",
+        "street": "Mektep Sk. No:29/1",
+        "city": "Bak\u0131rk\u00f6y",
+        "postal_code": "34153",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6350810648502920237",
+    "data_id": "0x14caa3b7225e6c27:0x58229ca303c8e42d",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7mSotYFb0dtr-1ZXyNuKeQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=254.1512&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7mSotYFb0dtr-1ZXyNuKeQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=254.1512&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

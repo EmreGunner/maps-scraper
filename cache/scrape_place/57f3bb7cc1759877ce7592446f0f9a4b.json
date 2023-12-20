@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJU38q-L25yhQRt2_I9U9gkd0",
+    "name": "Interpretistanbul",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Mesut Y\u0131ld\u0131r\u0131m Yeminli Terc\u00fcman",
+            "link": "https://www.google.com/maps/search/Mesut+Y%C4%B1ld%C4%B1r%C4%B1m+Yeminli+Terc%C3%BCman/@41.0252079,28.934051099999998?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "\u00c7evirmen"
+        },
+        {
+            "name": "Turkish Interpreters",
+            "link": "https://www.google.com/maps/search/Turkish+Interpreters/@41.048049999999996,29.0058044?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "\u00c7evirmen"
+        },
+        {
+            "name": "Turkish Translation",
+            "link": "https://www.google.com/maps/search/Turkish+Translation/@41.077231999999995,29.013218?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "\u00c7evirmen"
+        },
+        {
+            "name": "G\u00fclT\u00fcrk",
+            "link": "https://www.google.com/maps/search/G%C3%BClT%C3%BCrk/@41.010940000000005,28.950526999999997?authuser=0&entry=ttu",
+            "reviews": 29,
+            "rating": 5,
+            "main_category": "\u00c7evirmen"
+        },
+        {
+            "name": "Turkish Translation Office",
+            "link": "https://www.google.com/maps/search/Turkish+Translation+Office/@41.071327,29.010851000000002?authuser=0&entry=ttu",
+            "reviews": 17,
+            "rating": 3.8,
+            "main_category": "\u00c7evirmen"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Interpretistanbul (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S5JGem4MenmB4jgDDTHZSg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=310.30984&pitch=0&thumbfov=100",
+    "main_category": "\u00c7evirmen",
+    "categories": [
+        "\u00c7evirmen"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0532 545 83 87",
+    "address": "Alemdar, Interpretistanbul, Ticarethane Sk. No:9, 34122 Fatih/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJU38q-L25yhQRt2_I9U9gkd0",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJU38q-L25yhQRt2_I9U9gkd0&q=?q=place_id:ChIJU38q-L25yhQRt2_I9U9gkd0&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.008261,
+        "longitude": 28.976321
+    },
+    "plus_code": "2X5G+8G Fatih, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Alemdar",
+        "street": "Ticarethane Sk. No:9",
+        "city": "Fatih",
+        "postal_code": "34122",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "15965648050547355575",
+    "data_id": "0x14cab9bdf82a7f53:0xdd91604ff5c86fb7",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S5JGem4MenmB4jgDDTHZSg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=310.30984&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S5JGem4MenmB4jgDDTHZSg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=310.30984&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJcSbJzhq3yhQRKmEG3QjICCY",
+    "name": "G\u00f6zde \u00c7a\u00e7an Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Ven\u00fcs Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ven%C3%BCs+Hukuk+B%C3%BCrosu/@41.0493768,28.988048900000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Kaya Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kaya+Hukuk+B%C3%BCrosu/@41.0519488,28.990632299999994?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Cing\u00f6z & Baybal\u0131 Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Cing%C3%B6z+%26+Baybal%C4%B1+Hukuk+B%C3%BCrosu/@41.0613627,28.985925299999998?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 4.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Do\u011fancan Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Do%C4%9Fancan+Hukuk+B%C3%BCrosu/@41.043530499999996,28.986229299999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Can Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Can+Hukuk+B%C3%BCrosu/@41.0600656,28.9695739?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "G\u00f6zde \u00c7a\u00e7an Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ymtC4vAROrJNXKMrC9iXEw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=112.92984&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Halaskargazi, G\u00f6zde \u00c7a\u00e7an Hukuk B\u00fcrosu, Halaskargazi Cd. No:172, 34360 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJcSbJzhq3yhQRKmEG3QjICCY",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJcSbJzhq3yhQRKmEG3QjICCY&q=?q=place_id:ChIJcSbJzhq3yhQRKmEG3QjICCY&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.058259,
+        "longitude": 28.98732
+    },
+    "plus_code": "3X5P+8W \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Halaskargazi",
+        "street": "Halaskargazi Cd. No:172",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34360",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2740660313648423210",
+    "data_id": "0x14cab71acec92671:0x2608c808dd06612a",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ymtC4vAROrJNXKMrC9iXEw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=112.92984&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ymtC4vAROrJNXKMrC9iXEw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=112.92984&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,175 @@
+{
+    "place_id": "ChIJA1FFEilftRQR8aZb319QyJI",
+    "name": "Cv Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "CVK Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/CVK+Hukuk+B%C3%BCrosu/@41.0175877,28.646096699999998?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Beylik Hukuk B\u00fcrosu- Beylikd\u00fcz\u00fc \u0130\u015f Avukat\u0131-Bo\u015fanma Avukat\u0131-Kira Avukat\u0131-Tahliye Avukat\u0131",
+            "link": "https://www.google.com/maps/search/Beylik+Hukuk+B%C3%BCrosu-+Beylikd%C3%BCz%C3%BC+%C4%B0%C5%9F+Avukat%C4%B1-Bo%C5%9Fanma+Avukat%C4%B1-Kira+Avukat%C4%B1-Tahliye+Avukat%C4%B1/@41.0161442,28.644619?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "BO\u015eANMA HUKUKU AVUKATLIK OF\u0130S\u0130",
+            "link": "https://www.google.com/maps/search/BO%C5%9EANMA+HUKUKU+AVUKATLIK+OF%C4%B0S%C4%B0/@41.0161217,28.625922900000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Bo\u015fanma Avukat\u0131"
+        },
+        {
+            "name": "AV. NASUH BAYEZ\u0130T",
+            "link": "https://www.google.com/maps/search/AV.+NASUH+BAYEZ%C4%B0T/@41.0133031,28.644602?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u0627\u0642\u0627\u0645\u062a \u062a\u0631\u06a9\u06cc\u0647",
+            "link": "https://www.google.com/maps/search/%D8%A7%D9%82%D8%A7%D9%85%D8%AA+%D8%AA%D8%B1%DA%A9%DB%8C%D9%87/@41.0160821,28.641085600000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "G\u00f6\u00e7menlik Hukuku Avukat\u0131"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "111341522318685337567",
+        "name": "Cv Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/111341522318685337567"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP8lwRJIDWHXBzQ06obhf74fNcnm5p-ZNflvaUW=w408-h544-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 853 94 37",
+    "address": "Cv Hukuk B\u00fcrosu, Barbaros Hayrettin Pa\u015fa Mah.E5 Karayolu \u00dczeri Vetro City Resi.B Blok Kat:4 D:111, 34500 Beylikd\u00fcz\u00fc/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJA1FFEilftRQR8aZb319QyJI",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJA1FFEilftRQR8aZb319QyJI&q=?q=place_id:ChIJA1FFEilftRQR8aZb319QyJI&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0164064,
+        "longitude": 28.6403225
+    },
+    "plus_code": "2J8R+H4 Beylikd\u00fcz\u00fc, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Cumhuriyet",
+        "street": "Barbaros Hayrettin Pa\u015fa Mah.E5 Karayolu \u00dczeri Vetro City Resi.B Blok Kat:4 D:111",
+        "city": "Beylikd\u00fcz\u00fc",
+        "postal_code": "34500",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10576792097579050737",
+    "data_id": "0x14b55f2912455103:0x92c8505fdf5ba6f1",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP8lwRJIDWHXBzQ06obhf74fNcnm5p-ZNflvaUW=w224-h298-k-no"
+        },
+        {
+            "about": "\u0130\u00e7",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOZKv_yhMH7h5CcgYxd66LRJ0KsECuzO-Aagmem=w224-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPiXVygf4DTXPgxY_nJ-85tH_NBFcMKUP5-Tv4U=w224-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lEpgtM7ygkMTDV6dXiZYgQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=305.80777&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

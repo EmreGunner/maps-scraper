@@ -1,0 +1,175 @@
+{
+    "place_id": "ChIJpRSCMTC6yhQRzqilEUaaeuE",
+    "name": "Prensip Web",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "Prensip Patent A.\u015e.",
+            "link": "https://www.google.com/maps/search/Prensip+Patent+A.%C5%9E./@41.0330884,28.9473265?authuser=0&entry=ttu",
+            "reviews": 27,
+            "rating": 5,
+            "main_category": "Patent Ofisi"
+        },
+        {
+            "name": "PRENS\u0130P BELGELEND\u0130RME A.\u015e.",
+            "link": "https://www.google.com/maps/search/PRENS%C4%B0P+BELGELEND%C4%B0RME+A.%C5%9E./@41.0330884,28.9473265?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "\u0130\u015fletme Y\u00f6netimi Dan\u0131\u015fman\u0131"
+        },
+        {
+            "name": "poyked",
+            "link": "https://www.google.com/maps/search/poyked/@41.079634999999996,29.0070173?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Yaz\u0131l\u0131m \u015eirketi"
+        },
+        {
+            "name": "Inphor",
+            "link": "https://www.google.com/maps/search/Inphor/@41.0934676,29.0040597?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Yaz\u0131l\u0131m \u015eirketi"
+        }
+    ],
+    "website": "https://www.prensipweb.com/",
+    "owner": {
+        "id": "100662154328669447404",
+        "name": "Prensip Web (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/100662154328669447404"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mdr1pp8qSR-bLzGwCpAlYw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=170.5902&pitch=0&thumbfov=100",
+    "main_category": "Web Sitesi Tasar\u0131mc\u0131s\u0131",
+    "categories": [
+        "Web Sitesi Tasar\u0131mc\u0131s\u0131"
+    ],
+    "rating": 5,
+    "workday_timing": "09:30\u201318:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 516 00 34",
+    "address": "Sultan Selim, Prensip Web, Sanayi, NEF 09 Offices D\u00f6rtlevent, B/72, H\u00fcmeyra Sokagi No:7, 34415 K\u00e2\u011f\u0131thane/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJpRSCMTC6yhQRzqilEUaaeuE",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJpRSCMTC6yhQRzqilEUaaeuE&q=?q=place_id:ChIJpRSCMTC6yhQRzqilEUaaeuE&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0919774,
+        "longitude": 29.002643
+    },
+    "plus_code": "32R3+Q3 K\u00e2\u011f\u0131thane, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Sultan Selim",
+        "street": "Sanayi, NEF 09 Offices D\u00f6rtlevent, B/72, H\u00fcmeyra Sokagi No:7",
+        "city": "K\u00e2\u011f\u0131thane",
+        "postal_code": "34415",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16247468231426943182",
+    "data_id": "0x14caba30318214a5:0xe17a9a4611a5a8ce",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.prensipweb.com/iletisim",
+            "source": "prensipweb.com"
+        }
+    ],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mdr1pp8qSR-bLzGwCpAlYw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=170.5902&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mdr1pp8qSR-bLzGwCpAlYw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=170.5902&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:30\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Tek kelimeyle m\u00fckemmel tasar\u0131mc\u0131.",
+            "reviewer_name": "sel\u00e7uk adilt\u00fcrk",
+            "rating": 5,
+            "review_text": "Tek kelimeyle m\u00fckemmel tasar\u0131mc\u0131.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-03-08T14:40:22.193000",
+            "response_from_owner_text": "Te\u015fekk\u00fcrler",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-03-08T15:41:02.627000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102571442023298095659/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIJOI5IL2m15Kt_OwZr2YPmA66Fy91NTc5pL7QoHpGy=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

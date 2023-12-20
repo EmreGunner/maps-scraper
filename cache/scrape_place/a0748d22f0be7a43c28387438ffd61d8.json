@@ -1,0 +1,121 @@
+{
+    "place_id": "ChIJ9baVgqDIyhQRGKUIdGfJZQE",
+    "name": "Ar\u0131 Attorneys At Law",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Ata\u015fehir Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ata%C5%9Fehir+Hukuk+B%C3%BCrosu/@40.994332899999996,29.1202928?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Asista Law",
+            "link": "https://www.google.com/maps/search/Asista+Law/@40.994628999999996,29.124982?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Temiz Law - Hukuk",
+            "link": "https://www.google.com/maps/search/Temiz+Law+-+Hukuk/@40.992533099999996,29.1227934?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00dcNSALER HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/%C3%9CNSALER+HUKUK+B%C3%9CROSU/@40.9922381,29.1209496?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ar\u0131 Dan\u0131\u015fmanl\u0131k Ve Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ar%C4%B1+Dan%C4%B1%C5%9Fmanl%C4%B1k+Ve+Hukuk+B%C3%BCrosu/@41.0736371,29.016406999999997?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "https://www.ari.av.tr/english/contact-us/",
+    "owner": {
+        "id": null,
+        "name": "Ar\u0131 Attorneys At Law (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YIevlu0P177uNzuRkfhf1A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=84.02594&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0216) 455 09 81",
+    "address": "Ata\u015fehir Atat\u00fcrk, Ar\u0131 Attorneys At Law, Ata\u015fehir Blv. No:42, 34758 Ata\u015fehir/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ9baVgqDIyhQRGKUIdGfJZQE",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ9baVgqDIyhQRGKUIdGfJZQE&q=?q=place_id:ChIJ9baVgqDIyhQRGKUIdGfJZQE&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9927388,
+        "longitude": 29.119336299999997
+    },
+    "plus_code": "X4V9+3P Ata\u015fehir, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Ata\u015fehir Atat\u00fcrk",
+        "street": "Ata\u015fehir Blv. No:42",
+        "city": "Ata\u015fehir",
+        "postal_code": "34758",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "100708012851242264",
+    "data_id": "0x14cac8a08295b6f5:0x165c9677408a518",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YIevlu0P177uNzuRkfhf1A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=84.02594&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YIevlu0P177uNzuRkfhf1A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=84.02594&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

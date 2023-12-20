@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJ7dA6heG1yhQRcEc2kUbOtKI",
+    "name": "Cayan Sevener",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Arslano\u011flu Cans\u0131z Law Firm",
+            "link": "https://www.google.com/maps/search/Arslano%C4%9Flu+Cans%C4%B1z+Law+Firm/@41.1092827,29.0206371?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "K\u0131ran\u015fa Hukuk Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/K%C4%B1ran%C5%9Fa+Hukuk+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.091425,29.003381?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "CCA Law Office",
+            "link": "https://www.google.com/maps/search/CCA+Law+Office/@41.1096088,28.9935042?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ER&GUN&ER Law Firm",
+            "link": "https://www.google.com/maps/search/ER%26GUN%26ER+Law+Firm/@41.110189899999995,29.0192199?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "CAN AVUKATLIK B\u00dcROSU LEGAL ADVISORY&LAW FIRM",
+            "link": "https://www.google.com/maps/search/CAN+AVUKATLIK+B%C3%9CROSU+LEGAL+ADVISORY%26LAW+FIRM/@41.108736199999996,29.018633599999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://cayansevener.com/",
+    "owner": {
+        "id": null,
+        "name": "Cayan Sevener (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yciSKSAAndct8y6JStDNng&cb_client=search.gws-prod.gps&w=408&h=240&yaw=139.58093&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0533 328 79 00",
+    "address": "Maslak, Cayan Sevener, AOS, Adak Sk. 4/574, 34470 Sar\u0131yer/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ7dA6heG1yhQRcEc2kUbOtKI",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ7dA6heG1yhQRcEc2kUbOtKI&q=?q=place_id:ChIJ7dA6heG1yhQRcEc2kUbOtKI&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.093781799999995,
+        "longitude": 29.027863
+    },
+    "plus_code": "32VH+G4 Sar\u0131yer, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Maslak",
+        "street": "AOS, Adak Sk. 4/574",
+        "city": "Sar\u0131yer",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "11724222532431529840",
+    "data_id": "0x14cab5e1853ad0ed:0xa2b4ce4691364770",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yciSKSAAndct8y6JStDNng&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=139.58093&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yciSKSAAndct8y6JStDNng&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=139.58093&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,181 @@
+{
+    "place_id": "ChIJ_aisLEbDJRUR2uDGhLnbng0",
+    "name": "Avukat Canan Bolat",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Duman Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Duman+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@36.2157087,36.124760699999996?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Cebeci Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Cebeci+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@36.2248625,36.1297131?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Varol Hukuk & Dan\u0131\u015fmanl\u0131k Av. \u015eeyda Varol & Av. Murat Varol",
+            "link": "https://www.google.com/maps/search/Varol+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k+Av.+%C5%9Eeyda+Varol+%26+Av.+Murat+Varol/@36.2153506,36.123567099999995?authuser=0&entry=ttu",
+            "reviews": 14,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Adile Canpolat",
+            "link": "https://www.google.com/maps/search/Avukat+Adile+Canpolat/@36.205447,36.160139?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat \u0130rfan Yabanc\u0131",
+            "link": "https://www.google.com/maps/search/Avukat+%C4%B0rfan+Yabanc%C4%B1/@36.2152672,36.1243015?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Avukat Canan Bolat (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZyYG9sRI2aQ7lXxqsuUJaQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=129.96863&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "08:30\u201317:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": null,
+    "address": "Avukat Canan Bolat, \u00c7ekmece Mah. \u00c7evre Yolu Cad. Gazi B Blok Kat :5 Daire no:30 DEFNE, 31001 Antakya/Hatay",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ_aisLEbDJRUR2uDGhLnbng0",
+    "status": "Kapal\u0131 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 08:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ_aisLEbDJRUR2uDGhLnbng0&q=?q=place_id:ChIJ_aisLEbDJRUR2uDGhLnbng0&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.215808599999995,
+        "longitude": 36.124443
+    },
+    "plus_code": "648F+8Q Antakya, Hatay",
+    "detailed_address": {
+        "ward": "\u00c7ekmece",
+        "street": "\u00c7ekmece Mah. \u00c7evre Yolu Cad. Gazi B Blok Kat :5 Daire no:30 DEFNE",
+        "city": "Antakya",
+        "postal_code": "31001",
+        "state": "Hatay",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "981463358656405722",
+    "data_id": "0x1525c3462caca8fd:0xd9edbb984c6e0da",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                },
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZyYG9sRI2aQ7lXxqsuUJaQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=129.96863&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZyYG9sRI2aQ7lXxqsuUJaQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=129.96863&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

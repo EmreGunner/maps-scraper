@@ -1,0 +1,149 @@
+{
+    "place_id": "ChIJNYkFP4m3yhQRM0Dpmky37Is",
+    "name": "KO\u00c7AK&DUMAN HUKUK ve DANI\u015eMANLIK",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "CYH Hukuk",
+            "link": "https://www.google.com/maps/search/CYH+Hukuk/@41.0915026,29.003317199999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Ko\u00e7yi\u011fit Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ko%C3%A7yi%C4%9Fit+Hukuk+B%C3%BCrosu/@41.091425,29.003381?authuser=0&entry=ttu",
+            "reviews": 26,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "KO\u00c7 - Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/KO%C3%87+-+Avukatl%C4%B1k+B%C3%BCrosu/@41.0679272,28.993136099999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "KO\u00c7 HUKUK DANI\u015eMANLIK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/KO%C3%87+HUKUK+DANI%C5%9EMANLIK+B%C3%9CROSU/@41.064267699999995,28.9872811?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 4.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "100321691427907413594",
+        "name": "KO\u00c7AK&DUMAN HUKUK ve DANI\u015eMANLIK (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/100321691427907413594"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CNqOYw-OJ_sbKEFKK4Fp4g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=348.11542&pitch=0&thumbfov=100",
+    "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti",
+    "categories": [
+        "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+    ],
+    "rating": null,
+    "workday_timing": "08:30\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": null,
+    "address": "Sultan Selim, KO\u00c7AK&DUMAN HUKUK ve DANI\u015eMANLIK, \u015eahinler Cd. No:21 D:3, 34415 K\u00e2\u011f\u0131thane/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJNYkFP4m3yhQRM0Dpmky37Is",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 08:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJNYkFP4m3yhQRM0Dpmky37Is&q=?q=place_id:ChIJNYkFP4m3yhQRM0Dpmky37Is&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.091681,
+        "longitude": 29.001352999999998
+    },
+    "plus_code": "32R2+MG K\u00e2\u011f\u0131thane, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Sultan Selim",
+        "street": "\u015eahinler Cd. No:21 D:3",
+        "city": "K\u00e2\u011f\u0131thane",
+        "postal_code": "34415",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10082635205420073011",
+    "data_id": "0x14cab7893f058935:0x8becb74c9ae94033",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CNqOYw-OJ_sbKEFKK4Fp4g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=348.11542&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CNqOYw-OJ_sbKEFKK4Fp4g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=348.11542&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

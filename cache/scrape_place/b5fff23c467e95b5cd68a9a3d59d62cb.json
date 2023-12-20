@@ -1,0 +1,195 @@
+{
+    "place_id": "ChIJC1xuQme2yhQRcY05b_DxvaU",
+    "name": "Korkmaz Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Korkmaz Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Korkmaz+Hukuk+B%C3%BCrosu/@40.9948311,28.880373199999998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Korkmaz Hukuk",
+            "link": "https://www.google.com/maps/search/Korkmaz+Hukuk/@40.9933881,28.8734474?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "KORKMAZ HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/KORKMAZ+HUKUK+B%C3%9CROSU/@41.0924336,29.0906532?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Korkmaz & Korkmaz Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Korkmaz+%26+Korkmaz+Avukatl%C4%B1k+B%C3%BCrosu/@40.9095029,29.1979915?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Y\u00fccel Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Y%C3%BCcel+Hukuk+B%C3%BCrosu/@41.0676194,29.0111179?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "113593397300075680498",
+        "name": "Korkmaz Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/113593397300075680498"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=k9N1Az5k1-lDHBX4nn4wYw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=166.26172&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "08:30\u201317:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 324 77 90",
+    "address": "G\u00fcltepe, Korkmaz Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu, Ortabay\u0131r Mahallesi, Talatpasa Caddesi, Levent, Bacadibi Sk. No:1/1 Kat:2, 34413 K\u00e2\u011f\u0131thane/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJC1xuQme2yhQRcY05b_DxvaU",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 17:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJC1xuQme2yhQRcY05b_DxvaU&q=?q=place_id:ChIJC1xuQme2yhQRcY05b_DxvaU&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0799005,
+        "longitude": 29.006967
+    },
+    "plus_code": "32H4+XQ K\u00e2\u011f\u0131thane, \u0130stanbul",
+    "detailed_address": {
+        "ward": "G\u00fcltepe",
+        "street": "Ortabay\u0131r Mahallesi, Talatpasa Caddesi, Levent, Bacadibi Sk. No:1/1 Kat:2",
+        "city": "K\u00e2\u011f\u0131thane",
+        "postal_code": "34413",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "11942967801816911217",
+    "data_id": "0x14cab667426e5c0b:0xa5bdf1f06f398d71",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun oturma d\u00fczeni",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "\u00dcniseks tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=k9N1Az5k1-lDHBX4nn4wYw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=166.26172&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=k9N1Az5k1-lDHBX4nn4wYw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=166.26172&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201317:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201317:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201317:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201317:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201317:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

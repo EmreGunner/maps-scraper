@@ -1,0 +1,203 @@
+{
+    "place_id": "ChIJV4C81TlftRQRs0aakC8BZdg",
+    "name": "Beylikd\u00fcz\u00fc Avukat / Attorney at law / Lawyer",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "Beylikd\u00fcz\u00fc Bo\u015fanma Avukat",
+            "link": "https://www.google.com/maps/search/Beylikd%C3%BCz%C3%BC+Bo%C5%9Fanma+Avukat/@41.012769299999995,28.6442172?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Beylikd\u00fcz\u00fc Bo\u015fanma Davas\u0131 Avukat\u0131",
+            "link": "https://www.google.com/maps/search/Beylikd%C3%BCz%C3%BC+Bo%C5%9Fanma+Davas%C4%B1+Avukat%C4%B1/@41.0117803,28.643231300000004?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 3.3,
+            "main_category": "Bo\u015fanma Avukat\u0131"
+        },
+        {
+            "name": "Avukat Burak \u00c7eviker",
+            "link": "https://www.google.com/maps/search/Avukat+Burak+%C3%87eviker/@41.004277699999996,28.6595719?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Ko\u00e7ak Legal Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ko%C3%A7ak+Legal+Hukuk+B%C3%BCrosu/@41.0162749,28.6406656?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Beylikd\u00fcz\u00fc Avukat | G\u00dcN Hukuk & Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Beylikd%C3%BCz%C3%BC+Avukat+%7C+G%C3%9CN+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@41.010216199999995,28.653628800000003?authuser=0&entry=ttu",
+            "reviews": 37,
+            "rating": 4.9,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": "http://www.gullusenturkhukuk.com/",
+    "owner": {
+        "id": "111005930224380197730",
+        "name": "Beylikd\u00fcz\u00fc Avukat / Attorney at law / Lawyer (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/111005930224380197730"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM1vxzUHVWQNVIvvyHZMa5_iyXV1cKe4R0P_lb7=w408-h272-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat",
+        "Ceza Avukat\u0131",
+        "Bo\u015fanma Avukat\u0131"
+    ],
+    "rating": 3,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0535 458 16 03",
+    "address": "Bar\u0131\u015f, Beylikd\u00fcz\u00fc Avukat / Attorney at law / Lawyer, Palmiye Soka\u011f\u0131 Palmiye Sit No:1/8, 34520 Beylikd\u00fcz\u00fc/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJV4C81TlftRQRs0aakC8BZdg",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJV4C81TlftRQRs0aakC8BZdg&q=?q=place_id:ChIJV4C81TlftRQRs0aakC8BZdg&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9990144,
+        "longitude": 28.6491124
+    },
+    "plus_code": "XJXX+JJ Beylikd\u00fcz\u00fc, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Bar\u0131\u015f",
+        "street": "Palmiye Soka\u011f\u0131 Palmiye Sit No:1/8",
+        "city": "Beylikd\u00fcz\u00fc",
+        "postal_code": "34520",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "15592870588641330867",
+    "data_id": "0x14b55f39d5bc8057:0xd865012f909a46b3",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM1vxzUHVWQNVIvvyHZMa5_iyXV1cKe4R0P_lb7=w447-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMCE3AJ2xyKFAlstamKWVUsUo9ykqwy8eNGwArL=w372-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QqxHiWuHDu-fXDnDvg0IJg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=259.29553&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201313:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Mostafa Ravaz",
+            "rating": 3,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-02-21T21:35:38.055000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113836660978632697329/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXcOKEyZJQkk-FzrknDUImdFz4eqKuKgcTLe7aCxW_-Y_8=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJOxAW5uvJyhQR4Ecf9aM4QBc",
+    "name": "Etta Hukuk",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Etta Law Office",
+            "link": "https://www.google.com/maps/search/Etta+Law+Office/@41.0211438,29.0423547?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Art\u0131 Avukatl\u0131k",
+            "link": "https://www.google.com/maps/search/Art%C4%B1+Avukatl%C4%B1k/@40.9837852,29.0906096?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "G\u00fcltekin Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%BCltekin+Hukuk+B%C3%BCrosu/@41.0250959,29.036633199999997?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Altunizade Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Altunizade+Hukuk+B%C3%BCrosu/@41.0226727,29.034811299999998?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Hukuki Kart",
+            "link": "https://www.google.com/maps/search/Hukuki+Kart/@41.0235844,29.042198199999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Gayrimenkul Hukuku Avukat\u0131"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Etta Hukuk (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=viG-eDe7Sz_tQdcEyiHRKg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=156.04298&pitch=0&thumbfov=100",
+    "main_category": "Hukuk Hizmetleri",
+    "categories": [
+        "Hukuk Hizmetleri"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0216) 261 90 05",
+    "address": "Etta Hukuk, Altunizade Mahallesi, Ord. Prof. Dr. Fahrettin Kerim G\u00f6kay Cd., No:12/8, Ek\u015fi \u0130\u015fmerkezi, 34662 \u00dcsk\u00fcdar",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJOxAW5uvJyhQR4Ecf9aM4QBc",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJOxAW5uvJyhQR4Ecf9aM4QBc&q=?q=place_id:ChIJOxAW5uvJyhQR4Ecf9aM4QBc&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0203829,
+        "longitude": 29.0471398
+    },
+    "plus_code": "22CW+5V \u00dcsk\u00fcdar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Altunizade",
+        "street": "Altunizade Mahallesi, Ord. Prof. Dr. Fahrettin Kerim G\u00f6kay Cd., No:12/8, Ek\u015fi \u0130\u015fmerkezi",
+        "city": "\u00dcsk\u00fcdar",
+        "postal_code": "34662",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "1675401338225117152",
+    "data_id": "0x14cac9ebe616103b:0x174038a3f51f47e0",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=viG-eDe7Sz_tQdcEyiHRKg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=156.04298&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=viG-eDe7Sz_tQdcEyiHRKg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=156.04298&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

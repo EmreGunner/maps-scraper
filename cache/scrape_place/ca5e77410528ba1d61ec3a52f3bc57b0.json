@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJ-0cfX3O4yhQRV94asSoVhwk",
+    "name": "Devrin Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Altunezen Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Altunezen+Hukuk+B%C3%BCrosu/@40.9729349,29.052063499999996?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Emek Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Emek+Hukuk+B%C3%BCrosu/@40.9950773,29.039380100000002?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "K\u0131l\u0131\u00e7 Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/K%C4%B1l%C4%B1%C3%A7+Hukuk+B%C3%BCrosu/@40.9905374,29.0312749?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Denge Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Denge+Hukuk+B%C3%BCrosu/@40.9875244,29.0458456?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 1.7,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Dinar Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Dinar+Hukuk+B%C3%BCrosu/@40.9895845,29.031929?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Devrin Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2jT6cWHMmXlkecA1S2c1Bg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=15.496621&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0216) 340 64 21",
+    "address": "Hasanpa\u015fa, Devrin Hukuk B\u00fcrosu, Kurba\u011fal\u0131dere Cd. G\u00fczel \u0130\u015f Merkezi, 34722 Kadikoy/Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ-0cfX3O4yhQRV94asSoVhwk",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ-0cfX3O4yhQRV94asSoVhwk&q=?q=place_id:ChIJ-0cfX3O4yhQRV94asSoVhwk&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9951182,
+        "longitude": 29.0400396
+    },
+    "plus_code": "X2WR+22 Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Hasanpa\u015fa",
+        "street": "Kurba\u011fal\u0131dere Cd. G\u00fczel \u0130\u015f Merkezi",
+        "city": "Kadikoy/Kad\u0131k\u00f6y",
+        "postal_code": "34722",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "686540741301427799",
+    "data_id": "0x14cab8735f1f47fb:0x987152ab11ade57",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2jT6cWHMmXlkecA1S2c1Bg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=15.496621&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2jT6cWHMmXlkecA1S2c1Bg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=15.496621&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

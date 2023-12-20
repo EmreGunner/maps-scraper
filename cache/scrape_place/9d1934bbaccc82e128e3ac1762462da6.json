@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJHy_BrAS3yhQRoF_7BbtTeLI",
+    "name": "Solak LLP",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "ALPER SOLAK",
+            "link": "https://www.google.com/maps/search/ALPER+SOLAK/@41.0524755,28.9869883?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Solako\u011flu",
+            "link": "https://www.google.com/maps/search/Solako%C4%9Flu/@41.0293127,28.982781799999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": ""
+        },
+        {
+            "name": "Solak&Partners Law Firm",
+            "link": "https://www.google.com/maps/search/Solak%26Partners+Law+Firm/@41.0809244,29.012741499999997?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Aselsun",
+            "link": "https://www.google.com/maps/search/Aselsun/@41.0518578,28.9922708?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": ""
+        },
+        {
+            "name": "Ansiklomedi",
+            "link": "https://www.google.com/maps/search/Ansiklomedi/@41.055034299999996,28.987250399999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": ""
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Solak LLP (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c9OY6F_3yf-Rj5JpTG_qNw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=116.48955&pitch=0&thumbfov=100",
+    "main_category": "Hukuk Hizmetleri",
+    "categories": [
+        "Hukuk Hizmetleri"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0534 588 21 67",
+    "address": "19 May\u0131s, Solak LLP, Halaskargazi Cd. NO: 233, 34360 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJHy_BrAS3yhQRoF_7BbtTeLI",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJHy_BrAS3yhQRoF_7BbtTeLI&q=?q=place_id:ChIJHy_BrAS3yhQRoF_7BbtTeLI&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.060832999999995,
+        "longitude": 28.988027499999998
+    },
+    "plus_code": "3X6Q+86 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "19 May\u0131s",
+        "street": "Halaskargazi Cd. NO: 233",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34360",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12860120798680801184",
+    "data_id": "0x14cab704acc12f1f:0xb27853bb05fb5fa0",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c9OY6F_3yf-Rj5JpTG_qNw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=116.48955&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c9OY6F_3yf-Rj5JpTG_qNw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=116.48955&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

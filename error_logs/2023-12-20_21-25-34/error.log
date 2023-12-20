@@ -1,0 +1,47 @@
+Traceback (most recent call last):
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/botasaurus/decorators.py", line 361, in run_task
+    result = func(driver, data)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper.py", line 148, in scrape_places_by_links
+    perform_visit(driver, search_link)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper_utils.py", line 26, in perform_visit
+    visit_gmap_with_consent()
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper_utils.py", line 6, in visit_gmap_with_consent
+    driver.organic_get(link, accept_cookies=True)
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/botasaurus/anti_detect_driver.py", line 323, in organic_get
+    self.get("https://www.google.com/")
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 441, in get
+    self.execute(Command.GET, {'url': url})
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 243, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=120.0.6099.109)
+Stacktrace:
+#0 0x5561106e1d33 <unknown>
+#1 0x55611039ef87 <unknown>
+#2 0x55611039697a <unknown>
+#3 0x556110385851 <unknown>
+#4 0x556110386ff0 <unknown>
+#5 0x556110385b04 <unknown>
+#6 0x556110384836 <unknown>
+#7 0x5561103846fa <unknown>
+#8 0x556110382a99 <unknown>
+#9 0x5561103832ca <unknown>
+#10 0x5561103a1e4e <unknown>
+#11 0x556110437a45 <unknown>
+#12 0x556110418342 <unknown>
+#13 0x556110437297 <unknown>
+#14 0x5561104180e3 <unknown>
+#15 0x5561103e0044 <unknown>
+#16 0x5561103e144e <unknown>
+#17 0x5561106a6861 <unknown>
+#18 0x5561106aa785 <unknown>
+#19 0x556110694285 <unknown>
+#20 0x5561106ab41f <unknown>
+#21 0x55611067820f <unknown>
+#22 0x5561106cf028 <unknown>
+#23 0x5561106cf1f7 <unknown>
+#24 0x5561106e0ed4 <unknown>
+#25 0x7fb09128f6ba <unknown>
+

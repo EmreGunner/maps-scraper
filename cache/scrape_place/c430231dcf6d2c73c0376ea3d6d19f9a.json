@@ -1,0 +1,168 @@
+{
+    "place_id": "ChIJ9YKfb3mPKBURMVBV87WOLWc",
+    "name": "BAYRAKTAR AVUKATLIK VE DANI\u015eMANLIK B\u00dcROSU",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "Avukat Y\u0131lmaz Emir",
+            "link": "https://www.google.com/maps/search/Avukat+Y%C4%B1lmaz+Emir/@36.9914938,35.327483?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Ba\u015faran \u015eahin Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ba%C5%9Faran+%C5%9Eahin+Hukuk+B%C3%BCrosu/@36.990521799999996,35.3179422?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Baysal Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Baysal+Hukuk+B%C3%BCrosu/@36.9913763,35.3281742?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Ba\u015faran Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ba%C5%9Faran+Hukuk+B%C3%BCrosu/@36.9913501,35.3282859?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Akarp\u0131nar Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Akarp%C4%B1nar+Hukuk+B%C3%BCrosu/@36.991285,35.3286908?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "111311986104218977117",
+        "name": "BAYRAKTAR AVUKATLIK VE DANI\u015eMANLIK B\u00dcROSU (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/111311986104218977117"
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "08:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0542 352 49 01",
+    "address": "BAYRAKTAR AVUKATLIK VE DANI\u015eMANLIK B\u00dcROSU, Kayal\u0131ba\u011f Mah. Turhan Cemal Beriker Bulv. No:11 Nazif Bayram \u0130\u015fm, K:5 D:20, 01010 Seyhan/Adana",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ9YKfb3mPKBURMVBV87WOLWc",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 08:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ9YKfb3mPKBURMVBV87WOLWc&q=?q=place_id:ChIJ9YKfb3mPKBURMVBV87WOLWc&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.991272699999996,
+        "longitude": 35.327861399999996
+    },
+    "plus_code": "X8RH+G4 Seyhan, Adana",
+    "detailed_address": {
+        "ward": "Kayal\u0131ba\u011f",
+        "street": "Kayal\u0131ba\u011f Mah. Turhan Cemal Beriker Bulv. No:11 Nazif Bayram \u0130\u015fm, K:5 D:20",
+        "city": "Seyhan",
+        "postal_code": "01010",
+        "state": "Adana",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "7434755471981236273",
+    "data_id": "0x15288f796f9f82f5:0x672d8eb5f3555031",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "\u00c7ok g\u00fczel bir \u015fekilde konu\u015fma yapt\u0131 ve bilgilendirme konusunda hak yemeyecek insanlar \u263a\ufe0f\ud83d\ude4foluruna konu\u015farak daha detayl\u0131 g\u00f6r\u00fc\u015fme yapt\u0131 \u263a\ufe0f\ud83d\ude4f",
+            "reviewer_name": "RAH\u0130ME YILMAZ (Mele\u011fim)",
+            "rating": 5,
+            "review_text": "\u00c7ok g\u00fczel bir \u015fekilde konu\u015fma yapt\u0131 ve bilgilendirme konusunda hak yemeyecek insanlar \u263a\ufe0f\ud83d\ude4foluruna konu\u015farak daha detayl\u0131 g\u00f6r\u00fc\u015fme yapt\u0131 \u263a\ufe0f\ud83d\ude4f",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-05-17T10:00:39.050000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 150,
+            "total_number_of_photos_by_reviewer": 127,
+            "reviewer_url": "https://www.google.com/maps/contrib/109007813202826644816/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXP70gmiGIff6fVVOLVFvfqDLRWjP7Y5GxbD796oDkDXDMC=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

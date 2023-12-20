@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJsYycO5DJyhQRR1I2H4yEyd4",
+    "name": "Ayg\u00fcn&\u015eeker Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Ayg\u00fcn Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ayg%C3%BCn+Hukuk+B%C3%BCrosu/@41.0353503,28.856074300000003?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ayg\u00fcn Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ayg%C3%BCn+Avukatl%C4%B1k+B%C3%BCrosu/@40.983504499999995,28.868599?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "KAYA&KAYA Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/KAYA%26KAYA+Hukuk+B%C3%BCrosu/@41.0218008,29.113711499999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuki \u0130\u015fler B\u00fcrosu"
+        },
+        {
+            "name": "AYG\u00dcL HUKUK",
+            "link": "https://www.google.com/maps/search/AYG%C3%9CL+HUKUK/@41.024775999999996,29.123442999999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Karag\u00fcl & Akg\u00fcl Hukuk Ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Karag%C3%BCl+%26+Akg%C3%BCl+Hukuk+Ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9194678,29.1787937?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Ayg\u00fcn&\u015eeker Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-lG94BmSetb6t4M0JkNOIA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=197.3008&pitch=0&thumbfov=100",
+    "main_category": "Kurumsal Ofis",
+    "categories": [
+        "Kurumsal Ofis"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Ayg\u00fcn&\u015eeker Hukuk B\u00fcrosu, 3317 Ada 5 Parsel Site Mahallesi, Finans Merkezi B\u00f6lgesi, 34770 \u00dcmraniye/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJsYycO5DJyhQRR1I2H4yEyd4",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJsYycO5DJyhQRR1I2H4yEyd4&q=?q=place_id:ChIJsYycO5DJyhQRR1I2H4yEyd4&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.004968999999996,
+        "longitude": 29.105293
+    },
+    "plus_code": "2434+X4 \u00dcmraniye, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Site",
+        "street": "3317 Ada 5 Parsel Site Mahallesi, Finans Merkezi B\u00f6lgesi",
+        "city": "\u00dcmraniye",
+        "postal_code": "34770",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16053508084092785223",
+    "data_id": "0x14cac9903b9c8cb1:0xdec9848c1f365247",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-lG94BmSetb6t4M0JkNOIA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=197.3008&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-lG94BmSetb6t4M0JkNOIA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=197.3008&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

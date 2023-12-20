@@ -1,0 +1,217 @@
+{
+    "place_id": "ChIJtz6b7hjLyhQR0JLgzcPeODU",
+    "name": "Beykoz Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": 3,
+    "competitors": [
+        {
+            "name": "\u015eent\u00fcrk Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C5%9Eent%C3%BCrk+Hukuk+B%C3%BCrosu/@41.134461,29.092198?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 4.3,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Nevin Burcu G\u00fcne\u015f",
+            "link": "https://www.google.com/maps/search/Avukat+Nevin+Burcu+G%C3%BCne%C5%9F/@41.1162948,29.0962848?authuser=0&entry=ttu",
+            "reviews": 30,
+            "rating": 4.9,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u00c7ELEN HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/%C3%87ELEN+HUKUK+B%C3%9CROSU/@41.093405,29.096771?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 3.7,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Arabulucu Erdal Demir",
+            "link": "https://www.google.com/maps/search/Avukat+Arabulucu+Erdal+Demir/@41.093788599999996,29.091928099999997?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Demir Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Demir+Hukuk+B%C3%BCrosu/@41.115424999999995,29.096384599999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "110263934094387540731",
+        "name": "Beykoz Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/110263934094387540731"
+    },
+    "featured_image": "//lh6.googleusercontent.com/Gu3RXdi2006_tL2t9j3oE0VpydsFejPshte144oRGjJigoJdmRGceQn3HENFZi7k=w426-h240-k-no",
+    "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti",
+    "categories": [
+        "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+    ],
+    "rating": 3.7,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 331 34 32",
+    "address": "G\u00fcm\u00fc\u015fsuyu, Beykoz Hukuk B\u00fcrosu, Fatin Hoca Sk. No:9 D:1, 34820 Beykoz/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJtz6b7hjLyhQR0JLgzcPeODU",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJtz6b7hjLyhQR0JLgzcPeODU&q=?q=place_id:ChIJtz6b7hjLyhQR0JLgzcPeODU&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.1260221,
+        "longitude": 29.1003021
+    },
+    "plus_code": "44G2+C4 Beykoz, \u0130stanbul",
+    "detailed_address": {
+        "ward": "G\u00fcm\u00fc\u015fsuyu",
+        "street": "Fatin Hoca Sk. No:9 D:1",
+        "city": "Beykoz",
+        "postal_code": "34820",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "3835060015260013264",
+    "data_id": "0x14cacb18ee9b3eb7:0x3538dec3cde092d0",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh6.googleusercontent.com/Gu3RXdi2006_tL2t9j3oE0VpydsFejPshte144oRGjJigoJdmRGceQn3HENFZi7k=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BrLH6HGWty0tAsJAwA5rTw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=17.865303&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "\u00c7ok ilgili ve deneyimli avukatlar\ud83d\udc4d hakk\u0131m\u0131z\u0131 sonuna kadar arad\u0131lar ve sonu\u00e7 lehimize sonu\u00e7land\u0131. Burdan te\u015fekk\u00fcr\u00fc bor\u00e7 bilirim \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+            "reviewer_name": "Nurgul Sahin",
+            "rating": 5,
+            "review_text": "\u00c7ok ilgili ve deneyimli avukatlar\ud83d\udc4d hakk\u0131m\u0131z\u0131 sonuna kadar arad\u0131lar ve sonu\u00e7 lehimize sonu\u00e7land\u0131. Burdan te\u015fekk\u00fcr\u00fc bor\u00e7 bilirim \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+            "published_at": "6 g\u00fcn \u00f6nce",
+            "published_at_date": "2023-12-14T11:46:15.655000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101982305484945240775/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocINntVLFmBsBZk7gDkr3CF_U8_6-iudIKcCJGXYisZX=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "ilgili ve tecr\u00fcbeli bir avukat \u00e7ok yard\u0131mc\u0131 oldu te\u015fekk\u00fcr ediyorum",
+            "reviewer_name": "Mine Deniz \u00d6z",
+            "rating": 5,
+            "review_text": "ilgili ve tecr\u00fcbeli bir avukat \u00e7ok yard\u0131mc\u0131 oldu te\u015fekk\u00fcr ediyorum",
+            "published_at": "6 g\u00fcn \u00f6nce",
+            "published_at_date": "2023-12-14T04:38:56.545000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110488991374308047302/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVOlS-XNoO0qOI7-VSJJrcWYS7WY036bNyrdfGYUIjSWA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Ahirette iki elim yakas\u0131nda olacak. Av. Seyit Usta'n\u0131n 20 y\u0131l \u00f6nce babama yani m\u00fcvekkiline yapt\u0131klar\u0131n\u0131 \u00e7ocuklar\u0131 olarak halen \u00e7ekmekteyiz. \"sonucu bekliyoruz\" diyerek bizi y\u0131llarca bekletti. Mahkeme sonucunu \u015f\u00fcphe \u00fczerine ara\u015ft\u0131ran abim sayesinde \u00f6\u011frendik. Kesinlikle tavsiye etmiyorum.",
+            "reviewer_name": "R\u0131dvan Ayan",
+            "rating": 1,
+            "review_text": "Ahirette iki elim yakas\u0131nda olacak. Av. Seyit Usta'n\u0131n 20 y\u0131l \u00f6nce babama yani m\u00fcvekkiline yapt\u0131klar\u0131n\u0131 \u00e7ocuklar\u0131 olarak halen \u00e7ekmekteyiz. \"sonucu bekliyoruz\" diyerek bizi y\u0131llarca bekletti. Mahkeme sonucunu \u015f\u00fcphe \u00fczerine ara\u015ft\u0131ran abim sayesinde \u00f6\u011frendik. Kesinlikle tavsiye etmiyorum.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-07-20T19:15:10.442000",
+            "response_from_owner_text": "Merhaba, R\u0131dvan bey.  Yorumunuzu yeni g\u00f6rd\u00fcm. Belirtti\u011finiz dosya 1999 senesinde aleyhe sonu\u00e7lanm\u0131\u015fsa da 2003 senesinde yapt\u0131\u011f\u0131m TEMY\u0130Z ba\u015fvurusu sonucunda karar baban\u0131z\u0131n lehine bozulmu\u015f ve bozma \u00fczerine yap\u0131lan yarg\u0131lama neticesinde yeniden karar verilmi\u015f ve davac\u0131n\u0131n davas\u0131 reddedilerek, lehimize Beykoz Sulh Hukuk Mahkemesinin 2003/595 E. say\u0131l\u0131 dosyas\u0131 ile karar verilmi\u015ftir. Karar Yarg\u0131tay a\u015famas\u0131ndan ge\u00e7erek kesinle\u015fmi\u015ftir. Ofise geldi\u011finiz takdirde karar\u0131 alabilirsiniz.\nSize 2002 y\u0131l\u0131nda bu durumu yani karar\u0131n hen\u00fcz kesinle\u015fmedi\u011fini, karar\u0131n tebli\u011f edilece\u011fini itiraz hakk\u0131m\u0131z oldu\u011funu  anlatmama ra\u011fmen bu yorumu yapman\u0131z mesleki onurumu zedeledi\u011fi gibi, ki\u015filik haklar\u0131ma sald\u0131r\u0131 niteli\u011findedir.\nYorumu 15 g\u00fcn i\u00e7erisinde kald\u0131rman\u0131z\u0131, aksi takdirde hakk\u0131n\u0131zda tazminat davas\u0131 a\u00e7aca\u011f\u0131m\u0131 bildiririm.\nAV. SEY\u0130T USTA",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-05-11T12:37:40.256000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 10,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113913649308256126075/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ21GtXZX4JVz0A-IfjOauzz1m33E7Y-xmGZCZET9Y4=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

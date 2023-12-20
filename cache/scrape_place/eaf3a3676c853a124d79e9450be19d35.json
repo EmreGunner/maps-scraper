@@ -1,0 +1,262 @@
+{
+    "place_id": "ChIJ7YZZPuG2yhQRgyIkuajMt9Y",
+    "name": "KMK Hukuk B\u00fcrosu - Av. Sefa KARCIO\u011eLU",
+    "description": null,
+    "reviews": 7,
+    "competitors": [
+        {
+            "name": "Avukat Cahit FAKHAN\u0130- \u0130stanbul | Ceza Avukat\u0131-Ka\u011f\u0131thane \u0130\u015f Avukat\u0131-Ka\u011f\u0131thane Sigorta Avukat\u0131-Kira Avukat\u0131",
+            "link": "https://www.google.com/maps/search/Avukat+Cahit+FAKHAN%C4%B0-+%C4%B0stanbul+%7C+Ceza+Avukat%C4%B1-Ka%C4%9F%C4%B1thane+%C4%B0%C5%9F+Avukat%C4%B1-Ka%C4%9F%C4%B1thane+Sigorta+Avukat%C4%B1-Kira+Avukat%C4%B1/@41.0750597,28.975628800000003?authuser=0&entry=ttu",
+            "reviews": 36,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AV.ARZU K\u00d6Z - \u0130STANBUL \u00c7A\u011eLAYAN AVUKATLIK",
+            "link": "https://www.google.com/maps/search/AV.ARZU+K%C3%96Z+-+%C4%B0STANBUL+%C3%87A%C4%9ELAYAN+AVUKATLIK/@41.070402,28.982680599999995?authuser=0&entry=ttu",
+            "reviews": 11,
+            "rating": 4.4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "KARAO\u011eLU AVUKATLIK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/KARAO%C4%9ELU+AVUKATLIK+B%C3%9CROSU/@41.0728685,28.980021299999997?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 2,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "KAHRAMAN",
+            "link": "https://www.google.com/maps/search/KAHRAMAN/@41.078330099999995,28.980517799999994?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "K\u00f6ro\u011flu Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/K%C3%B6ro%C4%9Flu+Hukuk+B%C3%BCrosu/@41.0726004,28.980406?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "KMK Hukuk B\u00fcrosu - Av. Sefa KARCIO\u011eLU (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ceZMnB2fkyNKvKndq2DnGQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=161.49248&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": 4.4,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 232 88 99",
+    "address": "KMK Hukuk B\u00fcrosu - Av. Sefa KARCIO\u011eLU, Vatan Cad. Avrasya \u0130\u015f Merkezi No:6 Kat 3 D.10-11 \u00c7a\u011flayan Ka\u011f\u0131thane, 34100",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ7YZZPuG2yhQRgyIkuajMt9Y",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 1,
+        "5": 5
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ7YZZPuG2yhQRgyIkuajMt9Y&q=?q=place_id:ChIJ7YZZPuG2yhQRgyIkuajMt9Y&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.071583499999996,
+        "longitude": 28.9803474
+    },
+    "plus_code": "3XCJ+J4 K\u00e2\u011f\u0131thane, \u0130stanbul",
+    "detailed_address": {
+        "ward": "\u00c7a\u011flayan",
+        "street": "Vatan Cad. Avrasya \u0130\u015f Merkezi No:6 Kat 3 D.10-11 \u00c7a\u011flayan Ka\u011f\u0131thane",
+        "city": "K\u00e2\u011f\u0131thane",
+        "postal_code": "34100",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "15472060069887353475",
+    "data_id": "0x14cab6e13e5986ed:0xd6b7cca8b9242283",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ceZMnB2fkyNKvKndq2DnGQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=161.49248&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ceZMnB2fkyNKvKndq2DnGQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=161.49248&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Sezgin Karaka\u015f",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "7 y\u0131l \u00f6nce",
+            "published_at_date": "2016-09-20T07:56:01.627000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 118,
+            "total_number_of_photos_by_reviewer": 161,
+            "reviewer_url": "https://www.google.com/maps/contrib/100036388628824022640/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKLRUzx1GmwZ59Mh4xmEzsrOnjjGcRx6Ux472C7izsZ=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Metin Baltao\u011flu",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-06-22T15:27:46.241000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113387431195837096709/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX36HDrCuu-MzdBR9mpUVyLIZFV-mW8FU1L2fuQfdkh26k=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "hakan turan",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-07-11T08:08:55.616000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/118116504409143790327/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJFSB9Cf2st-iJKN7sWd2Fptor8G2Ynj4m8N5RlJxrw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Ahmet Ta\u015f",
+            "rating": 2,
+            "review_text": null,
+            "published_at": "11 ay \u00f6nce",
+            "published_at_date": "2023-01-16T09:34:10.236000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 57,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101122910730809032633/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI9HjcQHxAP1E4Y67-D8AoinUKpyZM-MKJZ0SyQVyUB=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Metin Baltao\u011flu",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "6 y\u0131l \u00f6nce",
+            "published_at_date": "2017-06-27T22:06:57.907000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105739232886939312631/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK8w-7AsS9aGFJwXVYzc1vLsaPIzBrPKYDcz39re2hO=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "L\u00fctfiye KARCIO\u011eLU BATUR",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-08-20T06:20:48.394000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116942110260983569715/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXUr1xPfwMWZQArZC_u4b8BwGbpx8T5cnX4oCNc9R-L8Q=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "coskun oral",
+            "rating": 4,
+            "review_text": null,
+            "published_at": "7 y\u0131l \u00f6nce",
+            "published_at_date": "2016-12-20T12:02:44.749000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 24,
+            "reviewer_url": "https://www.google.com/maps/contrib/116618747205211664098/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXR8iNpwkEXTKOz22y8luXdFjT3pPcR8hkn0nCNKuV7Glk0=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

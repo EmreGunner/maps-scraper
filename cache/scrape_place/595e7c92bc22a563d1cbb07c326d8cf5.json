@@ -1,0 +1,114 @@
+{
+    "place_id": "ChIJD8lf2Vq7yhQRojv7fdq7ulg",
+    "name": "Avukat Salih Canpolat",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Canpolat Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Canpolat+Hukuk+B%C3%BCrosu/@40.9943581,28.873936699999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Av.Salih CANPOLAT Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Av.Salih+CANPOLAT+Avukatl%C4%B1k+B%C3%BCrosu/@41.0134541,28.9080655?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Parlak Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Parlak+Hukuk+B%C3%BCrosu/@40.994844,28.880920600000003?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 2.8,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Hukuk B\u00fcrosu Av. Selma Alt\u0131nsoy Solduk",
+            "link": "https://www.google.com/maps/search/Hukuk+B%C3%BCrosu+Av.+Selma+Alt%C4%B1nsoy+Solduk/@40.9925856,28.870538099999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Avukat Salih Canpolat (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ep6gcRup81Oj08NUBPW_gw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=314.96088&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Kartaltepe, Avukat Salih Canpolat, Ayd\u0131n Yuva Sk., 34145 Bak\u0131rk\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJD8lf2Vq7yhQRojv7fdq7ulg",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJD8lf2Vq7yhQRojv7fdq7ulg&q=?q=place_id:ChIJD8lf2Vq7yhQRojv7fdq7ulg&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.994347399999995,
+        "longitude": 28.8739088
+    },
+    "plus_code": "XVVF+PH Bak\u0131rk\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Kartaltepe",
+        "street": "Ayd\u0131n Yuva Sk.",
+        "city": "Bak\u0131rk\u00f6y",
+        "postal_code": "34145",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6393629168096721826",
+    "data_id": "0x14cabb5ad95fc90f:0x58babbda7dfb3ba2",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ep6gcRup81Oj08NUBPW_gw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=314.96088&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ep6gcRup81Oj08NUBPW_gw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=314.96088&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

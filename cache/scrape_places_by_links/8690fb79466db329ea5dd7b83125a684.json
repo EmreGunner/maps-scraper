@@ -1,0 +1,183 @@
+[
+    {
+        "place_id": "ChIJFZYA0Lq3yhQRqn09OV1V-p0",
+        "name": "Erbas Hukuk",
+        "description": null,
+        "reviews": null,
+        "competitors": [
+            {
+                "name": "Av.Esra Bas Erbas",
+                "link": "https://www.google.com/maps/search/Av.Esra+Ba%C5%9F+Erba%C5%9F/@41.0392331,28.9841172?authuser=0&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Avukat"
+            },
+            {
+                "name": "LIBRA HUKUK & DANISMANLIK",
+                "link": "https://www.google.com/maps/search/L%C4%B0BRA+HUKUK+%26+DANI%C5%9EMANLIK/@41.06466100000001,28.987287000000002?authuser=0&entry=ttu",
+                "reviews": 9,
+                "rating": 5,
+                "main_category": "Hukuk Burosu"
+            },
+            {
+                "name": "BENER",
+                "link": "https://www.google.com/maps/search/BENER/@41.0559152,29.0186731?authuser=0&entry=ttu",
+                "reviews": 7,
+                "rating": 4.3,
+                "main_category": "Hukuk Hizmetleri"
+            },
+            {
+                "name": "Seba Law Advocate",
+                "link": "https://www.google.com/maps/search/Seba+Law+Advocate/@41.070475099999996,29.0138712?authuser=0&entry=ttu",
+                "reviews": 3,
+                "rating": 4.7,
+                "main_category": "Hukuk Burosu"
+            },
+            {
+                "name": "Belit Avukatlik Burosu",
+                "link": "https://www.google.com/maps/search/Belit+Avukatl%C4%B1k+B%C3%BCrosu/@41.056799,29.010215?authuser=0&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Hukuk Burosu"
+            }
+        ],
+        "website": "https://erbaslaw.com/",
+        "owner": {
+            "id": "111312839884925374602",
+            "name": "Erbas Hukuk (Sahibi)",
+            "link": "https://www.google.com/maps/contrib/111312839884925374602"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oKoFxiSHjmAJ3rRlDMo9wA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=254.21567&pitch=0&thumbfov=100",
+        "main_category": "Avukat",
+        "categories": [
+            "Avukat"
+        ],
+        "rating": null,
+        "workday_timing": "09:00-18:00",
+        "closed_on": [
+            "Cumartesi",
+            "Pazar"
+        ],
+        "phone": "0537 292 49 15",
+        "address": "Esentepe, Erbas Hukuk, Kore Sehitleri Cd. DENIZ IS HANI NO:34 IC KAPI NO:2, 34394 Sisli/Istanbul",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/?q=place_id:ChIJFZYA0Lq3yhQRqn09OV1V-p0",
+        "status": "Acik  Kapanis saati: 18:00",
+        "price_range": null,
+        "reviews_per_rating": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null
+        },
+        "featured_question": null,
+        "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJFZYA0Lq3yhQRqn09OV1V-p0&q=?q=place_id:ChIJFZYA0Lq3yhQRqn09OV1V-p0&authuser=0&hl=en&gl=TR",
+        "coordinates": {
+            "latitude": 41.0714231,
+            "longitude": 29.011493599999998
+        },
+        "plus_code": "32C6+HH Sisli, Istanbul",
+        "detailed_address": {
+            "ward": "Esentepe",
+            "street": "Kore Sehitleri Cd. DENIZ IS HANI NO:34 IC KAPI NO:2",
+            "city": "Sisli",
+            "postal_code": "34394",
+            "state": "Istanbul",
+            "country_code": "TR"
+        },
+        "time_zone": "Europe/Istanbul",
+        "cid": "11383504867013000618",
+        "data_id": "0x14cab7bad0009615:0x9dfa555d393d7daa",
+        "menu": {
+            "link": null,
+            "source": null
+        },
+        "reservations": [],
+        "order_online_links": [],
+        "about": [
+            {
+                "id": "service_options",
+                "name": "Hizmet secenekleri",
+                "options": [
+                    {
+                        "name": "Online randevu",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "id": "amenities",
+                "name": "Sunulan olanaklar",
+                "options": [
+                    {
+                        "name": "Tuvalet",
+                        "enabled": true
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "about": "Tumu",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oKoFxiSHjmAJ3rRlDMo9wA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=254.21567&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Sahibinin sectikleri",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMum0t8GP5YvBMVNWnIOBz6NCxIl5fsVhcSQ8AG=w224-h298-k-no"
+            },
+            {
+                "about": "Street View ve 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oKoFxiSHjmAJ3rRlDMo9wA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=254.21567&pitch=0&thumbfov=100"
+            }
+        ],
+        "hours": [
+            {
+                "day": "Pazartesi",
+                "times": [
+                    "09:00-18:00"
+                ]
+            },
+            {
+                "day": "Sali",
+                "times": [
+                    "09:00-18:00"
+                ]
+            },
+            {
+                "day": "Carsamba",
+                "times": [
+                    "09:00-18:00"
+                ]
+            },
+            {
+                "day": "Persembe",
+                "times": [
+                    "09:00-18:00"
+                ]
+            },
+            {
+                "day": "Cuma",
+                "times": [
+                    "09:00-18:00"
+                ]
+            },
+            {
+                "day": "Cumartesi",
+                "times": [
+                    "Kapali"
+                ]
+            },
+            {
+                "day": "Pazar",
+                "times": [
+                    "Kapali"
+                ]
+            }
+        ],
+        "most_popular_times": "Not Present",
+        "popular_times": "Not Present",
+        "featured_reviews": [],
+        "is_spending_on_ads": false
+    }
+]

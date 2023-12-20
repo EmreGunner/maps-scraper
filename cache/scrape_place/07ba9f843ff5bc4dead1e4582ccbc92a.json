@@ -1,0 +1,134 @@
+{
+    "place_id": "ChIJAeG_cgfDJRURA-kEW74hMG8",
+    "name": "Naim Ayd\u0131n Muhasebe",
+    "description": null,
+    "reviews": null,
+    "competitors": [],
+    "website": null,
+    "owner": {
+        "id": "108375452852189382512",
+        "name": "Naim Ayd\u0131n Muhasebe (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/108375452852189382512"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNggKP9skZ-tTxiD85ZoVKRIM4Dx-PsvVBpYWF0=w408-h306-k-no",
+    "main_category": "Serbest Muhasebeci Mali M\u00fc\u015favir",
+    "categories": [
+        "Serbest Muhasebeci Mali M\u00fc\u015favir"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201317:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0533 159 32 62",
+    "address": "Ekinci, Naim Ayd\u0131n Muhasebe, Ayd\u0131n Sokak No: 2, 31180 Antakya/Hatay",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJAeG_cgfDJRURA-kEW74hMG8",
+    "status": "Kapal\u0131 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAeG_cgfDJRURA-kEW74hMG8&q=?q=place_id:ChIJAeG_cgfDJRURA-kEW74hMG8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.24469,
+        "longitude": 36.1409428
+    },
+    "plus_code": "64VR+V9 Antakya, Hatay",
+    "detailed_address": {
+        "ward": "Ekinci",
+        "street": "Ayd\u0131n Sokak No: 2",
+        "city": "Antakya",
+        "postal_code": "31180",
+        "state": "Hatay",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "8011940838546663683",
+    "data_id": "0x1525c30772bfe101:0x6f3021be5b04e903",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNggKP9skZ-tTxiD85ZoVKRIM4Dx-PsvVBpYWF0=w397-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOll-u2zkIn0OHvvgV40trNHaXXlCR7exXJiDbn=w397-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tMrCCjfhGN0u3y45C9mILw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=322.60663&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201314:30"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,121 @@
+{
+    "place_id": "ChIJ2x7I24KFKBURzA6Cih31sRE",
+    "name": "Yavuz Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Ege Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ege+Hukuk+B%C3%BCrosu/@37.00093520000001,35.3211127?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Av. \u00d6mer ACAR",
+            "link": "https://www.google.com/maps/search/Av.+%C3%96mer+ACAR/@36.991573599999995,35.3271741?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Bilge Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Bilge+Hukuk+B%C3%BCrosu/@36.9986799,35.3260404?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Adana Avukatlar ve Hukuk B\u00fcrolar\u0131 Rehberi",
+            "link": "https://www.google.com/maps/search/Adana+Avukatlar+ve+Hukuk+B%C3%BCrolar%C4%B1+Rehberi/@36.9671707,35.3451291?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Adana Yak\u0131n Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Adana+Yak%C4%B1n+Hukuk+B%C3%BCrosu/@36.9922706,35.3170897?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.firmasec.com/firma/ycykrc-yavuz-hukuk-burosu/",
+    "owner": {
+        "id": null,
+        "name": "Yavuz Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mj0AfPaajWg_s1C8J-AyxQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=29.834898&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Re\u015fatbey, Yavuz Hukuk B\u00fcrosu, 404. Sk. No:04 D:04, 01280 Seyhan/Adana",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ2x7I24KFKBURzA6Cih31sRE",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ2x7I24KFKBURzA6Cih31sRE&q=?q=place_id:ChIJ2x7I24KFKBURzA6Cih31sRE&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.9673964,
+        "longitude": 35.3443046
+    },
+    "plus_code": "X88V+XP Seyhan, Adana",
+    "detailed_address": {
+        "ward": "Re\u015fatbey",
+        "street": "404. Sk. No:04 D:04",
+        "city": "Seyhan",
+        "postal_code": "01280",
+        "state": "Adana",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "1275069676749197004",
+    "data_id": "0x15288582dbc81edb:0x11b1f51d8a820ecc",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mj0AfPaajWg_s1C8J-AyxQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=29.834898&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mj0AfPaajWg_s1C8J-AyxQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=29.834898&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

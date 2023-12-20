@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJG1m9AWO3yhQRO9k_vHobsBE",
+    "name": "KARACULA HUKUK & DANI\u015eMANLIK",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "legal hasar dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/legal+hasar+dan%C4%B1%C5%9Fmanl%C4%B1k/@41.033969,28.983421999999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Halil Hatip",
+            "link": "https://www.google.com/maps/search/Avukat+Halil+Hatip/@41.034981599999995,28.984848099999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Bilici Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Bilici+Hukuk+B%C3%BCrosu/@41.0331103,28.984002199999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Aydemir Hukuk Ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Aydemir+Hukuk+Ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@41.032009599999995,28.985155700000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "NANO HUKUK",
+            "link": "https://www.google.com/maps/search/NANO+HUKUK/@41.032009599999995,28.985155700000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": "http://karaculahukuk.com/",
+    "owner": {
+        "id": null,
+        "name": "KARACULA HUKUK & DANI\u015eMANLIK (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=REjXhZu_Q2Nbo9lpw35sJg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=295.42404&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 706 99 05",
+    "address": "Cihangir, KARACULA HUKUK & DANI\u015eMANLIK, Havyar Sk. No:43, 34433 Beyo\u011flu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJG1m9AWO3yhQRO9k_vHobsBE",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJG1m9AWO3yhQRO9k_vHobsBE&q=?q=place_id:ChIJG1m9AWO3yhQRO9k_vHobsBE&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.032009599999995,
+        "longitude": 28.9851557
+    },
+    "plus_code": "2XJP+R3 Beyo\u011flu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Cihangir",
+        "street": "Havyar Sk. No:43",
+        "city": "Beyo\u011flu",
+        "postal_code": "34433",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "1274548908504111419",
+    "data_id": "0x14cab76301bd591b:0x11b01b7abc3fd93b",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=REjXhZu_Q2Nbo9lpw35sJg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=295.42404&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=REjXhZu_Q2Nbo9lpw35sJg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=295.42404&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

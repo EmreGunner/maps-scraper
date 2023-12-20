@@ -1,0 +1,320 @@
+{
+    "place_id": "ChIJf3AdqnrEyhQRCrYAOh4AAyU",
+    "name": "Ekoteknik \u0130sg \u0130\u015f Sa\u011fl\u0131g\u0131 G\u00fcvenli\u011fi ve \u00c7evre Hizmetleri",
+    "description": null,
+    "reviews": 11,
+    "competitors": [
+        {
+            "name": "\u00dc\u00e7el \u0130\u015f G\u00fcvenli\u011fi Sa\u011fl\u0131\u011f\u0131 E\u011fitim Hizmetleri",
+            "link": "https://www.google.com/maps/search/%C3%9C%C3%A7el+%C4%B0%C5%9F+G%C3%BCvenli%C4%9Fi+Sa%C4%9Fl%C4%B1%C4%9F%C4%B1+E%C4%9Fitim+Hizmetleri/@40.9123314,29.1739059?authuser=0&entry=ttu",
+            "reviews": 15,
+            "rating": 5,
+            "main_category": "\u0130\u015f G\u00fcvenli\u011fi ve Sa\u011fl\u0131\u011f\u0131"
+        },
+        {
+            "name": "Kartal \u0130\u015f G\u00fcvenli\u011fi",
+            "link": "https://www.google.com/maps/search/Kartal+%C4%B0%C5%9F+G%C3%BCvenli%C4%9Fi/@40.888177,29.191160999999994?authuser=0&entry=ttu",
+            "reviews": 11,
+            "rating": 4.5,
+            "main_category": "\u0130\u015f G\u00fcvenli\u011fi ve Sa\u011fl\u0131\u011f\u0131"
+        },
+        {
+            "name": "EKOGLOBAL OSGB",
+            "link": "https://www.google.com/maps/search/EKOGLOBAL+OSGB/@40.9124026,29.173947199999997?authuser=0&entry=ttu",
+            "reviews": 10,
+            "rating": 1.8,
+            "main_category": "T\u0131bbi Cihaz Tedarik\u00e7isi"
+        },
+        {
+            "name": "Yol OSGB \u0130\u015f G\u00fcvenli\u011fi",
+            "link": "https://www.google.com/maps/search/Yol+OSGB+%C4%B0%C5%9F+G%C3%BCvenli%C4%9Fi/@40.905237299999996,29.1757677?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "\u0130\u015f G\u00fcvenli\u011fi ve Sa\u011fl\u0131\u011f\u0131"
+        },
+        {
+            "name": "Bat\u0131 Moment OSGB",
+            "link": "https://www.google.com/maps/search/Bat%C4%B1+Moment+OSGB/@40.912419799999995,29.1740149?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 3.3,
+            "main_category": "Kurumsal Ofis"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "109120915587764133971",
+        "name": "Ekoteknik \u0130sg \u0130\u015f Sa\u011fl\u0131g\u0131 G\u00fcvenli\u011fi ve \u00c7evre Hizmetleri (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/109120915587764133971"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=g56OZzfQsU-kvU89tTAaew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=292.62592&pitch=0&thumbfov=100",
+    "main_category": "\u00c7evre Dan\u0131\u015fman\u0131",
+    "categories": [
+        "\u00c7evre Dan\u0131\u015fman\u0131",
+        "Yang\u0131ndan Korunma Dan\u0131\u015fman\u0131",
+        "\u0130nsan Kaynaklar\u0131 Dan\u0131\u015fma \u015eirketi",
+        "\u0130\u015f\u00e7i Sa\u011fl\u0131\u011f\u0131 Hizmeti",
+        "\u0130\u015f G\u00fcvenli\u011fi ve Sa\u011fl\u0131\u011f\u0131"
+    ],
+    "rating": 2.1,
+    "workday_timing": "08:30\u201317:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0216) 457 61 11",
+    "address": "Cevizli, Ekoteknik \u0130sg \u0130\u015f Sa\u011fl\u0131g\u0131 G\u00fcvenli\u011fi ve \u00c7evre Hizmetleri, Avukatlar Sk. No:2, 34865 Kartal/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJf3AdqnrEyhQRCrYAOh4AAyU",
+    "status": "Kapanmak \u00fczere \u22c5 17:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Per 08:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 6,
+        "2": 1,
+        "3": 2,
+        "4": 1,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJf3AdqnrEyhQRCrYAOh4AAyU&q=?q=place_id:ChIJf3AdqnrEyhQRCrYAOh4AAyU&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9124147,
+        "longitude": 29.174005899999997
+    },
+    "plus_code": "W56F+XJ Kartal, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Cevizli",
+        "street": "Avukatlar Sk. No:2",
+        "city": "Kartal",
+        "postal_code": "34865",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2666975534155609610",
+    "data_id": "0x14cac47aaa1d707f:0x2503001e3a00b60a",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=g56OZzfQsU-kvU89tTAaew&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=292.62592&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=g56OZzfQsU-kvU89tTAaew&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=292.62592&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "08:30\u201312:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "\u00c7ok berbat bir yer. Telefonda arad\u0131m sordum 50\u20ba dediler. Gitti\u011fimde 80\u20ba \u00f6deme \u00e7\u0131kartt\u0131lar. Doktor desen 1 tane bekle allah bekle. Ayr\u0131ca doktor argo konu\u015fuyor. \u00c7ok rahats\u0131z oldum. Sa\u011fl\u0131k raporu alaca\u011f\u0131m firman\u0131n hatas\u0131 olmas\u0131na ra\u011fmen yar\u0131m saat orda bana ba\u011f\u0131rd\u0131 \u00e7a\u011f\u0131rd\u0131. Bide bidaha gelme diyor. Zaten bir daha gelirsem oraya akl\u0131mdan \u015f\u00fcphe ederim. Paramla rezil oldum",
+            "reviewer_name": "ONUR AHISKALI",
+            "rating": 1,
+            "review_text": "\u00c7ok berbat bir yer. Telefonda arad\u0131m sordum 50\u20ba dediler. Gitti\u011fimde 80\u20ba \u00f6deme \u00e7\u0131kartt\u0131lar. Doktor desen 1 tane bekle allah bekle. Ayr\u0131ca doktor argo konu\u015fuyor. \u00c7ok rahats\u0131z oldum. Sa\u011fl\u0131k raporu alaca\u011f\u0131m firman\u0131n hatas\u0131 olmas\u0131na ra\u011fmen yar\u0131m saat orda bana ba\u011f\u0131rd\u0131 \u00e7a\u011f\u0131rd\u0131. Bide bidaha gelme diyor. Zaten bir daha gelirsem oraya akl\u0131mdan \u015f\u00fcphe ederim. Paramla rezil oldum",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-08-20T10:59:31.951000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114145195127894061992/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVWg-DqmrFEdaQjCuyJTJsuuK9dLuyz0Y7vzQhpj-XMA2M=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Berbat bir mekan. Her g\u00fcn s\u0131ra var, i\u015flemler \u00e7ok yava\u015f. Pandemi d\u00f6neminde 30 metrekare bir odaya 30 ki\u015fi s\u0131\u011fd\u0131r\u0131yorlar.",
+            "reviewer_name": "Umut Bulut",
+            "rating": 1,
+            "review_text": "Berbat bir mekan. Her g\u00fcn s\u0131ra var, i\u015flemler \u00e7ok yava\u015f. Pandemi d\u00f6neminde 30 metrekare bir odaya 30 ki\u015fi s\u0131\u011fd\u0131r\u0131yorlar.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-07-27T07:50:24.073000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114300244406733358437/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXbQ4pZo2gNhJWKNznJi_mUwA3J9rKDZhbVQMSKHbStFwI=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Gayet h\u0131zl\u0131 ve seri bir \u015fekilde yapt\u0131m i\u015flemleri, 100 lira bir maliyeti oldu. Yorumlara kat\u0131lm\u0131yorum \u00f6zellikle Mert \u00c7orlu denilen arkada\u015fa.",
+            "reviewer_name": "A. Murat",
+            "rating": 4,
+            "review_text": "Gayet h\u0131zl\u0131 ve seri bir \u015fekilde yapt\u0131m i\u015flemleri, 100 lira bir maliyeti oldu. Yorumlara kat\u0131lm\u0131yorum \u00f6zellikle Mert \u00c7orlu denilen arkada\u015fa.",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-02-17T20:34:02.473000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 11,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101459271386230039002/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUgaXdTiDqTtvyPrLA4tGyk-ijyIuwT_IrXnuqIwanfQSA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "1 y\u0131ld\u0131z vermek bile fazla.\u0130\u015f ba\u015fvurusu i\u00e7in ucuz diye muayne olmaya geldik ke\u015fke 10-20tl fazla verip ba\u015fka bi yere gitseydim rezalet bi yer.",
+            "reviewer_name": "Osman Tun\u00e7",
+            "rating": 1,
+            "review_text": "1 y\u0131ld\u0131z vermek bile fazla.\u0130\u015f ba\u015fvurusu i\u00e7in ucuz diye muayne olmaya geldik ke\u015fke 10-20tl fazla verip ba\u015fka bi yere gitseydim rezalet bi yer.",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-06-24T07:59:40.431000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 94,
+            "total_number_of_photos_by_reviewer": 49,
+            "reviewer_url": "https://www.google.com/maps/contrib/113868836512306477422/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV5a2OIaWn7ydPjk8ejWGowYgjIPle2eZm8iPuDBwNajHKl=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "B\u00fct\u00fcn \u00e7al\u0131\u015fanlar\u0131n\u0131n ukal\u00e2 oldu\u011fu kimsenin yard\u0131mc\u0131 olmad\u0131\u011f\u0131 ve sadece 1 doktorun bulundu\u011fu ula\u015f\u0131lmas\u0131 g\u00fc\u00e7 berbat rezalet \u00f6tesi bir yer..",
+            "reviewer_name": "Huseyin Sumeroglu",
+            "rating": 1,
+            "review_text": "B\u00fct\u00fcn \u00e7al\u0131\u015fanlar\u0131n\u0131n ukal\u00e2 oldu\u011fu kimsenin yard\u0131mc\u0131 olmad\u0131\u011f\u0131 ve sadece 1 doktorun bulundu\u011fu ula\u015f\u0131lmas\u0131 g\u00fc\u00e7 berbat rezalet \u00f6tesi bir yer..",
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-12-10T13:16:42.006000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 29,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/108647980458391125156/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVHJQHDNqmYqW4WQHuxkVCL2q0MMDRKXvwVa4JsyCXwK2g=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Sadece bir tane doktor var, saatlerce sonu\u00e7 bekliyorsunuz.",
+            "reviewer_name": "Mert \u00c7.",
+            "rating": 1,
+            "review_text": "Sadece bir tane doktor var, saatlerce sonu\u00e7 bekliyorsunuz.",
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-04-24T15:13:36.461000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 39,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111266816023784777352/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWh89NXccc7xhQ2jjUvbkn7lRdZ71pAINBrbKQWGh4AovE=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Bune abi ya 1 tane doktor mu olur sistem cok a\u011f\u0131r",
+            "reviewer_name": "EREN YILDIZ",
+            "rating": 1,
+            "review_text": "Bune abi ya 1 tane doktor mu olur sistem cok a\u011f\u0131r",
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-10-01T08:34:07.833000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109870199849695846983/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWN-6zpF_mPbTFyHvIWYuiop53EESkkgjqmM2QCVdI5W60=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Saat 8:30 de\u011fil 9'da a\u00e7\u0131l\u0131yor",
+            "reviewer_name": "You Tube",
+            "rating": 2,
+            "review_text": "Saat 8:30 de\u011fil 9'da a\u00e7\u0131l\u0131yor",
+            "published_at": "6 y\u0131l \u00f6nce",
+            "published_at_date": "2017-03-14T05:20:37.053000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104035786657410491498/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUMzT7TCrca8hVqwu_jEonPX6-YL4lZkFoy9WpRq_R025Rw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

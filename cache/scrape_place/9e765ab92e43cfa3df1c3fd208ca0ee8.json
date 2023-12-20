@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJK_NdRpXZuxQR24S4wUzBZSA",
+    "name": "Gencoglu hukuk burosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Geng\u00f6r & Geng\u00f6r",
+            "link": "https://www.google.com/maps/search/Geng%C3%B6r+%26+Geng%C3%B6r/@38.4336425,27.1405924?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Kalelio\u011flu Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kalelio%C4%9Flu+Hukuk+B%C3%BCrosu/@38.4382504,27.143707799999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Co\u015fkun Avc\u0131o\u011flu",
+            "link": "https://www.google.com/maps/search/Avukat+Co%C5%9Fkun+Avc%C4%B1o%C4%9Flu/@38.4397413,27.1442962?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Bak\u0131rc\u0131o\u011flu Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Bak%C4%B1rc%C4%B1o%C4%9Flu+Hukuk+B%C3%BCrosu/@38.434668,27.1435054?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Yaz\u0131ba\u011fl\u0131 Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Yaz%C4%B1ba%C4%9Fl%C4%B1+Avukatl%C4%B1k+B%C3%BCrosu/@38.438441,27.144726?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 4.9,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Gencoglu hukuk burosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZxcmCcN2H7Z4RpsnYM3R7w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=318.65732&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Alsancak, Gencoglu hukuk burosu, 1456. Sk., 35220 Konak/\u0130zmir",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJK_NdRpXZuxQR24S4wUzBZSA",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJK_NdRpXZuxQR24S4wUzBZSA&q=?q=place_id:ChIJK_NdRpXZuxQR24S4wUzBZSA&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 38.4389742,
+        "longitude": 27.1445965
+    },
+    "plus_code": "C4QV+HR Konak, \u0130zmir",
+    "detailed_address": {
+        "ward": "Alsancak",
+        "street": "1456. Sk.",
+        "city": "Konak",
+        "postal_code": "35220",
+        "state": "\u0130zmir",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2334484517273240795",
+    "data_id": "0x14bbd995465df32b:0x2065c14cc1b884db",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZxcmCcN2H7Z4RpsnYM3R7w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=318.65732&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZxcmCcN2H7Z4RpsnYM3R7w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=318.65732&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

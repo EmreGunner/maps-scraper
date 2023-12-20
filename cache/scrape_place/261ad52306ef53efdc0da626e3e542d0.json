@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJpw9oI6K8yhQRd9EAlXCA1co",
+    "name": "AKCADOGAN LAW OFFICE",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "AV. AHMED BAHADIR AKDO\u011eAN HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/AV.+AHMED+BAHADIR+AKDO%C4%9EAN+HUKUK+B%C3%9CROSU/@41.072997099999995,28.250998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ak\u00e7ada\u011f Hukuk",
+            "link": "https://www.google.com/maps/search/Ak%C3%A7ada%C4%9F+Hukuk/@41.0736602,28.982959?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Akol Law",
+            "link": "https://www.google.com/maps/search/Akol+Law/@41.0780473,29.0105306?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 4.3,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Baran Hukuk B\u00fcrosu-Avk.\u0130lhan BARAN",
+            "link": "https://www.google.com/maps/search/Baran+Hukuk+B%C3%BCrosu-Avk.%C4%B0lhan+BARAN/@40.9800701,28.722846799999996?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 2,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Halit LA\u00c7\u0130N Hukuk & Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Avukat+Halit+LA%C3%87%C4%B0N+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@40.9796468,28.722647?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://akcadoganlaw.com/",
+    "owner": {
+        "id": null,
+        "name": "AKCADOGAN LAW OFFICE (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XSv5H-3AnR11bgbAyOJM5A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=137.83197&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 688 08 88",
+    "address": "Tahtakale, AKCADOGAN LAW OFFICE, \u0130stanbul Cd. No:96/1 D:3, 34142 Avc\u0131lar/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJpw9oI6K8yhQRd9EAlXCA1co",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJpw9oI6K8yhQRd9EAlXCA1co&q=?q=place_id:ChIJpw9oI6K8yhQRd9EAlXCA1co&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.978712,
+        "longitude": 28.881209
+    },
+    "plus_code": "XVHJ+FF Avc\u0131lar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Tahtakale",
+        "street": "\u0130stanbul Cd. No:96/1 D:3",
+        "city": "Avc\u0131lar",
+        "postal_code": "34142",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "14615729386725364087",
+    "data_id": "0x14cabca223680fa7:0xcad580709500d177",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XSv5H-3AnR11bgbAyOJM5A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=137.83197&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XSv5H-3AnR11bgbAyOJM5A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=137.83197&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,159 @@
+{
+    "place_id": "ChIJ1-kki1C2yhQRvvLhbMz9n8A",
+    "name": "ODDAHUKUK",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "YK Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/YK+Hukuk+B%C3%BCrosu/@41.069052899999996,29.012088000000002?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 3.7,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6zdo\u011fru Hukuk",
+            "link": "https://www.google.com/maps/search/%C3%96zdo%C4%9Fru+Hukuk/@41.072204,29.013339?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Didari Hukuk",
+            "link": "https://www.google.com/maps/search/Didari+Hukuk/@41.071656,29.013724199999995?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "YGO Hukuk",
+            "link": "https://www.google.com/maps/search/YGO+Hukuk/@41.048685,28.991988000000003?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Do\u011fruyol & Soydemir",
+            "link": "https://www.google.com/maps/search/Do%C4%9Fruyol+%26+Soydemir/@41.067094999999995,29.0028856?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": "http://oddahukuk.com/",
+    "owner": {
+        "id": "102554962328157259789",
+        "name": "ODDAHUKUK (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/102554962328157259789"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2I10KcpY5-iwgQae4XUjaw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=6.505992&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0212) 706 01 61",
+    "address": "Esentepe, ODDAHUKUK, ARYA PLAZA, Keskin Kalem Sok. No: 17/2, 34394 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ1-kki1C2yhQRvvLhbMz9n8A",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1-kki1C2yhQRvvLhbMz9n8A&q=?q=place_id:ChIJ1-kki1C2yhQRvvLhbMz9n8A&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0685352,
+        "longitude": 29.0079446
+    },
+    "plus_code": "3295+C5 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Esentepe",
+        "street": "ARYA PLAZA, Keskin Kalem Sok. No: 17/2",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34394",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "13880091631021060798",
+    "data_id": "0x14cab6508b24e9d7:0xc09ffdcc6ce1f2be",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2I10KcpY5-iwgQae4XUjaw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=6.505992&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO0SGJ7LqWXRziLJCBbsDynmFMVxuzl3eaNdoyT=w298-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2I10KcpY5-iwgQae4XUjaw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=6.505992&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

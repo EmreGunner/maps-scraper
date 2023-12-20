@@ -1,0 +1,114 @@
+{
+    "place_id": "ChIJwUDZVzLCJRURCbUVFBnDnJI",
+    "name": "Avukat Naci Akar",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Avukat Derya Ece Katay\u0131f\u00e7\u0131-Avukat Nida I\u015f\u0131l Duman (Kaday\u0131f\u00e7\u0131)",
+            "link": "https://www.google.com/maps/search/Avukat+Derya+Ece+Katay%C4%B1f%C3%A7%C4%B1-Avukat+Nida+I%C5%9F%C4%B1l+Duman+%28Kaday%C4%B1f%C3%A7%C4%B1%29/@36.2035712,36.1600761?authuser=0&entry=ttu",
+            "reviews": 10,
+            "rating": 4.5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Avukat Mert Beyaz",
+            "link": "https://www.google.com/maps/search/Avukat+Mert+Beyaz/@36.204323599999995,36.1604544?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ATA HUKUK VE AVUKATLIK B\u00dcROSU | ANTAKYA AVUKAT | CEZA AVUKAT| AVUKAT | HATAY AVUKAT",
+            "link": "https://www.google.com/maps/search/ATA+HUKUK+VE+AVUKATLIK+B%C3%9CROSU+%7C+ANTAKYA+AVUKAT+%7C+CEZA+AVUKAT%7C+AVUKAT+%7C+HATAY+AVUKAT/@36.2211509,36.1423486?authuser=0&entry=ttu",
+            "reviews": 166,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Mahmut \u015eahin",
+            "link": "https://www.google.com/maps/search/Avukat+Mahmut+%C5%9Eahin/@36.2118842,36.1541025?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 2,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Avukat Naci Akar (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=G-PgWpyF5TvHY37Doa5wXw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=51.242756&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0326) 216 33 06",
+    "address": "Meydan, Avukat Naci Akar, \u0130stiklal Cad. Adal\u0131 Pasaj\u0131 D:12, 31060 Antakya/Hatay",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJwUDZVzLCJRURCbUVFBnDnJI",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJwUDZVzLCJRURCbUVFBnDnJI&q=?q=place_id:ChIJwUDZVzLCJRURCbUVFBnDnJI&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.205287,
+        "longitude": 36.163255
+    },
+    "plus_code": null,
+    "detailed_address": {
+        "ward": "Meydan",
+        "street": "\u0130stiklal Cad. Adal\u0131 Pasaj\u0131 D:12",
+        "city": "Antakya",
+        "postal_code": "31060",
+        "state": "Hatay",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10564533338382906633",
+    "data_id": "0x1525c23257d940c1:0x929cc3191415b509",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=G-PgWpyF5TvHY37Doa5wXw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=51.242756&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=G-PgWpyF5TvHY37Doa5wXw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=51.242756&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

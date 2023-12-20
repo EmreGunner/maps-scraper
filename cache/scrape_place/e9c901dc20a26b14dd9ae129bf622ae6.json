@@ -1,0 +1,185 @@
+{
+    "place_id": "ChIJEZI13prFyhQRzmB2JZhidl0",
+    "name": "ACTUPERITUM Akt\u00fcerya Dan\u0131\u015fmanl\u0131k",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Peritum Hukuk Ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Peritum+Hukuk+Ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.8810223,29.215262499999998?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00c7al\u0131m & Akal\u0131n Hukuk B\u00fcrosu - Av. \u00d6mer Can AKALIN & Av. \u00d6zge \u00c7ALIM",
+            "link": "https://www.google.com/maps/search/%C3%87al%C4%B1m+%26+Akal%C4%B1n+Hukuk+B%C3%BCrosu+-+Av.+%C3%96mer+Can+AKALIN+%26+Av.+%C3%96zge+%C3%87ALIM/@40.907266299999996,29.177839299999995?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Av. Hacer KUTAY \u00d6RT\u00dcL KUTAY Hukuk&Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Av.+Hacer+KUTAY+%C3%96RT%C3%9CL+KUTAY+Hukuk%26Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9118881,29.176853599999998?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Cabinet Calame",
+            "link": "https://www.google.com/maps/search/Cabinet+Calame/@40.9093634,29.185806099999997?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "NVT HUKUK DANI\u015eMANLIK & ARABULUCULUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/NVT+HUKUK+DANI%C5%9EMANLIK+%26+ARABULUCULUK+B%C3%9CROSU/@40.915950900000006,29.1881415?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "108924634918528313980",
+        "name": "ACTUPERITUM Akt\u00fcerya Dan\u0131\u015fmanl\u0131k (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/108924634918528313980"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_TiUuZ7NbJ_LSeuIjHASeg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=160.79482&pitch=0&thumbfov=100",
+    "main_category": "Hukuk Hizmetleri",
+    "categories": [
+        "Hukuk Hizmetleri"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": "Open All Days",
+    "phone": "0532 352 79 26",
+    "address": "Cevizli, ACTUPERITUM Akt\u00fcerya Dan\u0131\u015fmanl\u0131k, Kepez Sk. No:7/9, 34865 Kartal/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJEZI13prFyhQRzmB2JZhidl0",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJEZI13prFyhQRzmB2JZhidl0&q=?q=place_id:ChIJEZI13prFyhQRzmB2JZhidl0&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.910918599999995,
+        "longitude": 29.1796635
+    },
+    "plus_code": "W56H+9V Kartal, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Cevizli",
+        "street": "Kepez Sk. No:7/9",
+        "city": "Kartal",
+        "postal_code": "34865",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6734678698382221518",
+    "data_id": "0x14cac59ade359211:0x5d766298257660ce",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.hukukotomasyon.com/iletisim/",
+            "source": "hukukotomasyon.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun giri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun oturma d\u00fczeni",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_TiUuZ7NbJ_LSeuIjHASeg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=160.79482&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "En son",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPXGp4DHf20FuG7wUNXPKmLlow-zjEmVEkh0CTW=w224-h316-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPXGp4DHf20FuG7wUNXPKmLlow-zjEmVEkh0CTW=w224-h316-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_TiUuZ7NbJ_LSeuIjHASeg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=160.79482&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

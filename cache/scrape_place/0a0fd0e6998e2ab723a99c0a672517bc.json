@@ -1,0 +1,186 @@
+{
+    "place_id": "ChIJI1NyGQG5yhQRFqHQTMcySWI",
+    "name": "Blue Horizon",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "HorizonAd: 360' Medya Planlama Ajans\u0131",
+            "link": "https://www.google.com/maps/search/HorizonAd%3A+360%27+Medya+Planlama+Ajans%C4%B1/@41.0713638,28.970922399999996?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Pazarlama Ajans\u0131"
+        },
+        {
+            "name": "Horizon Ajans",
+            "link": "https://www.google.com/maps/search/Horizon+Ajans/@41.061076,28.988234?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Reklam Ajans\u0131"
+        },
+        {
+            "name": "Horizon Group",
+            "link": "https://www.google.com/maps/search/Horizon+Group/@41.0103663,28.9475154?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Balina Seyir Turu Acentesi"
+        },
+        {
+            "name": "Horizons Limited \u015eirketi",
+            "link": "https://www.google.com/maps/search/Horizons+Limited+%C5%9Eirketi/@41.0187111,28.946976300000003?authuser=0&entry=ttu",
+            "reviews": 24,
+            "rating": 5,
+            "main_category": "Firmadan Firmaya Hizmet"
+        },
+        {
+            "name": "4129Grey - Grey Advertising Turkey",
+            "link": "https://www.google.com/maps/search/4129Grey+-+Grey+Advertising+Turkey/@41.079071,29.008733?authuser=0&entry=ttu",
+            "reviews": 14,
+            "rating": 4.4,
+            "main_category": "Reklam Ajans\u0131"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "115203881894870516674",
+        "name": "Blue Horizon (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/115203881894870516674"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QnYi5oUAEqycYyAPF4eWjA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=245.25061&pitch=0&thumbfov=100",
+    "main_category": "Reklam Ajans\u0131",
+    "categories": [
+        "Reklam Ajans\u0131",
+        "Dan\u0131\u015fman",
+        "\u00c7evirmen"
+    ],
+    "rating": null,
+    "workday_timing": "09:30\u201317:30",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0539 410 65 75",
+    "address": "Blue Horizon, mesihpa\u015fa mah. masihpa\u015fa cad. no 2 aybey i\u015fhan\u0131, kat4 ofis22, 34130 Fatih/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJI1NyGQG5yhQRFqHQTMcySWI",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 17:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJI1NyGQG5yhQRFqHQTMcySWI&q=?q=place_id:ChIJI1NyGQG5yhQRFqHQTMcySWI&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.008167,
+        "longitude": 28.953846
+    },
+    "plus_code": "2X53+7G Fatih, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Mesih Pa\u015fa",
+        "street": "mesihpa\u015fa mah. masihpa\u015fa cad. no 2 aybey i\u015fhan\u0131, kat4 ofis22",
+        "city": "Fatih",
+        "postal_code": "34130",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "7082247720585437462",
+    "data_id": "0x14cab90119725323:0x624932c74cd0a116",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                },
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QnYi5oUAEqycYyAPF4eWjA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=245.25061&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM2z9eEeTcR_ZSce5k7_dcFmUHuB4rIKep9NoLI=w298-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QnYi5oUAEqycYyAPF4eWjA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=245.25061&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:30\u201317:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:30\u201317:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:30\u201317:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:30\u201317:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:30\u201305:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:30\u201301:30"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

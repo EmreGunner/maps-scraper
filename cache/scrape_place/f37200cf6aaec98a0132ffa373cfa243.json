@@ -1,0 +1,294 @@
+{
+    "place_id": "ChIJW8KJRlRP0xQRvtmMpGGtuIM",
+    "name": "Murat Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": 7,
+    "competitors": [
+        {
+            "name": "Karacan Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Karacan+Hukuk+B%C3%BCrosu/@39.9067235,32.8066731?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 4.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Capital Hukuk&Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Capital+Hukuk%26Dan%C4%B1%C5%9Fmanl%C4%B1k/@39.8987572,32.8120427?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Liyakat Hukuk & Danismanlik",
+            "link": "https://www.google.com/maps/search/Liyakat+Hukuk+%26+Danismanlik/@39.8984069,32.8070994?authuser=0&entry=ttu",
+            "reviews": 16,
+            "rating": 3.6,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Tu\u011fral Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Tu%C4%9Fral+Hukuk+B%C3%BCrosu/@39.89891,32.8109075?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "YILDIZ HUKUK & DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/YILDIZ+HUKUK+%26+DANI%C5%9EMANLIK/@39.90842,32.810213?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": "http://www.murathukuk.com/",
+    "owner": {
+        "id": null,
+        "name": "Murat Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO8r4AzAfmcCi7W5Qsp8rKio72oNNVNdMVqBWFN=w426-h240-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 4.9,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": "Open All Days",
+    "phone": "(0312) 220 08 58",
+    "address": "K\u0131z\u0131l\u0131rmak, Murat Hukuk B\u00fcrosu, 1450. Sok. Ulusoy Plaza D:9/26-27, 06510 \u00c7ankaya/Ankara",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJW8KJRlRP0xQRvtmMpGGtuIM",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 6
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJW8KJRlRP0xQRvtmMpGGtuIM&q=?q=place_id:ChIJW8KJRlRP0xQRvtmMpGGtuIM&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 39.901223699999996,
+        "longitude": 32.8123885
+    },
+    "plus_code": "WR26+FX \u00c7ankaya, Ankara",
+    "detailed_address": {
+        "ward": "K\u0131z\u0131l\u0131rmak",
+        "street": "1450. Sok. Ulusoy Plaza D:9/26-27",
+        "city": "\u00c7ankaya",
+        "postal_code": "06510",
+        "state": "Ankara",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "9491526849567447486",
+    "data_id": "0x14d34f544689c25b:0x83b8ad61a48cd9be",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO8r4AzAfmcCi7W5Qsp8rKio72oNNVNdMVqBWFN=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_nlSth8mAqg52v9B-CdM3w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=251.68825&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Kaliteli hizmet",
+            "reviewer_name": "Veysel Reyhan",
+            "rating": 5,
+            "review_text": "Kaliteli hizmet",
+            "published_at": "5 ay \u00f6nce",
+            "published_at_date": "2023-07-12T21:07:57.761000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 31,
+            "reviewer_url": "https://www.google.com/maps/contrib/113483192953786961263/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKWVVO5Z0KNl8lO7HvqMKj_bC8FG057ZKxCqzH8Ftw9=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "En iyi hukuk b\u00fcrosu tavsiye ederim",
+            "reviewer_name": "Yavuz Sara\u00e7",
+            "rating": 5,
+            "review_text": "En iyi hukuk b\u00fcrosu tavsiye ederim",
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-06-17T12:09:12.478000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102730131092463773097/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW6QTY60L6DnVO7wZkxs5C82D2klO0FlydsL6Hr8qIJOjo=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "G\u00fczel",
+            "reviewer_name": "Mehmet \u015eim\u015fek",
+            "rating": 5,
+            "review_text": "G\u00fczel",
+            "published_at": "6 y\u0131l \u00f6nce",
+            "published_at_date": "2017-12-18T10:01:44.950000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 411,
+            "total_number_of_photos_by_reviewer": 57,
+            "reviewer_url": "https://www.google.com/maps/contrib/109762825383082035470/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWlApXZpjNZUmRr354w6sL2h2i42mlU6Sg_V9TpXD5hOgQ=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Fancy",
+            "reviewer_name": "Gurkan Yucel",
+            "rating": 5,
+            "review_text": "Fancy",
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-03-23T19:32:15.945000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 939,
+            "total_number_of_photos_by_reviewer": 1478,
+            "reviewer_url": "https://www.google.com/maps/contrib/105353746657516254794/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUClgvezAAnGDt4wgc19xFElQa7dbpmi_cDdGLjnddCj8CW=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": "S\u00fcsl\u00fc",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Mustafa Yampal",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-05-16T09:47:41.389000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 53,
+            "total_number_of_photos_by_reviewer": 34,
+            "reviewer_url": "https://www.google.com/maps/contrib/118374991756353090927/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUk2RqnglibBO9e9IKaXEKdwouaJBp-bpE94zuOl6V23ciS=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Kadir Afacan",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-07-10T10:10:45.783000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 20,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/104599096924934443751/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUJ-QPfIh_bWJF0Hp6xFXwTvm-FKANeeYVcCB1I5REp7Q=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Muharrem Demir",
+            "rating": 4,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-01-17T06:23:39.359000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 28,
+            "total_number_of_photos_by_reviewer": 186,
+            "reviewer_url": "https://www.google.com/maps/contrib/100192841451958342920/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWaQYqiyJTgBdliprJ1mh8oBpHFT-9GPIdZSDFicpwReks=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

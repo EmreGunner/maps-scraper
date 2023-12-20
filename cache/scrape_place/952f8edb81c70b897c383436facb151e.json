@@ -1,0 +1,160 @@
+{
+    "place_id": "ChIJo7RvTyGPKBUR_O-JlBmV_dc",
+    "name": "PEKCAN & B\u0130LGE HUKUK B\u00dcROSU",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "Pi\u015fkin Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Pi%C5%9Fkin+Hukuk+B%C3%BCrosu/@36.9908024,35.325272399999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "B\u00fcken Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/B%C3%BCken+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@37.0454084,35.299709299999996?authuser=0&entry=ttu",
+            "reviews": 20,
+            "rating": 4.8,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "E\u015eBERK Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/E%C5%9EBERK+Hukuk+B%C3%BCrosu/@36.990033499999996,35.3214888?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Kaan T\u00fcyl\u00fc Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Avukat+Kaan+T%C3%BCyl%C3%BC+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@36.9915423,35.32608810000001?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        }
+    ],
+    "website": "http://www.pekcanbilge.com/",
+    "owner": {
+        "id": "115795292652759260656",
+        "name": "PEKCAN & B\u0130LGE HUKUK B\u00dcROSU (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/115795292652759260656"
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0542 148 29 36",
+    "address": "\u00c7\u0131narl\u0131, PEKCAN & B\u0130LGE HUKUK B\u00dcROSU, \u0130n\u00f6n\u00fc Cd. G\u00fcnep Kuruk\u00f6pr\u00fc \u0130\u015f Merkezi No:42, D:508, 01060 Seyhan/Adana",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJo7RvTyGPKBUR_O-JlBmV_dc",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJo7RvTyGPKBUR_O-JlBmV_dc&q=?q=place_id:ChIJo7RvTyGPKBUR_O-JlBmV_dc&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.9901146,
+        "longitude": 35.3215879
+    },
+    "plus_code": "X8RC+2J Seyhan, Adana",
+    "detailed_address": {
+        "ward": "\u00c7\u0131narl\u0131",
+        "street": "\u0130n\u00f6n\u00fc Cd. G\u00fcnep Kuruk\u00f6pr\u00fc \u0130\u015f Merkezi No:42, D:508",
+        "city": "Seyhan",
+        "postal_code": "01060",
+        "state": "Adana",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "15563759824361091068",
+    "data_id": "0x15288f214f6fb4a3:0xd7fd95199489effc",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "11:00\u201316:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Ahmet \u00d6zbek",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-03-14T16:04:58.065000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 142,
+            "reviewer_url": "https://www.google.com/maps/contrib/103128547537608191281/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWYQO76siqlwzD306VpeBHVjx0J7OIMsvSuofsDXTjeS6Y=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

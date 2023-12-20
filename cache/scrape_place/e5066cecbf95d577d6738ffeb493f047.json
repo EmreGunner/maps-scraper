@@ -1,0 +1,201 @@
+{
+    "place_id": "ChIJ5afEMR7GyhQR9sC85OwDSxY",
+    "name": "G\u00f6\u011f\u00fc\u015f Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": 2,
+    "competitors": [
+        {
+            "name": "ERSOY HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/ERSOY+HUKUK+B%C3%9CROSU/@40.992436999999995,29.1232851?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 3.1,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ata Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ata+Hukuk+B%C3%BCrosu/@40.9930567,29.1281444?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6NC\u00dc&KESK\u0130N HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/%C3%96NC%C3%9C%26KESK%C4%B0N+HUKUK+B%C3%9CROSU/@40.9911789,29.116860799999998?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 3.9,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Poyraz & U\u00e7anok Avukatl\u0131k Ortakl\u0131\u011f\u0131",
+            "link": "https://www.google.com/maps/search/Poyraz+%26+U%C3%A7anok+Avukatl%C4%B1k+Ortakl%C4%B1%C4%9F%C4%B1/@40.992225000000005,29.126041999999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "G\u00f6\u011f\u00fc\u015f Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5palLqVrvM21CCIjdXgGvQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=2.5444424&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": 3,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 456 67 44",
+    "address": "Ata\u015fehir Atat\u00fcrk, G\u00f6\u011f\u00fc\u015f Hukuk B\u00fcrosu, 36. Ada Ata 2-4 Blok, 34758 Ata\u015fehir/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ5afEMR7GyhQR9sC85OwDSxY",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ5afEMR7GyhQR9sC85OwDSxY&q=?q=place_id:ChIJ5afEMR7GyhQR9sC85OwDSxY&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.992103,
+        "longitude": 29.119187
+    },
+    "plus_code": "X4R9+RM Ata\u015fehir, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Ata\u015fehir Atat\u00fcrk",
+        "street": "36. Ada Ata 2-4 Blok",
+        "city": "Ata\u015fehir",
+        "postal_code": "34758",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "1606382008072454390",
+    "data_id": "0x14cac61e31c4a7e5:0x164b03ece4bcc0f6",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5palLqVrvM21CCIjdXgGvQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=2.5444424&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5palLqVrvM21CCIjdXgGvQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=2.5444424&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "bor\u00e7lu oldu\u011fumuz icra dosyam\u0131zla ilgili \u00f6deme yapt\u0131k.dosyan\u0131n kapanmas\u0131 i\u00e7in uyaptan talep atmaktan ba\u015fka takip icra dairesiyle g\u00f6r\u00fc\u015fme i\u015flemleri i\u00e7in takip etmedi.hepsiyle biz u\u011fra\u015ft\u0131k",
+            "reviewer_name": "\u015eAFAK TUN\u00c7",
+            "rating": 1,
+            "review_text": "bor\u00e7lu oldu\u011fumuz icra dosyam\u0131zla ilgili \u00f6deme yapt\u0131k.dosyan\u0131n kapanmas\u0131 i\u00e7in uyaptan talep atmaktan ba\u015fka takip icra dairesiyle g\u00f6r\u00fc\u015fme i\u015flemleri i\u00e7in takip etmedi.hepsiyle biz u\u011fra\u015ft\u0131k",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-11-15T08:14:55.394000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 23,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/113574972034279273325/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUZfanEgGgVn0coTIU04dsLy0yscS4L-Yluf0XWRjKAcQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "R.Emre \u00d6zel",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-12-02T07:16:29.685000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 210,
+            "total_number_of_photos_by_reviewer": 52,
+            "reviewer_url": "https://www.google.com/maps/contrib/108528525343537300558/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUjQB6J4osk8bSFp-Ga5Al06idhnzAiU7RadyqHlBiTGw=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

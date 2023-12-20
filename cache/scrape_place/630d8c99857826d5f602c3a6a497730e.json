@@ -1,0 +1,273 @@
+{
+    "place_id": "ChIJMa3BvFtAtRQRQvB7Mh1Z_lU",
+    "name": "Silivri 1. Noterli\u011fi",
+    "description": null,
+    "reviews": 5,
+    "competitors": [
+        {
+            "name": "Silivri 5. Noter",
+            "link": "https://www.google.com/maps/search/Silivri+5.+Noter/@41.072064999999995,28.257618599999997?authuser=0&entry=ttu",
+            "reviews": 35,
+            "rating": 3.9,
+            "main_category": "Noter"
+        },
+        {
+            "name": "Silivri 4.Noterli\u011fi",
+            "link": "https://www.google.com/maps/search/Silivri+4.Noterli%C4%9Fi/@41.0757395,28.244238499999998?authuser=0&entry=ttu",
+            "reviews": 41,
+            "rating": 4,
+            "main_category": "Devlet Dairesi"
+        },
+        {
+            "name": "silivri 3.Noter",
+            "link": "https://www.google.com/maps/search/silivri+3.Noter/@41.0747752,28.2466239?authuser=0&entry=ttu",
+            "reviews": 13,
+            "rating": 3.5,
+            "main_category": "Noter"
+        },
+        {
+            "name": "Silivri 6. Noterli\u011fi",
+            "link": "https://www.google.com/maps/search/Silivri+6.+Noterli%C4%9Fi/@41.077135299999995,28.2499431?authuser=0&entry=ttu",
+            "reviews": 10,
+            "rating": 4.9,
+            "main_category": "Noter"
+        }
+    ],
+    "website": "http://portal.tnb.org.tr/",
+    "owner": {
+        "id": "115892921069380523740",
+        "name": "Silivri 1. Noterli\u011fi (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/115892921069380523740"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=o8jBDAeVjW3edyDBKLX77w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=152.24582&pitch=0&thumbfov=100",
+    "main_category": "Noter",
+    "categories": [
+        "Noter"
+    ],
+    "rating": 4.4,
+    "workday_timing": "09:00\u201317:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 727 30 73",
+    "address": "Alibey, Silivri 1. Noterli\u011fi, Cumhuriyet Cd. 12 3, 34570 Silivri/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJMa3BvFtAtRQRQvB7Mh1Z_lU",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 17:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 4
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJMa3BvFtAtRQRQvB7Mh1Z_lU&q=?q=place_id:ChIJMa3BvFtAtRQRQvB7Mh1Z_lU&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0729934,
+        "longitude": 28.2474565
+    },
+    "plus_code": "36FW+5X Silivri, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Alibey",
+        "street": "Cumhuriyet Cd. 12 3",
+        "city": "Silivri",
+        "postal_code": "34570",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6196488119244288066",
+    "data_id": "0x14b5405bbcc1ad31:0x55fe591d327bf042",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun giri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=o8jBDAeVjW3edyDBKLX77w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=152.24582&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "D\u0131\u015ftan g\u00f6r\u00fcn\u00fcm",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOtnAA1nO2EESkIrkEKehFbgMkFrElo_jXS5-yV=w224-h403-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPuSIxLqpDQldPjBGBDgwfLn7hUfZ-VXyZPeLha=w224-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=o8jBDAeVjW3edyDBKLX77w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=152.24582&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "\u00c7al\u0131\u015fan arkada\u015flar \u00e7ok ilgili i\u015fini ger\u00e7ek anlamda yapan ki\u015filerdi,\u00e7ok yard\u0131mc\u0131 oldular sa\u011folsunlar babacan noter memuru ise m\u00fckemmel bir ki\u015filik kendisine \u00e7ok te\u015fekk\u00fcr ederim sa\u011folsunlar her daim yollar\u0131 a\u00e7\u0131k olsun \ud83d\ude4f\ud83d\ude4f",
+            "reviewer_name": "masal karacan",
+            "rating": 5,
+            "review_text": "\u00c7al\u0131\u015fan arkada\u015flar \u00e7ok ilgili i\u015fini ger\u00e7ek anlamda yapan ki\u015filerdi,\u00e7ok yard\u0131mc\u0131 oldular sa\u011folsunlar babacan noter memuru ise m\u00fckemmel bir ki\u015filik kendisine \u00e7ok te\u015fekk\u00fcr ederim sa\u011folsunlar her daim yollar\u0131 a\u00e7\u0131k olsun \ud83d\ude4f\ud83d\ude4f",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-10-16T12:31:44.533000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108193552229434933572/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVLoGG0LHWuNouPQE24EoJtRudVnLic7E_fvcSkjVGhXGE=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u00c7al\u0131\u015fan arkada\u015flar \u00e7ok g\u00fcler y\u00fczl\u00fc \u00e7ok memnun ayr\u0131ld\u0131m ilk defa noterde \u00e7ay i\u00e7tim\ud83e\udd2d\ud83d\ude00",
+            "reviewer_name": "Orhan Vatansever",
+            "rating": 5,
+            "review_text": "\u00c7al\u0131\u015fan arkada\u015flar \u00e7ok g\u00fcler y\u00fczl\u00fc \u00e7ok memnun ayr\u0131ld\u0131m ilk defa noterde \u00e7ay i\u00e7tim\ud83e\udd2d\ud83d\ude00",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-11-08T08:03:12.225000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 21,
+            "total_number_of_photos_by_reviewer": 19,
+            "reviewer_url": "https://www.google.com/maps/contrib/104276655927958906082/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXpHTbFF7ngT6j0otLTL2oX9gDT6vbeuREu5np_MnpmwA=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "ali g\u00fcnd\u00fcz balcik",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-02-24T09:37:04.440000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/107805011840245346239/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVKOhPzpPCyuX2qEP9Ac3KT8Z8ZWMiD8Y58MCFFBkAphY6N=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Rafet Keskin",
+            "rating": 2,
+            "review_text": null,
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-01-06T00:20:00.904000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 148,
+            "total_number_of_photos_by_reviewer": 930,
+            "reviewer_url": "https://www.google.com/maps/contrib/106173614035398514133/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL2BAFvhYHgXZ67cgN9AzVFyndc58XvjcF7jfq5JskzwQ=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "m\u00fc\u015ferref \u00f6demi\u015f",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-05-05T12:00:21.349000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105292474126529195668/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXrSeEBERN83xKZM6YZ_CPd_0w2_lDBAmYA3ZobPRuik5w=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

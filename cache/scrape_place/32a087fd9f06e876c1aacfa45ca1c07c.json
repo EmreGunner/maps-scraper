@@ -1,0 +1,246 @@
+{
+    "place_id": "ChIJB9W2rFa2yhQR4tYvWPtaCHM",
+    "name": "Onur Karada\u011f Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": 4,
+    "competitors": [
+        {
+            "name": "ONUR HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/ONUR+HUKUK+B%C3%9CROSU/@41.0690141,29.0044206?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Karada\u011f Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Karada%C4%9F+Hukuk+B%C3%BCrosu/@41.0282884,28.972973999999997?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 4.2,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Karada\u011f \u00d6ren Hukuk&Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Karada%C4%9F+%C3%96ren+Hukuk%26Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.0702004,29.006019400000003?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u00d6zt\u00fcrk Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%96zt%C3%BCrk+Hukuk+B%C3%BCrosu/@41.066194599999996,29.004977399999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Onur Karada\u011f Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu",
+        "Avukat"
+    ],
+    "rating": 3.8,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 275 27 47",
+    "address": "Gayrettepe, Onur Karada\u011f Hukuk B\u00fcrosu, Y\u0131ld\u0131z Posta Cd. No:3 Apt. No D:14, 34330 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJB9W2rFa2yhQR4tYvWPtaCHM",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 2
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJB9W2rFa2yhQR4tYvWPtaCHM&q=?q=place_id:ChIJB9W2rFa2yhQR4tYvWPtaCHM&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.066618,
+        "longitude": 29.006621
+    },
+    "plus_code": "3284+JJ Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Gayrettepe",
+        "street": "Y\u0131ld\u0131z Posta Cd. No:3 Apt. No D:14",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34330",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "8288975149738219234",
+    "data_id": "0x14cab656acb6d507:0x73085afb582fd6e2",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun giri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh6.googleusercontent.com/vrKUuj9Y_nO-uAwk6zKBfwUVAaTpaePuFqUf9Q_kqHk6XcyKRKnk8rMPgdfFp4Ay=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vkqb63SmA_ylY8Dd4ZWpAg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=355.65918&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "yaptigi sozlu anlasmadan aylar sonra keyfine gore caymaya calisan avukattir. en buyuk savunmasi da ona guvendiginiz icin yaptiginiz 'sozlu' anlasmadir.\naman dikkat, yarin sizinle de anlastiktan sonra aradan 5 ay gecmisken hic o anlasma yokmus gibi davranabilir.\n\nboyle durumlar insanin durustlugu ve etik anlayisi hakkinda cok net bilgi veriyor, umarim kendisi de yaptiginin yanlis oldugunu yakin zamanda farkeder.",
+            "reviewer_name": "Good Guy Streamer",
+            "rating": 1,
+            "review_text": "yaptigi sozlu anlasmadan aylar sonra keyfine gore caymaya calisan avukattir. en buyuk savunmasi da ona guvendiginiz icin yaptiginiz 'sozlu' anlasmadir.\naman dikkat, yarin sizinle de anlastiktan sonra aradan 5 ay gecmisken hic o anlasma yokmus gibi davranabilir.\n\nboyle durumlar insanin durustlugu ve etik anlayisi hakkinda cok net bilgi veriyor, umarim kendisi de yaptiginin yanlis oldugunu yakin zamanda farkeder.",
+            "published_at": "6 y\u0131l \u00f6nce",
+            "published_at_date": "2017-06-08T17:38:12.013000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105637860738297692684/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI3ksJj8B7-G9fQZGYsiAbO26jh98O51FhVOIcElvhQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Konusunda uzman beklentilerin \u00fczerinde \u00e7\u00f6z\u00fcm \u00f6nerileri veren dan\u0131\u015fman ve arabulucu",
+            "reviewer_name": "Serdar Salba\u015f",
+            "rating": 4,
+            "review_text": "Konusunda uzman beklentilerin \u00fczerinde \u00e7\u00f6z\u00fcm \u00f6nerileri veren dan\u0131\u015fman ve arabulucu",
+            "published_at": "6 y\u0131l \u00f6nce",
+            "published_at_date": "2017-07-08T21:49:48.920000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 244,
+            "total_number_of_photos_by_reviewer": 26,
+            "reviewer_url": "https://www.google.com/maps/contrib/104231945702754612157/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ3BCNWmZjTIcyjPcE5uD9PYRIRNmmITsJ-7PB__DLa=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Av. Onur han\u0131m i\u015finde \u00e7ok ba\u015far\u0131l\u0131, yakla\u015f\u0131mlar\u0131 \u00e7ok candan ve i\u00e7ten..",
+            "reviewer_name": "\u015eule T\u00fcz\u00fcn",
+            "rating": 5,
+            "review_text": "Av. Onur han\u0131m i\u015finde \u00e7ok ba\u015far\u0131l\u0131, yakla\u015f\u0131mlar\u0131 \u00e7ok candan ve i\u00e7ten..",
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-08-04T20:02:24.032000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 35,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/110258908394863553933/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX1S58nu6qgdSvAdvpviidoloKL_XDihg1SFf-61u1yf6k=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Eren Demirisik",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "6 y\u0131l \u00f6nce",
+            "published_at_date": "2017-10-11T09:21:11.781000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107629711782576652189/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLcszyaWUivsPCyvw7ZLM0-eXFaeBB3BU9WFN5nDjLw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

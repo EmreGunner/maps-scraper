@@ -1,0 +1,121 @@
+{
+    "place_id": "ChIJ9S3pQ1C2yhQRbcZ2pEajAoc",
+    "name": "Ko\u00e7 Attorneys at Law",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Ko\u00e7 Law Offices",
+            "link": "https://www.google.com/maps/search/Ko%C3%A7+Law+Offices/@41.051209500000006,29.006962599999998?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "KO\u00c7 HUKUK DANI\u015eMANLIK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/KO%C3%87+HUKUK+DANI%C5%9EMANLIK+B%C3%9CROSU/@41.064267699999995,28.9872811?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 4.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "KO\u00c7 - Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/KO%C3%87+-+Avukatl%C4%B1k+B%C3%BCrosu/@41.0679272,28.993136099999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Av.Cevat KO\u00c7 Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Av.Cevat+KO%C3%87+Hukuk+B%C3%BCrosu/@41.067481799999996,28.9941048?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 4,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Koclu Law Firm",
+            "link": "https://www.google.com/maps/search/Koclu+Law+Firm/@41.0773923,29.016860599999998?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "https://www.kocattorneys.com/contact",
+    "owner": {
+        "id": null,
+        "name": "Ko\u00e7 Attorneys at Law (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dwOrzxtqsjSJSoChxW5drQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=162.80345&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 266 66 23",
+    "address": "Esentepe, Ko\u00e7 Attorneys at Law, B\u00fcy\u00fckdere Cd. No:100 D:102, 34410 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ9S3pQ1C2yhQRbcZ2pEajAoc",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ9S3pQ1C2yhQRbcZ2pEajAoc&q=?q=place_id:ChIJ9S3pQ1C2yhQRbcZ2pEajAoc&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0679087,
+        "longitude": 29.0091978
+    },
+    "plus_code": "3295+5M \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Esentepe",
+        "street": "B\u00fcy\u00fckdere Cd. No:100 D:102",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34410",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "9728517668875978349",
+    "data_id": "0x14cab65043e92df5:0x8702a346a476c66d",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dwOrzxtqsjSJSoChxW5drQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=162.80345&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dwOrzxtqsjSJSoChxW5drQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=162.80345&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

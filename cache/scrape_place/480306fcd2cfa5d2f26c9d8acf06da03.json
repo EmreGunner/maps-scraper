@@ -1,0 +1,144 @@
+{
+    "place_id": "ChIJvWSNbG23yhQRIp9Po6Up0_s",
+    "name": "MSA HUKUK",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "MSA Hukuk B\u00fcrosu/Law Office",
+            "link": "https://www.google.com/maps/search/MSA+Hukuk+B%C3%BCrosu%2FLaw+Office/@40.990679199999995,28.8703637?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 3.5,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Aslegal Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Aslegal+Hukuk+B%C3%BCrosu/@41.0453974,28.986290000000004?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "MSA DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/MSA+DANI%C5%9EMANLIK/@41.052989,28.9833496?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Dan\u0131\u015fman"
+        },
+        {
+            "name": "Mavili Hukuk",
+            "link": "https://www.google.com/maps/search/Mavili+Hukuk/@41.0571869,28.9850718?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "MSK LAW OFF\u0130CE",
+            "link": "https://www.google.com/maps/search/MSK+LAW+OFF%C4%B0CE/@41.0585115,28.986796799999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://msahukuk.com.tr/",
+    "owner": {
+        "id": null,
+        "name": "MSA HUKUK (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "08:00\u201318:00",
+    "closed_on": "Open All Days",
+    "phone": "0532 399 12 92",
+    "address": "Harbiye, MSA HUKUK, Ergenekon mah, Cumhuriyet Cd. No:153/2, \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJvWSNbG23yhQRIp9Po6Up0_s",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 08:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJvWSNbG23yhQRIp9Po6Up0_s&q=?q=place_id:ChIJvWSNbG23yhQRIp9Po6Up0_s&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0462439,
+        "longitude": 28.9864508
+    },
+    "plus_code": "2XWP+FH \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Harbiye",
+        "street": "Ergenekon mah, Cumhuriyet Cd. No:153/2",
+        "city": "\u015ei\u015fli",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "18145893114992107298",
+    "data_id": "0x14cab76d6c8d64bd:0xfbd329a5a34f9f22",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

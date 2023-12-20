@@ -1,0 +1,190 @@
+{
+    "place_id": "ChIJ3zTLUsvDJRURFoAw3ElJfIU",
+    "name": "\u00e7ag hukuk b\u00fcrosu",
+    "description": null,
+    "reviews": 2,
+    "competitors": [
+        {
+            "name": "Avukat Murat \u00c7elik",
+            "link": "https://www.google.com/maps/search/Avukat+Murat+%C3%87elik/@36.2046346,36.1589697?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Mehmet DA\u011e",
+            "link": "https://www.google.com/maps/search/Avukat+Mehmet+DA%C4%9E/@36.237882899999995,36.1452749?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 3.7,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Avukat Naci Akar",
+            "link": "https://www.google.com/maps/search/Avukat+Naci+Akar/@36.205287,36.163255?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Kemal Camuz",
+            "link": "https://www.google.com/maps/search/Avukat+Kemal+Camuz/@36.198969,36.153394999999996?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "\u00e7ag hukuk b\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DxVFdlQlKn5AofkIX8FdDw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=265.47916&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "08:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0505 960 90 38",
+    "address": "Cebrail, \u00e7ag hukuk b\u00fcrosu, Karao\u011flano\u011flu Cd. 23 A, 31030 Antakya/Hatay",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ3zTLUsvDJRURFoAw3ElJfIU",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 08:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ3zTLUsvDJRURFoAw3ElJfIU&q=?q=place_id:ChIJ3zTLUsvDJRURFoAw3ElJfIU&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.204273,
+        "longitude": 36.15934
+    },
+    "plus_code": "6535+PP Antakya, Hatay",
+    "detailed_address": {
+        "ward": "Cebrail",
+        "street": "Karao\u011flano\u011flu Cd. 23 A",
+        "city": "Antakya",
+        "postal_code": "31030",
+        "state": "Hatay",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "9618643485732143126",
+    "data_id": "0x1525c3cb52cb34df:0x857c4949dc308016",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DxVFdlQlKn5AofkIX8FdDw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=265.47916&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DxVFdlQlKn5AofkIX8FdDw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=265.47916&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Sayg\u0131l\u0131 ve ho\u015fg\u00f6r\u00fcl\u00fc insanlar",
+            "reviewer_name": "Erhan Yuksel",
+            "rating": 5,
+            "review_text": "Sayg\u0131l\u0131 ve ho\u015fg\u00f6r\u00fcl\u00fc insanlar",
+            "published_at": "6 ay \u00f6nce",
+            "published_at_date": "2023-06-03T10:57:30.061000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/105409950814555811173/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJt87nsiXFV5hJ7h3zYRSyxHyP7stqew_fYZOavRruz=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Ali Arslaner",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-03-02T12:41:09.771000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105575259012520269638/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKfPi6LfSi8cqNlDvX6PXYPElnoRHNSxbnrIBhrQXXg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

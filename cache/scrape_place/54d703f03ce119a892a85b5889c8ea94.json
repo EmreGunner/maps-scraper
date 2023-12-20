@@ -1,0 +1,167 @@
+{
+    "place_id": "ChIJU2wNORHHyhQRxqUGAcL0fr8",
+    "name": "BLN Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Celen Law Firm",
+            "link": "https://www.google.com/maps/search/Celen+Law+Firm/@40.9763698,29.0488391?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 3,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Mvt Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Mvt+Avukatl%C4%B1k+B%C3%BCrosu/@40.971787899999995,29.059813?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "B\u0130LEN HUKUK",
+            "link": "https://www.google.com/maps/search/B%C4%B0LEN+HUKUK/@40.9337241,29.132823799999993?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u0130stanbul Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/%C4%B0stanbul+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.968282099999996,29.0663541?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "DEN\u0130Z HUKUK",
+            "link": "https://www.google.com/maps/search/DEN%C4%B0Z+HUKUK/@40.989277099999995,29.029134400000004?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "105939019649184248185",
+        "name": "BLN Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/105939019649184248185"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Sd0h7_3s6W-66sFmvB78Gg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=56.491295&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "08:30\u201318:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 446 03 03",
+    "address": "G\u00f6ztepe, BLN Hukuk B\u00fcrosu, Handan Palas, Ba\u011fdat Cad. No:233 D:5, 34730 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJU2wNORHHyhQRxqUGAcL0fr8",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJU2wNORHHyhQRxqUGAcL0fr8&q=?q=place_id:ChIJU2wNORHHyhQRxqUGAcL0fr8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9717519,
+        "longitude": 29.0597629
+    },
+    "plus_code": "X3C5+PW Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "G\u00f6ztepe",
+        "street": "Handan Palas, Ba\u011fdat Cad. No:233 D:5",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34730",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "13798735422387824070",
+    "data_id": "0x14cac711390d6c53:0xbf7ef4c20106a5c6",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Sd0h7_3s6W-66sFmvB78Gg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=56.491295&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Sd0h7_3s6W-66sFmvB78Gg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=56.491295&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

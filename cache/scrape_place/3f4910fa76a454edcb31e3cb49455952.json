@@ -1,0 +1,121 @@
+{
+    "place_id": "ChIJj0tspYHHyhQRo6NC-pI17fw",
+    "name": "Demir Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Demir & Kader Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Demir+%26+Kader+Hukuk+B%C3%BCrosu/@40.9791977,29.1073832?authuser=0&entry=ttu",
+            "reviews": 32,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Demir Hukuk B\u00fcrosu - Av.Mehmet DEM\u0130R",
+            "link": "https://www.google.com/maps/search/Demir+Hukuk+B%C3%BCrosu+-+Av.Mehmet+DEM%C4%B0R/@41.0217928,29.089825999999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Demir Hukuk B\u00fcrosu - Kozyata\u011f\u0131",
+            "link": "https://www.google.com/maps/search/Demir+Hukuk+B%C3%BCrosu+-+Kozyata%C4%9F%C4%B1/@40.974394,29.097402?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 4.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "DEM\u0130R HUKUK B\u00dcROSU Av.Murat DEM\u0130R",
+            "link": "https://www.google.com/maps/search/DEM%C4%B0R+HUKUK+B%C3%9CROSU+Av.Murat+DEM%C4%B0R/@40.910503,29.197365299999998?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 3.7,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Durmu\u015fo\u011flu Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Durmu%C5%9Fo%C4%9Flu+Hukuk+B%C3%BCrosu/@40.9792681,29.0456103?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Kurumsal Ofis"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Demir Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c2mMP18tSlTYS2kXHzd-fQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=41.762676&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0216) 349 27 27",
+    "address": "Feneryolu, Demir Hukuk B\u00fcrosu, Ba\u011fdat Cad. No:149/9, 34724 Dudullu Osb/Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJj0tspYHHyhQRo6NC-pI17fw",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJj0tspYHHyhQRo6NC-pI17fw&q=?q=place_id:ChIJj0tspYHHyhQRo6NC-pI17fw&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9766208,
+        "longitude": 29.049704499999997
+    },
+    "plus_code": "X2GX+JV Dudullu Osb, \u00dcmraniye/\u0130stanbul",
+    "detailed_address": {
+        "ward": "Feneryolu",
+        "street": "Ba\u011fdat Cad. No:149/9",
+        "city": "Dudullu Osb/Kad\u0131k\u00f6y",
+        "postal_code": "34724",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "18225282172418433955",
+    "data_id": "0x14cac781a56c4b8f:0xfced3592fa42a3a3",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c2mMP18tSlTYS2kXHzd-fQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=41.762676&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c2mMP18tSlTYS2kXHzd-fQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=41.762676&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJ3y7f_8G6yhQR63Ljy3mb-0I",
+    "name": "EH\u015e Hukuk ve Dan\u0131\u015fmanl\u0131k",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Eren Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Eren+Hukuk+B%C3%BCrosu/@41.0351985,28.8586197?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "E.\u00c7 HUKUK",
+            "link": "https://www.google.com/maps/search/E.%C3%87+HUKUK/@41.0737783,28.981402399999997?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u015eAH\u0130N&ERO\u011eLU HUKUK B\u00dcROSU &ARABULUCULUK",
+            "link": "https://www.google.com/maps/search/%C5%9EAH%C4%B0N%26ERO%C4%9ELU+HUKUK+B%C3%9CROSU+%26ARABULUCULUK/@41.0920492,29.0037614?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ERSE HUKUK VE DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/ERSE+HUKUK+VE+DANI%C5%9EMANLIK/@41.07408350000001,28.9824363?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "HS Hukuk ve Dan\u0131\u015fmanl\u0131k- Av. Hilal Soslu",
+            "link": "https://www.google.com/maps/search/HS+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k-+Av.+Hilal+Soslu/@41.0649027,28.9871308?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://ehshukukvedanismanlik.com/",
+    "owner": {
+        "id": null,
+        "name": "EH\u015e Hukuk ve Dan\u0131\u015fmanl\u0131k (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nxA4orMV4d0Rg4kmfkGJiA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=166.89114&pitch=0&thumbfov=100",
+    "main_category": "Hukuk Hizmetleri",
+    "categories": [
+        "Hukuk Hizmetleri"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0537 295 69 68",
+    "address": "EH\u015e Hukuk ve Dan\u0131\u015fmanl\u0131k, Ba\u011flar Mah. Mimar Sinan Cad. Divan Residence Kat:11 Numara:114 G\u00fcne\u015fli, Ba\u011fc\u0131lar/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ3y7f_8G6yhQR63Ljy3mb-0I",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ3y7f_8G6yhQR63Ljy3mb-0I&q=?q=place_id:ChIJ3y7f_8G6yhQR63Ljy3mb-0I&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.034478,
+        "longitude": 28.882972
+    },
+    "plus_code": "2VMM+Q5 Ba\u011fc\u0131lar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Nine Hatun",
+        "street": "Ba\u011flar Mah. Mimar Sinan Cad. Divan Residence Kat:11 Numara:114 G\u00fcne\u015fli",
+        "city": "Ba\u011fc\u0131lar",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4826622373071647467",
+    "data_id": "0x14cabac1ffdf2edf:0x42fb9b79cbe372eb",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nxA4orMV4d0Rg4kmfkGJiA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=166.89114&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nxA4orMV4d0Rg4kmfkGJiA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=166.89114&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

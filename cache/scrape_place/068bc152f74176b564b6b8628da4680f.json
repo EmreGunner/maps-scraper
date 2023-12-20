@@ -1,0 +1,149 @@
+{
+    "place_id": "ChIJPwDUGwO3yhQRiYJcEDOp0P0",
+    "name": "Tercan&Ildir Law Office",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Tercang\u00f6k Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Tercang%C3%B6k+Hukuk+B%C3%BCrosu/@41.06709,29.002955999999998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "tercan&ildir attorney partnership",
+            "link": "https://www.google.com/maps/search/tercan%26ildir+attorney+partnership/@41.0774201,29.0135852?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "TERCAN HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/TERCAN+HUKUK+B%C3%9CROSU/@41.067037899999995,29.001889?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 4.9,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "BBC Legal",
+            "link": "https://www.google.com/maps/search/BBC+Legal/@41.0645348,28.987247000000004?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 4,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Tercan&Ildir Law Office (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QHRN8DEc3-YyblInbO8zrQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=321.7949&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 500 02 89",
+    "address": "Merkez, Tercan&Ildir Law Office, B\u00fcy\u00fckdere Cd., 34381 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJPwDUGwO3yhQRiYJcEDOp0P0",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJPwDUGwO3yhQRiYJcEDOp0P0&q=?q=place_id:ChIJPwDUGwO3yhQRiYJcEDOp0P0&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0627192,
+        "longitude": 28.9895973
+    },
+    "plus_code": "3X7Q+3R \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkez",
+        "street": "B\u00fcy\u00fckdere Cd.",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34381",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "18289304123534508681",
+    "data_id": "0x14cab7031bd4003f:0xfdd0a933105c8289",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QHRN8DEc3-YyblInbO8zrQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=321.7949&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QHRN8DEc3-YyblInbO8zrQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=321.7949&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

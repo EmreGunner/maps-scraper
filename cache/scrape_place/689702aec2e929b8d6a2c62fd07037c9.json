@@ -1,0 +1,197 @@
+{
+    "place_id": "ChIJL7n35Oi3yhQRM2OzCTDpCYU",
+    "name": "Ekiz T\u00fczer Mimarl\u0131k",
+    "description": null,
+    "reviews": 2,
+    "competitors": [
+        {
+            "name": "\u00d6zy\u0131lmazlar Mimarl\u0131k Ofisi",
+            "link": "https://www.google.com/maps/search/%C3%96zy%C4%B1lmazlar+Mimarl%C4%B1k+Ofisi/@40.970446599999995,29.2598654?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Mimar"
+        },
+        {
+            "name": "UFUK AYAZ M\u0130MARLIK",
+            "link": "https://www.google.com/maps/search/UFUK+AYAZ+M%C4%B0MARLIK/@40.9939657,29.232006300000002?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 4.7,
+            "main_category": "Mimar"
+        },
+        {
+            "name": "Baz Mimarl\u0131k",
+            "link": "https://www.google.com/maps/search/Baz+Mimarl%C4%B1k/@40.9928587,29.231202600000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Mimar"
+        },
+        {
+            "name": "mert mimarl\u0131k",
+            "link": "https://www.google.com/maps/search/mert+mimarl%C4%B1k/@40.9606329,29.2376468?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4,
+            "main_category": "Mimari Tasar\u0131mc\u0131"
+        },
+        {
+            "name": "Belde Planlama Mimarl\u0131k San. ve Tic. Ltd. \u015eti.",
+            "link": "https://www.google.com/maps/search/Belde+Planlama+Mimarl%C4%B1k+San.+ve+Tic.+Ltd.+%C5%9Eti./@40.9580255,29.214684899999998?authuser=0&entry=ttu",
+            "reviews": 16,
+            "rating": 4.6,
+            "main_category": "\u015eehircilik Dairesi"
+        }
+    ],
+    "website": "http://www.ekiztuzer.com/",
+    "owner": {
+        "id": null,
+        "name": "Ekiz T\u00fczer Mimarl\u0131k (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KX7yZ8VaxTd-ADus-M3Msg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=39.714222&pitch=0&thumbfov=100",
+    "main_category": "Mimar",
+    "categories": [
+        "Mimar"
+    ],
+    "rating": 5,
+    "workday_timing": "09:30\u201318:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 530 24 04",
+    "address": "Ekiz T\u00fczer Mimarl\u0131k, Veysel Karani Mh. G\u00fclhane Cd. No 7 P14, 34885 Sancaktepe/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJL7n35Oi3yhQRM2OzCTDpCYU",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJL7n35Oi3yhQRM2OzCTDpCYU&q=?q=place_id:ChIJL7n35Oi3yhQRM2OzCTDpCYU&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.96214,
+        "longitude": 29.2356049
+    },
+    "plus_code": "X66P+V6 Sancaktepe, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Veysel Karani",
+        "street": "Veysel Karani Mh. G\u00fclhane Cd. No 7 P14",
+        "city": "Sancaktepe",
+        "postal_code": "34885",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "9586449674365264691",
+    "data_id": "0x14cab7e8e4f7b92f:0x8509e93009b36333",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KX7yZ8VaxTd-ADus-M3Msg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=39.714222&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KX7yZ8VaxTd-ADus-M3Msg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=39.714222&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:30\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "\u00c7ok g\u00fczel bir ortam ve profesyonel bir mimarl\u0131k ofisi.",
+            "reviewer_name": "murat tuzer",
+            "rating": 5,
+            "review_text": "\u00c7ok g\u00fczel bir ortam ve profesyonel bir mimarl\u0131k ofisi.",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-11-28T18:34:33.981000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 42,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107382613306999823209/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJJfdonUopIC1KrDD4F6LhA48kd1lnqfEIallJ1JdjV=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "oz oz",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-07-02T12:14:32.588000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100468797534720816940/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocII-Icyt5ncGMOH99Qsz0CprQNZGhnTnRHNqxfOhMlr=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,156 @@
+{
+    "place_id": "ChIJn6SXbI5ZLxURBUNHJ29Mq1I",
+    "name": "Ery\u00fcrekli Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Hatay \u0130skenderun Avukatl\u0131k Ve Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Hatay+%C4%B0skenderun+Avukatl%C4%B1k+Ve+Hukuk+B%C3%BCrosu/@36.572097299999996,36.156009?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Derin Hukuk Ve Arabuluculuk b\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Derin+Hukuk+Ve+Arabuluculuk+b%C3%BCrosu/@36.5733262,36.1590803?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Akbay Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Akbay+Hukuk+B%C3%BCrosu/@36.574536099999996,36.163610000000006?authuser=0&entry=ttu",
+            "reviews": 29,
+            "rating": 4.1,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "G\u00f6kp\u0131nar Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%B6kp%C4%B1nar+Avukatl%C4%B1k+B%C3%BCrosu/@36.5721084,36.1563654?authuser=0&entry=ttu",
+            "reviews": 38,
+            "rating": 3.5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Barak Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Barak+Hukuk+B%C3%BCrosu/@36.573758,36.159482499999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "103726455581144473850",
+        "name": "Ery\u00fcrekli Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/103726455581144473850"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YedxS8mQHJBNfeX2Z_0P1g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=123.98976&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "08:00\u201317:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0538 326 25 10",
+    "address": "Mustafa Kemal, Ery\u00fcrekli Hukuk B\u00fcrosu, Ey\u00fcp Sultan Cd., 31230 \u0130skenderun/Hatay",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJn6SXbI5ZLxURBUNHJ29Mq1I",
+    "status": "Kapal\u0131 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 08:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJn6SXbI5ZLxURBUNHJ29Mq1I&q=?q=place_id:ChIJn6SXbI5ZLxURBUNHJ29Mq1I&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.5721136,
+        "longitude": 36.1564203
+    },
+    "plus_code": "H5C4+RH \u0130skenderun, Hatay",
+    "detailed_address": {
+        "ward": "Mustafa Kemal",
+        "street": "Ey\u00fcp Sultan Cd.",
+        "city": "\u0130skenderun",
+        "postal_code": "31230",
+        "state": "Hatay",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "5956938972411675397",
+    "data_id": "0x152f598e6c97a49f:0x52ab4c6f27474305",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YedxS8mQHJBNfeX2Z_0P1g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=123.98976&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YedxS8mQHJBNfeX2Z_0P1g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=123.98976&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

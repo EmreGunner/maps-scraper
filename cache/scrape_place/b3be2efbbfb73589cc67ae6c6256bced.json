@@ -1,0 +1,170 @@
+{
+    "place_id": "ChIJcczRweq1yhQRmXjuzo88py8",
+    "name": "Avk Law Office",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "AVK Law",
+            "link": "https://www.google.com/maps/search/AVK+Law/@41.1113243,28.999584?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ak\u0131nc\u0131 hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ak%C4%B1nc%C4%B1+hukuk+B%C3%BCrosu/@41.1125639,29.020829799999998?authuser=0&entry=ttu",
+            "reviews": 24,
+            "rating": 4.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Koksal Avukatlik Ortakligi",
+            "link": "https://www.google.com/maps/search/Koksal+Avukatlik+Ortakligi/@41.110425,29.019596999999997?authuser=0&entry=ttu",
+            "reviews": 12,
+            "rating": 4.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "DL Attorneys at Law",
+            "link": "https://www.google.com/maps/search/DL+Attorneys+at+Law/@41.1079137,29.014078?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "KAI HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/KAI+HUKUK+B%C3%9CROSU/@41.113149,29.020713599999997?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Avk Law Office (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh4.googleusercontent.com/oQDY0IfCS-fw3VstJ_qku22HTGoJydAqNJJveyuLDuUzg4ETtQrOXBkYyngYwwQuGg=w408-h442-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201319:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0312) 426 14 99",
+    "address": "Maslak, Avk Law Office, B\u00fcy\u00fckdere Cd. 239-1, 34485 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJcczRweq1yhQRmXjuzo88py8",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 19:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJcczRweq1yhQRmXjuzo88py8&q=?q=place_id:ChIJcczRweq1yhQRmXjuzo88py8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.1102774,
+        "longitude": 29.0243859
+    },
+    "plus_code": "426F+4Q \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Maslak",
+        "street": "B\u00fcy\u00fckdere Cd. 239-1",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34485",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "3433779829243017369",
+    "data_id": "0x14cab5eac1d1cc71:0x2fa73c8fceee7899",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh4.googleusercontent.com/oQDY0IfCS-fw3VstJ_qku22HTGoJydAqNJJveyuLDuUzg4ETtQrOXBkYyngYwwQuGg=w274-h298-k-no"
+        },
+        {
+            "about": "D\u0131\u015ftan g\u00f6r\u00fcn\u00fcm",
+            "link": "//lh4.googleusercontent.com/oQDY0IfCS-fw3VstJ_qku22HTGoJydAqNJJveyuLDuUzg4ETtQrOXBkYyngYwwQuGg=w274-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Lup5qJg6BEDSTyk61iQ1Qw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=0.45408866&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

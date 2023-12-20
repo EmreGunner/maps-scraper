@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJAQCUhTO7yhQRdMV3HalHxOk",
+    "name": "HEMEN V\u0130ZE",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Go Tur Vip",
+            "link": "https://www.google.com/maps/search/Go+Tur+Vip/@40.9990679,28.8598578?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": "Seyahat Acentesi"
+        },
+        {
+            "name": "Nihao travel",
+            "link": "https://www.google.com/maps/search/Nihao+travel/@40.9922269,28.8420308?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Seyahat Acentesi"
+        },
+        {
+            "name": "Vize Hizmetleri",
+            "link": "https://www.google.com/maps/search/Vize+Hizmetleri/@41.0461921,28.9864417?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Turizm Dan\u0131\u015fma B\u00fcrosu"
+        },
+        {
+            "name": "Vizevizevize",
+            "link": "https://www.google.com/maps/search/Vizevizevize/@41.049019,28.987277?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Turlar"
+        },
+        {
+            "name": "Evisa Turizm",
+            "link": "https://www.google.com/maps/search/Evisa+Turizm/@41.014617,28.940066?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Seyahat Acentesi"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "HEMEN V\u0130ZE (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Bj2CpgMsGK251BXBtK8lMw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=285.45767&pitch=0&thumbfov=100",
+    "main_category": "Vize Dan\u0131\u015fmanl\u0131\u011f\u0131",
+    "categories": [
+        "Vize Dan\u0131\u015fmanl\u0131\u011f\u0131"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0850 390 8472",
+    "address": "So\u011fanl\u0131, HEMEN V\u0130ZE, Alpay Cd. 16/A, 34183 Bah\u00e7elievler/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJAQCUhTO7yhQRdMV3HalHxOk",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAQCUhTO7yhQRdMV3HalHxOk&q=?q=place_id:ChIJAQCUhTO7yhQRdMV3HalHxOk&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0123333,
+        "longitude": 28.863253099999998
+    },
+    "plus_code": "2V67+W8 Bah\u00e7elievler, \u0130stanbul",
+    "detailed_address": {
+        "ward": "So\u011fanl\u0131",
+        "street": "Alpay Cd. 16/A",
+        "city": "Bah\u00e7elievler",
+        "postal_code": "34183",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16844667297941931380",
+    "data_id": "0x14cabb3385940001:0xe9c447a91d77c574",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Bj2CpgMsGK251BXBtK8lMw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=285.45767&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Bj2CpgMsGK251BXBtK8lMw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=285.45767&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

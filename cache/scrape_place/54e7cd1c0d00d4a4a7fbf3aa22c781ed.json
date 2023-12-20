@@ -1,0 +1,167 @@
+{
+    "place_id": "ChIJewdG29e3yhQRD3lIlJH0EL0",
+    "name": "Serdar Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Ozbek Legal",
+            "link": "https://www.google.com/maps/search/Ozbek+Legal/@41.049869799999996,28.9886108?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "SERDAR HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/SERDAR+HUKUK+B%C3%9CROSU/@40.9118334,29.1761001?authuser=0&entry=ttu",
+            "reviews": 40,
+            "rating": 3.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Legal Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Legal+Hukuk+B%C3%BCrosu/@41.0494694,28.9921627?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u0130stanbul Hukuk ve Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C4%B0stanbul+Hukuk+ve+Avukatl%C4%B1k+B%C3%BCrosu/@41.0526804,28.987627000000003?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Ada Legal",
+            "link": "https://www.google.com/maps/search/Ada+Legal/@41.050159,28.9917339?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 5,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "115103230025302789953",
+        "name": "Serdar Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/115103230025302789953"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMKC_nuUBp4Yops-ldZiZYd_r8G5WJfFC0yPwAg=w960-h240-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 230 22 36",
+    "address": "Halaskargazi, Serdar Hukuk B\u00fcrosu, Vali Kona\u011f\u0131 Cd. No:17/2, 34365 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJewdG29e3yhQRD3lIlJH0EL0",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJewdG29e3yhQRD3lIlJH0EL0&q=?q=place_id:ChIJewdG29e3yhQRD3lIlJH0EL0&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0498753,
+        "longitude": 28.9886052
+    },
+    "plus_code": "2XXQ+XC \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Halaskargazi",
+        "street": "Vali Kona\u011f\u0131 Cd. No:17/2",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34365",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "13623657778890963215",
+    "data_id": "0x14cab7d7db46077b:0xbd10f4919448790f",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMKC_nuUBp4Yops-ldZiZYd_r8G5WJfFC0yPwAg=w1192-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMKC_nuUBp4Yops-ldZiZYd_r8G5WJfFC0yPwAg=w1192-h298-k-no"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

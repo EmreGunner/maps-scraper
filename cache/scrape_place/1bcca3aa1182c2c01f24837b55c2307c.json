@@ -1,0 +1,191 @@
+{
+    "place_id": "ChIJN4R0Zw63yhQRpNJQ9l0DNK4",
+    "name": "SDS Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": 4,
+    "competitors": [
+        {
+            "name": "Litas Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Litas+Hukuk+B%C3%BCrosu/@41.0548957,28.986839399999997?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Av. Burcu G\u00f6kta\u015f Hukuk&Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Av.+Burcu+G%C3%B6kta%C5%9F+Hukuk%26Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.053218099999995,28.9880437?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Libra Hukuk&Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Libra+Hukuk%26Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.0531898,28.9881142?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Dede Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Dede+Hukuk+B%C3%BCrosu/@41.0531424,28.9886957?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "G\u00fcll\u00fc & \u015eent\u00fcrk Hukuk B\u00fcrosu/ \u0130\u015f Davas\u0131 Avukat\u0131",
+            "link": "https://www.google.com/maps/search/G%C3%BCll%C3%BC+%26+%C5%9Eent%C3%BCrk+Hukuk+B%C3%BCrosu%2F+%C4%B0%C5%9F+Davas%C4%B1+Avukat%C4%B1/@41.073223299999995,28.9813106?authuser=0&entry=ttu",
+            "reviews": 21,
+            "rating": 5,
+            "main_category": "\u0130\u015f Hukuku Avukat\u0131"
+        }
+    ],
+    "website": "http://www.sezer.av.tr/",
+    "owner": {
+        "id": null,
+        "name": "SDS Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh4.googleusercontent.com/X40vUYD4qu3PGYRDSKoaLUYg6DnnTrntoYJiLzoq_l-LDc520gUmy1ujZf38eW0p9g=w408-h306-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 2.8,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 219 50 95",
+    "address": "Halaskargazi, SDS Hukuk B\u00fcrosu, Rumeli Caddesi, Ni\u015fanta\u015f\u0131 Meri\u00e7 Apt. D:21, 34371 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJN4R0Zw63yhQRpNJQ9l0DNK4",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 2,
+        "3": 1,
+        "4": 1,
+        "5": 0
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJN4R0Zw63yhQRpNJQ9l0DNK4&authuser=0&hl=tr&gl=TR",
+    "coordinates": {
+        "latitude": 41.0524631,
+        "longitude": 28.9901797
+    },
+    "plus_code": "3X2R+X3 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Halaskargazi",
+        "street": "Rumeli Caddesi, Ni\u015fanta\u015f\u0131 Meri\u00e7 Apt. D:21",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34371",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12552661763487748772",
+    "data_id": "0x14cab70e67748437:0xae34035df650d2a4",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh4.googleusercontent.com/X40vUYD4qu3PGYRDSKoaLUYg6DnnTrntoYJiLzoq_l-LDc520gUmy1ujZf38eW0p9g=w397-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Lv1mfCFUQYlsz2b9bRckUA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=202.79881&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "\u0130lgi sifir",
+            "reviewer_name": "G\u00fcven Y\u0131lmaz",
+            "rating": 2,
+            "review_text": "\u0130lgi sifir",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-05-22T10:16:40.691000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 15,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107153244390106400966/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWevFVhtn-MLXde0C9l7P50hzJOm6FJ0MpIvOUOZUXQqQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "orhan \u00f6zer",
+            "rating": 2,
+            "review_text": null,
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-01-02T10:54:06.728000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 210,
+            "total_number_of_photos_by_reviewer": 25,
+            "reviewer_url": "https://www.google.com/maps/contrib/101801967440159515999/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKcOjzTWIyNFjwzD106aDL02NCUIT2VjWXNaEkcErDXPw=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "hasan B\u0130LEN",
+            "rating": 3,
+            "review_text": null,
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-06-08T13:41:23.462000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 32,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102361342641736235530/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWgIySpf3M7W2PLDdb-X2-9IYahXYJJ1TOx39ASAnPBxOg=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "ZEYNEP PINAR AKGUN",
+            "rating": 4,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-02-02T05:56:26.662000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 102,
+            "total_number_of_photos_by_reviewer": 657,
+            "reviewer_url": "https://www.google.com/maps/contrib/107550254705331955106/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX1qIzhIjuCHtWGt_MUZ1tjEGXn-vfEcYH94rOdItyHTgUZ=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

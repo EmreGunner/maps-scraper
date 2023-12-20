@@ -8,6 +8,9 @@ from .lang import Lang
 from .category import Category
 from .fields import ALL_FIELDS, ALL_SOCIAL_FIELDS, DEFAULT_SOCIAL_FIELDS, Fields, DEFAULT_FIELDS, DEFAULT_FIELDS_WITHOUT_SOCIAL_DATA, ALL_FIELDS_WITHOUT_SOCIAL_DATA
 from .social_scraper import FAILED_DUE_TO_CREDITS_EXHAUSTED, FAILED_DUE_TO_NOT_SUBSCRIBED, FAILED_DUE_TO_UNKNOWN_ERROR, scrape_social
+import logging
+import csv
+
 
 def create_place_data(query, is_spending_on_ads, max, lang, geo_coordinates, zoom, convert_to_english):
     place_data = {
@@ -138,10 +141,7 @@ def merge_reviews(places, reviews):
         place['detailed_reviews'] = found_review['reviews'] if found_review else []
 
     return places
-
-
 # Cache.clear()
-
 # IMPORTANT_FIELDS = []
 # SOCIAL_FIELDS = []
 # REST_FIELDS = []
@@ -177,44 +177,75 @@ def determine_fields(fields, should_scrape_socials, scrape_reviews):
     #   print(fields)
       return fields
 
+def save_to_csv(data, filename='output.csv'):
+    # Check if data is empty or not a list
+    if not data or not isinstance(data, list):
+        logging.error("No data to save to CSV.")
+        return
+
+    # Assuming all dictionaries in the list have the same keys
+    headers = data[0].keys() if data else []
+
+    with open(filename, mode='w', newline='', encoding='utf-8') as file:
+        writer = csv.DictWriter(file, fieldnames=headers)
+
+        # Write the header
+        writer.writeheader()
+
+        # Write the data rows
+        for row in data:
+            writer.writerow(row)
+
+    logging.info(f"Data successfully saved to {filename}")
+
 def process_result(min_reviews, max_reviews, category_in, has_website, has_phone, min_rating, max_rating, sort, key, scrape_reviews, reviews_max, reviews_sort, fields, lang, should_scrape_socials,convert_to_english, cache, places_obj):
-      places = places_obj["places"]
-      query = places_obj["query"]
+    try:
+        places = places_obj.get("places", [])
+        if not places:
+            logging.warning("places error")
+            return {"query":places_obj.get("query"),"places":[]}
+        places = places_obj["places"]
+        query = places_obj["query"]
         # Sort and Filter TODO: do later
-      filter_data = {
-            "min_rating":min_rating,
-            "max_rating":max_rating,
-            "min_reviews":min_reviews,
-            "max_reviews":max_reviews,
-            "has_phone":has_phone,
-            "has_website":has_website,
-            "category_in":category_in,
-        }
-      cleaned_places = filter_places(places, filter_data)
+        filter_data = {
+                "min_rating":min_rating,
+                "max_rating":max_rating,
+                "min_reviews":min_reviews,
+                "max_reviews":max_reviews,
+                "has_phone":has_phone,
+                "has_website":has_website,
+                "category_in":category_in,
+            }
+        cleaned_places = filter_places(places, filter_data)
         
         # 2. Scrape Emails
-      if should_scrape_socials:
-          places_with_websites = filter_places(cleaned_places, {"has_website": True})
-          social_data = create_social_scrape_data(places_with_websites, key)
-          social_details =  bt.remove_nones(scrape_social(social_data, cache=cache))
-          success, credits_exhausted, not_subscribed, unknown_error = clean_social(social_details)
-          print_social_errors(credits_exhausted, not_subscribed, unknown_error)
-          cleaned_places = merge_social(cleaned_places, success)
+        if should_scrape_socials:
+            places_with_websites = filter_places(cleaned_places, {"has_website": True})
+            social_data = create_social_scrape_data(places_with_websites, key)
+            social_details =  bt.remove_nones(scrape_social(social_data, cache=cache))
+            success, credits_exhausted, not_subscribed, unknown_error = clean_social(social_details)
+            print_social_errors(credits_exhausted, not_subscribed, unknown_error)
+            cleaned_places = merge_social(cleaned_places, success)
 
-      cleaned_places =  sort_places(cleaned_places, sort)
+        cleaned_places =  sort_places(cleaned_places, sort)
         # 3. Scrape Reviews
-      if scrape_reviews:
-          placed_with_reviews = filter_places(cleaned_places, {"min_reviews": 1})
-          reviews_data = create_reviews_data(placed_with_reviews, reviews_max, reviews_sort, convert_to_english, lang)
-          reviews_details =  scraper.scrape_reviews(reviews_data, cache=cache)
+        if scrape_reviews:
+            placed_with_reviews = filter_places(cleaned_places, {"min_reviews": 1})
+            reviews_data = create_reviews_data(placed_with_reviews, reviews_max, reviews_sort, convert_to_english, lang)
+            reviews_details =  scraper.scrape_reviews(reviews_data, cache=cache)
             # print_social_errors
-          cleaned_places = merge_reviews(cleaned_places, reviews_details)
+            cleaned_places = merge_reviews(cleaned_places, reviews_details)
 
         # 4. Write Output
-      write_output(query, cleaned_places, fields)
+        write_output(query, cleaned_places, fields)
         
-      result_item = {"query": query, "places": cleaned_places}
-      return result_item
+        result_item = {"query": query, "places": cleaned_places}
+        return result_item
+    except Exception as e:
+        logging.error(f"An error occurred: {e}")
+        # Save the data obtained so far to a CSV file
+        save_to_csv(places_obj.get("places", []), 'error_output.csv')
+        raise  # You can choose to re-raise the exception or return an error response
 
 
 def merge_places(places):

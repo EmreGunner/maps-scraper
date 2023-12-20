@@ -1,0 +1,149 @@
+{
+    "place_id": "ChIJSSwXEAS7yhQRFjI0MtW90SY",
+    "name": "Kut Medya",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Art\u0131 90 - Tam Hizmet Reklam Ajans\u0131",
+            "link": "https://www.google.com/maps/search/Art%C4%B1+90+-+Tam+Hizmet+Reklam+Ajans%C4%B1/@41.0100951,28.899659000000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Reklam Ajans\u0131"
+        },
+        {
+            "name": "Medya Gold",
+            "link": "https://www.google.com/maps/search/Medya+Gold/@41.0204144,28.910668100000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Reklam Ajans\u0131"
+        },
+        {
+            "name": "Merter Studio - AjansMerter",
+            "link": "https://www.google.com/maps/search/Merter+Studio+-+AjansMerter/@41.0093799,28.8844097?authuser=0&entry=ttu",
+            "reviews": 33,
+            "rating": 4.6,
+            "main_category": "Foto\u011fraf St\u00fcdyosu"
+        },
+        {
+            "name": "\u0130K\u0130U AJANS",
+            "link": "https://www.google.com/maps/search/%C4%B0K%C4%B0U+AJANS/@41.013018599999995,28.9024552?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Reklam Ajans\u0131"
+        }
+    ],
+    "website": "http://www.kutmedya.com/",
+    "owner": {
+        "id": null,
+        "name": "Kut Medya (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AN8sPyw7QIDF6foBRqPb8g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=13.898061&pitch=0&thumbfov=100",
+    "main_category": "Reklam Ajans\u0131",
+    "categories": [
+        "Reklam Ajans\u0131"
+    ],
+    "rating": null,
+    "workday_timing": "10:00\u201319:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0850 203 3747",
+    "address": "Kut Medya, Maltepe Mh. General Ali R\u0131za G\u00fcrcan Cad. Eski \u00c7\u0131rp\u0131c\u0131 Yolu Sokak. Merter, Meridyen \u0130\u015f Merkezi 4. Kat No: 435, 34010 Zeytinburnu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJSSwXEAS7yhQRFjI0MtW90SY",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 19:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJSSwXEAS7yhQRFjI0MtW90SY&q=?q=place_id:ChIJSSwXEAS7yhQRFjI0MtW90SY&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.010661,
+        "longitude": 28.899658
+    },
+    "plus_code": "2V6X+7V Zeytinburnu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Maltepe",
+        "street": "Maltepe Mh. General Ali R\u0131za G\u00fcrcan Cad. Eski \u00c7\u0131rp\u0131c\u0131 Yolu Sokak. Merter, Meridyen \u0130\u015f Merkezi 4. Kat No: 435",
+        "city": "Zeytinburnu",
+        "postal_code": "34010",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2797225566941753878",
+    "data_id": "0x14cabb0410172c49:0x26d1bdd532343216",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AN8sPyw7QIDF6foBRqPb8g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=13.898061&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AN8sPyw7QIDF6foBRqPb8g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=13.898061&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "10:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "10:00\u201319:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "10:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "10:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "10:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

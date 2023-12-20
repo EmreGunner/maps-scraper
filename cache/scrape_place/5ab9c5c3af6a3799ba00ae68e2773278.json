@@ -1,0 +1,114 @@
+{
+    "place_id": "ChIJ10ExwfTHyhQR6_gFeU8UNTA",
+    "name": "Meri\u00e7 Demir",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Metin Metal San.T\u0131c.Ltd.Sti",
+            "link": "https://www.google.com/maps/search/Metin+Metal+San.T%C4%B1c.Ltd.Sti/@40.9923377,29.0482883?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": ""
+        },
+        {
+            "name": "Emek Demir Do\u011frama",
+            "link": "https://www.google.com/maps/search/Emek+Demir+Do%C4%9Frama/@40.986054599999996,29.079875?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Metal Son \u0130\u015flemcisi"
+        },
+        {
+            "name": "Teknik Demir Do\u011frama",
+            "link": "https://www.google.com/maps/search/Teknik+Demir+Do%C4%9Frama/@40.9887629,29.055993800000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Metal Tedarik\u00e7isi"
+        },
+        {
+            "name": "Makro Metal",
+            "link": "https://www.google.com/maps/search/Makro+Metal/@40.9926343,29.040847299999996?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Metal Tedarik\u00e7isi"
+        },
+        {
+            "name": "\u015eahin Demir Do\u011frama",
+            "link": "https://www.google.com/maps/search/%C5%9Eahin+Demir+Do%C4%9Frama/@40.9903267,29.0673984?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Metal Son \u0130\u015flemcisi"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Meri\u00e7 Demir (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPhhB8bZs1B5JbNLR9uyESnb4B8DEE6LpS-fzYL=w408-h725-k-no",
+    "main_category": "Metal Son \u0130\u015flemcisi",
+    "categories": [
+        "Metal Son \u0130\u015flemcisi"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Fikirtepe, Meri\u00e7 Demir, Mand\u0131ra Cd. No:29, 34720 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ10ExwfTHyhQR6_gFeU8UNTA",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ10ExwfTHyhQR6_gFeU8UNTA&q=?q=place_id:ChIJ10ExwfTHyhQR6_gFeU8UNTA&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9939252,
+        "longitude": 29.049975999999997
+    },
+    "plus_code": "X2VX+HX Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Fikirtepe",
+        "street": "Mand\u0131ra Cd. No:29",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34720",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "3473705019151612139",
+    "data_id": "0x14cac7f4c13141d7:0x3035144f7905f8eb",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPhhB8bZs1B5JbNLR9uyESnb4B8DEE6LpS-fzYL=w224-h398-k-no"
+        },
+        {
+            "about": "D\u0131\u015ftan g\u00f6r\u00fcn\u00fcm",
+            "link": "//lh6.googleusercontent.com/IEm0ph9NC41Pg31GKZFTNaZbLB40SnWyLvtWoSUYJu0rY_W5O75f9s6SjtPoDBZF=w397-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=196Ai_z1RzBBbeSs7CQ0rw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=209.44246&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

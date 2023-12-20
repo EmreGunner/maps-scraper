@@ -1,0 +1,181 @@
+{
+    "place_id": "ChIJOcEqnWS3yhQR4pyUkL331SM",
+    "name": "Solak&Partners Law Firm",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "AKS & PARTNERS HUKUK",
+            "link": "https://www.google.com/maps/search/AKS+%26+PARTNERS+HUKUK/@41.077556699999995,29.014945200000003?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "YC Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/YC+Hukuk+B%C3%BCrosu/@41.0785257,29.0082405?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 4.4,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Y\u0131lmaz And Partners",
+            "link": "https://www.google.com/maps/search/Y%C4%B1lmaz+And+Partners/@41.0776543,29.018518?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "SAVAN Hukuk B\u00fcrosu/Law Firm",
+            "link": "https://www.google.com/maps/search/SAVAN+Hukuk+B%C3%BCrosu%2FLaw+Firm/@41.0807295,29.0129527?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "LEGALSQUARE | Global Law Firm",
+            "link": "https://www.google.com/maps/search/LEGALSQUARE+%7C+Global+Law+Firm/@41.0796533,29.0111048?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": "http://www.solakpartners.com/",
+    "owner": {
+        "id": null,
+        "name": "Solak&Partners Law Firm (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ycDEZgudfzL0eEx2eQlYXg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=218.80229&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201318:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 317 47 34",
+    "address": "Solak&Partners Law Firm, Yap\u0131 Kredi Plaza C Blok No:40 Levent, 34330, Be\u015fikta\u015f, 34330 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJOcEqnWS3yhQR4pyUkL331SM",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJOcEqnWS3yhQR4pyUkL331SM&q=?q=place_id:ChIJOcEqnWS3yhQR4pyUkL331SM&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0809244,
+        "longitude": 29.012741499999997
+    },
+    "plus_code": "32J7+93 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Levent",
+        "street": "Yap\u0131 Kredi Plaza C Blok No:40 Levent, 34330, Be\u015fikta\u015f",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34330",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2582242354913385698",
+    "data_id": "0x14cab7649d2ac139:0x23d5f7bd90949ce2",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ycDEZgudfzL0eEx2eQlYXg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=218.80229&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOQc2ZEf1MofHYUhUEkT3DCTD6r-Y-HyHsoDbY3=w547-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ycDEZgudfzL0eEx2eQlYXg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=218.80229&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "The most experienced law firm specializing in crypto & blockchain legislation in Turkey. They are rendering law and consultancy services for the most known crypto exchange companies",
+            "reviewer_name": "Evren Ozmen",
+            "rating": 5,
+            "review_text": "The most experienced law firm specializing in crypto & blockchain legislation in Turkey. They are rendering law and consultancy services for the most known crypto exchange companies",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-07-06T09:51:40.195000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 49,
+            "total_number_of_photos_by_reviewer": 7,
+            "reviewer_url": "https://www.google.com/maps/contrib/104278242175480731383/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVgAP1TNvDuCJ9HTee4if7dITKCouauWiEMLGNy7tJCy1QO=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": "T\u00fcrkiye'nin kripto ve blockchain mevzuat\u0131 konusunda uzmanla\u015fm\u0131\u015f en deneyimli hukuk b\u00fcrosu. En bilinen kripto borsa \u015firketlerine hukuk ve dan\u0131\u015fmanl\u0131k hizmeti veriyorlar",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

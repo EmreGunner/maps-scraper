@@ -1,0 +1,227 @@
+{
+    "place_id": "ChIJVSLHOQjzJxURuTYx3LHsrF0",
+    "name": "Erdal Kaya Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": 3,
+    "competitors": [
+        {
+            "name": "Mersin Avukat Erdal ALKAN",
+            "link": "https://www.google.com/maps/search/Mersin+Avukat+Erdal+ALKAN/@36.8023629,34.6217186?authuser=0&entry=ttu",
+            "reviews": 51,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Erkan Karakaya",
+            "link": "https://www.google.com/maps/search/Avukat+Erkan+Karakaya/@36.7973971,34.6258683?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Fevzi Yal\u00e7\u0131nkaya",
+            "link": "https://www.google.com/maps/search/Avukat+Fevzi+Yal%C3%A7%C4%B1nkaya/@36.803796,34.632098?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "K\u00f6seo\u011flu Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/K%C3%B6seo%C4%9Flu+Hukuk+B%C3%BCrosu/@36.7974475,34.6274574?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ayhan Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ayhan+Hukuk+B%C3%BCrosu/@36.8035188,34.6258425?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Kurumsal Ofis"
+        }
+    ],
+    "website": "http://www.erdalkaya.av.tr/",
+    "owner": {
+        "id": "110626746256475780239",
+        "name": "Erdal Kaya Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/110626746256475780239"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dHhp_DucR2Vx0zt5BA5-rA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=253.4089&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": 5,
+    "workday_timing": "08:00\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0324) 239 07 24",
+    "address": "Erdal Kaya Hukuk B\u00fcrosu, G\u00f6kdelen \u0130\u015f Merkezi K:8, Akdeniz, 33250 250/Mersin",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJVSLHOQjzJxURuTYx3LHsrF0",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 08:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJVSLHOQjzJxURuTYx3LHsrF0&q=?q=place_id:ChIJVSLHOQjzJxURuTYx3LHsrF0&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.8043051,
+        "longitude": 34.6250565
+    },
+    "plus_code": "RJ3G+P2 Akdeniz, Mersin",
+    "detailed_address": {
+        "ward": "Mesudiye",
+        "street": "G\u00f6kdelen \u0130\u015f Merkezi K:8, Akdeniz",
+        "city": "250",
+        "postal_code": "33250",
+        "state": "Mersin",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6750030190169110201",
+    "data_id": "0x1527f30839c72255:0x5dacecb1dc3136b9",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dHhp_DucR2Vx0zt5BA5-rA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=253.4089&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dHhp_DucR2Vx0zt5BA5-rA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=253.4089&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:30\u201313:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Mehmet Ecevit",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-05-05T06:44:42.817000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 11,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/113852431878081760334/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKsBIU6rP2NrDbXUq5dUEKZHIuP-jm-vzPHjnOy-jNO=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Mehmet Ecevit",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-07-03T06:35:07.546000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111812899565254897667/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUoRTVX1ZX40yZrmS774j-cheJ_wEAaawSpOjugx9v8LKO2=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "MURAT BALSE\u00c7EN",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-01-04T07:03:17.038000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 8,
+            "reviewer_url": "https://www.google.com/maps/contrib/109801292261719802345/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjURkugVKsbXS9oSYapuXLiQppsYAWrSUKfy1mtQdT4YS2Bo=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

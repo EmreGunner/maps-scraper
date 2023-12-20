@@ -1,0 +1,147 @@
+{
+    "place_id": "ChIJy0Ph5kCPKBUR1391zvklqBQ",
+    "name": "Ege Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Avukat Ege Can G\u00fczel",
+            "link": "https://www.google.com/maps/search/Avukat+Ege+Can+G%C3%BCzel/@37.0008023,35.3207637?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Ayd\u0131ng\u00fcl Avukatl\u0131k, Arabuluculuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ayd%C4%B1ng%C3%BCl+Avukatl%C4%B1k%2C+Arabuluculuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@36.9926223,35.3237388?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 3.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "E\u015eBERK Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/E%C5%9EBERK+Hukuk+B%C3%BCrosu/@36.990033499999996,35.3214888?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Bozdo\u011fan Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Bozdo%C4%9Fan+Hukuk+B%C3%BCrosu/@36.993986199999995,35.3220098?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 4.9,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Uyar Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Uyar+Hukuk+B%C3%BCrosu/@36.993944,35.3224776?authuser=0&entry=ttu",
+            "reviews": 10,
+            "rating": 4.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Ege Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "08:30\u201318:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0322) 422 53 93",
+    "address": "Kurtulu\u015f, Ege Hukuk B\u00fcrosu, \u015einasi Efendi Cd. No:20, 01130 Seyhan/Adana",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJy0Ph5kCPKBUR1391zvklqBQ",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJy0Ph5kCPKBUR1391zvklqBQ&q=?q=place_id:ChIJy0Ph5kCPKBUR1391zvklqBQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 37.0009352,
+        "longitude": 35.3211127
+    },
+    "plus_code": "282C+9C Seyhan, Adana",
+    "detailed_address": {
+        "ward": "Kurtulu\u015f",
+        "street": "\u015einasi Efendi Cd. No:20",
+        "city": "Seyhan",
+        "postal_code": "01130",
+        "state": "Adana",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "1488481431686840279",
+    "data_id": "0x15288f40e6e143cb:0x14a825f9ce757fd7",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

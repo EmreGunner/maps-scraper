@@ -1,0 +1,181 @@
+{
+    "place_id": "ChIJz0VO6OWjyhQRiU5--dySTks",
+    "name": "SOY AVUKATLIK B\u00dcROSU",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "YA&\u015eA LEGAL Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/YA%26%C5%9EA+LEGAL+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@40.995449,28.823724999999996?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "YUR\u0130ST HUKUK VE ARABULUCULUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/YUR%C4%B0ST+HUKUK+VE+ARABULUCULUK+B%C3%9CROSU/@40.9958713,28.8249491?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6Z&ER HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/%C3%96Z%26ER+HUKUK+B%C3%9CROSU/@40.995505699999995,28.8249352?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00c7\u00f6z\u00fcm Avukatl\u0131k Hukuk Ofisi",
+            "link": "https://www.google.com/maps/search/%C3%87%C3%B6z%C3%BCm+Avukatl%C4%B1k+Hukuk+Ofisi/@40.9961507,28.824621900000004?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ATSA HUKUK VE DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/ATSA+HUKUK+VE+DANI%C5%9EMANLIK/@40.9951052,28.8249746?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "104137305037851299993",
+        "name": "SOY AVUKATLIK B\u00dcROSU (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/104137305037851299993"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOQa00yiS2xz7Sl0UHfN7ru6xqbxkWvGRTeCOaZ=w408-h525-k-no",
+    "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti",
+    "categories": [
+        "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+    ],
+    "rating": null,
+    "workday_timing": "08:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0534 576 25 35",
+    "address": "\u00c7oban\u00e7e\u015fme, SOY AVUKATLIK B\u00dcROSU, Nish \u0130stanbul Residence, Sanayi Cd. No:44 C Blok D:22, 34100 Bah\u00e7elievler/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJz0VO6OWjyhQRiU5--dySTks",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJz0VO6OWjyhQRiU5--dySTks&q=?q=place_id:ChIJz0VO6OWjyhQRiU5--dySTks&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9955948,
+        "longitude": 28.824357799999998
+    },
+    "plus_code": "XRWF+6P Bah\u00e7elievler, \u0130stanbul",
+    "detailed_address": {
+        "ward": "\u00c7oban\u00e7e\u015fme",
+        "street": "Nish \u0130stanbul Residence, Sanayi Cd. No:44 C Blok D:22",
+        "city": "Bah\u00e7elievler",
+        "postal_code": "34100",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "5426436078804291209",
+    "data_id": "0x14caa3e5e84e45cf:0x4b4e92dcf97e4e89",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOQa00yiS2xz7Sl0UHfN7ru6xqbxkWvGRTeCOaZ=w231-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOQa00yiS2xz7Sl0UHfN7ru6xqbxkWvGRTeCOaZ=w231-h298-k-no"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

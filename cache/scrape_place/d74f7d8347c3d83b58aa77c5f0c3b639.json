@@ -1,0 +1,167 @@
+{
+    "place_id": "ChIJZY0JbSnGyhQRO5vfWzSXE28",
+    "name": "MCHOICE YMM",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Mono Yeminli Mali M\u00fc\u015favirlik Anonim \u015eirketi",
+            "link": "https://www.google.com/maps/search/Mono+Yeminli+Mali+M%C3%BC%C5%9Favirlik+Anonim+%C5%9Eirketi/@40.9920498,29.103862499999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Vergi Dan\u0131\u015fman\u0131"
+        },
+        {
+            "name": "HKR DENET\u0130M YEM\u0130NL\u0130 MAL\u0130 M\u00dc\u015eAV\u0130RL\u0130K",
+            "link": "https://www.google.com/maps/search/HKR+DENET%C4%B0M+YEM%C4%B0NL%C4%B0+MAL%C4%B0+M%C3%9C%C5%9EAV%C4%B0RL%C4%B0K/@40.994732899999995,29.100061600000004?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 3.7,
+            "main_category": "Vergi Dan\u0131\u015fman\u0131"
+        },
+        {
+            "name": "YMM Osman Okur",
+            "link": "https://www.google.com/maps/search/YMM+Osman+Okur/@40.9807419,29.103316399999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Mali M\u00fc\u015favir"
+        },
+        {
+            "name": "MayaLLC",
+            "link": "https://www.google.com/maps/search/MayaLLC/@41.0006108,29.1009311?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "D\u0131\u015f Ticaret Dan\u0131\u015fman\u0131"
+        },
+        {
+            "name": "\u00d6zmen M\u00fc\u015favirlik-Kooperatif Dan\u0131\u015fman\u0131 Mali M\u00fc\u015favir Kemal \u00d6ZMEN-Evren \u00d6ZMEN",
+            "link": "https://www.google.com/maps/search/%C3%96zmen+M%C3%BC%C5%9Favirlik-Kooperatif+Dan%C4%B1%C5%9Fman%C4%B1+Mali+M%C3%BC%C5%9Favir+Kemal+%C3%96ZMEN-Evren+%C3%96ZMEN/@40.9951206,29.100658900000003?authuser=0&entry=ttu",
+            "reviews": 45,
+            "rating": 4.9,
+            "main_category": "Mali M\u00fc\u015favir"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "MCHOICE YMM (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ncLLIRj4RZZevdONF5Z-Bg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=235.6007&pitch=0&thumbfov=100",
+    "main_category": "Mali M\u00fc\u015favir",
+    "categories": [
+        "Mali M\u00fc\u015favir"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 504 13 17",
+    "address": "MCHOICE YMM, BARBAROS MH. MOR S\u00dcMB\u00dcL SK. NO:5 KAT:14 DA\u0130RE:382 DELUX\u0130A PALACE BATI, ATA\u015eEH\u0130R, 34746 Ata\u015fehir/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJZY0JbSnGyhQRO5vfWzSXE28",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJZY0JbSnGyhQRO5vfWzSXE28&q=?q=place_id:ChIJZY0JbSnGyhQRO5vfWzSXE28&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9951648,
+        "longitude": 29.0996317
+    },
+    "plus_code": "X3WX+3V Ata\u015fehir, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Barbaros",
+        "street": "BARBAROS MH. MOR S\u00dcMB\u00dcL SK. NO:5 KAT:14 DA\u0130RE:382 DELUX\u0130A PALACE BATI, ATA\u015eEH\u0130R",
+        "city": "Ata\u015fehir",
+        "postal_code": "34746",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "8003907213902977851",
+    "data_id": "0x14cac6296d098d65:0x6f1397345bdf9b3b",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ncLLIRj4RZZevdONF5Z-Bg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=235.6007&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ncLLIRj4RZZevdONF5Z-Bg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=235.6007&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

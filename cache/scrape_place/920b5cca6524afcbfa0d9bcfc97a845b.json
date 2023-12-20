@@ -1,0 +1,172 @@
+{
+    "place_id": "ChIJZbNN1tvHyhQRbUyEqyd10bY",
+    "name": "\u00d6ZEN Avukatl\u0131k ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "\u00d6zen Hukuk Dani\u015fmanlik & Arabuluculuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%96zen+Hukuk+Dani%C5%9Fmanlik+%26+Arabuluculuk+B%C3%BCrosu/@41.062731899999996,28.987512399999996?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 3.7,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Nova Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Nova+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.977168,29.107373000000003?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 4.2,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6zt\u00fcrker Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%96zt%C3%BCrker+Hukuk+B%C3%BCrosu/@40.986498999999995,29.110937?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "EYA Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/EYA+Hukuk+B%C3%BCrosu/@40.9847959,29.112740299999995?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6zayd\u0131n Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%96zayd%C4%B1n+Hukuk+B%C3%BCrosu/@40.9919917,29.1201904?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "107998761044595746344",
+        "name": "\u00d6ZEN Avukatl\u0131k ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/107998761044595746344"
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0543 816 44 02",
+    "address": "\u00d6ZEN Avukatl\u0131k ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu, K\u00fc\u00e7\u00fckbakkalk\u00f6y Mh. Gedikpa\u015fa Sk. Sar\u0131kaya \u0130\u015f Merkezi Kap\u0131 No: 12 D: 9, 34750 Ata\u015fehir/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJZbNN1tvHyhQRbUyEqyd10bY",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJZbNN1tvHyhQRbUyEqyd10bY&q=?q=place_id:ChIJZbNN1tvHyhQRbUyEqyd10bY&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.979527,
+        "longitude": 29.113750699999997
+    },
+    "plus_code": "X4H7+RG Ata\u015fehir, \u0130stanbul",
+    "detailed_address": {
+        "ward": "K\u00fc\u00e7\u00fckbakkalk\u00f6y",
+        "street": "K\u00fc\u00e7\u00fckbakkalk\u00f6y Mh. Gedikpa\u015fa Sk. Sar\u0131kaya \u0130\u015f Merkezi Kap\u0131 No: 12 D: 9",
+        "city": "Ata\u015fehir",
+        "postal_code": "34750",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "13173439198277160045",
+    "data_id": "0x14cac7dbd64db365:0xb6d17527ab844c6d",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

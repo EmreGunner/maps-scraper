@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJkyvUqky5yhQRT9L1vBsxeOQ",
+    "name": "Erbul Law Firm",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Celen Law Firm",
+            "link": "https://www.google.com/maps/search/Celen+Law+Firm/@40.9763698,29.0488391?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 3,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u00dcrer Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%9Crer+Hukuk+B%C3%BCrosu/@40.976745,29.04254?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ANLAR HUKUK & DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/ANLAR+HUKUK+%26+DANI%C5%9EMANLIK/@40.982056899999996,29.0403907?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ED LEGAL Arabuluculuk Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/ED+LEGAL+Arabuluculuk+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9760914,29.049666199999997?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Uyber Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Uyber+Hukuk+B%C3%BCrosu/@41.006755999999996,29.036871?authuser=0&entry=ttu",
+            "reviews": 22,
+            "rating": 4.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Erbul Law Firm (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OJSlt-bjU14XHNXK7Wp3qA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=21.553314&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Fenerbah\u00e7e, Erbul Law Firm, Yelken Sk. No:6 D:8, 34726 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJkyvUqky5yhQRT9L1vBsxeOQ",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJkyvUqky5yhQRT9L1vBsxeOQ&q=?q=place_id:ChIJkyvUqky5yhQRT9L1vBsxeOQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9783768,
+        "longitude": 29.040877199999997
+    },
+    "plus_code": "X2HR+99 Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Fenerbah\u00e7e",
+        "street": "Yelken Sk. No:6 D:8",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34726",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16462962433056952911",
+    "data_id": "0x14cab94caad42b93:0xe478311bbcf5d24f",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OJSlt-bjU14XHNXK7Wp3qA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=21.553314&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OJSlt-bjU14XHNXK7Wp3qA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=21.553314&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

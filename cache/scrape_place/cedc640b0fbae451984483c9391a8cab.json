@@ -1,0 +1,216 @@
+{
+    "place_id": "ChIJ1XbYIPmPwxQRMPrPXQx2gMo",
+    "name": "B\u0130LGE HUKUK B\u00dcROSU",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "Avukat Bilge \u00c7elebi",
+            "link": "https://www.google.com/maps/search/Avukat+Bilge+%C3%87elebi/@36.8900582,30.692085399999996?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "B\u0130LGE ERO\u011eLU",
+            "link": "https://www.google.com/maps/search/B%C4%B0LGE+ERO%C4%9ELU/@36.8922928,30.700446099999997?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Ali G\u00fcler",
+            "link": "https://www.google.com/maps/search/Avukat+Ali+G%C3%BCler/@36.8924962,30.699616199999998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Ali Bilgi\u00e7",
+            "link": "https://www.google.com/maps/search/Avukat+Ali+Bilgi%C3%A7/@36.8895317,30.7064885?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 3.7,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": "http://www.bilge-hukuk.com.tr/",
+    "owner": {
+        "id": "115788409926014282937",
+        "name": "B\u0130LGE HUKUK B\u00dcROSU (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/115788409926014282937"
+    },
+    "featured_image": "//lh5.googleusercontent.com/SZiy-8tQf386EcQ-eNfZqqLxTZj_kt1WrN9rWpy9qwbdgXDPYDKWTLfpbcb8C55F-w=w408-h613-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201318:30",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0242) 247 83 89",
+    "address": "Deniz, B\u0130LGE HUKUK B\u00dcROSU, Konyaalt\u0131 Cd. Antmarin \u0130\u015f Merkezi No:24 Ofis:302, 07010 Muratpa\u015fa/Antalya",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ1XbYIPmPwxQRMPrPXQx2gMo",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1XbYIPmPwxQRMPrPXQx2gMo&q=?q=place_id:ChIJ1XbYIPmPwxQRMPrPXQx2gMo&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.885510499999995,
+        "longitude": 30.6950768
+    },
+    "plus_code": "VMPW+62 Muratpa\u015fa, Antalya",
+    "detailed_address": {
+        "ward": "Deniz",
+        "street": "Konyaalt\u0131 Cd. Antmarin \u0130\u015f Merkezi No:24 Ofis:302",
+        "city": "Muratpa\u015fa",
+        "postal_code": "07010",
+        "state": "Antalya",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "14591792588166003248",
+    "data_id": "0x14c38ff920d876d5:0xca80760c5dcffa30",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun oturma d\u00fczeni",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh5.googleusercontent.com/SZiy-8tQf386EcQ-eNfZqqLxTZj_kt1WrN9rWpy9qwbdgXDPYDKWTLfpbcb8C55F-w=w224-h336-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNmUo2DBp8lM_tjX5FD9l27LzUrQmgPhTwRkaDv=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kP034CxGz8q7tkcahs41LQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=38.349155&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "11:00\u201315:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Saban Karateke",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-07-18T17:01:18.523000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 137,
+            "total_number_of_photos_by_reviewer": 49,
+            "reviewer_url": "https://www.google.com/maps/contrib/117252240704544496376/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUOocabG-kdcky-LpSOmk9SFtzwyTlnYJUozuMl1z7wlCCq=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

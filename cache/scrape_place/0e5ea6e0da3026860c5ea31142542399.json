@@ -1,0 +1,87 @@
+{
+    "place_id": "ChIJm8XyYs3DJRUR7o_9xZcudfU",
+    "name": "Segah Terc\u00fcme B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Elmas Terc\u00fcme",
+            "link": "https://www.google.com/maps/search/Elmas+Terc%C3%BCme/@36.2013035,36.164768599999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "\u00c7evirmen"
+        },
+        {
+            "name": "Dost Terc\u00fcme B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Dost+Terc%C3%BCme+B%C3%BCrosu/@36.2056325,36.165095?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "\u00c7evirmen"
+        },
+        {
+            "name": "Sima terc\u00fcme bili\u015fim ve dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Sima+terc%C3%BCme+bili%C5%9Fim+ve+dan%C4%B1%C5%9Fmanl%C4%B1k/@36.2081108,36.164751599999995?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4.5,
+            "main_category": "\u00c7evirmen"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Segah Terc\u00fcme B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "\u00c7evirmen",
+    "categories": [
+        "\u00c7evirmen"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0326) 214 10 38",
+    "address": "\u015eehitler, Segah Terc\u00fcme B\u00fcrosu, Yavuz Selim Cad./osman Durmaz Sok. Recep D\u00fc\u015fsel \u00c7ar\u015f\u0131s\u0131 D Blok D:13, 31060 Antakya/Hatay",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJm8XyYs3DJRUR7o_9xZcudfU",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJm8XyYs3DJRUR7o_9xZcudfU&q=?q=place_id:ChIJm8XyYs3DJRUR7o_9xZcudfU&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.2005179,
+        "longitude": 36.165342599999995
+    },
+    "plus_code": "6528+64 Antakya, Hatay",
+    "detailed_address": {
+        "ward": "\u015eehitler",
+        "street": "Yavuz Selim Cad./osman Durmaz Sok. Recep D\u00fc\u015fsel \u00c7ar\u015f\u0131s\u0131 D Blok D:13",
+        "city": "Antakya",
+        "postal_code": "31060",
+        "state": "Hatay",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "17687094340964159470",
+    "data_id": "0x1525c3cd62f2c59b:0xf5752e97c5fd8fee",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

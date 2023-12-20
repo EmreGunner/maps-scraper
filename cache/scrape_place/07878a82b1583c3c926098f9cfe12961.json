@@ -1,0 +1,227 @@
+{
+    "place_id": "ChIJ5-pq6IGPKBURlMgCTJ_o9go",
+    "name": "POLAT Hukuk & Dan\u0131\u015fmanl\u0131k",
+    "description": null,
+    "reviews": 2,
+    "competitors": [
+        {
+            "name": "TANIR HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/TANIR+HUKUK+B%C3%9CROSU/@36.986801299999996,35.3327471?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Serpil DEL\u0130BI\u00c7AK CEH\u0130Z Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Avukat+Serpil+DEL%C4%B0BI%C3%87AK+CEH%C4%B0Z+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@36.9908984,35.328618899999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ZEYNEL FURKAN YILMAZ HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/ZEYNEL+FURKAN+YILMAZ+HUKUK+B%C3%9CROSU/@36.990945599999996,35.3275546?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Alptekin Hukuk, Dan\u0131\u015fmanl\u0131k ve Arabuluculuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Alptekin+Hukuk%2C+Dan%C4%B1%C5%9Fmanl%C4%B1k+ve+Arabuluculuk+B%C3%BCrosu/@36.9897365,35.3297251?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "https://polatlawoffice.business.site/",
+    "owner": {
+        "id": "101579662831937893695",
+        "name": "POLAT Hukuk & Dan\u0131\u015fmanl\u0131k (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/101579662831937893695"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNZi0ZXjAehPUd4WWHgitnzXgyTeNKUwO9hd1Iz=w427-h240-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu",
+        "Avukatl\u0131k Dan\u0131\u015fma Hizmeti",
+        "Avukat",
+        "Hukuk Hizmetleri"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201317:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0530 441 62 62",
+    "address": "Kayal\u0131ba\u011f, POLAT Hukuk & Dan\u0131\u015fmanl\u0131k, Turhan Cemal Beriker Blv. Ziya Algan \u0130\u015f Merkezi Kat: 4, 01010 Seyhan/Adana",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ5-pq6IGPKBURlMgCTJ_o9go",
+    "status": "Kapal\u0131 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ5-pq6IGPKBURlMgCTJ_o9go&q=?q=place_id:ChIJ5-pq6IGPKBURlMgCTJ_o9go&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.9911367,
+        "longitude": 35.3280414
+    },
+    "plus_code": "X8RH+F6 Seyhan, Adana",
+    "detailed_address": {
+        "ward": "Kayal\u0131ba\u011f",
+        "street": "Turhan Cemal Beriker Blv. Ziya Algan \u0130\u015f Merkezi Kat: 4",
+        "city": "Seyhan",
+        "postal_code": "01010",
+        "state": "Adana",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "790074555522795668",
+    "data_id": "0x15288f81e86aeae7:0xaf6e89f4c02c894",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNZi0ZXjAehPUd4WWHgitnzXgyTeNKUwO9hd1Iz=w530-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNZi0ZXjAehPUd4WWHgitnzXgyTeNKUwO9hd1Iz=w530-h298-k-no"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "10:30\u201314:30"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Sena Hall\u0131o\u011flu",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-01-20T17:13:08.891000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102033917678675262034/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLUR7E262t-lGJnLQS3dMk3KiKNnzd4GcACHAOv2Deg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "B\u00fc\u015fra Polat",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-01-20T18:41:26.599000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108783622927242857469/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLzLZkW4-k4JW9DVti_kyOlkVj1qmYeWPv-HJtgUUB-=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

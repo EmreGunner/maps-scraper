@@ -1,0 +1,121 @@
+{
+    "place_id": "ChIJo6DtoTPCJRUR8H7GfZQqOOE",
+    "name": "Avukat \u0130nayet Ta\u015f",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Avukat Serkan Katay\u0131f\u00e7\u0131",
+            "link": "https://www.google.com/maps/search/Avukat+Serkan+Katay%C4%B1f%C3%A7%C4%B1/@36.2062366,36.1642642?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "ATA HUKUK VE AVUKATLIK B\u00dcROSU | ANTAKYA AVUKAT | CEZA AVUKAT| AVUKAT | HATAY AVUKAT",
+            "link": "https://www.google.com/maps/search/ATA+HUKUK+VE+AVUKATLIK+B%C3%9CROSU+%7C+ANTAKYA+AVUKAT+%7C+CEZA+AVUKAT%7C+AVUKAT+%7C+HATAY+AVUKAT/@36.2211509,36.1423486?authuser=0&entry=ttu",
+            "reviews": 166,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Kuseyri Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kuseyri+Hukuk+B%C3%BCrosu/@36.2045483,36.1610848?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 3.7,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Ta\u015fk\u0131n \u00c7\u0130FT\u00c7\u0130 - Av.Kemal DURKAL - Av. S\u00fcleyman G\u00d6\u00c7MEN",
+            "link": "https://www.google.com/maps/search/Avukat+Ta%C5%9Fk%C4%B1n+%C3%87%C4%B0FT%C3%87%C4%B0+-+Av.Kemal+DURKAL+-+Av.+S%C3%BCleyman+G%C3%96%C3%87MEN/@36.2384792,36.1451013?authuser=0&entry=ttu",
+            "reviews": 16,
+            "rating": 4.7,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Arabulucu Aytekin TELL\u0130",
+            "link": "https://www.google.com/maps/search/Avukat+Arabulucu+Aytekin+TELL%C4%B0/@36.2258103,36.1300442?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Avukat \u0130nayet Ta\u015f (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hUm882STbzjLNBSCskSqxA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=11.421865&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0326) 215 29 60",
+    "address": "General \u015e\u00fckr\u00fc Kanatl\u0131, Avukat \u0130nayet Ta\u015f, Esmerli Apt, Kanatl\u0131 Cd. D:4, 31030 Antakya/Hatay",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJo6DtoTPCJRUR8H7GfZQqOOE",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJo6DtoTPCJRUR8H7GfZQqOOE&q=?q=place_id:ChIJo6DtoTPCJRUR8H7GfZQqOOE&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.206171,
+        "longitude": 36.161403
+    },
+    "plus_code": null,
+    "detailed_address": {
+        "ward": "General \u015e\u00fckr\u00fc Kanatl\u0131",
+        "street": "Esmerli Apt, Kanatl\u0131 Cd. D:4",
+        "city": "Antakya",
+        "postal_code": "31030",
+        "state": "Hatay",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16228768074483269360",
+    "data_id": "0x1525c233a1eda0a3:0xe1382a947dc67ef0",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hUm882STbzjLNBSCskSqxA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=11.421865&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hUm882STbzjLNBSCskSqxA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=11.421865&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

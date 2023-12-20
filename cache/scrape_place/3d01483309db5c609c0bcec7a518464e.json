@@ -1,0 +1,188 @@
+{
+    "place_id": "ChIJfRIUf6HDyhQRGYZFQpkAQ-8",
+    "name": "Sinem Turan Hukuk & Dan\u0131\u015fmanl\u0131k",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "Turan Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Turan+Hukuk+B%C3%BCrosu/@41.0085954,29.0456592?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AV. TURAN FETH\u0130 YILDIZ",
+            "link": "https://www.google.com/maps/search/AV.+TURAN+FETH%C4%B0+YILDIZ/@40.919546499999996,29.178703599999995?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Turan hukuk",
+            "link": "https://www.google.com/maps/search/Turan+hukuk/@40.969885399999995,29.2618852?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "TURAN HUKUK",
+            "link": "https://www.google.com/maps/search/TURAN+HUKUK/@40.9845626,29.0984938?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Fetih Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Fetih+Hukuk+B%C3%BCrosu/@40.888824799999995,29.1844376?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "https://www.turanhukukvedanismanlik.com/",
+    "owner": {
+        "id": "100467762727543808512",
+        "name": "Sinem Turan Hukuk & Dan\u0131\u015fmanl\u0131k (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/100467762727543808512"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZZMUdFQM2yG6GiB8OA-UmA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=215.8067&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0552 344 03 84",
+    "address": "Kordonboyu, Sinem Turan Hukuk & Dan\u0131\u015fmanl\u0131k, Hakk\u0131bey \u0130\u015f Merkezi, H\u00fcrriyet Cd. No:54 D:9, 34860 Kartal/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJfRIUf6HDyhQRGYZFQpkAQ-8",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJfRIUf6HDyhQRGYZFQpkAQ-8&q=?q=place_id:ChIJfRIUf6HDyhQRGYZFQpkAQ-8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.8891804,
+        "longitude": 29.189016199999998
+    },
+    "plus_code": "V5QQ+MJ Kartal, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Kordonboyu",
+        "street": "Hakk\u0131bey \u0130\u015f Merkezi, H\u00fcrriyet Cd. No:54 D:9",
+        "city": "Kartal",
+        "postal_code": "34860",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "17240624456746239513",
+    "data_id": "0x14cac3a17f14127d:0xef43009942458619",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZZMUdFQM2yG6GiB8OA-UmA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=215.8067&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZZMUdFQM2yG6GiB8OA-UmA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=215.8067&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "KAAN DEM\u0130R",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-08-05T12:19:00.672000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102574159305719139381/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIF5BNshC4kCbTIOlF1LjJ48V3FP3e_kyMiVyNDYsua=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,156 @@
+{
+    "place_id": "ChIJi1WDmXq3yhQR-qi2RdjTg9Q",
+    "name": "Yeniaras Hukuk Burosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Serdar & Zeren",
+            "link": "https://www.google.com/maps/search/Serdar+%26+Zeren/@41.035896,28.990361200000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Sezer & Utkaner Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Sezer+%26+Utkaner+Hukuk+B%C3%BCrosu/@41.035787500000005,28.988884?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u0130stanbul Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C4%B0stanbul+Hukuk+B%C3%BCrosu/@41.035793999999996,28.993172800000004?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6zkurt Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%96zkurt+Hukuk+B%C3%BCrosu/@41.0368113,28.9897188?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Akare Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Akare+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.036592999999996,28.989970999999997?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.yeniaras.av.tr/",
+    "owner": {
+        "id": "118347883893935844340",
+        "name": "Yeniaras Hukuk Burosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/118347883893935844340"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HYU6QwzvD2Jmhgv6i7TJZA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=304.05072&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "08:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 292 87 07",
+    "address": "G\u00fcm\u00fc\u015fsuyu, Yeniaras Hukuk Burosu, 5, Miralay \u015eefikbey Sk., 34437 Beyo\u011flu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJi1WDmXq3yhQR-qi2RdjTg9Q",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJi1WDmXq3yhQR-qi2RdjTg9Q&q=?q=place_id:ChIJi1WDmXq3yhQR-qi2RdjTg9Q&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0371899,
+        "longitude": 28.989568799999997
+    },
+    "plus_code": "2XPQ+VR Beyo\u011flu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "G\u00fcm\u00fc\u015fsuyu",
+        "street": "5, Miralay \u015eefikbey Sk.",
+        "city": "Beyo\u011flu",
+        "postal_code": "34437",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "15313316083825813754",
+    "data_id": "0x14cab77a9983558b:0xd483d3d845b6a8fa",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HYU6QwzvD2Jmhgv6i7TJZA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=304.05072&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HYU6QwzvD2Jmhgv6i7TJZA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=304.05072&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

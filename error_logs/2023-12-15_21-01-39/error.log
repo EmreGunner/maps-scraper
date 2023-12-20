@@ -1,0 +1,75 @@
+Traceback (most recent call last):
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/botasaurus/decorators.py", line 593, in run_task
+    result = func(reqs, data)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper.py", line 112, in scrape_place
+    data = extract_data(app_initialization_state, link)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/extract_data.py", line 579, in extract_data
+    data = parse(input_str)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/extract_data.py", line 436, in parse
+    input_string = json.loads(data)[3][6]  # Replace with actual input
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/botasaurus/decorators.py", line 593, in run_task
+    result = func(reqs, data)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper.py", line 112, in scrape_place
+    data = extract_data(app_initialization_state, link)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/extract_data.py", line 579, in extract_data
+    data = parse(input_str)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/extract_data.py", line 436, in parse
+    input_string = json.loads(data)[3][6]  # Replace with actual input
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/botasaurus/decorators.py", line 593, in run_task
+    result = func(reqs, data)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper.py", line 112, in scrape_place
+    data = extract_data(app_initialization_state, link)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/extract_data.py", line 579, in extract_data
+    data = parse(input_str)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/extract_data.py", line 436, in parse
+    input_string = json.loads(data)[3][6]  # Replace with actual input
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/botasaurus/decorators.py", line 593, in run_task
+    result = func(reqs, data)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper.py", line 112, in scrape_place
+    data = extract_data(app_initialization_state, link)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/extract_data.py", line 579, in extract_data
+    data = parse(input_str)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/extract_data.py", line 436, in parse
+    input_string = json.loads(data)[3][6]  # Replace with actual input
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/botasaurus/decorators.py", line 593, in run_task
+    result = func(reqs, data)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper.py", line 112, in scrape_place
+    data = extract_data(app_initialization_state, link)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/extract_data.py", line 579, in extract_data
+    data = parse(input_str)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/extract_data.py", line 436, in parse
+    input_string = json.loads(data)[3][6]  # Replace with actual input
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/botasaurus/decorators.py", line 593, in run_task
+    result = func(reqs, data)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper.py", line 112, in scrape_place
+    data = extract_data(app_initialization_state, link)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/extract_data.py", line 579, in extract_data
+    data = parse(input_str)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/extract_data.py", line 436, in parse
+    input_string = json.loads(data)[3][6]  # Replace with actual input
+IndexError: list index out of range

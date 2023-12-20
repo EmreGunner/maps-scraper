@@ -1,0 +1,148 @@
+{
+    "place_id": "ChIJe0BjbgPDJRUR5-zPDpEn9xY",
+    "name": "Ersuz - Cabbara Hukuk B\u00fcrosu ( Av. \u0130brahim ERSUZ - Av. M. \u00d6ner CABBARAO\u011eLU)",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Barut\u00e7u Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Barut%C3%A7u+Hukuk+B%C3%BCrosu/@36.2046606,36.1604621?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat \u00d6ner Cabbaro\u011flu",
+            "link": "https://www.google.com/maps/search/Avukat+%C3%96ner+Cabbaro%C4%9Flu/@36.2022842,36.1613221?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat & Arabulucu Gizem Keser \u015eakac\u0131",
+            "link": "https://www.google.com/maps/search/Avukat+%26+Arabulucu+Gizem+Keser+%C5%9Eakac%C4%B1/@36.2102211,36.157542899999996?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "A\u015fkar Hukuk Ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/A%C5%9Fkar+Hukuk+Ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@36.210015,36.1667908?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Kurumsal Ofis"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Ersuz - Cabbara Hukuk B\u00fcrosu ( Av. \u0130brahim ERSUZ - Av. M. \u00d6ner CABBARAO\u011eLU) (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2ECqqrtoUcuwwPt_vDK6dg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=294.49338&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "08:30\u201317:30",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": null,
+    "address": "General \u015e\u00fckr\u00fc Kanatl\u0131, Ersuz - Cabbara Hukuk B\u00fcrosu ( Av. \u0130brahim ERSUZ - Av. M. \u00d6ner CABBARAO\u011eLU), Kanatl\u0131 Cd. No:23, 31030 Antakya/Hatay",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJe0BjbgPDJRUR5-zPDpEn9xY",
+    "status": "Kapanmak \u00fczere \u22c5 17:30 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 08:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJe0BjbgPDJRUR5-zPDpEn9xY&q=?q=place_id:ChIJe0BjbgPDJRUR5-zPDpEn9xY&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.205388899999996,
+        "longitude": 36.161229999999996
+    },
+    "plus_code": "6546+5F Antakya, Hatay",
+    "detailed_address": {
+        "ward": "General \u015e\u00fckr\u00fc Kanatl\u0131",
+        "street": "Kanatl\u0131 Cd. No:23",
+        "city": "Antakya",
+        "postal_code": "31030",
+        "state": "Hatay",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "1654834892054195431",
+    "data_id": "0x1525c3036e63407b:0x16f727910ecfece7",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2ECqqrtoUcuwwPt_vDK6dg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=294.49338&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2ECqqrtoUcuwwPt_vDK6dg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=294.49338&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201317:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201317:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201317:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201317:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201317:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:30\u201315:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

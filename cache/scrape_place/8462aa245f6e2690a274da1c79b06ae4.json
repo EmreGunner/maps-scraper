@@ -1,0 +1,103 @@
+{
+    "place_id": "ChIJ-YNgIXDCJRURasBx5sPtFBQ",
+    "name": "\u00d6zt\u00fcrk Hukuk Burosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Avukat H\u00fcseyin \u00d6zt\u00fcrk",
+            "link": "https://www.google.com/maps/search/Avukat+H%C3%BCseyin+%C3%96zt%C3%BCrk/@36.229562099999995,36.1374446?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "OKYAY Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/OKYAY+Hukuk+B%C3%BCrosu/@36.2213553,36.1516537?authuser=0&entry=ttu",
+            "reviews": 15,
+            "rating": 4.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6zcan Hukuk & Arabuluculuk",
+            "link": "https://www.google.com/maps/search/%C3%96zcan+Hukuk+%26+Arabuluculuk/@36.2128679,36.1583226?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Parlaky\u0131ld\u0131z Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Parlaky%C4%B1ld%C4%B1z+Hukuk+B%C3%BCrosu/@36.2260902,36.1300652?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "\u00d6zt\u00fcrk Hukuk Burosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nEkEFOuH7Ta4TF_A4sTTSQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=104.777214&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Ekinci, \u00d6zt\u00fcrk Hukuk Burosu, \u0130n\u00f6n\u00fc Blv., 31180 Antakya/Hatay",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ-YNgIXDCJRURasBx5sPtFBQ",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ-YNgIXDCJRURasBx5sPtFBQ&q=?q=place_id:ChIJ-YNgIXDCJRURasBx5sPtFBQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.2378132,
+        "longitude": 36.1452889
+    },
+    "plus_code": "64QW+44 Antakya, Hatay",
+    "detailed_address": {
+        "ward": "Ekinci",
+        "street": "\u0130n\u00f6n\u00fc Blv.",
+        "city": "Antakya",
+        "postal_code": "31180",
+        "state": "Hatay",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "1447042805933391978",
+    "data_id": "0x1525c270216083f9:0x1414edc3e671c06a",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nEkEFOuH7Ta4TF_A4sTTSQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=104.777214&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nEkEFOuH7Ta4TF_A4sTTSQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=104.777214&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

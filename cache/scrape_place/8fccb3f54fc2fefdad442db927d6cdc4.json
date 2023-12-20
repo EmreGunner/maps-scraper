@@ -1,0 +1,164 @@
+{
+    "place_id": "ChIJz5q_dTPLyhQRAUrh99fN91A",
+    "name": "Gider Law Office",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Kurucuk & Associates Law Firm Istanbul Turkey | Lawyers in Istanbul, Turkey | Turkish Immigration & Legal Consultancy",
+            "link": "https://www.google.com/maps/search/Kurucuk+%26+Associates+Law+Firm+Istanbul+Turkey+%7C+Lawyers+in+Istanbul%2C+Turkey+%7C+Turkish+Immigration+%26+Legal+Consultancy/@41.118552,29.008866899999997?authuser=0&entry=ttu",
+            "reviews": 145,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ligos Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ligos+Hukuk+B%C3%BCrosu/@41.1183761,29.008796800000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Dikici Law",
+            "link": "https://www.google.com/maps/search/Dikici+Law/@41.1127144,29.0205388?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u0130de Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C4%B0de+Hukuk+B%C3%BCrosu/@41.1185627,29.019136399999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.giderlaw.com/",
+    "owner": {
+        "id": "100076780947636568121",
+        "name": "Gider Law Office (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/100076780947636568121"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lTbMcymhTnJv67CxoU-OYQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=292.58426&pitch=0&thumbfov=100",
+    "main_category": "Hukuk Hizmetleri",
+    "categories": [
+        "Hukuk Hizmetleri"
+    ],
+    "rating": null,
+    "workday_timing": "08:30\u201320:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 706 24 07",
+    "address": "Gider Law Office, Maslak Mh. Sanatkarlar Sk. Eclipse Maslak Sitesi No:2 E Blok Kat:5/9, 34398 Sar\u0131yer/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJz5q_dTPLyhQRAUrh99fN91A",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 20:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJz5q_dTPLyhQRAUrh99fN91A&q=?q=place_id:ChIJz5q_dTPLyhQRAUrh99fN91A&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.117227299999996,
+        "longitude": 29.0149428
+    },
+    "plus_code": "4287+VX Sar\u0131yer, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Maslak",
+        "street": "Maslak Mh. Sanatkarlar Sk. Eclipse Maslak Sitesi No:2 E Blok Kat:5/9",
+        "city": "Sar\u0131yer",
+        "postal_code": "34398",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "5834358169742166529",
+    "data_id": "0x14cacb3375bf9acf:0x50f7cdd7f7e14a01",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lTbMcymhTnJv67CxoU-OYQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=292.58426&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPlyo9UPNICx0PhKSIjMIEDushCRRvltTQOn07i=w286-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lTbMcymhTnJv67CxoU-OYQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=292.58426&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201320:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201320:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201320:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201320:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201320:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,121 @@
+{
+    "place_id": "ChIJAf6gTRe6yhQRo6nSibItwo0",
+    "name": "Yonar Muhasebe Burosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Hasan Erkmen Mali M\u00fc\u015favir SMMM",
+            "link": "https://www.google.com/maps/search/Hasan+Erkmen+Mali+M%C3%BC%C5%9Favir+SMMM/@41.021333299999995,28.941317100000003?authuser=0&entry=ttu",
+            "reviews": 349,
+            "rating": 5,
+            "main_category": "Serbest Muhasebeci Mali M\u00fc\u015favir"
+        },
+        {
+            "name": "Serbest Muhasebeci&nbsp;Mali M\u00fc\u015favi\u0307r \u0130rfan \u00c7ak\u0131r",
+            "link": "https://www.google.com/maps/search/Serbest+Muhasebeci%26nbsp%3BMali+M%C3%BC%C5%9Favi%CC%87r+%C4%B0rfan+%C3%87ak%C4%B1r/@41.016283099999995,28.9447105?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Muhasebeci"
+        },
+        {
+            "name": "Emir muhasebe",
+            "link": "https://www.google.com/maps/search/Emir+muhasebe/@41.025782799999995,28.9349912?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Serbest Muhasebeci Mali M\u00fc\u015favir"
+        },
+        {
+            "name": "Ertan G\u00fcnalp Serbest Muhasebeci Mali M\u00fc\u015favir",
+            "link": "https://www.google.com/maps/search/Ertan+G%C3%BCnalp+Serbest+Muhasebeci+Mali+M%C3%BC%C5%9Favir/@41.0090074,28.947806699999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Serbest Muhasebeci Mali M\u00fc\u015favir"
+        },
+        {
+            "name": "SMMM RAS\u0130M \u00c7AKIRBEY",
+            "link": "https://www.google.com/maps/search/SMMM+RAS%C4%B0M+%C3%87AKIRBEY/@41.019656999999995,28.946277?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Serbest Muhasebeci Mali M\u00fc\u015favir"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Yonar Muhasebe Burosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1PVtIysMGPLAl_pNWPQIWA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=134.75531&pitch=0&thumbfov=100",
+    "main_category": "Serbest Muhasebeci Mali M\u00fc\u015favir",
+    "categories": [
+        "Serbest Muhasebeci Mali M\u00fc\u015favir"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Dervi\u015fali, Yonar Muhasebe Burosu, Kurta\u011fa \u00c7e\u015fmesi Sk. No:75, 34087 Fatih/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJAf6gTRe6yhQRo6nSibItwo0",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAf6gTRe6yhQRo6nSibItwo0&q=?q=place_id:ChIJAf6gTRe6yhQRo6nSibItwo0&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.027837399999996,
+        "longitude": 28.9403303
+    },
+    "plus_code": "2WHR+44 Fatih, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Dervi\u015fali",
+        "street": "Kurta\u011fa \u00c7e\u015fmesi Sk. No:75",
+        "city": "Fatih",
+        "postal_code": "34087",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10214777149669419427",
+    "data_id": "0x14caba174da0fe01:0x8dc22db289d2a9a3",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1PVtIysMGPLAl_pNWPQIWA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=134.75531&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1PVtIysMGPLAl_pNWPQIWA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=134.75531&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

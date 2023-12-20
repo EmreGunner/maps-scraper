@@ -1,0 +1,341 @@
+{
+    "place_id": "ChIJuW19J5_GyhQRAHr0JUrDGDk",
+    "name": "Re\u015fit Hukuk ve Dan\u0131\u015fmanl\u0131k / Resit Law & Consultancy",
+    "description": null,
+    "reviews": 9,
+    "competitors": [
+        {
+            "name": "Acar Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Acar+Hukuk+B%C3%BCrosu/@40.9459233,29.125541799999997?authuser=0&entry=ttu",
+            "reviews": 23,
+            "rating": 3.6,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Bar\u0131\u015f Ertu\u011frul",
+            "link": "https://www.google.com/maps/search/Avukat+Bar%C4%B1%C5%9F+Ertu%C4%9Frul/@40.9217503,29.135637499999994?authuser=0&entry=ttu",
+            "reviews": 13,
+            "rating": 4.9,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Ba\u015far\u0131r Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ba%C5%9Far%C4%B1r+Hukuk+B%C3%BCrosu/@40.9200859,29.159877899999994?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "T-Legal Avukatl\u0131k ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/T-Legal+Avukatl%C4%B1k+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.935670699999996,29.134568100000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Ger\u00e7ek Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Ger%C3%A7ek+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.923479,29.154346900000004?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 4,
+            "main_category": "Hukuk Hizmetleri"
+        }
+    ],
+    "website": "http://www.resithukuk.com/",
+    "owner": {
+        "id": "107610784797364764365",
+        "name": "Re\u015fit Hukuk ve Dan\u0131\u015fmanl\u0131k / Resit Law & Consultancy (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/107610784797364764365"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM9WDS5ISRE7c50AeaK__GCp1y4RB3sd-1CxZzy=w408-h328-k-no",
+    "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti",
+    "categories": [
+        "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+    ],
+    "rating": 4.8,
+    "workday_timing": "08:00\u201317:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 504 58 26",
+    "address": "Re\u015fit Hukuk ve Dan\u0131\u015fmanl\u0131k / Resit Law & Consultancy, Altay\u00e7esme Mahallesi \u00c7am Sokak Dap Royal Center D Blok Daire 60 ve 61, 34843 \u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJuW19J5_GyhQRAHr0JUrDGDk",
+    "status": "Kapanmak \u00fczere \u22c5 17:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Per 08:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 8
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJuW19J5_GyhQRAHr0JUrDGDk&q=?q=place_id:ChIJuW19J5_GyhQRAHr0JUrDGDk&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9360669,
+        "longitude": 29.1346897
+    },
+    "plus_code": "W4PM+CV Maltepe, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Altay\u00e7e\u015fme",
+        "street": "Altay\u00e7esme Mahallesi \u00c7am Sokak Dap Royal Center D Blok Daire 60 ve 61",
+        "city": "Maltepe",
+        "postal_code": "34843",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4114252982834723328",
+    "data_id": "0x14cac69f277d6db9:0x3918c34a25f47a00",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.resithukuk.com/",
+            "source": "resithukuk.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM9WDS5ISRE7c50AeaK__GCp1y4RB3sd-1CxZzy=w370-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMTlSJ2vAim3zWGGGhiiz9ZTC7jaVtbtH-aARQn=w685-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-rIFLgoYfjsaCzVX4T8fHw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=106.992744&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Hukuksal anlamda i\u015fini bilen, ilgili ve alakal\u0131 bir ofis. Problemimi k\u0131sa s\u00fcrede \u00e7\u00f6zd\u00fcler. Misafir otopark\u0131 mevcut degil, ula\u015f\u0131m\u0131 kolay. Te\u015fekk\u00fcrler Re\u015fit Hukuk.",
+            "reviewer_name": "ibrahim erg\u00fcn",
+            "rating": 5,
+            "review_text": "Hukuksal anlamda i\u015fini bilen, ilgili ve alakal\u0131 bir ofis. Problemimi k\u0131sa s\u00fcrede \u00e7\u00f6zd\u00fcler. Misafir otopark\u0131 mevcut degil, ula\u015f\u0131m\u0131 kolay. Te\u015fekk\u00fcrler Re\u015fit Hukuk.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-08-03T10:36:10.633000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 77,
+            "total_number_of_photos_by_reviewer": 35,
+            "reviewer_url": "https://www.google.com/maps/contrib/100672187489065053465/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIgLjepugr_X4VBcMt2UhHWLNL7eXm5HFbSdqusEAja=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Profesyonel ekibi ile uzun soluklu davalari bile kisa zamanda cozume ulastiran ve bu cozum surecinde her daim yanimizda olan Av. Huseyin Acar ve Resit Hukuk Ekibine Tesekkur ederim.",
+            "reviewer_name": "Sabri Acar",
+            "rating": 5,
+            "review_text": "Profesyonel ekibi ile uzun soluklu davalari bile kisa zamanda cozume ulastiran ve bu cozum surecinde her daim yanimizda olan Av. Huseyin Acar ve Resit Hukuk Ekibine Tesekkur ederim.",
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-07-07T10:25:18.231000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102006591447494058381/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXyuRhFv6D_y7VJSKBGrUBbZC4-0TnpEyCBxwOSr6DZQA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Resit Hukuk ve Ekibinin Basinda Olan Av.Huseyin Acar'a Tesekkur ederim basarilarinin devamini dilerim",
+            "reviewer_name": "acar utlu",
+            "rating": 5,
+            "review_text": "Resit Hukuk ve Ekibinin Basinda Olan Av.Huseyin Acar'a Tesekkur ederim basarilarinin devamini dilerim",
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-07-07T10:29:44.369000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114238200729575327777/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocILfIACc475kUZuI7AioC4qbo-d5b7u8DS-cJ77G8Wk=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u00c7ok bilgili ve tecrubeli bir hukuk b\u00fcrosu, kendilerine \u00e7ok te\u015fekk\u00fcr ediyorum",
+            "reviewer_name": "Alparslan SAVA\u015e",
+            "rating": 5,
+            "review_text": "\u00c7ok bilgili ve tecrubeli bir hukuk b\u00fcrosu, kendilerine \u00e7ok te\u015fekk\u00fcr ediyorum",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2018-12-22T13:06:25.621000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101128030525146506063/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKUFI3G98vE3Why9uBvLJoQ-ghL9wD5-QLh6BzWqvQb=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Tebrik ediyorum. Te\u015fekk\u00fcr ederim",
+            "reviewer_name": "Alparslan Acar",
+            "rating": 5,
+            "review_text": "Tebrik ediyorum. Te\u015fekk\u00fcr ederim",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-11-14T14:24:50.298000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/116003466013307640580/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLiPNaa-rg3IynnSPzYX5S1tuLCP2I4WuBlYX0W0ew-=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Tamam",
+            "reviewer_name": "O\u011fuz Erdem",
+            "rating": 3,
+            "review_text": "Tamam",
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-01-07T16:42:40.070000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113407998753798105419/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI2SgfUcXBWejkRfqif-ZIMIY5nOrKQAbqvFAIf1uMR=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Great place and luxury hospitality by team.",
+            "reviewer_name": "Irfan Nawab",
+            "rating": 5,
+            "review_text": "Great place and luxury hospitality by team.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-10-12T20:27:50.943000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 19,
+            "total_number_of_photos_by_reviewer": 27,
+            "reviewer_url": "https://www.google.com/maps/contrib/100723652840004064156/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXvvbzLmM4u-CzH9iEdMamiKZE8BHHFNsKX0B7ALrihSzk=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": "Harika bir yer ve ekip taraf\u0131ndan l\u00fcks konukseverlik.",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Seda Oral",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-08-27T10:52:40.080000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 62,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/111276870700321301433/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXcpzTbBFt1I9T0qCSUV7OA0UnPBZsnbAjCd72iFBDzPww=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

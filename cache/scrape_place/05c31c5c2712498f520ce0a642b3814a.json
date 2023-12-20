@@ -1,0 +1,85 @@
+{
+    "place_id": "ChIJzek1V6XJyhQRYDlM4-OzzWo",
+    "name": "Alt\u0131nbilek Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Alt\u0131nbilek Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CvtfHjgWpJ6qXYPLUv5VAQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=93.18744&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Alt\u0131nbilek Hukuk B\u00fcrosu, Altunizade, Okul Soka\u011f\u0131 No:1 D:f5, \u00dcsk\u00fcdar/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJzek1V6XJyhQRYDlM4-OzzWo",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJzek1V6XJyhQRYDlM4-OzzWo&q=?q=place_id:ChIJzek1V6XJyhQRYDlM4-OzzWo&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0190249,
+        "longitude": 29.0484007
+    },
+    "plus_code": "229X+J9 \u00dcsk\u00fcdar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Altunizade",
+        "street": "Altunizade, Okul Soka\u011f\u0131 No:1 D:f5",
+        "city": "\u00dcsk\u00fcdar",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "7696005129598417248",
+    "data_id": "0x14cac9a55735e9cd:0x6acdb3e3e34c3960",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CvtfHjgWpJ6qXYPLUv5VAQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=93.18744&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CvtfHjgWpJ6qXYPLUv5VAQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=93.18744&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

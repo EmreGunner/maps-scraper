@@ -1,0 +1,101 @@
+{
+    "place_id": "ChIJozFWn2jLyhQRHWGeskHDlOs",
+    "name": "KB Harry Attorneys",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "BNG Law Firm",
+            "link": "https://www.google.com/maps/search/BNG+Law+Firm/@41.112182,29.134757?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Berk BAHADIR Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Avukat+Berk+BAHADIR+Hukuk+B%C3%BCrosu/@41.1087372,29.1323421?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Behin Pekta\u015f",
+            "link": "https://www.google.com/maps/search/Behin+Pekta%C5%9F/@41.107263599999996,29.121841399999994?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Kaya&Kaya Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kaya%26Kaya+Hukuk+B%C3%BCrosu/@41.0789888,29.086442199999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Hknhukuk b\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Hknhukuk+b%C3%BCrosu/@40.9961331,29.025805700000003?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 4,
+            "main_category": "Hukuk Hizmetleri"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "KB Harry Attorneys (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Hukuk Hizmetleri",
+    "categories": [
+        "Hukuk Hizmetleri"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0531 365 73 24",
+    "address": "Acarlar, KB Harry Attorneys, Mart\u0131 Sk. No:315, 34800 Beykoz/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJozFWn2jLyhQRHWGeskHDlOs",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJozFWn2jLyhQRHWGeskHDlOs&q=?q=place_id:ChIJozFWn2jLyhQRHWGeskHDlOs&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.1166573,
+        "longitude": 29.1270527
+    },
+    "plus_code": "448G+MR Beykoz, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Acarlar",
+        "street": "Mart\u0131 Sk. No:315",
+        "city": "Beykoz",
+        "postal_code": "34800",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16975407582403256605",
+    "data_id": "0x14cacb689f5631a3:0xeb94c341b29e611d",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

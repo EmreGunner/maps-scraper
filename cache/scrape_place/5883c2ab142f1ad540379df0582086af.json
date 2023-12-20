@@ -1,0 +1,121 @@
+{
+    "place_id": "ChIJAQAAtHyjyhQRFyk4QLIdIkk",
+    "name": "Ihr Rechtsanwalt und Steuerberater in der T\u00fcrkei (Istanbul)",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Steuerberatung Turkei",
+            "link": "https://www.google.com/maps/search/Steuerberatung+Turkei/@40.9344411,29.138728300000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Vergi Dan\u0131\u015fman\u0131"
+        },
+        {
+            "name": "Turkuaz Hukuk Ve Danismanlik",
+            "link": "https://www.google.com/maps/search/Turkuaz+Hukuk+Ve+Danismanlik/@41.0338339,29.1105462?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Hukuk & Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@41.0244443,29.094704300000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "T\u00dc&SE Hukuk Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/T%C3%9C%26SE+Hukuk+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.0233823,29.094684?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ahde Vefa Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Ahde+Vefa+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.023841999999995,29.100278000000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://rechtsanwalt-tuerkei.de/index.php/support",
+    "owner": {
+        "id": null,
+        "name": "Ihr Rechtsanwalt und Steuerberater in der T\u00fcrkei (Istanbul) (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=92w83HC1YYevs-6X3o0c4Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=93.42516&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 415 43 48",
+    "address": "Saray, Ihr Rechtsanwalt und Steuerberater in der T\u00fcrkei (Istanbul), Sanayi Cd. No:44, 34768 \u00dcmraniye/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAtHyjyhQRFyk4QLIdIkk",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAQAAtHyjyhQRFyk4QLIdIkk&q=?q=place_id:ChIJAQAAtHyjyhQRFyk4QLIdIkk&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0254483,
+        "longitude": 29.119940999999997
+    },
+    "plus_code": "24G9+5X \u00dcmraniye, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Saray",
+        "street": "Sanayi Cd. No:44",
+        "city": "\u00dcmraniye",
+        "postal_code": "34768",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "5269807165395708183",
+    "data_id": "0x14caa37cb4000001:0x49221db240382917",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=92w83HC1YYevs-6X3o0c4Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=93.42516&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=92w83HC1YYevs-6X3o0c4Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=93.42516&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

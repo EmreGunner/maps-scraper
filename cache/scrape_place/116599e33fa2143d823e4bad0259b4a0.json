@@ -1,0 +1,96 @@
+{
+    "place_id": "ChIJ1wclO5fHyhQRAeHrMUpdpdo",
+    "name": "Akkaya",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Akkaya Production",
+            "link": "https://www.google.com/maps/search/Akkaya+Production/@41.0348836,28.9805265?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Film Yap\u0131m \u015eirketi"
+        },
+        {
+            "name": "Aykut Elektromekanik San. Tic. Ltd. \u015eti.",
+            "link": "https://www.google.com/maps/search/Aykut+Elektromekanik+San.+Tic.+Ltd.+%C5%9Eti./@41.0101057,29.169146899999998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Elektronik \u00dcreticisi"
+        },
+        {
+            "name": "Ayb\u00f6rek Fabrika",
+            "link": "https://www.google.com/maps/search/Ayb%C3%B6rek+Fabrika/@41.0241008,29.1453223?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "\u00dcretici"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Akkaya (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wt9HOKTRpDwIQbFWra12FA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=329.1186&pitch=0&thumbfov=100",
+    "main_category": "\u00dcretici",
+    "categories": [
+        "\u00dcretici"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0533 415 25 77",
+    "address": "Akkaya, Ihlamurkuyu Mah. B\u00fclb\u00fcldere Cad, \u00c7imenzar Sk. No:21, \u00dcmraniye/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ1wclO5fHyhQRAeHrMUpdpdo",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1wclO5fHyhQRAeHrMUpdpdo&q=?q=place_id:ChIJ1wclO5fHyhQRAeHrMUpdpdo&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.981709099999996,
+        "longitude": 29.064391699999998
+    },
+    "plus_code": "X3J7+MQ Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "G\u00f6ztepe",
+        "street": "Ihlamurkuyu Mah. B\u00fclb\u00fcldere Cad, \u00c7imenzar Sk. No:21",
+        "city": "\u00dcmraniye",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "15755101444672053505",
+    "data_id": "0x14cac7973b2507d7:0xdaa55d4a31ebe101",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wt9HOKTRpDwIQbFWra12FA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=329.1186&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wt9HOKTRpDwIQbFWra12FA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=329.1186&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

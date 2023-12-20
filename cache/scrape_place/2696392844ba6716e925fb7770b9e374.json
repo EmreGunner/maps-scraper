@@ -1,0 +1,375 @@
+{
+    "place_id": "ChIJEe9TOmu3yhQR2-RcFhvkLY4",
+    "name": "Al\u0131ml\u0131 \u00d6nal Avukatl\u0131k ve Arabuluculuk B\u00fcrosu",
+    "description": null,
+    "reviews": 15,
+    "competitors": [
+        {
+            "name": "Se\u00e7il Al\u0131ml\u0131 \u00d6nal",
+            "link": "https://www.google.com/maps/search/Se%C3%A7il+Al%C4%B1ml%C4%B1+%C3%96nal/@41.064693999999996,28.9791945?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": ""
+        },
+        {
+            "name": "\u00d6nal Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%96nal+Hukuk+B%C3%BCrosu/@41.0678808,28.9742957?authuser=0&entry=ttu",
+            "reviews": 31,
+            "rating": 3.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Se\u00e7il A\u015fk\u0131n B\u00fcy\u00fckl\u00fc",
+            "link": "https://www.google.com/maps/search/Avukat+Se%C3%A7il+A%C5%9Fk%C4%B1n+B%C3%BCy%C3%BCkl%C3%BC/@41.0660933,29.008285599999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "ALTUNEL HUKUK & DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/ALTUNEL+HUKUK+%26+DANI%C5%9EMANLIK/@41.052634,28.987135?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "T\u00fcrkmen&\u00c7ift\u00e7i Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/T%C3%BCrkmen%26%C3%87ift%C3%A7i+Hukuk+B%C3%BCrosu/@41.0587781,28.986152900000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "https://www.alimlional.av.tr/",
+    "owner": {
+        "id": "111868074357544653027",
+        "name": "Al\u0131ml\u0131 \u00d6nal Avukatl\u0131k ve Arabuluculuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/111868074357544653027"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPrilj9lWwjcF0Mevzp7jUAW8CuC8qcIZ0AhM9y=w417-h240-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 234 02 14",
+    "address": "Al\u0131ml\u0131 \u00d6nal Avukatl\u0131k ve Arabuluculuk B\u00fcrosu, Dar\u00fclaceze Cd. No:19, Elmas Plaza, Kat 2, 34382 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJEe9TOmu3yhQR2-RcFhvkLY4",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 15
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJEe9TOmu3yhQR2-RcFhvkLY4&authuser=0&hl=tr&gl=TR",
+    "coordinates": {
+        "latitude": 41.0647373,
+        "longitude": 28.9791532
+    },
+    "plus_code": "3X7H+VM \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Halide Edip Ad\u0131var",
+        "street": "Dar\u00fclaceze Cd. No:19, Elmas Plaza, Kat 2",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34382",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10245095532328183003",
+    "data_id": "0x14cab76b3a53ef11:0x8e2de41b165ce4db",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.alimlional.av.tr/iletisim/",
+            "source": "alimlional.av.tr"
+        }
+    ],
+    "about": [
+        {
+            "id": "from_the_business",
+            "name": "\u0130\u015fletme hakk\u0131nda",
+            "options": [
+                {
+                    "name": "Sahibi kad\u0131n oldu\u011funu belirtiyor",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun asans\u00f6r",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun giri\u015f",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPrilj9lWwjcF0Mevzp7jUAW8CuC8qcIZ0AhM9y=w517-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPrilj9lWwjcF0Mevzp7jUAW8CuC8qcIZ0AhM9y=w517-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YYRvYtBVLi_cNPix40lUYQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=248.24686&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Konusunda uzman oldu\u011funu yapt\u0131\u011f\u0131m\u0131z g\u00f6r\u00fc\u015fmelerden ve ald\u0131\u011f\u0131m\u0131z hizmetten dolay\u0131 tecr\u00fcbe ettik, \u00e7ok memnun kald\u0131k.",
+            "reviewer_name": "Ferhat sar\u0131",
+            "rating": 5,
+            "review_text": "Konusunda uzman oldu\u011funu yapt\u0131\u011f\u0131m\u0131z g\u00f6r\u00fc\u015fmelerden ve ald\u0131\u011f\u0131m\u0131z hizmetten dolay\u0131 tecr\u00fcbe ettik, \u00e7ok memnun kald\u0131k.",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-07-04T20:12:34.373000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101787743283279182840/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX-jmEDEgTLnqm8aFawz-dN1WRP-MW4RQgWo7QM8fYNUA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "M\u00fcvekkil merkezli ve farkl\u0131 bak\u0131\u015f a\u00e7\u0131lar\u0131 ile sorunlar\u0131 \u00e7\u00f6zen, g\u00fcvenilir  ve h\u0131zl\u0131",
+            "reviewer_name": "Ozgun Onal",
+            "rating": 5,
+            "review_text": "M\u00fcvekkil merkezli ve farkl\u0131 bak\u0131\u015f a\u00e7\u0131lar\u0131 ile sorunlar\u0131 \u00e7\u00f6zen, g\u00fcvenilir  ve h\u0131zl\u0131",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-06-10T06:55:10.422000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102477120087270932131/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXGtVEq8n4NlLjnAHpO5lgD4PXuzLC18NNlYb7zMhnULO4=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u00c7\u00f6z\u00fcms\u00fcz sand\u0131\u011f\u0131m\u0131z uyu\u015fmazl\u0131\u011f\u0131 tarafs\u0131z bir arabuluculukla \u00e7\u00f6zd\u00fckleri i\u00e7in te\u015fekk\u00fcr ederiz.",
+            "reviewer_name": "Onur Tutumo\u011flu",
+            "rating": 5,
+            "review_text": "\u00c7\u00f6z\u00fcms\u00fcz sand\u0131\u011f\u0131m\u0131z uyu\u015fmazl\u0131\u011f\u0131 tarafs\u0131z bir arabuluculukla \u00e7\u00f6zd\u00fckleri i\u00e7in te\u015fekk\u00fcr ederiz.",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-06-24T14:12:34.290000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105047284473631930163/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLI9aPuqAzBPJNISu0LuUEMhGhmf9p3RdLy38qJtoIB=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "H\u0131zl\u0131 ve d\u00fcr\u00fcst hizmet i\u00e7in te\u015fekk\u00fcrler",
+            "reviewer_name": "F\u0130RUZAN Sahillio\u011flu",
+            "rating": 5,
+            "review_text": "H\u0131zl\u0131 ve d\u00fcr\u00fcst hizmet i\u00e7in te\u015fekk\u00fcrler",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-06-24T14:06:39.518000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106345626469951691712/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIvWnRV-AXtgjaCZet9IC79QpQlfHAK6cJoln1eQdWd=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u00c7OK MEMNUN KALDIM.DESTE\u011e\u0130N\u0130Z \u0130C\u0130N TE\u015eEKK\u00dcRLER",
+            "reviewer_name": "ozge onal",
+            "rating": 5,
+            "review_text": "\u00c7OK MEMNUN KALDIM.DESTE\u011e\u0130N\u0130Z \u0130C\u0130N TE\u015eEKK\u00dcRLER",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-06-09T17:48:52.105000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/115926170553623205123/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUulxZHO3pTscPFRHtTe3OhrJCROb62prC65x2CwlUYFD4=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Ba\u015far\u0131l\u0131 ve g\u00fcvenilir",
+            "reviewer_name": "\u00d6mer Kandemir",
+            "rating": 5,
+            "review_text": "Ba\u015far\u0131l\u0131 ve g\u00fcvenilir",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-07-03T21:11:01.023000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 16,
+            "reviewer_url": "https://www.google.com/maps/contrib/112974307343943012610/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJyX8QOfibWtT4Ffk1eKW1W9ZR-1qPQPmW7e-oCPPSk=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "mustafa ba\u015fkan",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-06-14T09:18:27.601000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116526151313131318120/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUipoyMfxTSo7KuXE45Ad_0oaXpvkz1G9NezNni4sAeKQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Jale Sezginer",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-06-30T15:30:04.082000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112866744954859636766/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKINoCccovSwcUnqMzT9c4Rcu2XpCKd1MPyeG-HoYUS=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

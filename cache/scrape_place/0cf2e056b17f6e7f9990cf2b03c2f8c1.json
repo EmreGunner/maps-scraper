@@ -1,0 +1,114 @@
+{
+    "place_id": "ChIJB38VDsm3yhQRyzwdt9VD-ro",
+    "name": "Eng\u00fczel Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "GG Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/GG+Avukatl%C4%B1k+B%C3%BCrosu/@41.065108699999996,28.9942972?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ege Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ege+Hukuk+B%C3%BCrosu/@41.066969799999995,28.9938961?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6zg\u00fcn Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%96zg%C3%BCn+Hukuk+B%C3%BCrosu/@41.0669671,29.001076500000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "D\u0130GESTA HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/D%C4%B0GESTA+HUKUK+B%C3%9CROSU/@41.061233,29.003131999999994?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Eng\u00fczel Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iLRVpWwML5tyW9nGjnZTEA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=243.64885&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0506 345 96 44",
+    "address": "Gayrettepe, Eng\u00fczel Hukuk B\u00fcrosu, Fahri Gizden Soka\u011f\u0131 No:22 K:6 D:18, 34349 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJB38VDsm3yhQRyzwdt9VD-ro",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJB38VDsm3yhQRyzwdt9VD-ro&q=?q=place_id:ChIJB38VDsm3yhQRyzwdt9VD-ro&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0639709,
+        "longitude": 29.0048575
+    },
+    "plus_code": "3273+HW Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Gayrettepe",
+        "street": "Fahri Gizden Soka\u011f\u0131 No:22 K:6 D:18",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34349",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "13473155820411501771",
+    "data_id": "0x14cab7c90e157f07:0xbafa43d5b71d3ccb",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iLRVpWwML5tyW9nGjnZTEA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=243.64885&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iLRVpWwML5tyW9nGjnZTEA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=243.64885&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

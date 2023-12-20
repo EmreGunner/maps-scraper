@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJtYAN6J27yhQRcZL_VESXVJE",
+    "name": "ZAFARWEB Software Solutions",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "VizyonSoft Yaz\u0131l\u0131m",
+            "link": "https://www.google.com/maps/search/VizyonSoft+Yaz%C4%B1l%C4%B1m/@40.9919697,28.9099803?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Yaz\u0131l\u0131m \u015eirketi"
+        },
+        {
+            "name": "Toffle Web Tasar\u0131m & Kurumsal Web Tasar\u0131m & Seo & Sosyal Medya Y\u00f6netimi",
+            "link": "https://www.google.com/maps/search/Toffle+Web+Tasar%C4%B1m+%26+Kurumsal+Web+Tasar%C4%B1m+%26+Seo+%26+Sosyal+Medya+Y%C3%B6netimi/@40.984901199999996,28.899635600000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Web Bar\u0131nd\u0131rma \u015eirketi"
+        },
+        {
+            "name": "Onursoft Yaz\u0131l\u0131m ve Bili\u015fim Hizmetleri San. Tic. Ltd. \u015eti",
+            "link": "https://www.google.com/maps/search/Onursoft+Yaz%C4%B1l%C4%B1m+ve+Bili%C5%9Fim+Hizmetleri+San.+Tic.+Ltd.+%C5%9Eti/@41.0202257,28.8797278?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Web Sitesi Tasar\u0131mc\u0131s\u0131"
+        },
+        {
+            "name": "Zafre Media T\u00fcrkiye",
+            "link": "https://www.google.com/maps/search/Zafre+Media+T%C3%BCrkiye/@41.0543565,28.9855279?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Web Sitesi Tasar\u0131mc\u0131s\u0131"
+        },
+        {
+            "name": "Ya\u011f\u0131z Bili\u015fim",
+            "link": "https://www.google.com/maps/search/Ya%C4%9F%C4%B1z+Bili%C5%9Fim/@40.9874656,28.8970431?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 4.6,
+            "main_category": "Web Sitesi Tasar\u0131mc\u0131s\u0131"
+        }
+    ],
+    "website": "http://zafarweb.com/",
+    "owner": {
+        "id": null,
+        "name": "ZAFARWEB Software Solutions (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=F__lxr5jK8appOr1ZvsGPw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=316.2606&pitch=0&thumbfov=100",
+    "main_category": "Yaz\u0131l\u0131m \u015eirketi",
+    "categories": [
+        "Yaz\u0131l\u0131m \u015eirketi"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0555 606 86 41",
+    "address": "Yenido\u011fan, ZAFARWEB Software Solutions, \u015eht. Komser G\u00fcnayd\u0131n Sk., 34020 Zeytinburnu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJtYAN6J27yhQRcZL_VESXVJE",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJtYAN6J27yhQRcZL_VESXVJE&q=?q=place_id:ChIJtYAN6J27yhQRcZL_VESXVJE&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9898713,
+        "longitude": 28.907928
+    },
+    "plus_code": "XWQ5+W5 Zeytinburnu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Yenido\u011fan",
+        "street": "\u015eht. Komser G\u00fcnayd\u0131n Sk.",
+        "city": "Zeytinburnu",
+        "postal_code": "34020",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10472161353282851441",
+    "data_id": "0x14cabb9de80d80b5:0x9154974454ff9271",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=F__lxr5jK8appOr1ZvsGPw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=316.2606&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=F__lxr5jK8appOr1ZvsGPw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=316.2606&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,360 @@
+{
+    "place_id": "ChIJL0I9PRHEyhQRAfDQKZLs5_0",
+    "name": "Karar Patent Marka Tescil ve Dan\u0131\u015fmanl\u0131k Hizmetleri LTD. \u015eT\u0130.",
+    "description": null,
+    "reviews": 132,
+    "competitors": [
+        {
+            "name": "D\u0131\u015f Patent Marka Tescil ve Dan\u0131\u015fmanl\u0131k Hiz. Ltd. \u015eti.",
+            "link": "https://www.google.com/maps/search/D%C4%B1%C5%9F+Patent+Marka+Tescil+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+Hiz.+Ltd.+%C5%9Eti./@40.9391513,29.1360852?authuser=0&entry=ttu",
+            "reviews": 15,
+            "rating": 4.5,
+            "main_category": "Patent Ofisi"
+        },
+        {
+            "name": "Vera Patent A.\u015e. (Marka ve Patent Tescili)",
+            "link": "https://www.google.com/maps/search/Vera+Patent+A.%C5%9E.+%28Marka+ve+Patent+Tescili%29/@40.952338399999995,29.098420599999997?authuser=0&entry=ttu",
+            "reviews": 41,
+            "rating": 5,
+            "main_category": "Patent Ofisi"
+        },
+        {
+            "name": "MALTEPE PATENT",
+            "link": "https://www.google.com/maps/search/MALTEPE+PATENT/@40.9179718,29.1552048?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Marka Patent",
+            "link": "https://www.google.com/maps/search/Marka+Patent/@40.9111658,29.180757099999997?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Patent Avukat\u0131"
+        },
+        {
+            "name": "MARKA \u2022 DANI\u015eMANLI\u011eI \u039a\u0391 R\u0130 YER",
+            "link": "https://www.google.com/maps/search/MARKA+%E2%80%A2+DANI%C5%9EMANLI%C4%9EI+%CE%9A%CE%91+R%C4%B0+YER/@40.943467999999996,29.126297400000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "\u0130\u015fletme Y\u00f6netimi Dan\u0131\u015fman\u0131"
+        }
+    ],
+    "website": "http://www.kararpatent.com/",
+    "owner": {
+        "id": "100271719483606588942",
+        "name": "Karar Patent Marka Tescil ve Dan\u0131\u015fmanl\u0131k Hizmetleri LTD. \u015eT\u0130. (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/100271719483606588942"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPn_4pbac_xwKcXiB_1A0dGmXvMC8R1-rmXwGeI=w426-h240-k-no",
+    "main_category": "Patent Ofisi",
+    "categories": [
+        "Patent Ofisi",
+        "Dan\u0131\u015fman",
+        "Patent Avukat\u0131"
+    ],
+    "rating": 4.9,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 441 36 00",
+    "address": "\u0130dealtepe, Karar Patent Marka Tescil ve Dan\u0131\u015fmanl\u0131k Hizmetleri LTD. \u015eT\u0130., Dik Sk. No:1/4, 34841 Maltepe/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJL0I9PRHEyhQRAfDQKZLs5_0",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 130
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJL0I9PRHEyhQRAfDQKZLs5_0&q=?q=place_id:ChIJL0I9PRHEyhQRAfDQKZLs5_0&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.943276,
+        "longitude": 29.127996
+    },
+    "plus_code": "W4VH+85 Maltepe, \u0130stanbul",
+    "detailed_address": {
+        "ward": "\u0130dealtepe",
+        "street": "Dik Sk. No:1/4",
+        "city": "Maltepe",
+        "postal_code": "34841",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "18295852123726868481",
+    "data_id": "0x14cac4113d3d422f:0xfde7ec9229d0f001",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun giri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPn_4pbac_xwKcXiB_1A0dGmXvMC8R1-rmXwGeI=w529-h298-k-no"
+        },
+        {
+            "about": "En son",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO3F6keGB0oJ_BmiVzTJzl46MleDMEcWNyTR73u=w224-h298-k-no-pi-0.37537122-ya322.73386-ro-0.48387322-fo100"
+        },
+        {
+            "about": "Videolar",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM9VDlSXZzzoGFhz4KiFWHhQGgVWd1ezvDv2e-I=w224-h398-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNIV9uADYCiPhPFmdFuXR9WyiKH5w-DhMW0SxSP=w224-h398-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNC94Ig2w-HG-itfzAYIjGTd6P4C15ZTNEzGpmu=w224-h298-k-no-pi-0.42055348-ya282.94553-ro-0.64637434-fo100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Harika ekip, g\u00f6n\u00fcl rahatl\u0131\u011f\u0131 ile t\u00fcm takiplerimi ve belge i\u015flerimi teslim ettim.  Ge\u00e7 tan\u0131\u015ft\u0131k ama kalite belgelerimden yurtd\u0131\u015f\u0131 ba\u015fvurular\u0131mdan hukuk davalar\u0131ma  kadar hepsini titizlikle kontrol ediyorlar, kaybetti\u011fimiz dava yok, te\u015fekk\u00fcrler karar patent  ailesi..\ud83d\udc4d\ud83d\udc4d",
+            "reviewer_name": "erkan seymen",
+            "rating": 5,
+            "review_text": "Harika ekip, g\u00f6n\u00fcl rahatl\u0131\u011f\u0131 ile t\u00fcm takiplerimi ve belge i\u015flerimi teslim ettim.  Ge\u00e7 tan\u0131\u015ft\u0131k ama kalite belgelerimden yurtd\u0131\u015f\u0131 ba\u015fvurular\u0131mdan hukuk davalar\u0131ma  kadar hepsini titizlikle kontrol ediyorlar, kaybetti\u011fimiz dava yok, te\u015fekk\u00fcrler karar patent  ailesi..\ud83d\udc4d\ud83d\udc4d",
+            "published_at": "bir hafta \u00f6nce",
+            "published_at_date": "2023-12-04T19:18:49.937000",
+            "response_from_owner_text": "De\u011ferli M\u00fcvekkilimiz Erkan bey,sizin gibi de\u011ferli yorumlar\u0131n\u0131z da bizim i\u00e7in \u00f6nemli, yeni \u00e7al\u0131\u015fmalar\u0131n\u0131zda g\u00f6r\u00fc\u015fmek dile\u011fiyle Te\u015fekk\u00fcrler,",
+            "response_from_owner_ago": "bir hafta \u00f6nce",
+            "response_from_owner_date": "2023-12-04T20:06:38.991000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/105287467149450426522/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXCzu7PZ6S4WHN3TVBE2cUdrnoU8N8RcUkWCzqFNZsM6cfy=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPf64IZRyzllz4jIavRzulLdW8aT3fWGE69rL55=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNgtM_cvklWq46s5Z6FWDNKQ_Lt5_5XGufSunbh=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNFD21vh-xeQLizdCBtrlCHVKgxUweKdRSWCuOy=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMLY4450q6Izfmybc0gbS6cYGjJFRp2xMI0t6Fm=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNfl1YFkYC0gRZufhsCecqmNVEalvKzw0cL3qGd=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN1HeDE_ut9G2NgODujIARFhZZrUNNTKx-qjijT=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Karar patent ile 10 y\u0131l\u0131 a\u015fk\u0131n s\u00fcredir hem kendi i\u015flerim hemde m\u00fc\u015fterilerimin i\u015fleri i\u00e7in hizmet al\u0131yorum. T\u00fcm ekibi ile bana bunca y\u0131l her ihtiyac\u0131m oldu\u011funda destek olduklar\u0131 i\u00e7in sonsuz te\u015fekk\u00fcrler. G\u00f6z\u00fcn\u00fcz kapal\u0131 g\u00fcvenebilece\u011finiz firmalardan bir tanesi oldu\u011funa emin olabilirsiniz.",
+            "reviewer_name": "Omer Turan",
+            "rating": 5,
+            "review_text": "Karar patent ile 10 y\u0131l\u0131 a\u015fk\u0131n s\u00fcredir hem kendi i\u015flerim hemde m\u00fc\u015fterilerimin i\u015fleri i\u00e7in hizmet al\u0131yorum. T\u00fcm ekibi ile bana bunca y\u0131l her ihtiyac\u0131m oldu\u011funda destek olduklar\u0131 i\u00e7in sonsuz te\u015fekk\u00fcrler. G\u00f6z\u00fcn\u00fcz kapal\u0131 g\u00fcvenebilece\u011finiz firmalardan bir tanesi oldu\u011funa emin olabilirsiniz.",
+            "published_at": "3 hafta \u00f6nce",
+            "published_at_date": "2023-11-25T09:28:51.452000",
+            "response_from_owner_text": "Say\u0131n \u00d6mer TURAN,\n\nGeri bildiriminiz ve uzun y\u0131llara yay\u0131lan i\u015f birli\u011fimiz i\u00e7in te\u015fekk\u00fcr ederiz. Karar Patent olarak, sizin ve m\u00fc\u015fterilerinizin ihtiya\u00e7lar\u0131na y\u00f6nelik sundu\u011fumuz hizmetlerde s\u00fcrekli destek olabilmek bizim i\u00e7in b\u00fcy\u00fck bir memnuniyet kayna\u011f\u0131d\u0131r.\n\nSizin gibi de\u011ferli m\u00fc\u015fterilerimize hizmet vermek ve g\u00fcveninizi kazanmak bizim i\u00e7in gurur verici. \u0130htiya\u00e7lar\u0131n\u0131za uygun \u00e7\u00f6z\u00fcmler sunabilmek ve her zaman yan\u0131n\u0131zda olabilmek ad\u0131na \u00e7aba g\u00f6steriyoruz.\n\nUzun s\u00fcredir s\u00fcregelen bu i\u015f birli\u011fi, bizim i\u00e7in \u00e7ok de\u011ferli. G\u00f6sterdi\u011finiz g\u00fcven ve sadakat i\u00e7in sizlere te\u015fekk\u00fcr ederiz. Gelecekte de ihtiya\u00e7lar\u0131n\u0131za en iyi \u015fekilde cevap vermek ad\u0131na burada olmaya devam edece\u011fiz.\n\nSayg\u0131lar\u0131m\u0131zla,\nKarar Patent",
+            "response_from_owner_ago": "2 hafta \u00f6nce",
+            "response_from_owner_date": "2023-12-01T12:09:12.710000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 39,
+            "total_number_of_photos_by_reviewer": 199,
+            "reviewer_url": "https://www.google.com/maps/contrib/102910015888953139958/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW3GZe9_II2TwSkDx_AW0T24ryd6VN97JGJb2q62WyAGQ=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Marka tescilinizi yapt\u0131r\u0131n ve unutun, \u00e7\u00fcnk\u00fc onlar unutmuyor. Takip ve ileti\u015fim konusunda \u00e7ok ba\u015far\u0131l\u0131lar, Karar patent ekibine te\u015fekk\u00fcrler.",
+            "reviewer_name": "Bora ERDEM",
+            "rating": 5,
+            "review_text": "Marka tescilinizi yapt\u0131r\u0131n ve unutun, \u00e7\u00fcnk\u00fc onlar unutmuyor. Takip ve ileti\u015fim konusunda \u00e7ok ba\u015far\u0131l\u0131lar, Karar patent ekibine te\u015fekk\u00fcrler.",
+            "published_at": "8 ay \u00f6nce",
+            "published_at_date": "2023-04-11T08:41:24.386000",
+            "response_from_owner_text": "Say\u0131n Bora ERDEM,\n\nGeri bildiriminiz i\u00e7in te\u015fekk\u00fcr ederiz. Sizin gibi de\u011ferli m\u00fc\u015fterilerimizin memnuniyeti bizim i\u00e7in \u00e7ok \u00f6nemlidir.\n\nMarka tescili i\u015flemleri konusunda takip ve ileti\u015fim konusunda ba\u015far\u0131l\u0131 oldu\u011fumuz i\u00e7in memnuniyetinizi kazand\u0131\u011f\u0131m\u0131z i\u00e7in sevindik. Karar Patent olarak, m\u00fc\u015fterilerimizin markalar\u0131n\u0131 korumak i\u00e7in en iyi hizmeti sa\u011flamak i\u00e7in elimizden gelenin en iyisini yapar\u0131z.\n\nSizlere en iyi hizmeti sunmaya devam edece\u011fiz ve markan\u0131z\u0131n korunmas\u0131na yard\u0131mc\u0131 olmaktan mutluluk duyaca\u011f\u0131z.\n\nSorular\u0131n\u0131z veya ihtiya\u00e7lar\u0131n\u0131z i\u00e7in her zaman buraday\u0131z.\n\nSayg\u0131lar\u0131m\u0131zla,\nKarar Patent",
+            "response_from_owner_ago": "8 ay \u00f6nce",
+            "response_from_owner_date": "2023-04-11T09:03:09.144000",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 7,
+            "reviewer_url": "https://www.google.com/maps/contrib/118163423478358594820/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWXSDqIyHKZr1zQE1w-5HIImdTEs9UbxzxZ2AeYofkHpMY=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNB4m2NQOVl4EFamcPNqGwLtMww0asBn4lMaxhP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMZPOpfi11NKZTpxL0wbmCeyth5Lx8QapWRlZUI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOXspdizVE-e3gG7uMlorZzXLdSb0wMBqybJIdj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOMiXYnX3ThhG08PLlL1RvLC834DE3WPIfreurD=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOrxGCm7oxG5FNWxOkqL1esGN0xSzhLG1LtJvhG=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPa7KQ3BAWxv-6inGsoAMsELX8ROsKq_gz8wJ6Q=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Marka, tasar\u0131m, patent, faydal\u0131 model \u00fcr\u00fcnlerinin ; tescili \u00f6ncesinde , tescili s\u00fcresince ve tescil sonras\u0131nda verilen hizmetlerin, s\u0131n\u0131f\u0131nda tek oldu\u011funu s\u00f6yleyebilirim. G\u00f6sterdi\u011finiz b\u00fct\u00fcn ilgi ve al\u00e2ka i\u00e7in te\u015fekk\u00fcrler.",
+            "reviewer_name": "Esra Ko\u00e7ak",
+            "rating": 5,
+            "review_text": "Marka, tasar\u0131m, patent, faydal\u0131 model \u00fcr\u00fcnlerinin ; tescili \u00f6ncesinde , tescili s\u00fcresince ve tescil sonras\u0131nda verilen hizmetlerin, s\u0131n\u0131f\u0131nda tek oldu\u011funu s\u00f6yleyebilirim. G\u00f6sterdi\u011finiz b\u00fct\u00fcn ilgi ve al\u00e2ka i\u00e7in te\u015fekk\u00fcrler.",
+            "published_at": "3 hafta \u00f6nce",
+            "published_at_date": "2023-11-23T11:48:54.812000",
+            "response_from_owner_text": "\nSay\u0131n Esra KO\u00c7AK,\n\nGeri bildiriminiz i\u00e7in te\u015fekk\u00fcr ederiz. Karar Patent olarak, marka, tasar\u0131m, patent ve faydal\u0131 model \u00fcr\u00fcnlerinin tescili s\u00fcre\u00e7lerinde sundu\u011fumuz hizmetlerin s\u0131n\u0131f\u0131nda tek oldu\u011funu s\u00f6yledi\u011finiz i\u00e7in memnuniyet duyuyoruz.\n\nM\u00fc\u015fterilerimize \u00f6ncelikli olarak en iyi hizmeti sunmak ve onlar\u0131n fikri m\u00fclkiyet haklar\u0131n\u0131 etkin bir \u015fekilde korumak amac\u0131yla \u00e7al\u0131\u015f\u0131yoruz. G\u00f6sterdi\u011finiz ilgi ve alaka i\u00e7in sizlere te\u015fekk\u00fcr ederiz.\n\nGelecekte de ihtiya\u00e7lar\u0131n\u0131za uygun \u00e7\u00f6z\u00fcmler sunabilmek ad\u0131na buraday\u0131z. \n\nSayg\u0131lar\u0131m\u0131zla,\nKarar Patent",
+            "response_from_owner_ago": "3 hafta \u00f6nce",
+            "response_from_owner_date": "2023-11-23T20:34:21.247000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108090170100709039203/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJaoGVw2wqWrJUSDhn4Gm1qsVO0AAzr1EnSvJS0F7TQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Marka tescilde uzun s\u00fcredir \u00e7al\u0131\u015ft\u0131\u011f\u0131m\u0131z ve profesyonel hizmet ald\u0131\u011f\u0131m\u0131z Karar Patent'e te\u015fekk\u00fcr ederim. Sel\u00e7uk Bey \u00f6zenli deste\u011finiz i\u00e7in ayr\u0131ca memnun oldum.",
+            "reviewer_name": "umut igan",
+            "rating": 5,
+            "review_text": "Marka tescilde uzun s\u00fcredir \u00e7al\u0131\u015ft\u0131\u011f\u0131m\u0131z ve profesyonel hizmet ald\u0131\u011f\u0131m\u0131z Karar Patent'e te\u015fekk\u00fcr ederim. Sel\u00e7uk Bey \u00f6zenli deste\u011finiz i\u00e7in ayr\u0131ca memnun oldum.",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-10-10T10:16:38.214000",
+            "response_from_owner_text": "Say\u0131n Umut \u0130gan,\n\nGeri bildiriminiz i\u00e7in te\u015fekk\u00fcr ederiz. Karar Patent olarak, marka tescili konusunda uzun s\u00fcre i\u015f birli\u011fi yapm\u0131\u015f oldu\u011funuz i\u00e7in memnuniyet duyuyoruz.\n\nSiz de belirtti\u011finiz gibi, marka tescili s\u00fcrecinde m\u00fc\u015fterilerimize profesyonel hizmet sunmak bizim i\u00e7in \u00e7ok \u00f6nemlidir. Sel\u00e7uk Bey'in \u00f6zenli deste\u011finin i\u015finizi kolayla\u015ft\u0131rd\u0131\u011f\u0131n\u0131 ve memnuniyetinizi sa\u011flad\u0131\u011f\u0131n\u0131 duymak bizi mutlu ediyor.\n\nSizlere uzun y\u0131llar boyunca en iyi hizmeti sunmaya devam edece\u011fiz ve markan\u0131z\u0131n korunmas\u0131na yard\u0131mc\u0131 olmaktan gurur duyuyoruz. \u0130htiya\u00e7lar\u0131n\u0131z i\u00e7in her zaman buraday\u0131z.\n\nTe\u015fekk\u00fcr ederiz ve g\u00fcveniniz i\u00e7in minnettar\u0131z.\n\nSayg\u0131lar\u0131m\u0131zla,\nKarar Patent",
+            "response_from_owner_ago": "2 ay \u00f6nce",
+            "response_from_owner_date": "2023-10-10T10:35:23.111000",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116327379013101649736/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLHxGTEDWqJmRFxAz02aswrN_7gJsb7ZOkghv4wcOpm=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Marka ve marka haklar\u0131n\u0131n korunmas\u0131 i\u00e7in proaktlf bir yakla\u015f\u0131mla hizmet veren Karar Patentin de\u011ferli \u00e7al\u0131\u015fanlar\u0131na te\u015fekk\u00fcr ediyorum",
+            "reviewer_name": "Mehmet \u015e\u0130\u015eMAN",
+            "rating": 5,
+            "review_text": "Marka ve marka haklar\u0131n\u0131n korunmas\u0131 i\u00e7in proaktlf bir yakla\u015f\u0131mla hizmet veren Karar Patentin de\u011ferli \u00e7al\u0131\u015fanlar\u0131na te\u015fekk\u00fcr ediyorum",
+            "published_at": "bir hafta \u00f6nce",
+            "published_at_date": "2023-12-06T17:08:00.540000",
+            "response_from_owner_text": "Merhaba Mehmet Bey,\n\nDe\u011ferli yorumunuz i\u00e7in te\u015fekk\u00fcr ederiz. Marka ve marka haklar\u0131n\u0131n korunmas\u0131 konusundaki proaktif yakla\u015f\u0131m\u0131m\u0131z\u0131n sizin memnuniyetinize katk\u0131 sa\u011flad\u0131\u011f\u0131n\u0131 duymak, bizim i\u00e7in b\u00fcy\u00fck bir mutluluk kayna\u011f\u0131.\n\nKarar Patent olarak, m\u00fc\u015fteri memnuniyetini ve marka haklar\u0131n\u0131n etkin bir \u015fekilde korunmas\u0131n\u0131 \u00f6n planda tutarak \u00e7al\u0131\u015f\u0131yoruz. Sizin gibi de\u011ferli m\u00fc\u015fterilerimize en iyi hizmeti sunabilmek ve marka stratejilerinizi desteklemek ad\u0131na s\u00fcrekli olarak \u00e7aba sarf ediyoruz.\n\nHerhangi bir marka veya patent konusundaki ihtiya\u00e7lar\u0131n\u0131z i\u00e7in her zaman buraday\u0131z. G\u00fcveniniz i\u00e7in tekrar te\u015fekk\u00fcr eder, sizinle uzun vadeli bir i\u015f birli\u011fi s\u00fcrd\u00fcrebilmek i\u00e7in sab\u0131rs\u0131zlan\u0131yoruz.\n\nSayg\u0131lar\u0131m\u0131zla,\nKarar Patent",
+            "response_from_owner_ago": "bir hafta \u00f6nce",
+            "response_from_owner_date": "2023-12-07T08:21:22.509000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113362469770995619812/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI4rXUcWSuK4njWcy5N7imHpkn-xxHUHpi2Q6Suwexa=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Uzun y\u0131llard\u0131r kararpatent ile \u00e7al\u0131\u015f\u0131yoruz,uluslararas\u0131 marka ba\u015fvurular\u0131m\u0131z da ve uluslararas\u0131 takip hizmetlerinde \u00e7ok iyiler, ba\u015fka alternatif arama ihtiyac\u0131 duymad\u0131m,   Te\u015fekk\u00fcrler kararpatent ailesi",
+            "reviewer_name": "Hakan Ozturk",
+            "rating": 5,
+            "review_text": "Uzun y\u0131llard\u0131r kararpatent ile \u00e7al\u0131\u015f\u0131yoruz,uluslararas\u0131 marka ba\u015fvurular\u0131m\u0131z da ve uluslararas\u0131 takip hizmetlerinde \u00e7ok iyiler, ba\u015fka alternatif arama ihtiyac\u0131 duymad\u0131m,   Te\u015fekk\u00fcrler kararpatent ailesi",
+            "published_at": "bir ay \u00f6nce",
+            "published_at_date": "2023-10-21T10:11:27.632000",
+            "response_from_owner_text": "Say\u0131n Hakan \u00d6zt\u00fcrk, de\u011ferli yorumunuz i\u00e7in te\u015fekk\u00fcr ederiz,markan\u0131z\u0131n uluslararas\u0131 arena da daha fazla \u00fclkede temsile her zaman haz\u0131r\u0131z. Sizler varolduk\u00e7a bizler var\u0131z, yeni marka \u00e7al\u0131\u015fmalar\u0131n\u0131z da ve takip \u00e7al\u0131\u015fmalar\u0131n da g\u00f6r\u00fc\u015fmek \u00fczere .. ",
+            "response_from_owner_ago": "bir ay \u00f6nce",
+            "response_from_owner_date": "2023-10-22T05:58:47.781000",
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109208333017082048825/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJwk67DEOBhe4sN--UYD3l34mitOUJX-1YioR_xcxyi=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u0130\u015flerinde \u00e7ok iyi be disiplinliler. S\u00fcre\u00e7 takibinde, bilgilendirmesinde ve s\u0131ras\u0131yla t\u00fcm a\u015famalarda \u015feffaf bir i\u015fleyi\u015fleri var. Herkese tavsiye ederim.",
+            "reviewer_name": "ilker t.",
+            "rating": 5,
+            "review_text": "\u0130\u015flerinde \u00e7ok iyi be disiplinliler. S\u00fcre\u00e7 takibinde, bilgilendirmesinde ve s\u0131ras\u0131yla t\u00fcm a\u015famalarda \u015feffaf bir i\u015fleyi\u015fleri var. Herkese tavsiye ederim.",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-10-10T10:32:35.743000",
+            "response_from_owner_text": "De\u011ferli yorumunuz i\u00e7in \u00e7ok te\u015fekk\u00fcrler \u0130lker bey, sizler talep ettik\u00e7e biz daha iyi hizmet sunmaya \u00e7al\u0131\u015faca\u011f\u0131z ",
+            "response_from_owner_ago": "2 ay \u00f6nce",
+            "response_from_owner_date": "2023-10-10T20:07:00.013000",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 42,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107619784610070519980/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXoaY4c4otmmm8P7kjLoFQbo9rSMM1Xb_hAD2vWoQONTg=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

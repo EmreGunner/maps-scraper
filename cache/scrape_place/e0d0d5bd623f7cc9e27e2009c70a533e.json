@@ -1,0 +1,101 @@
+{
+    "place_id": "ChIJ9V5xpDggKxURxEndyT2psjk",
+    "name": "Baz Mimarl\u0131k",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Ba\u015fer Mimar\u0131k",
+            "link": "https://www.google.com/maps/search/Ba%C5%9Fer+Mimar%C4%B1k/@38.7456621,35.396904899999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Mimar"
+        },
+        {
+            "name": "3B M\u0130MARLIK",
+            "link": "https://www.google.com/maps/search/3B+M%C4%B0MARLIK/@38.730336799999996,35.5166647?authuser=0&entry=ttu",
+            "reviews": 12,
+            "rating": 5,
+            "main_category": "Mimar"
+        },
+        {
+            "name": "zeno mimarl\u0131k",
+            "link": "https://www.google.com/maps/search/zeno+mimarl%C4%B1k/@38.724596399999996,35.493059900000006?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Mimar"
+        },
+        {
+            "name": "G\u00fclyuva \u0130n\u015faat Kayseri",
+            "link": "https://www.google.com/maps/search/G%C3%BClyuva+%C4%B0n%C5%9Faat+Kayseri/@38.722750999999995,35.492961?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Mimar"
+        },
+        {
+            "name": "Bak\u0131r\u00f6z\u00fc Mimarl\u0131k",
+            "link": "https://www.google.com/maps/search/Bak%C4%B1r%C3%B6z%C3%BC+Mimarl%C4%B1k/@38.717115199999995,35.495472?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "\u0130\u00e7 Mimarl\u0131k B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Baz Mimarl\u0131k (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Mimar",
+    "categories": [
+        "Mimar"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 318 90 38",
+    "address": "Levent, Baz Mimarl\u0131k, YKB Plaza C Blok Kat:17, C\u00f6mert Sk",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ9V5xpDggKxURxEndyT2psjk",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ9V5xpDggKxURxEndyT2psjk&q=?q=place_id:ChIJ9V5xpDggKxURxEndyT2psjk&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 38.963744999999996,
+        "longitude": 35.243322
+    },
+    "plus_code": null,
+    "detailed_address": {
+        "ward": "Levent",
+        "street": "YKB Plaza C Blok Kat:17, C\u00f6mert Sk",
+        "city": "Kocasinan",
+        "postal_code": null,
+        "state": "Kayseri",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4157571488861211076",
+    "data_id": "0x152b2038a4715ef5:0x39b2a93dc9dd49c4",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

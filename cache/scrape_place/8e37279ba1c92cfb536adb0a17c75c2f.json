@@ -1,0 +1,210 @@
+{
+    "place_id": "ChIJFWPMJP-2yhQRoDdfk54XQ6s",
+    "name": "\u00c7etinkaya Hukuk Ofisi",
+    "description": null,
+    "reviews": 2,
+    "competitors": [
+        {
+            "name": "\u00c7etinkaya Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%87etinkaya+Hukuk+B%C3%BCrosu/@41.072952,29.011794499999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00c7etin & \u00c7etin Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%87etin+%26+%C3%87etin+Hukuk+B%C3%BCrosu/@41.067251399999996,28.994660999999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "C\u00fcneyt Hiracan Hukuk B\u00fcrosu (C\u00fcneyt H\u0131racan)",
+            "link": "https://www.google.com/maps/search/C%C3%BCneyt+Hiracan+Hukuk+B%C3%BCrosu+%28C%C3%BCneyt+H%C4%B1racan%29/@41.069482,28.996055000000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Hayat Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Hayat+Hukuk+B%C3%BCrosu/@41.06724,28.998904?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Hazinedar Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Hazinedar+Hukuk+B%C3%BCrosu/@41.067309,28.993076?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.cetinkaya.av.tr/",
+    "owner": {
+        "id": null,
+        "name": "\u00c7etinkaya Hukuk Ofisi (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh5.googleusercontent.com/L7mZcv_xnI9JcMu04qCqlelwUJ0--ju1Lp6LYI_uVuvFomdXfmiIGzULlCXiI__Q=w426-h240-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": 4,
+    "workday_timing": "09:00\u201317:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0212) 212 99 55",
+    "address": "Mecidiyek\u00f6y, \u00c7etinkaya Hukuk Ofisi, 3, Mecidiye Cd. No:3, 34387 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJFWPMJP-2yhQRoDdfk54XQ6s",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 17:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJFWPMJP-2yhQRoDdfk54XQ6s&q=?q=place_id:ChIJFWPMJP-2yhQRoDdfk54XQ6s&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.067133,
+        "longitude": 28.997161
+    },
+    "plus_code": "3X8W+VV \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Mecidiyek\u00f6y",
+        "street": "3, Mecidiye Cd. No:3",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34387",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12340733373770053536",
+    "data_id": "0x14cab6ff24cc6315:0xab43179e935f37a0",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh5.googleusercontent.com/L7mZcv_xnI9JcMu04qCqlelwUJ0--ju1Lp6LYI_uVuvFomdXfmiIGzULlCXiI__Q=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TfT1ZMm6plIvwC2RqH06PA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=256.65942&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Gayrimenkul hukuku alt ba\u015fl\u0131\u011f\u0131 alt\u0131nda uluslar aras\u0131 ticari i\u015flemler, proje finansman\u0131,dava takibi,icra ve iflas,\u015firketler hukuku olmak \u00fczere bir\u00e7ok hukuk konusu ile ilgilenmektedir.",
+            "reviewer_name": "FatmaNur Aydn",
+            "rating": 5,
+            "review_text": "Gayrimenkul hukuku alt ba\u015fl\u0131\u011f\u0131 alt\u0131nda uluslar aras\u0131 ticari i\u015flemler, proje finansman\u0131,dava takibi,icra ve iflas,\u015firketler hukuku olmak \u00fczere bir\u00e7ok hukuk konusu ile ilgilenmektedir.",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-09-30T22:44:30.806000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116784559101040552130/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWHEWlwNkbAzZNg8iTU-msoAmR4DuuG5TdWe17HcgyZ9W8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Ey\u00fcp Kaan Yoksu",
+            "rating": 3,
+            "review_text": null,
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-01-31T13:02:53.621000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 384,
+            "total_number_of_photos_by_reviewer": 5647,
+            "reviewer_url": "https://www.google.com/maps/contrib/118307203229496379097/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUuZXOdNFzb527uZxLcsSjm73H4UMIkAxAHBsDN0_0bHg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN8kdFMVbpPBjAKmbgUOybYc0IMoMt59H3ecz_F=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMOJa2yYaMvXd30nLr3FazRAiOkRojIE1hQ8BK5=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

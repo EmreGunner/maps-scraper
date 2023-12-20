@@ -1,0 +1,182 @@
+{
+    "place_id": "ChIJiZ8zUgLEyhQR16KhwP-jm-w",
+    "name": "Sarhan Dan\u0131\u015fmanl\u0131k",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "SA Akademi",
+            "link": "https://www.google.com/maps/search/SA+Akademi/@40.9182401,29.1346573?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Muhasebe Firmas\u0131"
+        },
+        {
+            "name": "Masen Serbest Muhasebeci Mali M\u00fc\u015favirlik A.\u015e.",
+            "link": "https://www.google.com/maps/search/Masen+Serbest+Muhasebeci+Mali+M%C3%BC%C5%9Favirlik+A.%C5%9E./@40.925194,29.130709?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Vergi Dan\u0131\u015fman\u0131"
+        },
+        {
+            "name": "\u0130stisna Muhasebe Merkez Ofis",
+            "link": "https://www.google.com/maps/search/%C4%B0stisna+Muhasebe+Merkez+Ofis/@40.9170678,29.144381300000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Denet\u00e7i"
+        },
+        {
+            "name": "SRN Dan\u0131\u015fma",
+            "link": "https://www.google.com/maps/search/SRN+Dan%C4%B1%C5%9Fma/@40.9145666,29.187713699999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "\u0130\u015fletme Y\u00f6netimi Dan\u0131\u015fman\u0131"
+        },
+        {
+            "name": "Abdurrahman Karan - S.M. Mali M\u00fc\u015favir",
+            "link": "https://www.google.com/maps/search/Abdurrahman+Karan+-+S.M.+Mali+M%C3%BC%C5%9Favir/@40.884392299999995,29.232794499999994?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Serbest Muhasebeci Mali M\u00fc\u015favir"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "109630200036753282425",
+        "name": "Sarhan Dan\u0131\u015fmanl\u0131k (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/109630200036753282425"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wa1prJFLfydiRAbakKgJUQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=40.122353&pitch=0&thumbfov=100",
+    "main_category": "Mali planlay\u0131c\u0131",
+    "categories": [
+        "Mali planlay\u0131c\u0131"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0554 967 77 56",
+    "address": "Cevizli, Sarhan Dan\u0131\u015fmanl\u0131k, Ba\u011fdat Cad. No:513, 34846 Maltepe/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJiZ8zUgLEyhQR16KhwP-jm-w",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJiZ8zUgLEyhQR16KhwP-jm-w&q=?q=place_id:ChIJiZ8zUgLEyhQR16KhwP-jm-w&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.918867999999996,
+        "longitude": 29.1416708
+    },
+    "plus_code": "W49R+GM Maltepe, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Cevizli",
+        "street": "Ba\u011fdat Cad. No:513",
+        "city": "Maltepe",
+        "postal_code": "34846",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "17049401133184950999",
+    "data_id": "0x14cac40252339f89:0xec9ba3ffc0a1a2d7",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "http://sarhandanismanlik.com/",
+            "source": "sarhandanismanlik.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wa1prJFLfydiRAbakKgJUQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=40.122353&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wa1prJFLfydiRAbakKgJUQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=40.122353&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

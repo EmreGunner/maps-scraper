@@ -1,0 +1,146 @@
+{
+    "place_id": "ChIJY6fQ9lijyhQRFN1rScJB_x8",
+    "name": "Y\u0131lmaz Dani\u015fmanl\u0131k",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Denetim Mali M\u00fc\u015favirlik",
+            "link": "https://www.google.com/maps/search/Denetim+Mali+M%C3%BC%C5%9Favirlik/@40.9969132,28.848934900000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Muhasebeci"
+        },
+        {
+            "name": "Y\u0131lmaz Serbest Muhasebeci Ve Mali M\u00fc\u015favirlik Dani\u015fmanlik",
+            "link": "https://www.google.com/maps/search/Y%C4%B1lmaz+Serbest+Muhasebeci+Ve+Mali+M%C3%BC%C5%9Favirlik+Dani%C5%9Fmanlik/@40.9974761,28.833242000000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Mali M\u00fc\u015favir"
+        },
+        {
+            "name": "YILMAZ EMLAK GAYRIMENKUL dan\u0131\u015fmanl\u0131k bahcelievler",
+            "link": "https://www.google.com/maps/search/YILMAZ+EMLAK+GAYRIMENKUL+dan%C4%B1%C5%9Fmanl%C4%B1k+bahcelievler/@40.9994948,28.848827399999998?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 4.7,
+            "main_category": "Emlak B\u00fcrosu"
+        },
+        {
+            "name": "Consultancy",
+            "link": "https://www.google.com/maps/search/Consultancy/@40.9929181,28.8456245?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 3,
+            "main_category": "E\u011fitim Dan\u0131\u015fman\u0131"
+        }
+    ],
+    "website": "http://yetkibelgesi.net/",
+    "owner": {
+        "id": null,
+        "name": "Y\u0131lmaz Dani\u015fmanl\u0131k (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh4.googleusercontent.com/pL2TzVvLrHu6igSsjb0JFkd7qp9IWeRc9hi7u8u4ms2gNvcuos3BGrg_vZqyPypM=w426-h240-k-no",
+    "main_category": "\u0130\u015fletme Y\u00f6netimi Dan\u0131\u015fman\u0131",
+    "categories": [
+        "\u0130\u015fletme Y\u00f6netimi Dan\u0131\u015fman\u0131"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": "Open All Days",
+    "phone": "(0212) 653 11 87",
+    "address": "Y\u0131lmaz Dani\u015fmanl\u0131k, \u015eirinevler Mahallesi Mahmutbey Caddesi Toyak \u0130\u015f Merkezi kat:1 no:110, 34188 \u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJY6fQ9lijyhQRFN1rScJB_x8",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJY6fQ9lijyhQRFN1rScJB_x8&q=?q=place_id:ChIJY6fQ9lijyhQRFN1rScJB_x8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9929159,
+        "longitude": 28.8445632
+    },
+    "plus_code": "XRVV+5R Bah\u00e7elievler, \u0130stanbul",
+    "detailed_address": {
+        "ward": "\u015eirinevler",
+        "street": "\u015eirinevler Mahallesi Mahmutbey Caddesi Toyak \u0130\u015f Merkezi kat:1 no:110",
+        "city": "Bah\u00e7elievler",
+        "postal_code": "34188",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2305633836948249876",
+    "data_id": "0x14caa358f6d0a763:0x1fff41c2496bdd14",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh4.googleusercontent.com/pL2TzVvLrHu6igSsjb0JFkd7qp9IWeRc9hi7u8u4ms2gNvcuos3BGrg_vZqyPypM=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gghka9neG7sWV9JTQjPi1Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=317.90585&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

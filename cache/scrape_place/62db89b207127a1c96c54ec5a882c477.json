@@ -1,0 +1,146 @@
+{
+    "place_id": "ChIJR9MONV66yhQR8wf-wtyFvOo",
+    "name": "Y\u0131lmaz Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "\u0130stanbul Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C4%B0stanbul+Hukuk+B%C3%BCrosu/@40.99607820000001,28.8722504?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "YILMAZ HUKUK VE DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/YILMAZ+HUKUK+VE+DANI%C5%9EMANLIK/@40.9950536,28.8785616?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u0130STANBUL HUKUK B\u00dcROSU - Av. \u00d6zg\u00fcr YILMAZ Av. Yusuf YILMAZ",
+            "link": "https://www.google.com/maps/search/%C4%B0STANBUL+HUKUK+B%C3%9CROSU+-+Av.+%C3%96zg%C3%BCr+YILMAZ+Av.+Yusuf+YILMAZ/@40.9953187,28.873469399999998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Y\u0131lmaz&\u00c7elik Hukuk ve Dan\u0131\u015fmanl\u0131k Ofisi",
+            "link": "https://www.google.com/maps/search/Y%C4%B1lmaz%26%C3%87elik+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+Ofisi/@40.993151,28.871990999999994?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 4.7,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Y\u0131lmaz Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Y%C4%B1lmaz+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9829977,28.8731272?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": "http://yilmazhukuk.net/",
+    "owner": {
+        "id": null,
+        "name": "Y\u0131lmaz Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "08:30\u201318:30",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0212) 213 53 50",
+    "address": "Y\u0131lmaz Hukuk B\u00fcrosu, Kartaltepe Mah. \u0130ncirli Cad. Pembeay Sok. \u0130nk\u0131lap Apt, A Blok Sk. No:23/9, Bak\u0131rk\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJR9MONV66yhQR8wf-wtyFvOo",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJR9MONV66yhQR8wf-wtyFvOo&q=?q=place_id:ChIJR9MONV66yhQR8wf-wtyFvOo&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0307539,
+        "longitude": 28.909350399999997
+    },
+    "plus_code": "2WJ5+8P Bak\u0131rk\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Maltepe",
+        "street": "Kartaltepe Mah. \u0130ncirli Cad. Pembeay Sok. \u0130nk\u0131lap Apt, A Blok Sk. No:23/9",
+        "city": "Bak\u0131rk\u00f6y",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16914541483707467763",
+    "data_id": "0x14caba5e350ed347:0xeabc85dcc2fe07f3",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

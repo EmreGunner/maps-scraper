@@ -1,0 +1,185 @@
+{
+    "place_id": "ChIJL4Q30hy3yhQRwNz9MV7Ix5s",
+    "name": "Ball\u0131 Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Avukat Serpil \u00d6z",
+            "link": "https://www.google.com/maps/search/Avukat+Serpil+%C3%96z/@41.064133999999996,28.987384799999997?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ceylan Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Ceylan+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.0563301,28.985655299999998?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 3.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ZARBALI Hukuk ve Arabuluculuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/ZARBALI+Hukuk+ve+Arabuluculuk+B%C3%BCrosu/@41.071079399999995,28.9779643?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "BAK\u0130 HUKUK VE DANI\u015eMANLIK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/BAK%C4%B0+HUKUK+VE+DANI%C5%9EMANLIK+B%C3%9CROSU/@41.069082099999996,28.9897042?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "B\u00fct\u00fcner Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/B%C3%BCt%C3%BCner+Hukuk+B%C3%BCrosu/@41.067814999999996,28.9858858?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 4.4,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "102744934179336801697",
+        "name": "Ball\u0131 Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/102744934179336801697"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FFsgstwx6yCgLoAglRV9lw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=294.6251&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 230 33 13",
+    "address": "Prof. Dr, Ball\u0131 Hukuk B\u00fcrosu, Prof. Nurettin Mazhar \u00d6ktel Sk No:19/1, 34381 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJL4Q30hy3yhQRwNz9MV7Ix5s",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJL4Q30hy3yhQRwNz9MV7Ix5s&q=?q=place_id:ChIJL4Q30hy3yhQRwNz9MV7Ix5s&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0635149,
+        "longitude": 28.9875308
+    },
+    "plus_code": "3X7Q+C2 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Prof. Dr",
+        "street": "Prof. Nurettin Mazhar \u00d6ktel Sk No:19/1",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34381",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "11225160903135452352",
+    "data_id": "0x14cab71cd237842f:0x9bc7c85e31fddcc0",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                },
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FFsgstwx6yCgLoAglRV9lw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=294.6251&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMQmGmsGzODpkKy5ohZxW8rDa_wxa7AJvFt0N1N=w889-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FFsgstwx6yCgLoAglRV9lw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=294.6251&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,114 @@
+{
+    "place_id": "ChIJEVc3moHHyhQRK60j1FZZ9xc",
+    "name": "Ark Legal",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Akran Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Akran+Hukuk+B%C3%BCrosu/@40.9758935,29.051407299999997?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AGB & ARB\u0130TER AVUKATLIK DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/AGB+%26+ARB%C4%B0TER+AVUKATLIK+DANI%C5%9EMANLIK/@40.9786055,29.045852000000004?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Karabacak Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Karabacak+Hukuk+B%C3%BCrosu/@40.9705169,29.040159?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Damgacioglu Law Firm",
+            "link": "https://www.google.com/maps/search/Damgacioglu+Law+Firm/@40.979354,29.046166999999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ar & Han Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ar+%26+Han+Hukuk+B%C3%BCrosu/@40.9886949,29.0289362?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Ark Legal (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh3.googleusercontent.com/tyJ_Smmxym-lK3y3XiF6oMDKHYdjUB0tFqq78RUMVCkYrZKVroN1TQCDdGoAoI6V=w426-h240-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0216) 418 68 78",
+    "address": "Feneryolu, Ark Legal, Mustafa Mazhar Bey Soka\u011f\u0131 No:1, 34724 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJEVc3moHHyhQRK60j1FZZ9xc",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJEVc3moHHyhQRK60j1FZZ9xc&q=?q=place_id:ChIJEVc3moHHyhQRK60j1FZZ9xc&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9763326,
+        "longitude": 29.0507909
+    },
+    "plus_code": "X3G2+G8 Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Feneryolu",
+        "street": "Mustafa Mazhar Bey Soka\u011f\u0131 No:1",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34724",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "1726947211581041963",
+    "data_id": "0x14cac7819a375711:0x17f75956d423ad2b",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh3.googleusercontent.com/tyJ_Smmxym-lK3y3XiF6oMDKHYdjUB0tFqq78RUMVCkYrZKVroN1TQCDdGoAoI6V=w529-h298-k-no"
+        },
+        {
+            "about": "D\u0131\u015ftan g\u00f6r\u00fcn\u00fcm",
+            "link": "//lh3.googleusercontent.com/tyJ_Smmxym-lK3y3XiF6oMDKHYdjUB0tFqq78RUMVCkYrZKVroN1TQCDdGoAoI6V=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Aw0UgH0H8vKn-Ldnlnm4lg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=276.37744&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

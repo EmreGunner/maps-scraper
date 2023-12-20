@@ -1,0 +1,112 @@
+{
+    "place_id": "ChIJ8eiyYtnFyhQR0pv8IfCZveo",
+    "name": "FSE HUKUK OF\u0130S\u0130",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "FSE HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/FSE+HUKUK+B%C3%9CROSU/@40.8884459,29.184214500000003?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Fe-da Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Fe-da+Hukuk+B%C3%BCrosu/@40.9183578,29.2258564?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Esa law firm",
+            "link": "https://www.google.com/maps/search/Esa+law+firm/@41.013627299999996,29.2019417?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Fi Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Fi+Hukuk+B%C3%BCrosu/@40.9128742,29.176950699999995?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 3,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Av. Arb. Esra FAKO\u011eLU",
+            "link": "https://www.google.com/maps/search/Av.+Arb.+Esra+FAKO%C4%9ELU/@40.9113494,29.1774576?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "FSE HUKUK OF\u0130S\u0130 (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0533 488 51 35",
+    "address": "\u00c7ar\u015f\u0131, FSE HUKUK OF\u0130S\u0130, 34876 Kartal/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ8eiyYtnFyhQR0pv8IfCZveo",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ8eiyYtnFyhQR0pv8IfCZveo&q=?q=place_id:ChIJ8eiyYtnFyhQR0pv8IfCZveo&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.918400399999996,
+        "longitude": 29.2204548
+    },
+    "plus_code": "W69C+95 Kartal, \u0130stanbul",
+    "detailed_address": {
+        "ward": "\u00c7ar\u015f\u0131",
+        "street": null,
+        "city": "Kartal",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16914845032114854866",
+    "data_id": "0x14cac5d962b2e8f1:0xeabd99f021fc9bd2",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

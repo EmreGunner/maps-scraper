@@ -1,0 +1,353 @@
+{
+    "place_id": "ChIJUwzDca2hyhQRzz6b3cvUOlo",
+    "name": "Avc\u0131lar Avukat Nuket D\u00f6nmez Kaya",
+    "description": null,
+    "reviews": 11,
+    "competitors": [
+        {
+            "name": "T\u00dcZEL G\u00dcL\u015eEN HUKUK VE ARABULUCULUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/T%C3%9CZEL+G%C3%9CL%C5%9EEN+HUKUK+VE+ARABULUCULUK+B%C3%9CROSU/@41.003098400000006,28.809575600000002?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u00c7ekmen Hukuk ve Arabuluculuk B\u00fcrosu Avukat Zeynep \u00c7ekmen",
+            "link": "https://www.google.com/maps/search/%C3%87ekmen+Hukuk+ve+Arabuluculuk+B%C3%BCrosu+Avukat+Zeynep+%C3%87ekmen/@41.0115926,28.699687999999995?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 2.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Nurg\u00fcl \u00c7i\u00e7ek",
+            "link": "https://www.google.com/maps/search/Avukat+Nurg%C3%BCl+%C3%87i%C3%A7ek/@40.97976,28.7229165?authuser=0&entry=ttu",
+            "reviews": 15,
+            "rating": 4.5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u00c7erkez Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%87erkez+Hukuk+B%C3%BCrosu/@40.9801772,28.721543799999996?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 2.6,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "G\u00f6kta\u015f Hukuk",
+            "link": "https://www.google.com/maps/search/G%C3%B6kta%C5%9F+Hukuk/@40.9869668,28.7186059?authuser=0&entry=ttu",
+            "reviews": 30,
+            "rating": 2,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.nuketdonmezkaya.com/",
+    "owner": {
+        "id": "116400929885105752773",
+        "name": "Avc\u0131lar Avukat Nuket D\u00f6nmez Kaya (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/116400929885105752773"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOCnYeNNXImVrAHGLhWd4C2W09iVH-oZC0M2cSg=w408-h544-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201319:00",
+    "closed_on": "Open All Days",
+    "phone": "0554 933 41 23",
+    "address": "Merkez, Avc\u0131lar Avukat Nuket D\u00f6nmez Kaya, Marmara Cd. No:23/41, 34325 Avc\u0131lar/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJUwzDca2hyhQRzz6b3cvUOlo",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 19:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 11
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJUwzDca2hyhQRzz6b3cvUOlo&q=?q=place_id:ChIJUwzDca2hyhQRzz6b3cvUOlo&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9814337,
+        "longitude": 28.7220627
+    },
+    "plus_code": "XPJC+HR Avc\u0131lar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkez",
+        "street": "Marmara Cd. No:23/41",
+        "city": "Avc\u0131lar",
+        "postal_code": "34325",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6501742984124120783",
+    "data_id": "0x14caa1ad71c30c53:0x5a3ad4cbdd9b3ecf",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "from_the_business",
+            "name": "\u0130\u015fletme hakk\u0131nda",
+            "options": [
+                {
+                    "name": "Sahibi kad\u0131n oldu\u011funu belirtiyor",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOCnYeNNXImVrAHGLhWd4C2W09iVH-oZC0M2cSg=w224-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMblAtH50aCeosPiqhw0hnyMK0WfXxMF5GxrnVd=w298-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=V4ExcDPMiKehNUo4QjNtgA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=2.5171068&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Nuket han\u0131m\u0131 kendi mevzum i\u00e7in rahats\u0131z ettim.(\u00d6yle diyorum \u00e7\u00fcnk\u00fc direkt arad\u0131m hemen a\u00e7t\u0131) Abart\u0131s\u0131z 20 dakika kadar bana neler yap\u0131labilice\u011fini ve ne kadar s\u00fcrece\u011fini anlatt\u0131.Karde\u015fim avukat olmas\u0131na ragmen ona dan\u0131\u015ft\u0131m ve ona ra\u011fmen uzun uzun anlatt\u0131 her \u015feyi\u2026Hukuki bilgisine ve mesle\u011fine olan sevgisine hayran\u0131m. Mesle\u011fi sadece avukat olan de\u011fil t\u00fcm \u00e7al\u0131\u015fan \u00e7al\u0131\u015fmayan bireyler \u00f6rnek almal\u0131. Mustafa Kemal Atat\u00fcrk\u2019\u00fcn de s\u00f6yledi\u011fi gibi \u201cVatan\u0131n\u0131 en \u00e7ok seven g\u00f6revini en iyi yapand\u0131r.\u201d",
+            "reviewer_name": "Hatice AKKAYA",
+            "rating": 5,
+            "review_text": "Nuket han\u0131m\u0131 kendi mevzum i\u00e7in rahats\u0131z ettim.(\u00d6yle diyorum \u00e7\u00fcnk\u00fc direkt arad\u0131m hemen a\u00e7t\u0131) Abart\u0131s\u0131z 20 dakika kadar bana neler yap\u0131labilice\u011fini ve ne kadar s\u00fcrece\u011fini anlatt\u0131.Karde\u015fim avukat olmas\u0131na ragmen ona dan\u0131\u015ft\u0131m ve ona ra\u011fmen uzun uzun anlatt\u0131 her \u015feyi\u2026Hukuki bilgisine ve mesle\u011fine olan sevgisine hayran\u0131m. Mesle\u011fi sadece avukat olan de\u011fil t\u00fcm \u00e7al\u0131\u015fan \u00e7al\u0131\u015fmayan bireyler \u00f6rnek almal\u0131. Mustafa Kemal Atat\u00fcrk\u2019\u00fcn de s\u00f6yledi\u011fi gibi \u201cVatan\u0131n\u0131 en \u00e7ok seven g\u00f6revini en iyi yapand\u0131r.\u201d",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-08-10T15:23:58.414000",
+            "response_from_owner_text": "Hatice han\u0131m bu g\u00fczel yorumlar\u0131n\u0131z i\u00e7in \u00e7ok te\u015fekk\u00fcr ederim",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-08-30T21:22:11.805000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/103163376711189675264/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKZ1LHmQOd3oT1XG_LDQwnHrFcElKFJAa7Xu4k_NeFDqw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Avukat Nuket han\u0131m\u0131n ilgi ve alakasindan \u00e7ok memnun kald\u0131m. Kendisi i\u015fini profesyonel olarak yapan, \u00e7ok iyi bir avukat. Bana yard\u0131mlar\u0131 i\u00e7in kendisine ve ekibine \u00e7ok te\u015fekk\u00fcr eder, herkese tavsiye ederim.",
+            "reviewer_name": "Arzu \u00d6zdemir",
+            "rating": 5,
+            "review_text": "Avukat Nuket han\u0131m\u0131n ilgi ve alakasindan \u00e7ok memnun kald\u0131m. Kendisi i\u015fini profesyonel olarak yapan, \u00e7ok iyi bir avukat. Bana yard\u0131mlar\u0131 i\u00e7in kendisine ve ekibine \u00e7ok te\u015fekk\u00fcr eder, herkese tavsiye ederim.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-11-29T19:00:37.841000",
+            "response_from_owner_text": "Arzu han\u0131m bu g\u00fczel yorumlar\u0131n\u0131z i\u00e7in te\u015fekk\u00fcr ederim",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-08-30T21:25:20.140000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114397702853032373717/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocILW8ZqVWn9V4lXA2wqw3siFhTzzKKwwn0ZSK6YX7s2=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u00c7ok Iyi Bir \u0130nsan \u0130lgili ... Te\u015fekk\u00fcrler Kendisine",
+            "reviewer_name": "Uzm. Dr. Mazlum Kaya",
+            "rating": 5,
+            "review_text": "\u00c7ok Iyi Bir \u0130nsan \u0130lgili ... Te\u015fekk\u00fcrler Kendisine",
+            "published_at": "3 hafta \u00f6nce",
+            "published_at_date": "2023-11-25T13:03:34.690000",
+            "response_from_owner_text": "Mazlum bey,bu g\u00fczel yorumunuz i\u00e7in te\u015fekk\u00fcr ederim ",
+            "response_from_owner_ago": "3 hafta \u00f6nce",
+            "response_from_owner_date": "2023-11-26T10:39:58.023000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/115327729827087832602/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIM1yWNHftVU_77-ERczNsBl5tJo6arCO6g2wSuG03p=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Nuket han\u0131m benim dava ma bakt\u0131 ve profesyonel ekibi ile h\u0131zl\u0131 Atik ve m\u00fckemmellik te \u00fcst\u00fcn de avukat tan\u0131m\u0131yorum iyki Nuket han\u0131m gibi avukat\u0131m var kendisine ve ekibine te\u015fekk\u00fcr ederim",
+            "reviewer_name": "MEHMET KAVUR",
+            "rating": 5,
+            "review_text": "Nuket han\u0131m benim dava ma bakt\u0131 ve profesyonel ekibi ile h\u0131zl\u0131 Atik ve m\u00fckemmellik te \u00fcst\u00fcn de avukat tan\u0131m\u0131yorum iyki Nuket han\u0131m gibi avukat\u0131m var kendisine ve ekibine te\u015fekk\u00fcr ederim",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-11-29T17:52:50.427000",
+            "response_from_owner_text": "Te\u015fekk\u00fcr ederim ",
+            "response_from_owner_ago": "3 hafta \u00f6nce",
+            "response_from_owner_date": "2023-11-26T10:40:46.540000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/109493705501092478741/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKwipw_Tqa6ftDeqVI5fxQK1YHqvDrAOhkXToqt6BC6=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Nuket Hanim ve ekibi harika bir ekipsiniz i\u015fini takip edip g\u00fczel \u015feyler ba\u015far\u0131yor iyiki benim avukatim",
+            "reviewer_name": "hatun kurtlu",
+            "rating": 5,
+            "review_text": "Nuket Hanim ve ekibi harika bir ekipsiniz i\u015fini takip edip g\u00fczel \u015feyler ba\u015far\u0131yor iyiki benim avukatim",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-11-29T18:53:58.750000",
+            "response_from_owner_text": "Hatun han\u0131m bu g\u00fczel yorumlar\u0131n\u0131z i\u00e7in te\u015fekk\u00fcr ederim",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-08-30T21:25:58.430000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109460478668102937171/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ7FaJsfrX_zMNtWDxadjESI9y360co00ddqSvFfb8T=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Nuket han\u0131m \u00e7ok ilgili alakal\u0131 ve ba\u015far\u0131l\u0131 bir avukat kendisine ve ekibine te\u015fekk\u00fcr ederim",
+            "reviewer_name": "Kardelen Ba\u015far\u0131r",
+            "rating": 5,
+            "review_text": "Nuket han\u0131m \u00e7ok ilgili alakal\u0131 ve ba\u015far\u0131l\u0131 bir avukat kendisine ve ekibine te\u015fekk\u00fcr ederim",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-11-29T19:45:42.108000",
+            "response_from_owner_text": "Kardelen han\u0131m bu g\u00fczel yorumlar\u0131n\u0131z i\u00e7in te\u015fekk\u00fcr ederim",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-08-30T21:25:01.345000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100506338260599461607/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ9-7FvVYmHpJWuRlT4tIARNrZnKbI-DsvipAwJDB8j=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Herkese tavsiye ederim i\u015f bitirici bir avukattir kendisi g\u00fcvenle gidip vekaletinizi verebilirsiniz",
+            "reviewer_name": "Deniz Kars",
+            "rating": 5,
+            "review_text": "Herkese tavsiye ederim i\u015f bitirici bir avukattir kendisi g\u00fcvenle gidip vekaletinizi verebilirsiniz",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-11-29T18:26:32.671000",
+            "response_from_owner_text": "Te\u015fekk\u00fcr ederim ",
+            "response_from_owner_ago": "3 hafta \u00f6nce",
+            "response_from_owner_date": "2023-11-26T10:40:32.695000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109901360963023909825/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUFGbcGSdvj-HW97PUpLjuEzZZjrE60xfdlNl8gh2Axjg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Nukhet han\u0131m ve \u00e7al\u0131\u015fma arkada\u015flar\u0131 gayet ba\u015far\u0131l\u0131 ilgili i\u015flerini son derece titizlikle yap\u0131yor kendilerine te\u015fekk\u00fcr ediyorum.",
+            "reviewer_name": "Miray G\u00f6ren",
+            "rating": 5,
+            "review_text": "Nukhet han\u0131m ve \u00e7al\u0131\u015fma arkada\u015flar\u0131 gayet ba\u015far\u0131l\u0131 ilgili i\u015flerini son derece titizlikle yap\u0131yor kendilerine te\u015fekk\u00fcr ediyorum.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-11-29T20:57:58.871000",
+            "response_from_owner_text": "Miray han\u0131m bu g\u00fczel yorumlar\u0131n\u0131z i\u00e7in te\u015fekk\u00fcr ederim",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-08-30T21:23:45.989000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104623734039299400087/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW_128RS-Iet6Axs9XQOFN3SSfRFp3EL0bpGFUM9uYHFQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

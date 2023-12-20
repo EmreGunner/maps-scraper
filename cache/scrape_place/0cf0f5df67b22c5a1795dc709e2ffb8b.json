@@ -1,0 +1,337 @@
+{
+    "place_id": "ChIJdYV-YhKjyhQRMerrSiXj9mc",
+    "name": "TAV Havalimanlar\u0131",
+    "description": null,
+    "reviews": 76,
+    "competitors": [
+        {
+            "name": "TAV Holding",
+            "link": "https://www.google.com/maps/search/TAV+Holding/@41.1050282,28.9867937?authuser=0&entry=ttu",
+            "reviews": 22,
+            "rating": 4.4,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "TAV Technologies",
+            "link": "https://www.google.com/maps/search/TAV+Technologies/@41.1041295,28.9865536?authuser=0&entry=ttu",
+            "reviews": 50,
+            "rating": 4.7,
+            "main_category": "Yaz\u0131l\u0131m \u015eirketi"
+        },
+        {
+            "name": "TAV Passport",
+            "link": "https://www.google.com/maps/search/TAV+Passport/@41.1049238,28.9879314?authuser=0&entry=ttu",
+            "reviews": 44,
+            "rating": 4.2,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "TAV \u0130n\u015faat",
+            "link": "https://www.google.com/maps/search/TAV+%C4%B0n%C5%9Faat/@41.1089997,28.9870941?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "\u0130n\u015faat \u015eirketi"
+        },
+        {
+            "name": "Tavport",
+            "link": "https://www.google.com/maps/search/Tavport/@41.107092,28.987703200000002?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 1,
+            "main_category": "Ula\u015f\u0131m Hizmeti"
+        }
+    ],
+    "website": "http://www.tavhavalimanlari.com.tr/",
+    "owner": {
+        "id": "116455880448220346702",
+        "name": "TAV Havalimanlar\u0131 (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/116455880448220346702"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPA8-_G7Mbggm6h_wsQ4SgR26fWbk7U1KRl_nnB=w408-h306-k-no",
+    "main_category": "Kurumsal Ofis",
+    "categories": [
+        "Kurumsal Ofis",
+        "\u0130\u015fletme Y\u00f6netimi Dan\u0131\u015fman\u0131"
+    ],
+    "rating": 4.5,
+    "workday_timing": "08:00\u201305:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 463 30 00",
+    "address": "TAV Havalimanlar\u0131, Vadistanbul Bulvar, Ayazaga Mahallesi Cendere Caddesi No: 109L, D:2C Blok, 34485",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJdYV-YhKjyhQRMerrSiXj9mc",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f zaman\u0131: Per 05:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 5,
+        "2": 2,
+        "3": 1,
+        "4": 7,
+        "5": 61
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJdYV-YhKjyhQRMerrSiXj9mc&q=?q=place_id:ChIJdYV-YhKjyhQRMerrSiXj9mc&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.104029,
+        "longitude": 28.9863157
+    },
+    "plus_code": "4X3P+JG Sar\u0131yer, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Ayaza\u011fa",
+        "street": "Vadistanbul Bulvar, Ayazaga Mahallesi Cendere Caddesi No: 109L, D:2C Blok",
+        "city": "Sar\u0131yer",
+        "postal_code": "34485",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "7491424779487668785",
+    "data_id": "0x14caa312627e8575:0x67f6e3254aebea31",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun giri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPA8-_G7Mbggm6h_wsQ4SgR26fWbk7U1KRl_nnB=w397-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNypPnUMBY7JXB2WVZN_l1t4ynjmjPV8GCv-jnD=w397-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-QgVSKHv13h2tK6402O6SA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=356.79398&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201305:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201305:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201305:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201305:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201305:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Gene bir muhaberat odas\u0131 facias\u0131.\nOtoparka indikten sonra ne sorabilecek bir insan, ne bir y\u00f6n tabelas\u0131.\nVe gene benim ayn\u0131 s\u00f6ylemim.\n(\u0130N\u015eALLAH bir daha buraya gelmem.)",
+            "reviewer_name": "Basri Anbalay",
+            "rating": 1,
+            "review_text": "Gene bir muhaberat odas\u0131 facias\u0131.\nOtoparka indikten sonra ne sorabilecek bir insan, ne bir y\u00f6n tabelas\u0131.\nVe gene benim ayn\u0131 s\u00f6ylemim.\n(\u0130N\u015eALLAH bir daha buraya gelmem.)",
+            "published_at": "2 hafta \u00f6nce",
+            "published_at_date": "2023-12-04T16:36:41.359000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 192,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107235362204392239538/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIv5ZDKMsMeZKLCb2VByAJ-TXPH9uDYMNnVze0euGCQ=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u00c7ok iyi  sirket masallah t\u00fcrkiyenin \u00fcst\u00fcnde bi kalitesi var \u00e7ok memnun kald\u0131m.",
+            "reviewer_name": "\u0130br\u00e2him Uc\u00e2r",
+            "rating": 5,
+            "review_text": "\u00c7ok iyi  sirket masallah t\u00fcrkiyenin \u00fcst\u00fcnde bi kalitesi var \u00e7ok memnun kald\u0131m.",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-09-21T04:59:06.557000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109614078099063355997/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLxncUdmk9WjdT-vDFQhnCbrl7O_hlNYa89Qb81qm--=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Engelli hizmete biraz gecikti u\u00e7aktan indirirken engeli hizmete biraz yaraland\u0131m benim bak\u0131m deste\u011fime b\u0131rakt\u0131lar koltuktan \u00e7ekerken ayaklar\u0131m y\u0131rt\u0131ld\u0131",
+            "reviewer_name": "Muhammed Abidov",
+            "rating": 1,
+            "review_text": "Engelli hizmete biraz gecikti u\u00e7aktan indirirken engeli hizmete biraz yaraland\u0131m benim bak\u0131m deste\u011fime b\u0131rakt\u0131lar koltuktan \u00e7ekerken ayaklar\u0131m y\u0131rt\u0131ld\u0131",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-09-20T13:54:59.434000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100197556218827295806/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIpUvINwNOABR5Bjx4E6U3tAFAuUaxuBDS0kRHmnHp7=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Havaliman\u0131 i\u015fletmecili\u011finde ilk akla gelen bir firma olup, yurt d\u0131\u015f\u0131nda da ayn\u0131 hizmetlerde bulunan TAV Holding di\u011fer kurulu\u015flar\u0131 ile birlikte u\u00e7ak yolcusunun ihtiya\u00e7lar\u0131n\u0131 kar\u015f\u0131layacak hizmetlerde bulunmaktad\u0131r.",
+            "reviewer_name": "Cengiz Yuksel",
+            "rating": 5,
+            "review_text": "Havaliman\u0131 i\u015fletmecili\u011finde ilk akla gelen bir firma olup, yurt d\u0131\u015f\u0131nda da ayn\u0131 hizmetlerde bulunan TAV Holding di\u011fer kurulu\u015flar\u0131 ile birlikte u\u00e7ak yolcusunun ihtiya\u00e7lar\u0131n\u0131 kar\u015f\u0131layacak hizmetlerde bulunmaktad\u0131r.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-09-09T14:23:31.820000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 255,
+            "total_number_of_photos_by_reviewer": 349,
+            "reviewer_url": "https://www.google.com/maps/contrib/105132123183565733218/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX-xGl2nqMuylzDUR_DxQGz8zTivxTeb6bwGXMo2hFqsdIe=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Hisse senetlerinde yat\u0131rmc\u0131 \u00fczerinden iyi para kazanan \u015firket hatta ciosu sani bey  hisse senetleri i\u00e7in komik rakamlar diyip milletin eline verdirmi\u015fli\u011fi var \ud83e\udd23",
+            "reviewer_name": "\u00fcnsal ulu",
+            "rating": 1,
+            "review_text": "Hisse senetlerinde yat\u0131rmc\u0131 \u00fczerinden iyi para kazanan \u015firket hatta ciosu sani bey  hisse senetleri i\u00e7in komik rakamlar diyip milletin eline verdirmi\u015fli\u011fi var \ud83e\udd23",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-10-05T15:06:03.849000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 5,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/118128429855698021261/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLoFPlBsxWsvpu55OGbPpmS6ttpC2FWac7F0C8MBvyv=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Kurumsal firmalar\u0131n en tepesinde havaliman\u0131 i\u015fletme ve in\u015faat\u0131 denince t\u00fcrkiyenin gururu can\u0131m \u015firketim",
+            "reviewer_name": "mehmet babayi\u011fit",
+            "rating": 5,
+            "review_text": "Kurumsal firmalar\u0131n en tepesinde havaliman\u0131 i\u015fletme ve in\u015faat\u0131 denince t\u00fcrkiyenin gururu can\u0131m \u015firketim",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-01-15T16:33:13.117000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 130,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111609334715197202480/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUPE10drl1SPaH9V_LfYCRgLVqERvAN3ns-mP1Crc4fWt8=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Havaliman\u0131 i\u015fletmesinde T\u00fcrkiye'nin gururu , d\u00fcnya markas\u0131 TAV. Yeni holding binas\u0131 \u00e7ok \u015f\u0131k",
+            "reviewer_name": "Mert Kandiyeli",
+            "rating": 5,
+            "review_text": "Havaliman\u0131 i\u015fletmesinde T\u00fcrkiye'nin gururu , d\u00fcnya markas\u0131 TAV. Yeni holding binas\u0131 \u00e7ok \u015f\u0131k",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-08-09T20:23:37.045000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 259,
+            "total_number_of_photos_by_reviewer": 61,
+            "reviewer_url": "https://www.google.com/maps/contrib/100768331079051159472/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjULRr8GRh5qcpKR339EAZnPUpnhVXKfwua0EYd_Y4OBtqCK=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "TAV bu \u00fclkede Atat\u00fcrk havaliman\u0131n\u0131 in\u015faa etmi\u015f ve i\u015fletmi\u015ftir.",
+            "reviewer_name": "HGokGur",
+            "rating": 5,
+            "review_text": "TAV bu \u00fclkede Atat\u00fcrk havaliman\u0131n\u0131 in\u015faa etmi\u015f ve i\u015fletmi\u015ftir.",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-02-28T15:00:29.038000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 20,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111715338819344967793/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXcoEOSoLWG_BINkOrZB0Xg_cAITbQ6JqYtl9JyrXSO2w=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

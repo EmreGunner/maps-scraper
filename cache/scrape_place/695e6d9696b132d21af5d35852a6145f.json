@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJbzb1fhC3yhQRf2LbR_hmZbE",
+    "name": "Mavili Hukuk",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Mai hukuk ve dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Mai+hukuk+ve+dan%C4%B1%C5%9Fmanl%C4%B1k/@41.0635455,28.985331300000002?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AVUKATLIK BUROSU",
+            "link": "https://www.google.com/maps/search/AVUKATLIK+BUROSU/@41.0601737,28.988382899999998?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4.8,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Kavac\u0131k Hukuk ve Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kavac%C4%B1k+Hukuk+ve+Avukatl%C4%B1k+B%C3%BCrosu/@41.0603242,28.974069?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "MSA HUKUK",
+            "link": "https://www.google.com/maps/search/MSA+HUKUK/@41.0462439,28.9864508?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "HUKUK & DANI\u015eMANLIK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/HUKUK+%26+DANI%C5%9EMANLIK+B%C3%9CROSU/@41.065379199999995,28.996112599999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Mavili Hukuk (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SQZK5QBsnoBp7pulm3OJow&cb_client=search.gws-prod.gps&w=408&h=240&yaw=107.20241&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0555 269 31 20",
+    "address": "Merkez, Mavili Hukuk, Oktay Cebeci Sk. No:6/3, 34381 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJbzb1fhC3yhQRf2LbR_hmZbE",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJbzb1fhC3yhQRf2LbR_hmZbE&q=?q=place_id:ChIJbzb1fhC3yhQRf2LbR_hmZbE&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0571869,
+        "longitude": 28.9850718
+    },
+    "plus_code": "3X4P+V2 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkez",
+        "street": "Oktay Cebeci Sk. No:6/3",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34381",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12782736333904503423",
+    "data_id": "0x14cab7107ef5366f:0xb16566f847db627f",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SQZK5QBsnoBp7pulm3OJow&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=107.20241&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SQZK5QBsnoBp7pulm3OJow&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=107.20241&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

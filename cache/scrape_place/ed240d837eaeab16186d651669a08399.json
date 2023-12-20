@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJN2K9qvrGyhQRQAV7Juj0a74",
+    "name": "Karaba\u011f Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Bak\u0131rta\u015f & Karaba\u011f Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Bak%C4%B1rta%C5%9F+%26+Karaba%C4%9F+Hukuk+B%C3%BCrosu/@40.995843799999996,28.870625199999996?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Din\u00e7er Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Din%C3%A7er+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.950646,29.1042622?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 3.9,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "tatarka hukuk",
+            "link": "https://www.google.com/maps/search/tatarka+hukuk/@40.947486999999995,29.106739499999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "BERTAN HUKUK BUROSU",
+            "link": "https://www.google.com/maps/search/BERTAN+HUKUK+BUROSU/@40.922170099999995,29.135066799999997?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Deniz Kara\u015fah Hukuk ve Dan\u0131\u015fmanl\u0131k Ofisi",
+            "link": "https://www.google.com/maps/search/Deniz+Kara%C5%9Fah+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+Ofisi/@40.95238570000001,29.098512799999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Karaba\u011f Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh3.googleusercontent.com/VuI4V6iJs_JFGyPmtSJobKFy8RrHfYmSrFEACVuMPuIazWUjeJijPNDM7wmrHgQT=w426-h240-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0216) 450 52 90",
+    "address": "Alt\u0131ntepe, Karaba\u011f Hukuk B\u00fcrosu, Tipi \u00c7k. No:1, 34840 Maltepe/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJN2K9qvrGyhQRQAV7Juj0a74",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJN2K9qvrGyhQRQAV7Juj0a74&q=?q=place_id:ChIJN2K9qvrGyhQRQAV7Juj0a74&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.950650499999995,
+        "longitude": 29.104292599999997
+    },
+    "plus_code": "X423+7P Maltepe, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Alt\u0131ntepe",
+        "street": "Tipi \u00c7k. No:1",
+        "city": "Maltepe",
+        "postal_code": "34840",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "13721329967629534528",
+    "data_id": "0x14cac6faaabd6237:0xbe6bf4e8267b0540",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh3.googleusercontent.com/VuI4V6iJs_JFGyPmtSJobKFy8RrHfYmSrFEACVuMPuIazWUjeJijPNDM7wmrHgQT=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mihoZ06_i7o-aB1V3YmIRw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=307.66733&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

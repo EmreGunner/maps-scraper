@@ -1,0 +1,157 @@
+{
+    "place_id": "ChIJa1KitKW8yhQRj4mNbbpI8q0",
+    "name": "Y\u0131r\u00e7\u0131 Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Bak\u0131rk\u00f6y Avukat",
+            "link": "https://www.google.com/maps/search/Bak%C4%B1rk%C3%B6y+Avukat/@40.9958376,28.873834499999994?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u0130stanbul Avukat B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C4%B0stanbul+Avukat+B%C3%BCrosu/@40.9785847,28.870042399999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Y\u00fcksel Alay",
+            "link": "https://www.google.com/maps/search/Avukat+Y%C3%BCksel+Alay/@40.9791642,28.8726335?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Nilsu Al Nobani",
+            "link": "https://www.google.com/maps/search/Avukat+Nilsu+Al+Nobani/@40.978373999999995,28.872488999999998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Ak & Er Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ak+%26+Er+Hukuk+B%C3%BCrosu/@40.9891347,28.871796999999997?authuser=0&entry=ttu",
+            "reviews": 10,
+            "rating": 3.1,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Y\u0131r\u00e7\u0131 Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh4.googleusercontent.com/5PQMMw2xxEhEJtKsP73cMtgGX7BG0CD5e9TXTKBkhHzcR7-tJLm8z3PIlHCBoFor=w426-h240-k-no",
+    "main_category": "Hukuk Hizmetleri",
+    "categories": [
+        "Hukuk Hizmetleri"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201321:00",
+    "closed_on": "Open All Days",
+    "phone": "(0212) 571 79 83",
+    "address": "Zeytinlik, Y\u0131r\u00e7\u0131 Hukuk B\u00fcrosu, Fahri Korut\u00fcrk Cd. 34/4, 34142 Bak\u0131rk\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJa1KitKW8yhQRj4mNbbpI8q0",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 21:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJa1KitKW8yhQRj4mNbbpI8q0&q=?q=place_id:ChIJa1KitKW8yhQRj4mNbbpI8q0&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9797158,
+        "longitude": 28.874163399999997
+    },
+    "plus_code": "XVHF+VM Bak\u0131rk\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Zeytinlik",
+        "street": "Fahri Korut\u00fcrk Cd. 34/4",
+        "city": "Bak\u0131rk\u00f6y",
+        "postal_code": "34142",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12534160678464620943",
+    "data_id": "0x14cabca5b4a2526b:0xadf248ba6d8d898f",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh4.googleusercontent.com/5PQMMw2xxEhEJtKsP73cMtgGX7BG0CD5e9TXTKBkhHzcR7-tJLm8z3PIlHCBoFor=w529-h298-k-no"
+        },
+        {
+            "about": "D\u0131\u015ftan g\u00f6r\u00fcn\u00fcm",
+            "link": "//lh5.googleusercontent.com/8Rxd-4OpZMuE4SsyqGkv8q-zhrHGJbzO8YiWOM04MpfSfVQvq4ZEOtHSAJncOGCa=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hfBG90UrnkVGUVKnnP9AWw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=227.22081&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201321:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201321:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201321:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201321:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201321:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201321:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "09:00\u201321:00"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

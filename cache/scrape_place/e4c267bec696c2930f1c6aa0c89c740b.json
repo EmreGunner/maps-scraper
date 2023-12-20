@@ -1,0 +1,275 @@
+{
+    "place_id": "ChIJlRGwXWi4yhQRimLyEHypu5U",
+    "name": "\u00d6z Food",
+    "description": null,
+    "reviews": 5,
+    "competitors": [
+        {
+            "name": "Maydonoz D\u00f6ner Kad\u0131k\u00f6y",
+            "link": "https://www.google.com/maps/search/Maydonoz+D%C3%B6ner+Kad%C4%B1k%C3%B6y/@40.988444,29.0273841?authuser=0&entry=ttu",
+            "reviews": 347,
+            "rating": 3.3,
+            "main_category": "Restoran"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "\u00d6z Food (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOOeaehvY9c0iV6LViOHUFshexwebl3tsXvfeSf=w408-h544-k-no",
+    "main_category": "Restoran",
+    "categories": [
+        "Restoran"
+    ],
+    "rating": 4,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Osmana\u011fa, \u00d6z Food, Eminta\u015f \u0130\u015f Merkezi, Ba\u015f\u00e7avu\u015f Sk. D:3, 34720 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJlRGwXWi4yhQRimLyEHypu5U",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 2,
+        "5": 2
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJlRGwXWi4yhQRimLyEHypu5U&authuser=0&hl=tr&gl=TR",
+    "coordinates": {
+        "latitude": 40.992078899999996,
+        "longitude": 29.0251296
+    },
+    "plus_code": "X2RG+R3 Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Osmana\u011fa",
+        "street": "Eminta\u015f \u0130\u015f Merkezi, Ba\u015f\u00e7avu\u015f Sk. D:3",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34720",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10789403682621514378",
+    "data_id": "0x14cab8685db01195:0x95bba97c10f2628a",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://yemeksepeti.com/restaurant/dpvi/oz-food?utm_source=google&utm_medium=organic&utm_campaign=google_reserve_place_order_action",
+            "source": "yemeksepeti.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Paket servisi",
+                    "enabled": true
+                },
+                {
+                    "name": "\u0130\u00e7eride servis",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Sunulanlar",
+            "options": [
+                {
+                    "name": "Helal g\u0131da \u00fcr\u00fcnleri",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Yemek se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "\u00d6\u011fle yeme\u011fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Ak\u015fam yeme\u011fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Tatl\u0131",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosfer",
+            "options": [
+                {
+                    "name": "G\u00fcnl\u00fck k\u0131yafet",
+                    "enabled": true
+                },
+                {
+                    "name": "Rahat",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOOeaehvY9c0iV6LViOHUFshexwebl3tsXvfeSf=w224-h298-k-no"
+        },
+        {
+            "about": "Yeme-i\u00e7me",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNzCc9HzmoVxZEarhnATjlvcKI1uVvcb2Lt5r65=w645-h298-k-no"
+        },
+        {
+            "about": "Patates K\u0131zartmas\u0131",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOOeaehvY9c0iV6LViOHUFshexwebl3tsXvfeSf=w224-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M72W5O_mmESl_1TAT1gzDg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=348.34995&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Emin de\u011filim",
+            "reviewer_name": "Adem K\u00f6seleci",
+            "rating": 2,
+            "review_text": "Emin de\u011filim",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-11-07T09:22:58.445000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/102777656160221757356/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJoEuHe0tws2MPhN7tBRA4JYU4T8mEwMBe9EMUky7XF=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u3053\u3053\u306f\u7f8e\u5473\u3057\u3044\u3067\u3059\uff01\u5024\u6bb5\u3082\u5b89\u3044\u3057\u3001\u6df7\u3093\u3067\u3066\u3082\u3059\u3050\u51fa\u3066\u304f\u308b\u304b\u3089\u5f85\u305f\u306a\u3044\u3067\u6e08\u3080\u3002",
+            "reviewer_name": "naoto wrlccywrlfr",
+            "rating": 4,
+            "review_text": "\u3053\u3053\u306f\u7f8e\u5473\u3057\u3044\u3067\u3059\uff01\u5024\u6bb5\u3082\u5b89\u3044\u3057\u3001\u6df7\u3093\u3067\u3066\u3082\u3059\u3050\u51fa\u3066\u304f\u308b\u304b\u3089\u5f85\u305f\u306a\u3044\u3067\u6e08\u3080\u3002",
+            "published_at": "3 ay \u00f6nce",
+            "published_at_date": "2023-09-18T15:03:51.339000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/100725231842274437195/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIbfq2e6fxh5sE-IntWVLd_lCba1vJ8Lg-H8mG9hTc5=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "Buras\u0131 \u00e7ok lezzetli! Fiyatlar d\u00fc\u015f\u00fck ve kalabal\u0131k olsa bile yiyecekler hemen \u00e7\u0131k\u0131yor, dolay\u0131s\u0131yla beklemenize gerek kalm\u0131yor.",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Low prices, delicious food",
+            "reviewer_name": "\u201cRainmaker\u201d Andrew Darela",
+            "rating": 4,
+            "review_text": "Low prices, delicious food",
+            "published_at": "3 ay \u00f6nce",
+            "published_at_date": "2023-09-01T15:21:36.152000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 32,
+            "reviewer_url": "https://www.google.com/maps/contrib/106729831080010386039/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWi6xNc-QoQDFVLh6I5wIJVvOkgfJgzh9QH7MLPNLoD0ss=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "D\u00fc\u015f\u00fck fiyatlar, lezzetli yemekler",
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOOeaehvY9c0iV6LViOHUFshexwebl3tsXvfeSf=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "\u6587HnypoS & HyenA",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "9 ay \u00f6nce",
+            "published_at_date": "2023-03-02T21:12:35.390000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101072303524168785414/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXa3hroz3NO8vRgSUaXrELKPzEunA-ntLE24sxg5L_Wfw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "HEPZ\u0130RVEDE \u2020\u03b5\u03b1m",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "9 ay \u00f6nce",
+            "published_at_date": "2023-03-02T21:18:41.065000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100758374219999133215/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW55tyGrfWFD8UPN6W8WKdsyRwaEWuC4he4InDL_SoBYag=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

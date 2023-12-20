@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJN3qLd-a5yhQROQfMLxLXRbg",
+    "name": "H. Salih Han\u0131",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Has Han\u0131",
+            "link": "https://www.google.com/maps/search/Has+Han%C4%B1/@41.0253605,28.973952299999993?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": ""
+        },
+        {
+            "name": "G\u00fcr Han\u0131",
+            "link": "https://www.google.com/maps/search/G%C3%BCr+Han%C4%B1/@41.0265123,28.9709368?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": ""
+        },
+        {
+            "name": "H.M. S\u00fcsl\u00fc \u0130\u015f Han\u0131",
+            "link": "https://www.google.com/maps/search/H.M.+S%C3%BCsl%C3%BC+%C4%B0%C5%9F+Han%C4%B1/@41.0249356,28.970663599999998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "\u0130\u015f Merkezi"
+        },
+        {
+            "name": "Hgalatia Han",
+            "link": "https://www.google.com/maps/search/Hgalatia+Han/@41.0229024,28.974278999999996?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Al\u0131\u015fveri\u015f merkezi"
+        },
+        {
+            "name": "H\u00fcsn\u00fc G\u00f6k \u0130\u015f Han\u0131",
+            "link": "https://www.google.com/maps/search/H%C3%BCsn%C3%BC+G%C3%B6k+%C4%B0%C5%9F+Han%C4%B1/@41.024842,28.971853899999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "\u0130\u015f Merkezi"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "H. Salih Han\u0131 (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh4.googleusercontent.com/6TV2PDJvwaS1Z63a0_0dkgVJnyy7D030TP53xFH_JjeUc_vAehgeErMazswnMss=w426-h240-k-no",
+    "main_category": "Hal\u0131 Ma\u011fazas\u0131",
+    "categories": [
+        "Hal\u0131 Ma\u011fazas\u0131"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Emekyemez, H. Salih Han\u0131, 34421 Beyo\u011flu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJN3qLd-a5yhQROQfMLxLXRbg",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJN3qLd-a5yhQROQfMLxLXRbg&q=?q=place_id:ChIJN3qLd-a5yhQROQfMLxLXRbg&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0260113,
+        "longitude": 28.970445599999998
+    },
+    "plus_code": "2XGC+C5 Beyo\u011flu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Emekyemez",
+        "street": null,
+        "city": "Beyo\u011flu",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "13278255549483059001",
+    "data_id": "0x14cab9e6778b7a37:0xb845d7122fcc0739",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh4.googleusercontent.com/6TV2PDJvwaS1Z63a0_0dkgVJnyy7D030TP53xFH_JjeUc_vAehgeErMazswnMss=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=X2LVRxQBaRlPhN80rtSL_A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=48.353825&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

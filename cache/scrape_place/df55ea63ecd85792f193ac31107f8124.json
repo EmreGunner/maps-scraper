@@ -1,0 +1,149 @@
+{
+    "place_id": "ChIJN7U1aqW8yhQRRjkLhRLq0R4",
+    "name": "SERG\u00dcL MEHMETO\u011eLU",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Hakimiyet Hukuk & Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Hakimiyet+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@40.995685099999996,28.871004400000004?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 3.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "S\u00f6ylemez Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/S%C3%B6ylemez+Hukuk+B%C3%BCrosu/@40.9752672,28.8727772?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "K\u00fc\u00e7\u00fcko\u011flu Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/K%C3%BC%C3%A7%C3%BCko%C4%9Flu+Hukuk+B%C3%BCrosu/@40.9915861,28.869598500000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Karag\u00fczel Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Karag%C3%BCzel+Hukuk+B%C3%BCrosu/@40.9790109,28.871740000000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://sergulmehmetoglu.com/",
+    "owner": {
+        "id": "105807286935975821836",
+        "name": "SERG\u00dcL MEHMETO\u011eLU (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/105807286935975821836"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mWkaA4djRqcqvAKlcnZntQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=216.26&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201317:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 542 59 60",
+    "address": "Yenibosna Merkez, SERG\u00dcL MEHMETO\u011eLU, \u00c7\u0131nar Cd. No:16 C, 34197 Bah\u00e7elievler/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJN7U1aqW8yhQRRjkLhRLq0R4",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 17:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJN7U1aqW8yhQRRjkLhRLq0R4&q=?q=place_id:ChIJN7U1aqW8yhQRRjkLhRLq0R4&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0202155,
+        "longitude": 28.8126805
+    },
+    "plus_code": "2RC7+33 Bah\u00e7elievler, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Yenibosna Merkez",
+        "street": "\u00c7\u0131nar Cd. No:16 C",
+        "city": "Bah\u00e7elievler",
+        "postal_code": "34197",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2220813456532781382",
+    "data_id": "0x14cabca56a35b537:0x1ed1ea12850b3946",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mWkaA4djRqcqvAKlcnZntQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=216.26&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mWkaA4djRqcqvAKlcnZntQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=216.26&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

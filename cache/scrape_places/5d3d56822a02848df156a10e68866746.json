@@ -1,0 +1,242 @@
+{
+    "query": "law firms near \u00c7atalca, Istanbul",
+    "places": [
+        {
+            "place_id": "ChIJGdIX_RVFtRQR_GH1buS3Yqw",
+            "name": "Av.Nihal OZTURK YELER",
+            "description": null,
+            "reviews": 4,
+            "competitors": [
+                {
+                    "name": "Av. Aysel Icerler",
+                    "link": "https://www.google.com/maps/search/Av.+Aysel+%C4%B0%C3%A7erler/@41.143108999999995,28.4603456?authuser=0&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": ""
+                },
+                {
+                    "name": "Cagla Kiran Hukuk & Danismanlik",
+                    "link": "https://www.google.com/maps/search/%C3%87a%C4%9Fla+K%C4%B1ran+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.1429846,28.4599197?authuser=0&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Hukuk Burosu"
+                },
+                {
+                    "name": "Ideal Hukuk Burosu",
+                    "link": "https://www.google.com/maps/search/%C4%B0deal+Hukuk+B%C3%BCrosu/@41.1442589,28.460894?authuser=0&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Avukat"
+                },
+                {
+                    "name": "FERIDE UGUR HUKUK BUROSU",
+                    "link": "https://www.google.com/maps/search/FER%C4%B0DE+U%C4%9EUR+HUKUK+B%C3%9CROSU/@41.142128,28.4594883?authuser=0&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Hukuk Burosu"
+                },
+                {
+                    "name": "Avukat Selen Cavus",
+                    "link": "https://www.google.com/maps/search/Avukat+Selen+%C3%87avu%C5%9F/@41.142244399999996,28.4574541?authuser=0&entry=ttu",
+                    "reviews": 33,
+                    "rating": 5,
+                    "main_category": "Avukat"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": "110679727012637066254",
+                "name": "Av.Nihal OZTURK YELER (Sahibi)",
+                "link": "https://www.google.com/maps/contrib/110679727012637066254"
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Fia77ca17E7z09ZPjYYP4Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=243.1585&pitch=0&thumbfov=100",
+            "main_category": "Kurumsal Ofis",
+            "categories": [
+                "Kurumsal Ofis",
+                "Hukuk Burosu"
+            ],
+            "rating": 5,
+            "workday_timing": "09:00-17:00",
+            "closed_on": [
+                "Pazar"
+            ],
+            "phone": null,
+            "address": "Ferhatpasa, Av.Nihal OZTURK YELER, Ulus Cd No:41, 34888 Catalca/Istanbul",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Av.Nihal+%C3%96ZT%C3%9CRK+YELER/@41.1412269,28.4598611,17z/data=!3m1!4b1!4m6!3m5!1s0x14b54515fd17d219:0xac62b7e46ef561fc!8m2!3d41.1412269!4d28.4598611!16s%2Fg%2F11fqzsjkms?authuser=0&entry=ttu",
+            "status": "Kapali  Acilis saati: 09:00",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 4
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJGdIX_RVFtRQR_GH1buS3Yqw&q=Av.Nihal+%C3%96ZT%C3%9CRK+YELER&authuser=0&hl=en&gl=TR",
+            "coordinates": {
+                "latitude": 41.1412269,
+                "longitude": 28.459861099999998
+            },
+            "plus_code": "4FR5+FW Catalca, Istanbul",
+            "detailed_address": {
+                "ward": "Ferhatpasa",
+                "street": "Ulus Cd No:41",
+                "city": "Catalca",
+                "postal_code": "34888",
+                "state": "Istanbul",
+                "country_code": "TR"
+            },
+            "time_zone": "Europe/Istanbul",
+            "cid": "12421692913983250940",
+            "data_id": "0x14b54515fd17d219:0xac62b7e46ef561fc",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Fia77ca17E7z09ZPjYYP4Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=243.1585&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View ve 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Fia77ca17E7z09ZPjYYP4Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=243.1585&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "09:00-17:00"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "09:00-17:00"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "09:00-17:00"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "09:00-17:00"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "09:00-17:00"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "09:00-17:00"
+                    ]
+                },
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "Kapali"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": null,
+                    "reviewer_name": "Aynin Girici",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "2 yil once",
+                    "published_at_date": "2021-11-15T09:06:43.727000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103285520589412936558/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLHBqGlsGnS5pCcuGdvkhhPx5TnIKT9Mk0cs1P7JkSM=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Nursin Kartal",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "2 yil once",
+                    "published_at_date": "2021-11-15T10:20:07.555000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115917326085189673205/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKSbO84uZsfX8wUSMDwPedlKFLc8PZ7FMYdsO8ACVzf=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Sabahattin OZTURK",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "2 yil once",
+                    "published_at_date": "2021-09-08T17:07:27.650000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 22,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113304907017939650440/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJUSv8xJtZQOhSgMY7cy5vTCerch2K8ZIzc0IPy2OyI=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Naciye Mutlu",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "3 yil once",
+                    "published_at_date": "2020-07-11T17:03:39.033000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115015115691280475353/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWldyIIwXilA3wfGsDPT5Upml6mrfQcnA5ajU3zrrTWkug=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

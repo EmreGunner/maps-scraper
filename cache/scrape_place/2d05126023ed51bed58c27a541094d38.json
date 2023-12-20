@@ -1,0 +1,159 @@
+{
+    "place_id": "ChIJg2tXcFq1yhQR4xUDcwyKpx0",
+    "name": "Horizon Group",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Horizon Yurtd\u0131\u015f\u0131 E\u011fitim",
+            "link": "https://www.google.com/maps/search/Horizon+Yurtd%C4%B1%C5%9F%C4%B1+E%C4%9Fitim/@41.078196999999996,29.022319?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 4.4,
+            "main_category": "E\u011fitim Dan\u0131\u015fman\u0131"
+        },
+        {
+            "name": "Horizon Istanbul",
+            "link": "https://www.google.com/maps/search/Horizon+Istanbul/@41.0897092,29.0207397?authuser=0&entry=ttu",
+            "reviews": 13,
+            "rating": 4.3,
+            "main_category": "E\u011fitim Dan\u0131\u015fman\u0131"
+        },
+        {
+            "name": "Horizon Akademi",
+            "link": "https://www.google.com/maps/search/Horizon+Akademi/@41.078149599999996,29.022233699999997?authuser=0&entry=ttu",
+            "reviews": 22,
+            "rating": 3.7,
+            "main_category": "Dil Okulu"
+        },
+        {
+            "name": "Horizons Limited \u015eirketi",
+            "link": "https://www.google.com/maps/search/Horizons+Limited+%C5%9Eirketi/@41.0187111,28.946976300000003?authuser=0&entry=ttu",
+            "reviews": 24,
+            "rating": 5,
+            "main_category": "Firmadan Firmaya Hizmet"
+        },
+        {
+            "name": "Agency Horizon",
+            "link": "https://www.google.com/maps/search/Agency+Horizon/@41.1083912,29.018074799999997?authuser=0&entry=ttu",
+            "reviews": 12,
+            "rating": 5,
+            "main_category": "Pazarlama Ajans\u0131"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "102781232183732244675",
+        "name": "Horizon Group (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/102781232183732244675"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wXG71uIzokHQNW2c7lwWZQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=97.967476&pitch=0&thumbfov=100",
+    "main_category": "\u0130\u015f A\u011f\u0131 \u015eirketi",
+    "categories": [
+        "\u0130\u015f A\u011f\u0131 \u015eirketi"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201317:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0212) 223 45 95",
+    "address": "Yenik\u00f6y, Horizon Group, K\u00f6yba\u015f\u0131 Cd. No : 33, 34464 Sar\u0131yer/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJg2tXcFq1yhQR4xUDcwyKpx0",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 17:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJg2tXcFq1yhQR4xUDcwyKpx0&q=?q=place_id:ChIJg2tXcFq1yhQR4xUDcwyKpx0&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.123249,
+        "longitude": 29.071524999999998
+    },
+    "plus_code": "43FC+7J Sar\u0131yer, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Yenik\u00f6y",
+        "street": "K\u00f6yba\u015f\u0131 Cd. No : 33",
+        "city": "Sar\u0131yer",
+        "postal_code": "34464",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2136828334284412387",
+    "data_id": "0x14cab55a70576b83:0x1da78a0c730315e3",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wXG71uIzokHQNW2c7lwWZQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=97.967476&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPA3B2-9HY3RMpAGBBaHaKXpJelRFI7WldZ5YGw=w298-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wXG71uIzokHQNW2c7lwWZQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=97.967476&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

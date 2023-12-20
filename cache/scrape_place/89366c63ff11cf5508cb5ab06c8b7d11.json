@@ -1,0 +1,297 @@
+{
+    "place_id": "ChIJ1-DE-UK5yhQRW0gWjfA2xGI",
+    "name": "Albatros Law Firm&Consultancy",
+    "description": null,
+    "reviews": 5,
+    "competitors": [
+        {
+            "name": "Tav\u015fano\u011flu Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Tav%C5%9Fano%C4%9Flu+Hukuk+B%C3%BCrosu/@40.991253,29.040056699999997?authuser=0&entry=ttu",
+            "reviews": 10,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Sofuo\u011flu Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Sofuo%C4%9Flu+Hukuk+B%C3%BCrosu/@40.994232,29.037995?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Global Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Global+Hukuk+B%C3%BCrosu/@40.991966,29.03296?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4.8,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Babao\u011flu Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Babao%C4%9Flu+Hukuk+B%C3%BCrosu/@40.9920273,29.033849999999994?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "116558778464561008951",
+        "name": "Albatros Law Firm&Consultancy (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/116558778464561008951"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=p5WSWSlXkw4P-M9EPUySxA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=123.96423&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat",
+        "Hukuk Hizmetleri",
+        "Dava Avukat\u0131"
+    ],
+    "rating": 4.6,
+    "workday_timing": "10:00\u201318:30",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0546 252 98 68",
+    "address": "Rasimpa\u015fa Mah, Albatros Law Firm&Consultancy, \u00c7eltik\u00e7i Sk. No:4 D:7, 34716 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ1-DE-UK5yhQRW0gWjfA2xGI",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 4
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1-DE-UK5yhQRW0gWjfA2xGI&q=?q=place_id:ChIJ1-DE-UK5yhQRW0gWjfA2xGI&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9963019,
+        "longitude": 29.0257018
+    },
+    "plus_code": "X2WG+G7 Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Rasimpa\u015fa Mah",
+        "street": "\u00c7eltik\u00e7i Sk. No:4 D:7",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34716",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "7116873717939325019",
+    "data_id": "0x14cab942f9c4e0d7:0x62c436f08d16485b",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "http://www.albatroslaw.com/index.html",
+            "source": "albatroslaw.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun giri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun oturma d\u00fczeni",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=p5WSWSlXkw4P-M9EPUySxA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=123.96423&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNVghnYaky5gio1cz9m7Bp3gPfo2wyEdIhw4V7F=w298-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=p5WSWSlXkw4P-M9EPUySxA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=123.96423&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "10:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "10:00\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "10:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "10:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "10:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "12:00\u201316:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "An\u0131l \u015eemeno\u011flu",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-05-31T09:45:35.590000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102197685385263498381/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLPRX8pnTT8Znn0FZa4bb8cmGxU6WII-oZ8sWXIVURo=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Muzaffer T\u00fcmsa",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-05-26T14:36:54.883000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/118117657728679547520/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLP8LRLjbA1hn2-z03sABRcvb1PN0oi7LbK1R-jBNc9=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "\u0131rmak y\u00fckler",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "11 ay \u00f6nce",
+            "published_at_date": "2023-01-14T21:48:47.303000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110630988218718054961/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWz4j1CZkq3c3aRGUPM5xy3HTvJy8yQuLZNFyvnTLqI5PQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Kemal ALTINDA\u011e",
+            "rating": 3,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-04-13T18:56:03.274000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/100420068806817182965/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWFjaSUlGofYIuTCYYr0xPtKxb34i4EV0hNqeKN7wiZAw=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

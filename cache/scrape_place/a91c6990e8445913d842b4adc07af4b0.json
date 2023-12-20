@@ -1,0 +1,121 @@
+{
+    "place_id": "ChIJFdqL73G7yhQR9vjQUNnN9yA",
+    "name": "Accountant Office",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "\u0130layda Group \u0645\u062d\u0627\u0633\u0628\u0629 \u0642\u0627\u0646\u0648\u0646\u064a\u0629",
+            "link": "https://www.google.com/maps/search/%C4%B0layda+Group+%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A9+%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9/@41.0177762,28.941571000000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Muhasebe Firmas\u0131"
+        },
+        {
+            "name": "SMMM Mesut SER\u0130N",
+            "link": "https://www.google.com/maps/search/SMMM+Mesut+SER%C4%B0N/@41.0223066,28.944182599999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Muhasebeci"
+        },
+        {
+            "name": "Destek Muhasebe",
+            "link": "https://www.google.com/maps/search/Destek+Muhasebe/@41.0128029,28.9435301?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Muhasebeci"
+        },
+        {
+            "name": "Akkaya M\u00fc\u015favir Serbest",
+            "link": "https://www.google.com/maps/search/Akkaya+M%C3%BC%C5%9Favir+Serbest/@41.0143061,28.9410913?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Muhasebeci"
+        },
+        {
+            "name": "MUHASEBE OF\u0130S\u0130",
+            "link": "https://www.google.com/maps/search/MUHASEBE+OF%C4%B0S%C4%B0/@41.0208321,28.9459732?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Serbest Muhasebeci Mali M\u00fc\u015favir"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Accountant Office (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aj_c4zqoBf2r2WNHnFYKsA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=86.55401&pitch=0&thumbfov=100",
+    "main_category": "Muhasebeci",
+    "categories": [
+        "Muhasebeci"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Molla G\u00fcrani, Accountant Office, O\u011fuzhan Cd. No:17, 34093 Fatih/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJFdqL73G7yhQR9vjQUNnN9yA",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJFdqL73G7yhQR9vjQUNnN9yA&q=?q=place_id:ChIJFdqL73G7yhQR9vjQUNnN9yA&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0144362,
+        "longitude": 28.940385799999998
+    },
+    "plus_code": "2W7R+Q5 Fatih, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Molla G\u00fcrani",
+        "street": "O\u011fuzhan Cd. No:17",
+        "city": "Fatih",
+        "postal_code": "34093",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2375593661708695798",
+    "data_id": "0x14cabb71ef8bda15:0x20f7cdd950d0f8f6",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aj_c4zqoBf2r2WNHnFYKsA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=86.55401&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aj_c4zqoBf2r2WNHnFYKsA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=86.55401&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

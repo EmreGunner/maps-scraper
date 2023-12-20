@@ -1,0 +1,121 @@
+{
+    "place_id": "ChIJVfBnKGa4yhQRLMueDT0THok",
+    "name": "Avukat Mehmet F\u0131rat P\u00fcrselim",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Avukat Mehmet F\u0131rat Suba\u015f\u0131",
+            "link": "https://www.google.com/maps/search/Avukat+Mehmet+F%C4%B1rat+Suba%C5%9F%C4%B1/@40.9947228,29.040903300000004?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "F\u0131rat Hukuk&Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/F%C4%B1rat+Hukuk%26Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.976026999999995,29.096269000000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Mvt Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Mvt+Hukuk+B%C3%BCrosu/@40.9906365,29.0321739?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Av.Mehmet \u00dcNAL Hukuk Ofisi",
+            "link": "https://www.google.com/maps/search/Av.Mehmet+%C3%9CNAL+Hukuk+Ofisi/@40.9893443,29.023692099999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "T\u00fcrkekul Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/T%C3%BCrkekul+Hukuk+B%C3%BCrosu/@40.9889869,29.0288453?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4.8,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Avukat Mehmet F\u0131rat P\u00fcrselim (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eExCL9aPRztAML7h_xuqaA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=244.85974&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0532 524 91 93",
+    "address": "Osmana\u011fa, Avukat Mehmet F\u0131rat P\u00fcrselim, Pavlonya Sk. No:8 Kat:4 Daire:44, 34710 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJVfBnKGa4yhQRLMueDT0THok",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJVfBnKGa4yhQRLMueDT0THok&q=?q=place_id:ChIJVfBnKGa4yhQRLMueDT0THok&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9904377,
+        "longitude": 29.0261872
+    },
+    "plus_code": "X2RG+5F Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Osmana\u011fa",
+        "street": "Pavlonya Sk. No:8 Kat:4 Daire:44",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34710",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "9880355785439890220",
+    "data_id": "0x14cab8662867f055:0x891e133d0d9ecb2c",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eExCL9aPRztAML7h_xuqaA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=244.85974&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eExCL9aPRztAML7h_xuqaA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=244.85974&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

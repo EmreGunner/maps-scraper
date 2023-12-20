@@ -1,0 +1,153 @@
+{
+    "place_id": "ChIJ0yMNJuvFyhQRd34NHZE-_i4",
+    "name": "ERTURAL HUKUK & DANI\u015eMANLIK",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Tura Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Tura+Hukuk+B%C3%BCrosu/@40.9128244,29.175714199999998?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "U\u011eURER HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/U%C4%9EURER+HUKUK+B%C3%9CROSU/@40.9105591,29.1973589?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "BATUR LEGAL",
+            "link": "https://www.google.com/maps/search/BATUR+LEGAL/@40.9727167,29.240326999999997?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Toprak Hukuk&Arabuluculuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Toprak+Hukuk%26Arabuluculuk+B%C3%BCrosu/@40.9125459,29.1771386?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://erturalhukuk.com/",
+    "owner": {
+        "id": "106010630386896930641",
+        "name": "ERTURAL HUKUK & DANI\u015eMANLIK (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/106010630386896930641"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SkXCx8W5shR4mHWNX0XTbw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=357.2746&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201317:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 488 04 24",
+    "address": "\u00c7avu\u015fo\u011flu, ERTURAL HUKUK & DANI\u015eMANLIK, Spor Cd. No:61, 34873 Kartal/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ0yMNJuvFyhQRd34NHZE-_i4",
+    "status": "Kapanmak \u00fczere \u22c5 17:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Per 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ0yMNJuvFyhQRd34NHZE-_i4&q=?q=place_id:ChIJ0yMNJuvFyhQRd34NHZE-_i4&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.8966667,
+        "longitude": 29.2033912
+    },
+    "plus_code": "V6W3+M9 Kartal, \u0130stanbul",
+    "detailed_address": {
+        "ward": "\u00c7avu\u015fo\u011flu",
+        "street": "Spor Cd. No:61",
+        "city": "Kartal",
+        "postal_code": "34873",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "3386212762807795319",
+    "data_id": "0x14cac5eb260d23d3:0x2efe3e911d0d7e77",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SkXCx8W5shR4mHWNX0XTbw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=357.2746&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SkXCx8W5shR4mHWNX0XTbw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=357.2746&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Videolar",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMPvGeJkRPwmLdlby9cE7USxDo7c4OoORb_DBQf=w224-h398-k-no"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

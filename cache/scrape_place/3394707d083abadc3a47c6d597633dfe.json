@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJEdsmjvhO0xQRGXyqAYKVW2w",
+    "name": "Karata\u015f Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Av.Elif Karata\u015f",
+            "link": "https://www.google.com/maps/search/Av.Elif+Karata%C5%9F/@39.9285213,32.8473683?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Av. Eren Karata\u015f - Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Av.+Eren+Karata%C5%9F+-+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@39.927021499999995,32.8527121?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Karacan Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Karacan+Hukuk+B%C3%BCrosu/@39.9067235,32.8066731?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 4.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "KARADA\u011e HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/KARADA%C4%9E+HUKUK+B%C3%9CROSU/@39.9287274,32.8505761?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Alt\u0131nkaya & Karata\u015f Hukuk",
+            "link": "https://www.google.com/maps/search/Alt%C4%B1nkaya+%26+Karata%C5%9F+Hukuk/@39.8451842,32.921226499999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Karata\u015f Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jGtvnpKzmbfyYQ5XViQetQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=162.48807&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Eti, Karata\u015f Hukuk B\u00fcrosu, Toros Sk. No: 7, 06570 \u00c7ankaya/Ankara",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJEdsmjvhO0xQRGXyqAYKVW2w",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJEdsmjvhO0xQRGXyqAYKVW2w&q=?q=place_id:ChIJEdsmjvhO0xQRGXyqAYKVW2w&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 39.9285766,
+        "longitude": 32.8526319
+    },
+    "plus_code": "WVH3+C3 \u00c7ankaya, Ankara",
+    "detailed_address": {
+        "ward": "Eti",
+        "street": "Toros Sk. No: 7",
+        "city": "\u00c7ankaya",
+        "postal_code": "06570",
+        "state": "Ankara",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "7807998764583123993",
+    "data_id": "0x14d34ef88e26db11:0x6c5b958201aa7c19",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jGtvnpKzmbfyYQ5XViQetQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=162.48807&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jGtvnpKzmbfyYQ5XViQetQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=162.48807&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

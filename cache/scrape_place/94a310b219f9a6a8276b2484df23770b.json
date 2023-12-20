@@ -1,0 +1,268 @@
+{
+    "place_id": "ChIJFS7xlmprxEcRfwQsMc2CMDE",
+    "name": "Ragy",
+    "description": null,
+    "reviews": 5,
+    "competitors": [
+        {
+            "name": "Foundation tanders mouth and dental care",
+            "link": "https://www.google.com/maps/search/Foundation+tanders+mouth+and+dental+care/@51.535725299999996,4.2850771?authuser=0&entry=ttu",
+            "reviews": 26,
+            "rating": 4.5,
+            "main_category": "Di\u015f Hekimi"
+        },
+        {
+            "name": "Dyna Dental Engineering BV",
+            "link": "https://www.google.com/maps/search/Dyna+Dental+Engineering+BV/@51.5366332,4.2857981?authuser=0&entry=ttu",
+            "reviews": 21,
+            "rating": 5,
+            "main_category": "T\u0131p Teknolojileri \u00dcreticisi"
+        },
+        {
+            "name": "Tandartspraktijk Gripkeshof",
+            "link": "https://www.google.com/maps/search/Tandartspraktijk+Gripkeshof/@51.522484299999995,4.2815451?authuser=0&entry=ttu",
+            "reviews": 16,
+            "rating": 5,
+            "main_category": "Di\u015f Klini\u011fi"
+        },
+        {
+            "name": "J.H. Kaemmerer Tandarts",
+            "link": "https://www.google.com/maps/search/J.H.+Kaemmerer+Tandarts/@51.525773,4.2691149?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 3.7,
+            "main_category": "Di\u015f Hekimi"
+        },
+        {
+            "name": "Tandgaaf",
+            "link": "https://www.google.com/maps/search/Tandgaaf/@51.5404592,4.4610122?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Di\u015f Laboratuvar\u0131"
+        }
+    ],
+    "website": "https://www.ragy.nl/",
+    "owner": {
+        "id": "109762898660526516783",
+        "name": "Ragy (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/109762898660526516783"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hgsAkJ06vfZQc3S0_Dq_CA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=83.30212&pitch=0&thumbfov=100",
+    "main_category": "Di\u015f Laboratuvar\u0131",
+    "categories": [
+        "Di\u015f Laboratuvar\u0131"
+    ],
+    "rating": 4,
+    "workday_timing": "08:45\u201317:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "+31 164 253 878",
+    "address": "Ragy, Canadaweg 16a, 4661 PZ Halsteren, Hollanda",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJFS7xlmprxEcRfwQsMc2CMDE",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 17:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 3
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJFS7xlmprxEcRfwQsMc2CMDE&q=?q=place_id:ChIJFS7xlmprxEcRfwQsMc2CMDE&authuser=0&hl=en&gl=NL",
+    "coordinates": {
+        "latitude": 51.540711099999996,
+        "longitude": 4.2882524
+    },
+    "plus_code": "G7RQ+78 Halsteren, Hollanda",
+    "detailed_address": {
+        "ward": null,
+        "street": "Canadaweg 16a",
+        "city": "Halsteren",
+        "postal_code": "4661 PZ",
+        "state": null,
+        "country_code": "NL"
+    },
+    "time_zone": "Europe/Amsterdam",
+    "cid": "3544476724545455231",
+    "data_id": "0x47c46b6a96f12e15:0x313082cd312c047f",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hgsAkJ06vfZQc3S0_Dq_CA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=83.30212&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hgsAkJ06vfZQc3S0_Dq_CA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=83.30212&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:45\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:45\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:45\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:45\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:45\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "De borsteltjes zijn heel erg goed. Verschillende grote\nHet wordt heel snel geleverd. Zeer tevreden over alles.",
+            "reviewer_name": "Tanja Herbert",
+            "rating": 5,
+            "review_text": "De borsteltjes zijn heel erg goed. Verschillende grote\nHet wordt heel snel geleverd. Zeer tevreden over alles.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-09-16T21:51:59.374000",
+            "response_from_owner_text": "Beste Tanja,\nBedankt voor je review. Dat waarderen we enorm!\nWe blijven uiteraard onze dienstverlening voortzetten en doen er alles aan doen om je als tevreden klant te houden.",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-04-07T20:04:59.302000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 17,
+            "total_number_of_photos_by_reviewer": 10,
+            "reviewer_url": "https://www.google.com/maps/contrib/102236109428235458623/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUwqoB7EiG9iSfKPNzSh-D12W39T3wWJsBOGGB9fPOCdVI=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "F\u0131r\u00e7alar \u00e7ok iyi. Farkl\u0131 boyut\n\u00c7ok h\u0131zl\u0131 bir \u015fekilde teslim edilir. Her \u015feyden \u00e7ok memnun.",
+            "response_from_owner_translated_text": "Sevgili Tanya,\n\u0130ncelemeniz i\u00e7in te\u015fekk\u00fcr ederiz. Bunu ger\u00e7ekten takdir ediyoruz!\nElbette hizmetlerimizi sunmaya devam edece\u011fiz ve sizi memnun bir m\u00fc\u015fteri olarak tutmak i\u00e7in elimizden gelen her \u015feyi yapaca\u011f\u0131z.",
+            "review_photos": []
+        },
+        {
+            "review_id": "Hele fijne ragertjes, snel geleverd.\nBovendien prima prijs/kwaliteit verhouding! \ud83d\udc4d",
+            "reviewer_name": "Jolanda Van Dijk",
+            "rating": 5,
+            "review_text": "Hele fijne ragertjes, snel geleverd.\nBovendien prima prijs/kwaliteit verhouding! \ud83d\udc4d",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-04-07T19:57:47.560000",
+            "response_from_owner_text": "Dankjewel Jolanda!\nWe zijn blij met iedere positieve review! \ud83d\udc4d\ud83c\udffb",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-04-07T20:06:24.816000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117332953362008699466/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL7hxGY3KkMQZ90XU6RBsvEHOg0Qj5ZgXqNiPe403c1=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "\u00c7ok g\u00fczel f\u0131r\u00e7alar, h\u0131zl\u0131 bir \u015fekilde teslim edildi.\nAyr\u0131ca, para i\u00e7in m\u00fckemmel de\u011fer! \ud83d\udc4d",
+            "response_from_owner_translated_text": "Te\u015fekk\u00fcrler Yolanda!\nHer olumlu ele\u015ftiri bizi mutlu ediyor! \ud83d\udc4d\ud83c\udffb",
+            "review_photos": []
+        },
+        {
+            "review_id": "Heel tevreden over Ragy. Makkelijk bestellen via internet. Snelle levering.\nBetaalbare ragertjes, zeer prettig in gebruik, in vele soorten en maten leverbaar. Geen gezoek meer in winkels of op het internet.\nEen aanrader.",
+            "reviewer_name": "Anja Hendrikse",
+            "rating": 4,
+            "review_text": "Heel tevreden over Ragy. Makkelijk bestellen via internet. Snelle levering.\nBetaalbare ragertjes, zeer prettig in gebruik, in vele soorten en maten leverbaar. Geen gezoek meer in winkels of op het internet.\nEen aanrader.",
+            "published_at": "7 y\u0131l \u00f6nce",
+            "published_at_date": "2016-09-14T08:15:17.970000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102987944126144054232/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIqWxC-V8jBsPfesXYj0TrTKCyyPcj01kr34uSlXPzu=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "Ragy'den \u00e7ok memnun. \u00c7evrimi\u00e7i sipari\u015f vermek kolayd\u0131r. H\u0131zl\u0131 teslimat.\nUygun fiyatl\u0131, kullan\u0131m\u0131 \u00e7ok keyifli, bir\u00e7ok \u015fekil ve boyutta mevcut f\u0131r\u00e7alar. Art\u0131k ma\u011fazalarda veya internette arama yapman\u0131za gerek yok.\nTavsiye edilen.",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Slecht kwaliteit. Borstel haren laten los en zeer slechte communicatie met het bedrijf. Op mail geen reactie en terug bellen doen ze ook niet",
+            "reviewer_name": "Olaf Goenewoud",
+            "rating": 1,
+            "review_text": "Slecht kwaliteit. Borstel haren laten los en zeer slechte communicatie met het bedrijf. Op mail geen reactie en terug bellen doen ze ook niet",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-04-07T05:23:16.067000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100387729414540876654/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIljF6ZV3JE_j4sd1vD0dAMAWuL7CgEOosNXIK9F74H=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "K\u00f6t\u00fc kalite. F\u0131r\u00e7a k\u0131llar\u0131 gev\u015feiyor ve \u015firketle ileti\u015fim \u00e7ok zay\u0131f. Maillere cevap yok ve geri d\u00f6n\u00fc\u015f de yapm\u0131yorlar",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Super goede kwaliteit en snelle levering. Erg tevreden!",
+            "reviewer_name": "Kim Kustura",
+            "rating": 5,
+            "review_text": "Super goede kwaliteit en snelle levering. Erg tevreden!",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-09-01T20:14:18.067000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100978796513848701664/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKndeQ9wowuVf4fiNxoCI8coZa677rkhEqqePau7DDY=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "S\u00fcper kaliteli ve h\u0131zl\u0131 teslimat. \u00c7ok Menmun Kalmak!",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

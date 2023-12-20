@@ -1,0 +1,216 @@
+{
+    "place_id": "ChIJ623JH2q2yhQRivGA39sRdng",
+    "name": "Koclu Law Firm",
+    "description": null,
+    "reviews": 3,
+    "competitors": [
+        {
+            "name": "G\u00f6kk\u0131l\u0131\u00e7 Law Office",
+            "link": "https://www.google.com/maps/search/G%C3%B6kk%C4%B1l%C4%B1%C3%A7+Law+Office/@41.0821341,29.0125638?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "KORAL HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/KORAL+HUKUK+B%C3%9CROSU/@41.065962000000006,29.004972999999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Uluk\u00f6kl\u00fc & Partners Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Uluk%C3%B6kl%C3%BC+%26+Partners+Hukuk+B%C3%BCrosu/@41.0805094,29.0151561?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 4.6,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "GOLUO\u011eLU HUKUK / LAW",
+            "link": "https://www.google.com/maps/search/GOLUO%C4%9ELU+HUKUK+%2F+LAW/@41.074237,29.0186438?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "KEYDAL HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/KEYDAL+HUKUK+B%C3%9CROSU/@41.0830646,29.0203056?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Kurumsal Ofis"
+        }
+    ],
+    "website": "http://www.koclu.com/",
+    "owner": {
+        "id": null,
+        "name": "Koclu Law Firm (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5cz9qapnlLB1eZvfJEJe_g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=209.05528&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0212) 281 85 85",
+    "address": "Levent, Koclu Law Firm, Lale Soka\u011f\u0131 No:9, 34330 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ623JH2q2yhQRivGA39sRdng",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ623JH2q2yhQRivGA39sRdng&authuser=0&hl=tr&gl=TR",
+    "coordinates": {
+        "latitude": 41.0773923,
+        "longitude": 29.016860599999998
+    },
+    "plus_code": "32G8+XP Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Levent",
+        "street": "Lale Soka\u011f\u0131 No:9",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34330",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "8680144967848489354",
+    "data_id": "0x14cab66a1fc96deb:0x787611dbdf80f18a",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5cz9qapnlLB1eZvfJEJe_g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=209.05528&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5cz9qapnlLB1eZvfJEJe_g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=209.05528&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "\u0130 spoke to many different attorneys prior to to cold calling this firm. After reading their reviews and doing some background on them I decided to call. I was able to speak to Ugur KOCLU on the telephone. He agreed to work with me. My overall experience with Ugur KOCLU and the firm in general was amazing! The whole staff is very nice and professional. They were successful in my case and amazingly FAST! What more can you ask for? This is the firm for you! Don't waste your time with anyone else.",
+            "reviewer_name": "Sava\u015f \u015e\u0130M\u015eEK",
+            "rating": 5,
+            "review_text": "\u0130 spoke to many different attorneys prior to to cold calling this firm. After reading their reviews and doing some background on them I decided to call. I was able to speak to Ugur KOCLU on the telephone. He agreed to work with me. My overall experience with Ugur KOCLU and the firm in general was amazing! The whole staff is very nice and professional. They were successful in my case and amazingly FAST! What more can you ask for? This is the firm for you! Don't waste your time with anyone else.",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-11-23T10:07:54.335000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 150,
+            "total_number_of_photos_by_reviewer": 193,
+            "reviewer_url": "https://www.google.com/maps/contrib/106178626389396074932/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWwVm60DeoQzImCiRqT2krDw5T10ERW89BAUNAqcTifNGo=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": "Bu firmay\u0131 aramadan \u00f6nce bir\u00e7ok farkl\u0131 avukatla konu\u015ftum. \u0130ncelemelerini okuduktan ve onlar hakk\u0131nda biraz bilgi edindikten sonra aramaya karar verdim. U\u011fur KO\u00c7LU ile telefonda g\u00f6r\u00fc\u015febildim. Benimle \u00e7al\u0131\u015fmay\u0131 kabul etti. U\u011fur KO\u00c7LU ve genel olarak firma ile olan genel deneyimim muhte\u015femdi! T\u00fcm personel \u00e7ok iyi ve profesyonel. Benim durumumda ba\u015far\u0131l\u0131 oldular ve inan\u0131lmaz derecede HIZLI! Daha ne isteyebilirsin? Bu sizin i\u00e7in bir firma! Zaman\u0131n\u0131z\u0131 ba\u015fkas\u0131yla harcamay\u0131n.",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Abdullah KARAARSLAN",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "6 y\u0131l \u00f6nce",
+            "published_at_date": "2017-12-07T05:55:17.666000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104681285521009746084/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLqjs8L-FhcQ83OWqi2T1W5BFvHjqjZS0D5VEd4etHs=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Eray Yavuz",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2019-12-26T00:14:43.633000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117160966984948203202/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWm4oe4OzNqBZfOql3AfJrSV51ILT_yasNzRIUKthppGy0=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

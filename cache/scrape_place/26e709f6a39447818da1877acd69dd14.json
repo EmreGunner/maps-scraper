@@ -1,0 +1,129 @@
+{
+    "place_id": "ChIJSYbdDmS4yhQRm7c-cshgKzo",
+    "name": "G\u00fcltekin",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "B\u00fcy\u00fcl\u00fc D\u00fckkan",
+            "link": "https://www.google.com/maps/search/B%C3%BCy%C3%BCl%C3%BC+D%C3%BCkkan/@40.9898454,29.023009100000003?authuser=0&entry=ttu",
+            "reviews": 198,
+            "rating": 4.5,
+            "main_category": "Kitap\u00e7\u0131"
+        },
+        {
+            "name": "Kuzgun \u00c7izgi roman evi",
+            "link": "https://www.google.com/maps/search/Kuzgun+%C3%87izgi+roman+evi/@40.9951922,29.0279948?authuser=0&entry=ttu",
+            "reviews": 60,
+            "rating": 4.7,
+            "main_category": "\u00c7izgi Roman Ma\u011fazas\u0131"
+        },
+        {
+            "name": "B\u00fcy\u00fcl\u00fc R\u00fczgar",
+            "link": "https://www.google.com/maps/search/B%C3%BCy%C3%BCl%C3%BC+R%C3%BCzgar/@40.9898749,29.023125099999994?authuser=0&entry=ttu",
+            "reviews": 21,
+            "rating": 4.8,
+            "main_category": "\u00c7izgi Roman Ma\u011fazas\u0131"
+        },
+        {
+            "name": "Celal G\u00fcltekin Kad\u0131k\u00f6y",
+            "link": "https://www.google.com/maps/search/Celal+G%C3%BCltekin+Kad%C4%B1k%C3%B6y/@40.9904454,29.0287817?authuser=0&entry=ttu",
+            "reviews": 14,
+            "rating": 2.4,
+            "main_category": "Ayakkab\u0131 ma\u011fazas\u0131"
+        },
+        {
+            "name": "G\u00fcl\u00fcm \u00c7eyiz & Butik",
+            "link": "https://www.google.com/maps/search/G%C3%BCl%C3%BCm+%C3%87eyiz+%26+Butik/@40.9886913,29.028914800000003?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Giyim ma\u011fazas\u0131"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "G\u00fcltekin (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pVMP_v20-vKHoZ2PhDd1mg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=334.716&pitch=0&thumbfov=100",
+    "main_category": "Ma\u011faza",
+    "categories": [
+        "Ma\u011faza"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Cafera\u011fa, G\u00fcltekin, 34710 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJSYbdDmS4yhQRm7c-cshgKzo",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJSYbdDmS4yhQRm7c-cshgKzo&q=?q=place_id:ChIJSYbdDmS4yhQRm7c-cshgKzo&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9853409,
+        "longitude": 29.0294764
+    },
+    "plus_code": "X2PH+4Q Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Cafera\u011fa",
+        "street": null,
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4191550292224817051",
+    "data_id": "0x14cab8640edd8649:0x3a2b60c8723eb79b",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Adrese servis",
+                    "enabled": true
+                },
+                {
+                    "name": "Ma\u011faza i\u00e7inde al\u0131\u015fveri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Ayn\u0131 g\u00fcn teslimat",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pVMP_v20-vKHoZ2PhDd1mg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=334.716&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pVMP_v20-vKHoZ2PhDd1mg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=334.716&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

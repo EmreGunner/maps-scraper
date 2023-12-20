@@ -1,0 +1,121 @@
+{
+    "place_id": "ChIJcdy58RS2yhQRBnSyrfGNmTM",
+    "name": "Aydil Hukuk",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Ayd\u0131nlar Dan\u0131\u015fmanl\u0131k ve Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ayd%C4%B1nlar+Dan%C4%B1%C5%9Fmanl%C4%B1k+ve+Hukuk+B%C3%BCrosu/@41.0406051,28.992067000000002?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 2.3,
+            "main_category": "Dan\u0131\u015fman"
+        },
+        {
+            "name": "Avukat",
+            "link": "https://www.google.com/maps/search/Avukat/@41.107598499999995,28.872109?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Ayd\u0131n Hukuk",
+            "link": "https://www.google.com/maps/search/Ayd%C4%B1n+Hukuk/@41.066389099999995,28.9970268?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Adel Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Adel+Hukuk+B%C3%BCrosu/@41.074979299999995,28.982858999999998?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 3.4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "TAFLAN HUKUK",
+            "link": "https://www.google.com/maps/search/TAFLAN+HUKUK/@41.067476899999996,29.002224699999996?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Aydil Hukuk (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cfzvfEsMVA5aiu9E6xV0mQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=243.9211&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0533 747 16 54",
+    "address": "K\u00fclt\u00fcr, Aydil Hukuk, 34340 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJcdy58RS2yhQRBnSyrfGNmTM",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJcdy58RS2yhQRBnSyrfGNmTM&q=?q=place_id:ChIJcdy58RS2yhQRBnSyrfGNmTM&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.07729,
+        "longitude": 29.025005
+    },
+    "plus_code": "32GG+W2 Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "K\u00fclt\u00fcr",
+        "street": null,
+        "city": "Be\u015fikta\u015f",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "3718159036511843334",
+    "data_id": "0x14cab614f1b9dc71:0x33998df1adb27406",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cfzvfEsMVA5aiu9E6xV0mQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=243.9211&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cfzvfEsMVA5aiu9E6xV0mQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=243.9211&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

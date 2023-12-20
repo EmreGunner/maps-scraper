@@ -1,0 +1,153 @@
+{
+    "place_id": "ChIJk4mtsVijyhQRim3JmghMn2E",
+    "name": "Canan Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Canan Vergili Oru\u00e7",
+            "link": "https://www.google.com/maps/search/Canan+Vergili+Oru%C3%A7/@40.9940694,28.824678099999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Emin Canacankatan - Canacankatan Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Avukat+Emin+Canacankatan+-+Canacankatan+Avukatl%C4%B1k+B%C3%BCrosu/@40.9950265,28.862119800000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avca Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Avca+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9985427,28.834851900000004?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Emin Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Emin+Hukuk+B%C3%BCrosu/@41.0006992,28.8707275?authuser=0&entry=ttu",
+            "reviews": 11,
+            "rating": 4.9,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Aksa Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Aksa+Hukuk+B%C3%BCrosu/@40.993758,28.828539?authuser=0&entry=ttu",
+            "reviews": 11,
+            "rating": 1,
+            "main_category": "Hukuk Hizmetleri"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Canan Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh6.googleusercontent.com/opaiQhsqUouqmJ0dVwQaZtekjiuDrZTQzLBPxjTVtJV3ZGOcSLbYQBK_V9OX-no=w426-h240-k-no",
+    "main_category": "Hukuk Hizmetleri",
+    "categories": [
+        "Hukuk Hizmetleri"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:30",
+    "closed_on": "Open All Days",
+    "phone": "(0212) 451 05 51",
+    "address": "H\u00fcrriyet, Canan Hukuk B\u00fcrosu, Mahmutbey Cd., 34188 Bah\u00e7elievler/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJk4mtsVijyhQRim3JmghMn2E",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJk4mtsVijyhQRim3JmghMn2E&q=?q=place_id:ChIJk4mtsVijyhQRim3JmghMn2E&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9936672,
+        "longitude": 28.842732899999998
+    },
+    "plus_code": "XRVV+F3 Bah\u00e7elievler, \u0130stanbul",
+    "detailed_address": {
+        "ward": "H\u00fcrriyet",
+        "street": "Mahmutbey Cd.",
+        "city": "Bah\u00e7elievler",
+        "postal_code": "34188",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "7034424742816345482",
+    "data_id": "0x14caa358b1ad8993:0x619f4c089ac96d8a",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh6.googleusercontent.com/opaiQhsqUouqmJ0dVwQaZtekjiuDrZTQzLBPxjTVtJV3ZGOcSLbYQBK_V9OX-no=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FmqE5_lcZpoOIDJJYZ_wng&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=255.5005&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,167 @@
+{
+    "place_id": "ChIJc2Q3ck22yhQRQIyfn4dE3Qg",
+    "name": "Semizo\u011flu Hukuk B\u00fcrosu - Law Office",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "Z\u0130RO\u011eLU AVUKATLIK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/Z%C4%B0RO%C4%9ELU+AVUKATLIK+B%C3%9CROSU/@41.066064,29.0075038?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "gumbusoglu",
+            "link": "https://www.google.com/maps/search/gumbusoglu/@41.066200599999995,29.0063928?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00c7ak\u0131r Dan\u0131\u015fmanl\u0131k & B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%87ak%C4%B1r+Dan%C4%B1%C5%9Fmanl%C4%B1k+%26+B%C3%BCrosu/@41.0575267,29.010395100000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "HERDEM Attorneys at Law",
+            "link": "https://www.google.com/maps/search/HERDEM+Attorneys+at+Law/@41.06084920000001,29.012357499999997?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Falc\u0131o\u011flu Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Falc%C4%B1o%C4%9Flu+Hukuk+B%C3%BCrosu/@41.0661735,29.005429799999995?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        }
+    ],
+    "website": "http://semizoglu.av.tr/",
+    "owner": {
+        "id": "113976450064865384966",
+        "name": "Semizo\u011flu Hukuk B\u00fcrosu - Law Office (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/113976450064865384966"
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0212) 244 66 60",
+    "address": "Balmumcu, Semizo\u011flu Hukuk B\u00fcrosu - Law Office, Balmumcu Plaza 4, No: 36 1, Gazi Umur Pa\u015fa Sk., 34349 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJc2Q3ck22yhQRQIyfn4dE3Qg",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJc2Q3ck22yhQRQIyfn4dE3Qg&q=?q=place_id:ChIJc2Q3ck22yhQRQIyfn4dE3Qg&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0610444,
+        "longitude": 29.0123113
+    },
+    "plus_code": "3266+CW Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Balmumcu",
+        "street": "Balmumcu Plaza 4, No: 36 1, Gazi Umur Pa\u015fa Sk.",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34349",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "638742071445785664",
+    "data_id": "0x14cab64d72376473:0x8dd44879f9f8c40",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Alan\u0131nda en iyisi",
+            "reviewer_name": "Egemen Tozluo\u011flu",
+            "rating": 5,
+            "review_text": "Alan\u0131nda en iyisi",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-04-12T21:47:53.390000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 23,
+            "reviewer_url": "https://www.google.com/maps/contrib/108478440361150497056/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVl2UW-H-yrH67ibcF7aW_0hSrqXGluZwx_bsxhxyer65s=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,112 @@
+{
+    "place_id": "ChIJrQlx1cy1yhQR6gwEh1mowlM",
+    "name": "AVK Law",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Avk Law Office",
+            "link": "https://www.google.com/maps/search/Avk+Law+Office/@41.1102774,29.0243859?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Koksal Avukatlik Ortakligi",
+            "link": "https://www.google.com/maps/search/Koksal+Avukatlik+Ortakligi/@41.110425,29.019596999999997?authuser=0&entry=ttu",
+            "reviews": 12,
+            "rating": 4.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Karal Hukuki Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Karal+Hukuki+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.118569,29.0101405?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00c7elik Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%87elik+Avukatl%C4%B1k+B%C3%BCrosu/@41.1068619,28.9865663?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Aky\u0131ld\u0131z Law",
+            "link": "https://www.google.com/maps/search/Aky%C4%B1ld%C4%B1z+Law/@41.0994083,29.0078243?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://avklaw.com/",
+    "owner": {
+        "id": null,
+        "name": "AVK Law (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 215 55 30",
+    "address": "AVK Law, Eski B\u00fcy\u00fckdere Cad, Maslak Ayaza\u011fa Cd. Park Plaza No:6 Kat 1 D, \u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJrQlx1cy1yhQR6gwEh1mowlM",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJrQlx1cy1yhQR6gwEh1mowlM&q=?q=place_id:ChIJrQlx1cy1yhQR6gwEh1mowlM&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.1113243,
+        "longitude": 28.999584
+    },
+    "plus_code": "4X6X+GR Sar\u0131yer, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Huzur Mahallesi",
+        "street": "Eski B\u00fcy\u00fckdere Cad, Maslak Ayaza\u011fa Cd. Park Plaza No:6 Kat 1 D",
+        "city": "Sar\u0131yer",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6035571553100631274",
+    "data_id": "0x14cab5ccd57109ad:0x53c2a85987040cea",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

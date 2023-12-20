@@ -1,0 +1,146 @@
+{
+    "place_id": "ChIJLZvlyhOPKBURUThJ-8IHejw",
+    "name": "Avukat F\u0131rat S\u00f6yler",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Av. FIRAT AZGER -Adana Avukat",
+            "link": "https://www.google.com/maps/search/Av.+FIRAT+AZGER+-Adana+Avukat/@36.9913422,35.3269251?authuser=0&entry=ttu",
+            "reviews": 53,
+            "rating": 4.9,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Av.Ya\u011fmur \u00d6der",
+            "link": "https://www.google.com/maps/search/Av.Ya%C4%9Fmur+%C3%96der/@36.9903627,35.323009299999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Aykut Ate\u015f Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Avukat+Aykut+Ate%C5%9F+Hukuk+B%C3%BCrosu/@36.991167100000006,35.329565599999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AV. RA\u015e\u0130T YILMAZ & PARTNERS HUKUK B\u00dcROSU | Bo\u015fanma Avukat\u0131, \u0130cra Avukat\u0131, Ceza Avukat\u0131, Miras Avukat\u0131",
+            "link": "https://www.google.com/maps/search/AV.+RA%C5%9E%C4%B0T+YILMAZ+%26+PARTNERS+HUKUK+B%C3%9CROSU+%7C+Bo%C5%9Fanma+Avukat%C4%B1%2C+%C4%B0cra+Avukat%C4%B1%2C+Ceza+Avukat%C4%B1%2C+Miras+Avukat%C4%B1/@36.9924039,35.3236524?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 4.7,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6ner Hasanefendio\u011flu",
+            "link": "https://www.google.com/maps/search/%C3%96ner+Hasanefendio%C4%9Flu/@36.993091199999995,35.3220946?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Avukat F\u0131rat S\u00f6yler (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Hukuk Hizmetleri",
+    "categories": [
+        "Hukuk Hizmetleri"
+    ],
+    "rating": null,
+    "workday_timing": "08:00\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": null,
+    "address": "Avukat F\u0131rat S\u00f6yler, \u00c7\u0131narl\u0131, Ziyapa\u015fa Blv. No:78, 5. kat 503 numara, 01120 Seyhan/Adana",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJLZvlyhOPKBURUThJ-8IHejw",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 08:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJLZvlyhOPKBURUThJ-8IHejw&q=?q=place_id:ChIJLZvlyhOPKBURUThJ-8IHejw&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.992759899999996,
+        "longitude": 35.3222555
+    },
+    "plus_code": "X8VC+4W Seyhan, Adana",
+    "detailed_address": {
+        "ward": "\u00c7\u0131narl\u0131",
+        "street": "\u00c7\u0131narl\u0131, Ziyapa\u015fa Blv. No:78, 5. kat 503 numara",
+        "city": "Seyhan",
+        "postal_code": "01120",
+        "state": "Adana",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4357804123455305809",
+    "data_id": "0x15288f13cae59b2d:0x3c7a07c2fb493851",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201315:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

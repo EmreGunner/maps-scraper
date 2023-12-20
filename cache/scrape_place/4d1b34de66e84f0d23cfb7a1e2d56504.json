@@ -1,0 +1,220 @@
+{
+    "place_id": "ChIJZb6QFoGjyhQRVzM0xRaHPEE",
+    "name": "HAYY HUKUK",
+    "description": null,
+    "reviews": 4,
+    "competitors": [
+        {
+            "name": "F&A Avukatl\u0131k Arabuluculuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/F%26A+Avukatl%C4%B1k+Arabuluculuk+B%C3%BCrosu/@40.9920082,28.8350906?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u0130TT\u0130HAT HUKUK ve DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/%C4%B0TT%C4%B0HAT+HUKUK+ve+DANI%C5%9EMANLIK/@40.9954143,28.875232?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ayasda & Bilir Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ayasda+%26+Bilir+Hukuk+B%C3%BCrosu/@40.9902452,28.834632900000003?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u0130zel\u00d6zkanHukuk",
+            "link": "https://www.google.com/maps/search/%C4%B0zel%C3%96zkanHukuk/@40.991794999999996,28.834902399999997?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "https://www.hayyhukuk.com.tr/",
+    "owner": {
+        "id": "113872625577857727996",
+        "name": "HAYY HUKUK (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/113872625577857727996"
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 4.5,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0212) 812 23 13",
+    "address": "HAYY HUKUK, Atak\u00f6y 7-8-9-10 Mah. D 100 G\u00fcney Yanyolu NEF 22, D BLOK D:10 Daire 106, 34156 Bak\u0131rk\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJZb6QFoGjyhQRVzM0xRaHPEE",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 3
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJZb6QFoGjyhQRVzM0xRaHPEE&authuser=0&hl=tr&gl=TR",
+    "coordinates": {
+        "latitude": 40.9899779,
+        "longitude": 28.8343191
+    },
+    "plus_code": "XRQM+XP Bak\u0131rk\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Atak\u00f6y 7-8-9-10",
+        "street": "Atak\u00f6y 7-8-9-10 Mah. D 100 G\u00fcney Yanyolu NEF 22, D BLOK D:10 Daire 106",
+        "city": "Bak\u0131rk\u00f6y",
+        "postal_code": "34156",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4700780642935518039",
+    "data_id": "0x14caa3811690be65:0x413c8716c5343357",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201315:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "mustafa soner",
+            "rating": 3,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-10-22T08:14:31.378000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117511730867351150430/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL6ut07Oer3ZcoDCY1drB5bE_4_26YTGRDAoYSf6O-t=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "ENES \u00c7INAR",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-09-26T08:20:04.747000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 20,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108083855653861802552/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV3WfBpw0sjCYzLBhotOKALYGObKddoPW5aLZCP06JdcZo=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Yunus KURT",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-08-18T13:45:17.923000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 7,
+            "reviewer_url": "https://www.google.com/maps/contrib/102588305058853284196/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXU0MbzzV9ZMrDjYB3e-Y-tmtP3V4KTraWpfjZAdCrsqyA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "SEMRA SAVA\u015e",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-11-21T15:50:29.920000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116190575271661601691/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUHMO_C6-73PCV-agwFHwA_dfghvi__TDKhon9ONqnn3Q=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

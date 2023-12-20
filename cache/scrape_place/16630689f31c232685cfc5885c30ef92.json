@@ -1,0 +1,156 @@
+{
+    "place_id": "ChIJhR7JamG3yhQRNs7RPKv7ws4",
+    "name": "G\u00fcneli Hukuk",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "GUNAY LAW FIRM",
+            "link": "https://www.google.com/maps/search/GUNAY+LAW+FIRM/@41.075573999999996,29.019118999999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "G\u00fcnel Hukuk B\u00fcrosu- Av. Ayda G\u00fcnel",
+            "link": "https://www.google.com/maps/search/G%C3%BCnel+Hukuk+B%C3%BCrosu-+Av.+Ayda+G%C3%BCnel/@40.9851142,29.0392197?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Hukuk+B%C3%BCrosu/@40.9796656,29.0400056?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ATILGAN&UZUN Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/ATILGAN%26UZUN+Hukuk+B%C3%BCrosu/@40.991959,29.0402988?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.gunelihukuk.com/",
+    "owner": {
+        "id": "109324366831949519118",
+        "name": "G\u00fcneli Hukuk (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/109324366831949519118"
+    },
+    "featured_image": "//lh5.googleusercontent.com/Gkzhf08NYCK69lZKuLWOdg0FLKX-dlN9KUDacU2CnvpfxvHToHmSzjbohr5eGhHoog=w426-h240-k-no",
+    "main_category": "Hukuk Hizmetleri",
+    "categories": [
+        "Hukuk Hizmetleri",
+        "Dan\u0131\u015fman",
+        "Hukuk B\u00fcrosu",
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201320:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 347 96 82",
+    "address": "E\u011fitim, G\u00fcneli Hukuk, Ad\u0131m Soka\u011f\u0131 4c, 34722 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJhR7JamG3yhQRNs7RPKv7ws4",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 20:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJhR7JamG3yhQRNs7RPKv7ws4&q=?q=place_id:ChIJhR7JamG3yhQRNs7RPKv7ws4&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9926636,
+        "longitude": 29.0426547
+    },
+    "plus_code": "X2VV+33 Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "E\u011fitim",
+        "street": "Ad\u0131m Soka\u011f\u0131 4c",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34722",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "14898747230173384246",
+    "data_id": "0x14cab7616ac91e85:0xcec2fbab3cd1ce36",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh5.googleusercontent.com/Gkzhf08NYCK69lZKuLWOdg0FLKX-dlN9KUDacU2CnvpfxvHToHmSzjbohr5eGhHoog=w529-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOXF4LxKIyoeYfpyT8fNi-iPCndumyqEo-REmQI=w298-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ELVhngKAGWgao6-RUzTzAw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=359.16324&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201320:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201320:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201320:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201320:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201320:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

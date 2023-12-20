@@ -1,0 +1,208 @@
+{
+    "place_id": "ChIJbywVjPPJKBUR2u0KiTfy34w",
+    "name": "Korkmaz Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": 3,
+    "competitors": [
+        {
+            "name": "Avukat Ezgi KANLI Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Avukat+Ezgi+KANLI+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@37.025174899999996,35.8159608?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "H\u00fcnkaro\u011flu Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/H%C3%BCnkaro%C4%9Flu+Hukuk+B%C3%BCrosu/@37.024933,35.8164836?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "G\u00fcney Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%BCney+Hukuk+B%C3%BCrosu/@37.024059099999995,35.816361?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Emre \u00dcN",
+            "link": "https://www.google.com/maps/search/Avukat+Emre+%C3%9CN/@37.023547199999996,35.8112548?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Burak T\u00fcrker Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Avukat+Burak+T%C3%BCrker+Hukuk+B%C3%BCrosu/@37.023369699999996,35.8080749?authuser=0&entry=ttu",
+            "reviews": 19,
+            "rating": 4.7,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "106729729275431764155",
+        "name": "Korkmaz Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/106729729275431764155"
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "08:00\u201317:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0322) 612 04 00",
+    "address": "T\u00fcrl\u00fcba\u015f, Korkmaz Hukuk B\u00fcrosu, Adana Cd. No 26, 01960 Ceyhan/Adana",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJbywVjPPJKBUR2u0KiTfy34w",
+    "status": "Kapanmak \u00fczere \u22c5 17:30 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 08:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJbywVjPPJKBUR2u0KiTfy34w&q=?q=place_id:ChIJbywVjPPJKBUR2u0KiTfy34w&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 37.0245555,
+        "longitude": 35.8095448
+    },
+    "plus_code": "2RF5+RR Ceyhan, Adana",
+    "detailed_address": {
+        "ward": "T\u00fcrl\u00fcba\u015f",
+        "street": "Adana Cd. No 26",
+        "city": "Ceyhan",
+        "postal_code": "01960",
+        "state": "Adana",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10151098405452705242",
+    "data_id": "0x1528c9f38c152c6f:0x8cdff237890aedda",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201317:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Selvinaz Terkci",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-05-21T10:45:43.152000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112360996534213793107/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocISxfCjO6ba6gu2wpf3VeDdzszJoD4W6wnMBUiF1yt-=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Caner Korkmaz",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-01-06T05:51:45.047000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/100628211587514613154/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKrXcnkiFUHqkFJEjmDSVRO17jFeMZSwYwrnPjBpgG9=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Yunus emre Korkmaz",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2021-12-29T14:46:38.294000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110137093570042520155/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIXBzJXS_1Y0KSXhsQSGaKTWtw0_iSWJ2rzZzO9gcFc=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

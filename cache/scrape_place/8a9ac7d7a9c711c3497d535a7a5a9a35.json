@@ -1,0 +1,108 @@
+{
+    "place_id": "ChIJJe3jHWm4yhQRsdV0_ZzpLnA",
+    "name": "G\u00fcne\u015f Dani\u015fmanlik",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "G\u00fcne\u015f Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/G%C3%BCne%C5%9F+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9926506,29.125353900000004?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "G\u00fcne\u015f Gayrimenkul",
+            "link": "https://www.google.com/maps/search/G%C3%BCne%C5%9F+Gayrimenkul/@40.994499,29.027490200000003?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Gayrimenkul Dan\u0131\u015fman\u0131"
+        },
+        {
+            "name": "Mahmut Dani\u015fmanlik Ve Ev Hizmetleri",
+            "link": "https://www.google.com/maps/search/Mahmut+Dani%C5%9Fmanlik+Ve+Ev+Hizmetleri/@40.9940466,29.0262746?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": ""
+        },
+        {
+            "name": "Y\u00d6NET\u0130M DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/Y%C3%96NET%C4%B0M+DANI%C5%9EMANLIK/@40.990228699999996,29.027057400000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "\u0130\u015fletme Y\u00f6netimi Dan\u0131\u015fman\u0131"
+        },
+        {
+            "name": "Arwen Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Arwen+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9919703,29.026335999999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Yaz\u0131l\u0131m \u015eirketi"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "G\u00fcne\u015f Dani\u015fmanlik (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oH0kkl-q86nw-hydBCHddA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=105.94972&pitch=0&thumbfov=100",
+    "main_category": null,
+    "categories": null,
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Osmana\u011fa, G\u00fcne\u015f Dani\u015fmanlik, Re\u015fit Efendi Sk. No:34, 34714 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJJe3jHWm4yhQRsdV0_ZzpLnA",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJJe3jHWm4yhQRsdV0_ZzpLnA&q=?q=place_id:ChIJJe3jHWm4yhQRsdV0_ZzpLnA&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9927456,
+        "longitude": 29.0266976
+    },
+    "plus_code": "X2VG+3M Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Osmana\u011fa",
+        "street": "Re\u015fit Efendi Sk. No:34",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34714",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "8083655241653081521",
+    "data_id": "0x14cab8691de3ed25:0x702ee99cfd74d5b1",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oH0kkl-q86nw-hydBCHddA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=105.94972&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oH0kkl-q86nw-hydBCHddA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=105.94972&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

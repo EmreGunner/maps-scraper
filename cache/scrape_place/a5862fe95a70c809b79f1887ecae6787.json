@@ -1,0 +1,354 @@
+{
+    "place_id": "ChIJm0Zqzxa6yhQRuO0cCovyQEY",
+    "name": "Barlas Al\u0131\u015f Veri\u015f Merkezi",
+    "description": null,
+    "reviews": 30,
+    "competitors": [
+        {
+            "name": "Fatih Bellona | Bereket Mobilya",
+            "link": "https://www.google.com/maps/search/Fatih+Bellona+%7C+Bereket+Mobilya/@41.0223874,28.9444675?authuser=0&entry=ttu",
+            "reviews": 30,
+            "rating": 4.3,
+            "main_category": "Mobilya ma\u011fazas\u0131"
+        },
+        {
+            "name": "Beyaz Esya",
+            "link": "https://www.google.com/maps/search/Beyaz+Esya/@41.030929199999996,28.937884999999994?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 2.3,
+            "main_category": "Ev Tadilat\u0131 Ma\u011fazas\u0131"
+        },
+        {
+            "name": "Ey\u00fcp Modesa Bellona | Bereket Mobilya",
+            "link": "https://www.google.com/maps/search/Ey%C3%BCp+Modesa+Bellona+%7C+Bereket+Mobilya/@41.0381577,28.928593599999996?authuser=0&entry=ttu",
+            "reviews": 11,
+            "rating": 4.6,
+            "main_category": "Mobilya ma\u011fazas\u0131"
+        },
+        {
+            "name": "As Ticaret",
+            "link": "https://www.google.com/maps/search/As+Ticaret/@41.010765899999996,28.9381615?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Beyaz E\u015fya Ma\u011fazas\u0131"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Barlas Al\u0131\u015f Veri\u015f Merkezi (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh3.googleusercontent.com/dPaMQ_pIMBQvUSt-vvs0P38cRWKc7nrXgzyFhrHzsVeshrftbV-wrTe-09xL4Nfv=w426-h240-k-no",
+    "main_category": "Beyaz E\u015fya Ma\u011fazas\u0131",
+    "categories": [
+        "Beyaz E\u015fya Ma\u011fazas\u0131"
+    ],
+    "rating": 3.3,
+    "workday_timing": "09:30\u201320:00",
+    "closed_on": "Open All Days",
+    "phone": "(0212) 521 04 08",
+    "address": "Karag\u00fcmr\u00fck, Barlas Al\u0131\u015f Veri\u015f Merkezi, Fevzi Pa\u015fa Cd. 317/319, 34091 Fatih/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJm0Zqzxa6yhQRuO0cCovyQEY",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 20:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 11,
+        "2": 1,
+        "3": 1,
+        "4": 2,
+        "5": 15
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJm0Zqzxa6yhQRuO0cCovyQEY&authuser=0&hl=tr&gl=TR",
+    "coordinates": {
+        "latitude": 41.0282778,
+        "longitude": 28.937314999999998
+    },
+    "plus_code": "2WHP+8W Fatih, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Karag\u00fcmr\u00fck",
+        "street": "Fevzi Pa\u015fa Cd. 317/319",
+        "city": "Fatih",
+        "postal_code": "34091",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "5062312660148481464",
+    "data_id": "0x14caba16cf6a469b:0x4640f28b0a1cedb8",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Adrese servis",
+                    "enabled": true
+                },
+                {
+                    "name": "Ma\u011fazadan teslim alma",
+                    "enabled": true
+                },
+                {
+                    "name": "Ma\u011faza i\u00e7inde al\u0131\u015fveri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Ayn\u0131 g\u00fcn teslimat",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun giri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "\u00d6deme",
+            "options": [
+                {
+                    "name": "Kredi kart\u0131",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh3.googleusercontent.com/dPaMQ_pIMBQvUSt-vvs0P38cRWKc7nrXgzyFhrHzsVeshrftbV-wrTe-09xL4Nfv=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JPY7FIjRrsfUT4IRGWImDQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=232.54205&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:30\u201320:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:30\u201320:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:30\u201320:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:30\u201320:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:30\u201320:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:30\u201320:30"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "12:00\u201319:00"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Taksitli \u00f6deme kolayl\u0131\u011f\u0131 sa\u011flad\u0131\u011f\u0131 gerek\u00e7esiyle piyasa de\u011ferinin x3 kat\u0131 \u00fcr\u00fcn bedeli al\u0131yor olmas\u0131 ahlaka ayk\u0131r\u0131 bir davran\u0131\u015f maalesef. Daha iyi markalarla aras\u0131nda minimal fiyat farklar\u0131 var ve beyaz e\u015fya grubunda bayisi olduklar\u0131n\u0131 belirttikleri Altus firmas\u0131n\u0131n \u00fcr\u00fcnleri kendileri hari\u00e7 t\u00fcm platformlarda yar\u0131s\u0131 kadar. Mecbur kalanlar tercih ediyor diye biraz s\u00f6m\u00fcr\u00fcyorlar gibi duruyor. Kalitesiz \u00fcr\u00fcnler, \u00fcst fiyatlar. Kullan\u0131lmam\u0131\u015f \u00fcr\u00fcn iadesinde de sorun ya\u015fanaca\u011f\u0131na eminim s\u00f6zle\u015fme yap\u0131yorlarm\u0131\u015f kendileri, kendi lehlerine olsa gerektir bu s\u00f6zle\u015fmede. Olduk\u00e7a k\u00f6t\u00fc.",
+            "reviewer_name": "\u00c7a\u011fla Nur",
+            "rating": 1,
+            "review_text": "Taksitli \u00f6deme kolayl\u0131\u011f\u0131 sa\u011flad\u0131\u011f\u0131 gerek\u00e7esiyle piyasa de\u011ferinin x3 kat\u0131 \u00fcr\u00fcn bedeli al\u0131yor olmas\u0131 ahlaka ayk\u0131r\u0131 bir davran\u0131\u015f maalesef. Daha iyi markalarla aras\u0131nda minimal fiyat farklar\u0131 var ve beyaz e\u015fya grubunda bayisi olduklar\u0131n\u0131 belirttikleri Altus firmas\u0131n\u0131n \u00fcr\u00fcnleri kendileri hari\u00e7 t\u00fcm platformlarda yar\u0131s\u0131 kadar. Mecbur kalanlar tercih ediyor diye biraz s\u00f6m\u00fcr\u00fcyorlar gibi duruyor. Kalitesiz \u00fcr\u00fcnler, \u00fcst fiyatlar. Kullan\u0131lmam\u0131\u015f \u00fcr\u00fcn iadesinde de sorun ya\u015fanaca\u011f\u0131na eminim s\u00f6zle\u015fme yap\u0131yorlarm\u0131\u015f kendileri, kendi lehlerine olsa gerektir bu s\u00f6zle\u015fmede. Olduk\u00e7a k\u00f6t\u00fc.",
+            "published_at": "10 ay \u00f6nce",
+            "published_at_date": "2023-02-13T13:18:15.258000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116691686860302436194/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVkfUbUIL6S4m7PHPQW25f9vffbbuT0CqB_WHZwRfJ4MQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Taks\u0131t olmas\u0131 cok \u0131y\u0131 gercekten heryer nak\u0131t kred\u0131 bu kadar \ud83d\ude03\ud83d\ude03\ud83d\ude03\ud83d\ude03 baya al\u0131\u015fveri\u015f yapt\u0131k",
+            "reviewer_name": "bergen ba\u015fak",
+            "rating": 5,
+            "review_text": "Taks\u0131t olmas\u0131 cok \u0131y\u0131 gercekten heryer nak\u0131t kred\u0131 bu kadar \ud83d\ude03\ud83d\ude03\ud83d\ude03\ud83d\ude03 baya al\u0131\u015fveri\u015f yapt\u0131k",
+            "published_at": "bir ay \u00f6nce",
+            "published_at_date": "2023-11-18T14:48:00.121000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/114591580932818720271/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXy0OSMJUcKDBXeGinF1gz42LtXDNmaUE0iNYPZh06o7LA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "uzak duraca\u011f\u0131n\u0131z bir yer i\u015f anlay\u0131\u015flar\u0131 hi\u00e7 g\u00fczel de\u011fil i\u015f ahlaklar\u0131 yok ne yaz\u0131kki",
+            "reviewer_name": "yahya atceken",
+            "rating": 1,
+            "review_text": "uzak duraca\u011f\u0131n\u0131z bir yer i\u015f anlay\u0131\u015flar\u0131 hi\u00e7 g\u00fczel de\u011fil i\u015f ahlaklar\u0131 yok ne yaz\u0131kki",
+            "published_at": "5 ay \u00f6nce",
+            "published_at_date": "2023-07-05T11:16:55.612000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110607098253577353850/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIGX4yU31GqQZnc5LCbEsnNFX4ZLrmt6y8g0U_al8oI=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Senelerdir al\u0131\u015fveri\u015f yapt\u0131g\u0131m yer m\u00fc\u015fterilerine g\u00fcler y\u00fczl\u00fc b\u00fctcene g\u00f6re \u00f6deme kolayl\u0131g\u0131 sunan yer cok memnunun\ud83d\udc4d\ud83d\udc4d",
+            "reviewer_name": "Fato\u015f Haker",
+            "rating": 5,
+            "review_text": "Senelerdir al\u0131\u015fveri\u015f yapt\u0131g\u0131m yer m\u00fc\u015fterilerine g\u00fcler y\u00fczl\u00fc b\u00fctcene g\u00f6re \u00f6deme kolayl\u0131g\u0131 sunan yer cok memnunun\ud83d\udc4d\ud83d\udc4d",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-11-19T13:01:01.558000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 34,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109212019483182903449/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJmyhaUXpgaDdJHX8q8H4xrYeopjXYuwTngvZHBrh86=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Olumsuz yorum yapanlar bo\u015f yapmas\u0131n yeri geldi param\u0131z olmad\u0131 orhan abi bizi 2 ay idare ettigini bilirim avukata verilen arkadas allah bilir ka\u00e7 taksit \u00f6deme yapmad\u0131n baban\u0131n \u00e7ifli\u011fi de\u011fil oras\u0131 sen\u0131n ordan da ekmek yi\u011fenler var ezdirmeyiz ;] \u00fcr\u00fcn konusunada gelirse e\u015fyalar\u0131m\u0131 hala kullan\u0131yorum sa\u011flam elektron\u0131k c\u0131hazlar\u0131mda hic ar\u0131za vermedi bos yapmay\u0131n",
+            "reviewer_name": "Gokhan kadem Ulutanir",
+            "rating": 5,
+            "review_text": "Olumsuz yorum yapanlar bo\u015f yapmas\u0131n yeri geldi param\u0131z olmad\u0131 orhan abi bizi 2 ay idare ettigini bilirim avukata verilen arkadas allah bilir ka\u00e7 taksit \u00f6deme yapmad\u0131n baban\u0131n \u00e7ifli\u011fi de\u011fil oras\u0131 sen\u0131n ordan da ekmek yi\u011fenler var ezdirmeyiz ;] \u00fcr\u00fcn konusunada gelirse e\u015fyalar\u0131m\u0131 hala kullan\u0131yorum sa\u011flam elektron\u0131k c\u0131hazlar\u0131mda hic ar\u0131za vermedi bos yapmay\u0131n",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-11-27T15:13:29.598000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113592811948505094798/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIzGpxign7B8J8GrOUyAbu4dlOEbouz9Hgcym5wlb8G=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Koltuk takimi aldim aldigima alicagima cok pisman oldum geldigi gunden beri koltuklarin ayaklari kirik 3 ay oldu hala yapipmadi hic memnun kalmadim hicc tavsiye etmem t\u00fcketici haklarina \u015fikayet edicem",
+            "reviewer_name": "baydokyor ecrin",
+            "rating": 1,
+            "review_text": "Koltuk takimi aldim aldigima alicagima cok pisman oldum geldigi gunden beri koltuklarin ayaklari kirik 3 ay oldu hala yapipmadi hic memnun kalmadim hicc tavsiye etmem t\u00fcketici haklarina \u015fikayet edicem",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-09-09T14:43:42.620000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111462866068569771857/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLAUVDj21lMInJrb04kbP4yD0uHUuArapp1aJYvxx6o=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Nakliye i\u015flemleri i\u00e7in ilgilenen elemanlar\u0131n m\u00fc\u015fteri ile \u00fcslup bozuklu\u011fu var ayr\u0131ca kaba davran\u0131\u015flar\u0131 var \u00fcr\u00fcnlerini de pek kaliteli bulmad\u0131m \u015fahs\u0131m ad\u0131na",
+            "reviewer_name": "Neriman \u00d6zbakan",
+            "rating": 1,
+            "review_text": "Nakliye i\u015flemleri i\u00e7in ilgilenen elemanlar\u0131n m\u00fc\u015fteri ile \u00fcslup bozuklu\u011fu var ayr\u0131ca kaba davran\u0131\u015flar\u0131 var \u00fcr\u00fcnlerini de pek kaliteli bulmad\u0131m \u015fahs\u0131m ad\u0131na",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-06-03T14:38:28.904000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/103361000389194573701/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVwqBvKn7y7OMPyAWIyTGvFEDjWEfr01hw0DaS_BvC6VmI=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u0130ki tane dolap ald\u0131k \u00e7ekmeceler a\u00e7\u0131lm\u0131yor tavsiye etmiyorum pekde kaliteli de\u011fil iade i\u015flemleri i\u00e7inde \u00e7ok u\u011fra\u015ft\u0131r\u0131yorlar",
+            "reviewer_name": "Refika Demir",
+            "rating": 1,
+            "review_text": "\u0130ki tane dolap ald\u0131k \u00e7ekmeceler a\u00e7\u0131lm\u0131yor tavsiye etmiyorum pekde kaliteli de\u011fil iade i\u015flemleri i\u00e7inde \u00e7ok u\u011fra\u015ft\u0131r\u0131yorlar",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-06-03T12:58:16.053000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100143817327143180202/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJCy_Qxz0g1Kl5VRjpFA-jFCvHMl1hTYMO7sg94K56h=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

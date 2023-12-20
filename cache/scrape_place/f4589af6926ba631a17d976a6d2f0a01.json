@@ -1,0 +1,96 @@
+{
+    "place_id": "ChIJ91m_NjUhLxUR7NcLUem0wac",
+    "name": "Avukat Rukiye Erge\u00e7 Hukuk ve Dan\u0131\u015fmanl\u0131k",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Av. Ruveyda Serin Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Av.+Ruveyda+Serin+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@37.0645917,36.2402327?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Karada\u011fl\u0131 & Var Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Karada%C4%9Fl%C4%B1+%26+Var+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@37.064566,36.235935999999995?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "VAR HUKUK VE DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/VAR+HUKUK+VE+DANI%C5%9EMANLIK/@37.064419,36.236943?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Avukat Rukiye Erge\u00e7 Hukuk ve Dan\u0131\u015fmanl\u0131k (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VX1_eUYEeKvc5Wj3IZUSgw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=307.3631&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Raufbey, Avukat Rukiye Erge\u00e7 Hukuk ve Dan\u0131\u015fmanl\u0131k, 80010 Osmaniye Merkez/Osmaniye",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ91m_NjUhLxUR7NcLUem0wac",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ91m_NjUhLxUR7NcLUem0wac&q=?q=place_id:ChIJ91m_NjUhLxUR7NcLUem0wac&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 37.067960299999996,
+        "longitude": 36.2400318
+    },
+    "plus_code": "369R+52 Osmaniye Merkez, Osmaniye",
+    "detailed_address": {
+        "ward": "Raufbey",
+        "street": null,
+        "city": "Osmaniye Merkez",
+        "postal_code": "80010",
+        "state": "Osmaniye",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12088141789019232236",
+    "data_id": "0x152f213536bf59f7:0xa7c1b4e9510bd7ec",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VX1_eUYEeKvc5Wj3IZUSgw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=307.3631&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VX1_eUYEeKvc5Wj3IZUSgw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=307.3631&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

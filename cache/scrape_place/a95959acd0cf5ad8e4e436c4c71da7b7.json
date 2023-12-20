@@ -1,0 +1,309 @@
+{
+    "place_id": "ChIJp9bhmvbHyhQRPL332i1OX1w",
+    "name": "Akka\u015f Plaza",
+    "description": null,
+    "reviews": 42,
+    "competitors": [
+        {
+            "name": "Akka\u015f Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Akka%C5%9F+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.998371999999996,29.0496382?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Atak Plaza",
+            "link": "https://www.google.com/maps/search/Atak+Plaza/@40.992619499999996,29.042690399999998?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 3.4,
+            "main_category": "\u0130\u015f Merkezi"
+        },
+        {
+            "name": "ARKAS DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/ARKAS+DANI%C5%9EMANLIK/@40.9965356,29.047242400000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Dan\u0131\u015fman"
+        },
+        {
+            "name": "Akkay",
+            "link": "https://www.google.com/maps/search/Akkay/@40.9818723,29.057608?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "\u00dcretici"
+        }
+    ],
+    "website": "http://www.akkasgroup.com/",
+    "owner": {
+        "id": "111784333927301351823",
+        "name": "Akka\u015f Plaza (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/111784333927301351823"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPgh0r2uRsB0UOSYfGQsgFmgDFvqPYiXLhST42x=w408-h472-k-no",
+    "main_category": "Kurumsal Ofis",
+    "categories": [
+        "Kurumsal Ofis"
+    ],
+    "rating": 4.4,
+    "workday_timing": "09:00\u201318:30",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0216) 450 60 07",
+    "address": "Hasanpa\u015fa, Akka\u015f Plaza, Uzun\u00e7ay\u0131r Cd. 53-1, 34722 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJp9bhmvbHyhQRPL332i1OX1w",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 3,
+        "2": 2,
+        "3": 2,
+        "4": 2,
+        "5": 33
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJp9bhmvbHyhQRPL332i1OX1w&q=?q=place_id:ChIJp9bhmvbHyhQRPL332i1OX1w&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9983848,
+        "longitude": 29.049733099999997
+    },
+    "plus_code": "X2XX+9V Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Hasanpa\u015fa",
+        "street": "Uzun\u00e7ay\u0131r Cd. 53-1",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34722",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6656124733131046204",
+    "data_id": "0x14cac7f69ae1d6a7:0x5c5f4e2ddaf7bd3c",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPgh0r2uRsB0UOSYfGQsgFmgDFvqPYiXLhST42x=w257-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SKGWdpQ7tCdI66q5qXLz1w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=355.6067&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201314:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "\u00c7ok memnun kald\u0131m hele hele Galip beye her\u015fey i\u00e7in te\u015fekk\u00fcrler",
+            "reviewer_name": "AT\u0130LLA MALKIR",
+            "rating": 5,
+            "review_text": "\u00c7ok memnun kald\u0131m hele hele Galip beye her\u015fey i\u00e7in te\u015fekk\u00fcrler",
+            "published_at": "bir ay \u00f6nce",
+            "published_at_date": "2023-11-14T11:00:11.713000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101504819263944718599/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKLUETzgc8kWMSv_HDOLAYcXN2O0OLPYPYmV__3L-cx=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u00c7ok ilgililer. Ve alan\u0131nda uzman ki\u015filer. Dan\u0131\u015fmanl\u0131k firmasi olarak kurumsallar.",
+            "reviewer_name": "asl\u0131 g\u00f6n\u00fcl",
+            "rating": 5,
+            "review_text": "\u00c7ok ilgililer. Ve alan\u0131nda uzman ki\u015filer. Dan\u0131\u015fmanl\u0131k firmasi olarak kurumsallar.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-05-15T22:53:30.204000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113650295500355309380/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL-wGNDzFrOBgoSnTFtcujFBr5j1SF4wZOYXjGl1o5_=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Geni\u015f portf\u00f6y\u00fcne kendi verdi\u011fi hizmetler d\u0131\u015f\u0131nda da \u00e7\u00f6z\u00fcm ortaklar\u0131 sayesinde farkl\u0131 alanlarda verdi\u011fi hizmetler ile de sekt\u00f6r\u00fcn\u00fcn \u00f6nc\u00fclerinden",
+            "reviewer_name": "\u00c7etin T\u00fcrk",
+            "rating": 5,
+            "review_text": "Geni\u015f portf\u00f6y\u00fcne kendi verdi\u011fi hizmetler d\u0131\u015f\u0131nda da \u00e7\u00f6z\u00fcm ortaklar\u0131 sayesinde farkl\u0131 alanlarda verdi\u011fi hizmetler ile de sekt\u00f6r\u00fcn\u00fcn \u00f6nc\u00fclerinden",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-09-08T13:12:34.531000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113678032011474153628/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV73cBYXM1IdnkQg1YLeCc8INMOPRrualTaWuBfI3y6ZzEL=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Dan\u0131\u015fmanl\u0131k ad\u0131na her\u015fey burda\nSlogan\u0131 A'dan Z'ye dan\u0131\u015fmanl\u0131k olan firma bunun hakk\u0131n\u0131 sonuna kadar veriyor",
+            "reviewer_name": "An\u0131l ve babas\u0131n\u0131n kanal\u0131",
+            "rating": 5,
+            "review_text": "Dan\u0131\u015fmanl\u0131k ad\u0131na her\u015fey burda\nSlogan\u0131 A'dan Z'ye dan\u0131\u015fmanl\u0131k olan firma bunun hakk\u0131n\u0131 sonuna kadar veriyor",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-09-18T06:53:05.849000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110621710466821170696/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVBOZSRyVCIph2ivj9D8cx0vU3KTrhlsUUI77nY7mrV4Ow=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Dan\u0131\u015fmanl\u0131k ve i\u015f g\u00fcvenli\u011fi alan\u0131nda \u00e7\u00f6z\u00fcm odakl\u0131 \u00e7al\u0131\u015fan \u00f6nc\u00fc firma",
+            "reviewer_name": "\u00d6mer \u00c7\u0130\u00c7EK",
+            "rating": 5,
+            "review_text": "Dan\u0131\u015fmanl\u0131k ve i\u015f g\u00fcvenli\u011fi alan\u0131nda \u00e7\u00f6z\u00fcm odakl\u0131 \u00e7al\u0131\u015fan \u00f6nc\u00fc firma",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-09-09T13:49:54.714000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 145,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113929599308899938623/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocItgUgyWZHSPXKsNdDkBhxyc3Jh60I4Smq2yd5SR4zd=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Kurumsal Dan\u0131\u015fmanl\u0131kta \u00f6nc\u00fc \u015firket.....",
+            "reviewer_name": "Tamer BOLUK",
+            "rating": 5,
+            "review_text": "Kurumsal Dan\u0131\u015fmanl\u0131kta \u00f6nc\u00fc \u015firket.....",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-09-08T11:47:23.379000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109967347724794760445/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ5ij03TwcNXTBEyeXx4d1UIAuc8psv5MPTghoPjkvkglU=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "s\u00fcper dan\u0131\u015fmanl\u0131k daha iyisi olamaz.",
+            "reviewer_name": "Mert A.",
+            "rating": 5,
+            "review_text": "s\u00fcper dan\u0131\u015fmanl\u0131k daha iyisi olamaz.",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-10-11T15:25:38.155000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/103479290958856418787/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU_vd0nM29dZUbkUcxjsb19hTF8rh2b_mtpO6xGY9RUKac=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Abi biraz daha uzaklara biraz daha",
+            "reviewer_name": "Sad\u0131k Burak",
+            "rating": 2,
+            "review_text": "Abi biraz daha uzaklara biraz daha",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-05-14T08:48:29.790000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 247,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112967858737282008527/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU2LkmfII46iYIfv8yp_LMIjw6HDTHNLOzWBGFAY5dB098=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

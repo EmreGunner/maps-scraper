@@ -1,0 +1,365 @@
+{
+    "place_id": "ChIJdXEvX2y3yhQRBZE8pk669Xs",
+    "name": "Ba\u015faran Otomotiv Yedek Par\u00e7a",
+    "description": null,
+    "reviews": 24,
+    "competitors": [
+        {
+            "name": "Gencer Otomotiv",
+            "link": "https://www.google.com/maps/search/Gencer+Otomotiv/@41.043444,28.982108999999998?authuser=0&entry=ttu",
+            "reviews": 60,
+            "rating": 4.5,
+            "main_category": "Otomobil Yedek Par\u00e7a Ma\u011fazas\u0131"
+        },
+        {
+            "name": "BA\u015eARAN OTOMOT\u0130V",
+            "link": "https://www.google.com/maps/search/BA%C5%9EARAN+OTOMOT%C4%B0V/@41.0999797,29.000640699999998?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Otomobil Yedek Par\u00e7a Ma\u011fazas\u0131"
+        },
+        {
+            "name": "Beta Otomotiv Yedek Par\u00e7a",
+            "link": "https://www.google.com/maps/search/Beta+Otomotiv+Yedek+Par%C3%A7a/@41.049783999999995,28.986676000000003?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Otomobil Yedek Par\u00e7a Ma\u011fazas\u0131"
+        },
+        {
+            "name": "Oto Kaya Otomotiv Yedek Par\u00e7alar\u0131",
+            "link": "https://www.google.com/maps/search/Oto+Kaya+Otomotiv+Yedek+Par%C3%A7alar%C4%B1/@41.038503299999995,28.973106799999996?authuser=0&entry=ttu",
+            "reviews": 33,
+            "rating": 4.4,
+            "main_category": "Otomobil Yedek Par\u00e7a Ma\u011fazas\u0131"
+        },
+        {
+            "name": "Akp\u0131nar Otomotiv",
+            "link": "https://www.google.com/maps/search/Akp%C4%B1nar+Otomotiv/@41.0398444,28.982182999999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Otomobil Yedek Par\u00e7a Ma\u011fazas\u0131"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "109227233160224652001",
+        "name": "Ba\u015faran Otomotiv Yedek Par\u00e7a (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/109227233160224652001"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN10Lb5TkH54r_sSVJW_vCWBSmHYsHu0E9t015a=w408-h408-k-no",
+    "main_category": "Otomobil Yedek Par\u00e7a Ma\u011fazas\u0131",
+    "categories": [
+        "Otomobil Yedek Par\u00e7a Ma\u011fazas\u0131"
+    ],
+    "rating": 4.8,
+    "workday_timing": "08:00\u201320:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0212) 233 42 06",
+    "address": "Eski\u015fehir, Ba\u015faran Otomotiv Yedek Par\u00e7a, b istanbul, Dolapdere Cd., 34065 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJdXEvX2y3yhQRBZE8pk669Xs",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 20:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 3,
+        "5": 20
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJdXEvX2y3yhQRBZE8pk669Xs&q=?q=place_id:ChIJdXEvX2y3yhQRBZE8pk669Xs&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.046053799999996,
+        "longitude": 28.983808099999997
+    },
+    "plus_code": "2XWM+CG \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Eski\u015fehir",
+        "street": "b istanbul, Dolapdere Cd.",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34065",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "8932250282918449413",
+    "data_id": "0x14cab76c5f2f7175:0x7bf5ba4ea63c9105",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Adrese servis",
+                    "enabled": true
+                },
+                {
+                    "name": "Ma\u011fazadan teslim alma",
+                    "enabled": true
+                },
+                {
+                    "name": "Ma\u011faza i\u00e7inde al\u0131\u015fveri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Ayn\u0131 g\u00fcn teslimat",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "\u00d6deme",
+            "options": [
+                {
+                    "name": "Banka kart\u0131",
+                    "enabled": true
+                },
+                {
+                    "name": "Kredi kart\u0131",
+                    "enabled": true
+                },
+                {
+                    "name": "Kredi kart\u0131",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN10Lb5TkH54r_sSVJW_vCWBSmHYsHu0E9t015a=w297-h298-k-no"
+        },
+        {
+            "about": "\u0130\u00e7",
+            "link": "//lh3.googleusercontent.com/7Eo18Dex7YkRYviGKRjLCM1LE6EEnY-kNFdlTH6uzzrj5Klxx4HX4qe-tBNprmVu=w529-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPCdRxND32nDUvRarnNL4sBIROOuWXhBY5RPGd2=w224-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z_VHuvaoH4hC0CvivLWs_g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=335.91125&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201320:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201320:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201320:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201320:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201320:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "08:00\u201320:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "kal\u0131teli hizmet g\u00fclery\u00fczl\u00fc h\u0131zmet arad\u0131g\u0131n\u0131z yedek par\u00e7a orj\u0131nal uygun f\u0131yata \u015firketimin t\u00fcm ara\u00e7lar\u0131n yedek par\u00e7alar\u0131n\u0131n tedar\u0131g\u0131nde hi\u00e7 sorun ya\u015famad\u0131k te\u015fekkurler\nbayram bey te\u015fekkurler abdulkadir bey",
+            "reviewer_name": "Ozkan Yilmaz",
+            "rating": 5,
+            "review_text": "kal\u0131teli hizmet g\u00fclery\u00fczl\u00fc h\u0131zmet arad\u0131g\u0131n\u0131z yedek par\u00e7a orj\u0131nal uygun f\u0131yata \u015firketimin t\u00fcm ara\u00e7lar\u0131n yedek par\u00e7alar\u0131n\u0131n tedar\u0131g\u0131nde hi\u00e7 sorun ya\u015famad\u0131k te\u015fekkurler\nbayram bey te\u015fekkurler abdulkadir bey",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-08-08T16:23:46.104000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107641573758841900064/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXs7ArpNg9Rvo-i8Cv17_KN-oWB70zKV1BXDw09XATvs1hC=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Harika \u015fekilde yard\u0131mc\u0131 oldular. Hem fiyatlar uygun hem verdikleri mallar\u0131n arkas\u0131nda duruyorlar.",
+            "reviewer_name": "Ferhat Bing\u00f6lbali",
+            "rating": 5,
+            "review_text": "Harika \u015fekilde yard\u0131mc\u0131 oldular. Hem fiyatlar uygun hem verdikleri mallar\u0131n arkas\u0131nda duruyorlar.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-03-17T11:58:09.993000",
+            "response_from_owner_text": "Te\u015fekk\u00fcrler tekrar bekleriz.",
+            "response_from_owner_ago": "2 y\u0131l \u00f6nce",
+            "response_from_owner_date": "2021-03-17T18:52:43.283000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117229843449078594090/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocInBck_TH6WdTirpqZvah1j-YzKBJV8eR3N3lDUorpR=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "En Iyi fiyat,full \u00e7e\u015fit...Y\u0131llar\u0131n tecr\u00fcbesi Bayram abi...",
+            "reviewer_name": "S\u00fcleyman OTOMOT\u0130V",
+            "rating": 5,
+            "review_text": "En Iyi fiyat,full \u00e7e\u015fit...Y\u0131llar\u0131n tecr\u00fcbesi Bayram abi...",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-11-16T10:44:35.574000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 97,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/113570058784961108736/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLWtZaOs2UVZDWD3E5VlHEkioNELMEaGRXoPdHoDgEM=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Kaliteli hizmet herkese tavsiye ediyorum",
+            "reviewer_name": "Seyfullah Okka",
+            "rating": 5,
+            "review_text": "Kaliteli hizmet herkese tavsiye ediyorum",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-11-06T18:09:01.099000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114824824225184804122/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXeMlm_W6mgWLjZa7sdnmOqrNuOVVSZ1YD0x53g4obbAbA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Par\u00e7alar\u0131 kaliteli ve ilgili davrand\u0131lar, tavsiye ediyorum",
+            "reviewer_name": "\u201cKaan Erdo\u011fan\u201d Kaan Erdo\u011fan",
+            "rating": 5,
+            "review_text": "Par\u00e7alar\u0131 kaliteli ve ilgili davrand\u0131lar, tavsiye ediyorum",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-12-06T21:22:07.475000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/106441051504472655240/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUWabwcs0O1iVP3QLoyjc7m-nqlQnPEQo2SuZRIlT5nFj4=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Arad\u0131\u011f\u0131n\u0131zi bulabilece\u011finiz bir mekan",
+            "reviewer_name": "co\u015fkun \u00f6ner",
+            "rating": 4,
+            "review_text": "Arad\u0131\u011f\u0131n\u0131zi bulabilece\u011finiz bir mekan",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-08-30T07:48:26.216000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 56,
+            "total_number_of_photos_by_reviewer": 17,
+            "reviewer_url": "https://www.google.com/maps/contrib/109886628763745523875/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWZcqykyzY-1-c42yLS3jDyEOmjWpgnf-RPm_MQwQ8s8a8-=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Hizmet \u00e7ok g\u00fczel,fiyatlar uygun",
+            "reviewer_name": "Furkan Da\u011fc\u0131",
+            "rating": 5,
+            "review_text": "Hizmet \u00e7ok g\u00fczel,fiyatlar uygun",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-10-11T11:03:11.810000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/103347598053042480416/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV282WSmPg1WYx_w8TOfSqQapth0Wi2jcrs4gqEN3gCs-w=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u00c7ok ilgililer.Arabamla ilgili do\u011fru bilgilendirdiler",
+            "reviewer_name": "Polat Kaplan",
+            "rating": 5,
+            "review_text": "\u00c7ok ilgililer.Arabamla ilgili do\u011fru bilgilendirdiler",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-10-31T17:47:59.765000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/100427619269493242555/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVoKT_UPGQZ5sHLJZ4exXxI17pv-DL8eDL3j8Utq9AH10k=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

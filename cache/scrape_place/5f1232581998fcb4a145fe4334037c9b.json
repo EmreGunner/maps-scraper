@@ -1,0 +1,112 @@
+{
+    "place_id": "ChIJKbtCTAePKBURPGtzCHft7qg",
+    "name": "Enver AYDEM\u0130R",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Avukat Emine Nur \u00dcNAL - Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Avukat+Emine+Nur+%C3%9CNAL+-+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@37.0071276,35.3466319?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "DEM\u0130R Hukuk B\u00fcrosu /DEM\u0130R Law Office",
+            "link": "https://www.google.com/maps/search/DEM%C4%B0R+Hukuk+B%C3%BCrosu+%2FDEM%C4%B0R+Law+Office/@36.9923202,35.3298631?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "BER\u00c7\u0130N HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/BER%C3%87%C4%B0N+HUKUK+B%C3%9CROSU/@37.0071276,35.3466319?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "G\u00fcn&\u00d6zg\u00fcr&Vural Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/G%C3%BCn%26%C3%96zg%C3%BCr%26Vural+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@36.990389199999996,35.323050099999996?authuser=0&entry=ttu",
+            "reviews": 16,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ERSINADIM HUKUK&DANI\u015eMANLIK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/ERSINADIM+HUKUK%26DANI%C5%9EMANLIK+B%C3%9CROSU/@36.990103999999995,35.3215733?authuser=0&entry=ttu",
+            "reviews": 28,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://enveraydemir.com/",
+    "owner": {
+        "id": null,
+        "name": "Enver AYDEM\u0130R (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Kaz\u0131m Karabekir, Enver AYDEM\u0130R, District 4264 Street No:30, 01230 Y\u00fcre\u011fir/Adana",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJKbtCTAePKBURPGtzCHft7qg",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJKbtCTAePKBURPGtzCHft7qg&q=?q=place_id:ChIJKbtCTAePKBURPGtzCHft7qg&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 37.0084204,
+        "longitude": 35.3456848
+    },
+    "plus_code": "285W+97 Y\u00fcre\u011fir, Adana",
+    "detailed_address": {
+        "ward": "Kaz\u0131m Karabekir",
+        "street": "District 4264 Street No:30",
+        "city": "Y\u00fcre\u011fir",
+        "postal_code": "01230",
+        "state": "Adana",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12172927938327702332",
+    "data_id": "0x15288f074c42bb29:0xa8eeed7708736b3c",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

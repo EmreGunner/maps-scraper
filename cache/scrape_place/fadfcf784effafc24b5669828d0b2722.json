@@ -1,0 +1,370 @@
+{
+    "place_id": "ChIJRXiIgvDHyhQRg1x1p3IGRBU",
+    "name": "Karaca",
+    "description": null,
+    "reviews": 88,
+    "competitors": [
+        {
+            "name": "Karaca",
+            "link": "https://www.google.com/maps/search/Karaca/@40.952793199999995,29.121826300000002?authuser=0&entry=ttu",
+            "reviews": 95,
+            "rating": 3,
+            "main_category": "Ev E\u015fyalar\u0131 Ma\u011fazas\u0131"
+        },
+        {
+            "name": "Karaca Ev Gere\u00e7leri Merkez Ma\u011fazas\u0131",
+            "link": "https://www.google.com/maps/search/Karaca+Ev+Gere%C3%A7leri+Merkez+Ma%C4%9Fazas%C4%B1/@41.045291999999996,28.958505?authuser=0&entry=ttu",
+            "reviews": 50,
+            "rating": 4,
+            "main_category": "Ev E\u015fyalar\u0131 Ma\u011fazas\u0131"
+        },
+        {
+            "name": "Akasya AVM",
+            "link": "https://www.google.com/maps/search/Akasya+AVM/@41.001734500000005,29.054535299999998?authuser=0&entry=ttu",
+            "reviews": 34377,
+            "rating": 4.3,
+            "main_category": "Al\u0131\u015fveri\u015f merkezi"
+        },
+        {
+            "name": "Chakra",
+            "link": "https://www.google.com/maps/search/Chakra/@41.001735,29.054684299999998?authuser=0&entry=ttu",
+            "reviews": 16,
+            "rating": 4.1,
+            "main_category": "Ev E\u015fyalar\u0131 Ma\u011fazas\u0131"
+        }
+    ],
+    "website": "https://www.karaca.com/",
+    "owner": {
+        "id": "103194230117634182522",
+        "name": "Karaca (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/103194230117634182522"
+    },
+    "featured_image": "//lh4.googleusercontent.com/yM1hN4ACmgBb303tyGfq_Jrosf-4FZosQR10bQPZFouIVILdfblhvjtZyYNbXIOf=w426-h240-k-no",
+    "main_category": "Ev E\u015fyalar\u0131 Ma\u011fazas\u0131",
+    "categories": [
+        "Ev E\u015fyalar\u0131 Ma\u011fazas\u0131"
+    ],
+    "rating": 3,
+    "workday_timing": "10:00\u201322:00",
+    "closed_on": "Open All Days",
+    "phone": "0850 432 9310",
+    "address": "Ac\u0131badem, Karaca, Akasya AVM, 44, \u00c7e\u00e7en Sok. D:25, 34660 \u00dcsk\u00fcdar",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJRXiIgvDHyhQRg1x1p3IGRBU",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 22:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 30,
+        "2": 6,
+        "3": 11,
+        "4": 14,
+        "5": 27
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJRXiIgvDHyhQRg1x1p3IGRBU&authuser=0&hl=tr&gl=TR",
+    "coordinates": {
+        "latitude": 41.0013272,
+        "longitude": 29.0541661
+    },
+    "plus_code": "2323+GM \u00dcsk\u00fcdar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Ac\u0131badem",
+        "street": "Akasya AVM, 44, \u00c7e\u00e7en Sok. D:25",
+        "city": "\u00dcsk\u00fcdar",
+        "postal_code": "34660",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "1532356862718336131",
+    "data_id": "0x14cac7f082887845:0x15440672a7755c83",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Adrese servis",
+                    "enabled": true
+                },
+                {
+                    "name": "Ma\u011fazadan teslim alma",
+                    "enabled": true
+                },
+                {
+                    "name": "Ma\u011faza i\u00e7inde al\u0131\u015fveri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Ayn\u0131 g\u00fcn teslimat",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun giri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "\u00d6deme",
+            "options": [
+                {
+                    "name": "Banka kart\u0131",
+                    "enabled": true
+                },
+                {
+                    "name": "Kredi kart\u0131",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC ile mobil \u00f6deme",
+                    "enabled": true
+                },
+                {
+                    "name": "Kredi kart\u0131",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPZhdpNcf4ryC9rwZ-VNpHjQpxpkXlN0hpHeroZ=w224-h298-k-no"
+        },
+        {
+            "about": "\u0130\u00e7",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO2FCBMItwY7Fjl8DV37Ci-XSH4kQdKIpqmt3Dd=w224-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5kw0lg52VjsmhHvaD6BdGg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=94.3458&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "10:00\u201322:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "10:00\u201322:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "10:00\u201322:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "10:00\u201322:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "10:00\u201322:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "10:00\u201322:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "10:00\u201322:00"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Stoklarda olmayan mal kontrol edilmeden vardi depoda ya sanki denilerek sat\u0131l\u0131r m\u0131? Sat\u0131l\u0131rm\u0131\u015f. 20 dakika da onun iadesiyle u\u011fra\u015ft\u0131k muhte\u015fem bir \u015fube.",
+            "reviewer_name": "Murat Alp Aytulun",
+            "rating": 2,
+            "review_text": "Stoklarda olmayan mal kontrol edilmeden vardi depoda ya sanki denilerek sat\u0131l\u0131r m\u0131? Sat\u0131l\u0131rm\u0131\u015f. 20 dakika da onun iadesiyle u\u011fra\u015ft\u0131k muhte\u015fem bir \u015fube.",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-10-13T18:11:17.440000",
+            "response_from_owner_text": "Merhaba Pelin ben, size yard\u0131mc\u0131 olabilmemiz ad\u0131na talebinizin detaylar\u0131n\u0131 ve \u00fcyeli\u011finize ait ileti\u015fim bilgilerinizi sosyalmedya@karaca.com adresimize konu k\u0131sm\u0131na \u2018Karaca App Bildirim\u2019 yazarak g\u00f6ndermenizi rica ederiz. Anlay\u0131\u015f\u0131n\u0131z i\u00e7in te\u015fekk\u00fcr eder, iyi g\u00fcnler dileriz.",
+            "response_from_owner_ago": "2 ay \u00f6nce",
+            "response_from_owner_date": "2023-10-15T06:59:37.336000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 18,
+            "total_number_of_photos_by_reviewer": 13,
+            "reviewer_url": "https://www.google.com/maps/contrib/107579630884525699483/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU-DPmOY0qnEa4O1QDwaZetPN-vCL1VyyiVBMgjxYqKLso=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "hat\u0131r k\u00f6z kahve makinesi ald\u0131m. eve gidip denedim, temass\u0131zl\u0131k vard\u0131. geri g\u00f6t\u00fcr\u00fcp iade etmek istedi\u011fimde t\u00fcm s\u00fcrecin online y\u00fcr\u00fct\u00fclece\u011fini s\u00f6ylediler ve iade edemedim. \u015eimdi 20-25 g\u00fcn de \u00fcr\u00fcn\u00fcn servis taraf\u0131ndan incelenmesini bekleyece\u011fim. ay\u0131pl\u0131 mal sat\u0131p bir de kendi kusurlar\u0131 yokmuscas\u0131na t\u00fcketiciyi ugrast\u0131r\u0131yorlar. bir daha asla tercih etmem.",
+            "reviewer_name": "Yagmur Omuzlu",
+            "rating": 1,
+            "review_text": "hat\u0131r k\u00f6z kahve makinesi ald\u0131m. eve gidip denedim, temass\u0131zl\u0131k vard\u0131. geri g\u00f6t\u00fcr\u00fcp iade etmek istedi\u011fimde t\u00fcm s\u00fcrecin online y\u00fcr\u00fct\u00fclece\u011fini s\u00f6ylediler ve iade edemedim. \u015eimdi 20-25 g\u00fcn de \u00fcr\u00fcn\u00fcn servis taraf\u0131ndan incelenmesini bekleyece\u011fim. ay\u0131pl\u0131 mal sat\u0131p bir de kendi kusurlar\u0131 yokmuscas\u0131na t\u00fcketiciyi ugrast\u0131r\u0131yorlar. bir daha asla tercih etmem.",
+            "published_at": "3 ay \u00f6nce",
+            "published_at_date": "2023-08-24T09:20:16.192000",
+            "response_from_owner_text": "Merhaba Pelin ben, size yard\u0131mc\u0131 olabilmemiz ad\u0131na talebinizin detaylar\u0131n\u0131 ve \u00fcyeli\u011finize ait ileti\u015fim bilgilerinizi sosyalmedya@karaca.com adresimize konu k\u0131sm\u0131na \u2018Karaca App Bildirim\u2019 yazarak g\u00f6ndermenizi rica ederiz. Anlay\u0131\u015f\u0131n\u0131z i\u00e7in te\u015fekk\u00fcr eder, iyi g\u00fcnler dileriz.",
+            "response_from_owner_ago": "3 ay \u00f6nce",
+            "response_from_owner_date": "2023-08-24T13:37:25.002000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 68,
+            "total_number_of_photos_by_reviewer": 47,
+            "reviewer_url": "https://www.google.com/maps/contrib/106645357351494049825/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKBc63qc7RH21V_pY3zYoGLqxZJiF747S7TcneFz3F4AOw=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Eksik par\u00e7a g\u00f6nderiyorlar tekrar kargo istedi\u011finizde ilgilenmiyorlar. A\u00e7\u0131k\u00e7as\u0131 pek de umurlar\u0131nda de\u011fil al\u0131\u015fveri\u015f yapman\u0131z\u0131 tavsiye etmiyorum",
+            "reviewer_name": "Suzan \u00d6zcan",
+            "rating": 1,
+            "review_text": "Eksik par\u00e7a g\u00f6nderiyorlar tekrar kargo istedi\u011finizde ilgilenmiyorlar. A\u00e7\u0131k\u00e7as\u0131 pek de umurlar\u0131nda de\u011fil al\u0131\u015fveri\u015f yapman\u0131z\u0131 tavsiye etmiyorum",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-10-04T16:43:58.963000",
+            "response_from_owner_text": "Merhaba Pelin ben, size yard\u0131mc\u0131 olabilmemiz ad\u0131na talebinizin detaylar\u0131n\u0131 ve \u00fcyeli\u011finize ait ileti\u015fim bilgilerinizi sosyalmedya@karaca.com adresimize konu k\u0131sm\u0131na \u2018Karaca App Bildirim\u2019 yazarak g\u00f6ndermenizi rica ederiz. Anlay\u0131\u015f\u0131n\u0131z i\u00e7in te\u015fekk\u00fcr eder, iyi g\u00fcnler dileriz.",
+            "response_from_owner_ago": "2 ay \u00f6nce",
+            "response_from_owner_date": "2023-10-05T09:46:17.681000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101481577924589626216/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUg60NGrpO_e3KfDPqUyZVyi3MH8tqIv8jxNVH1Tj9ydA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Personel cok kotu.Magaza iade almadi.Asla alisveris yapmayin buradan pisman olursunuz",
+            "reviewer_name": "Bora KILICOGLU",
+            "rating": 1,
+            "review_text": "Personel cok kotu.Magaza iade almadi.Asla alisveris yapmayin buradan pisman olursunuz",
+            "published_at": "4 ay \u00f6nce",
+            "published_at_date": "2023-08-19T14:00:15.027000",
+            "response_from_owner_text": "Merhaba Pelin ben, size yard\u0131mc\u0131 olabilmemiz ad\u0131na talebinizin detaylar\u0131n\u0131 ve \u00fcyeli\u011finize ait ileti\u015fim bilgilerinizi sosyalmedya@karaca.com adresimize konu k\u0131sm\u0131na \u2018Karaca App Bildirim\u2019 yazarak g\u00f6ndermenizi rica ederiz. Anlay\u0131\u015f\u0131n\u0131z i\u00e7in te\u015fekk\u00fcr eder, iyi g\u00fcnler dileriz.",
+            "response_from_owner_ago": "3 ay \u00f6nce",
+            "response_from_owner_date": "2023-08-22T12:52:17.171000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 19,
+            "total_number_of_photos_by_reviewer": 19,
+            "reviewer_url": "https://www.google.com/maps/contrib/105858431175887069329/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI_O9qcPbu9UEpbZ1Y96G4Y8Y1NJoSUWR7rGtZuFdNjcg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "merhaba akasya ma\u011fazas\u0131nda elinde olmad\u0131\u011f\u0131ndan 1 alana bir bedava tava paras\u0131n\u0131 \u00f6dedim evime kargo ile g\u00f6nderildi fakat tek b\u00fcy\u00fck tava geldi ma\u011fazaya ula\u015fmaya \u00e7al\u0131\u015f\u0131yorum tel a\u00e7\u0131lm\u0131yor Ba\u015fka ileti\u015fim yolu da bulamad\u0131m buradan yazmak zorunda kald\u0131m\nBeni arayabilirler mi Yada nas\u0131l ula\u015fabilirim",
+            "reviewer_name": "OYA \u00c7ALO\u011eLU",
+            "rating": 3,
+            "review_text": "merhaba akasya ma\u011fazas\u0131nda elinde olmad\u0131\u011f\u0131ndan 1 alana bir bedava tava paras\u0131n\u0131 \u00f6dedim evime kargo ile g\u00f6nderildi fakat tek b\u00fcy\u00fck tava geldi ma\u011fazaya ula\u015fmaya \u00e7al\u0131\u015f\u0131yorum tel a\u00e7\u0131lm\u0131yor Ba\u015fka ileti\u015fim yolu da bulamad\u0131m buradan yazmak zorunda kald\u0131m\nBeni arayabilirler mi Yada nas\u0131l ula\u015fabilirim",
+            "published_at": "6 ay \u00f6nce",
+            "published_at_date": "2023-06-03T09:17:50.258000",
+            "response_from_owner_text": "Merhaba Efe ben, size yard\u0131mc\u0131 olabilmemiz ad\u0131na talebinizin detaylar\u0131n\u0131 ve \u00fcyeli\u011finize ait ileti\u015fim bilgilerinizi sosyalmedya@karaca.com adresimize konu k\u0131sm\u0131na \u2018Karaca App Bildirim\u2019 yazarak g\u00f6ndermenizi rica ederiz. Anlay\u0131\u015f\u0131n\u0131z i\u00e7in te\u015fekk\u00fcr eder, iyi g\u00fcnler dileriz.",
+            "response_from_owner_ago": "6 ay \u00f6nce",
+            "response_from_owner_date": "2023-06-05T13:38:25.327000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106644552348784479223/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKtH6wmjLEICiBA4cKclcHJFigyrhEX8K9xpn2wPXWP=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Elemanlar\u0131n\u0131zdan hi\u00e7 memnun kalmad\u0131k. \u00c7ok dikkatsizler. Al\u0131nan yemek tak\u0131m\u0131 inci serisi nedense masada d\u00fcz durmuyor maalesef yamuk yumuklar bunun \u00fczerine gidip elemanlar\u0131na bildirdi\u011fimde de\u011fi\u015fim yap\u0131l\u0131r dediler ve aylarca beklettiler.\nM\u00fc\u015fteri hizmetleri desen s\u0131f\u0131r\nKalite bir hayal k\u0131r\u0131kl\u0131\u011f\u0131.\nBa\u015fka Karaca sat\u0131\u015f ofisleri daha iyi kesinlikle.\nBir tak\u0131m almaya gittim en az 5-6 kere u\u011framak zorunda kaldim.\nHala tamamlayamad\u0131m bu arada 1 sene oldu.\nBir daha Karaca\u2019dan bir \u015fey alacak olursam e\u011fer Akasya AVM tercih etmeyece\u011fim.\n\u0130n\u015fallah dikkate al\u0131r ve kendilerini d\u00fczeltirler.",
+            "reviewer_name": "E. D",
+            "rating": 1,
+            "review_text": "Elemanlar\u0131n\u0131zdan hi\u00e7 memnun kalmad\u0131k. \u00c7ok dikkatsizler. Al\u0131nan yemek tak\u0131m\u0131 inci serisi nedense masada d\u00fcz durmuyor maalesef yamuk yumuklar bunun \u00fczerine gidip elemanlar\u0131na bildirdi\u011fimde de\u011fi\u015fim yap\u0131l\u0131r dediler ve aylarca beklettiler.\nM\u00fc\u015fteri hizmetleri desen s\u0131f\u0131r\nKalite bir hayal k\u0131r\u0131kl\u0131\u011f\u0131.\nBa\u015fka Karaca sat\u0131\u015f ofisleri daha iyi kesinlikle.\nBir tak\u0131m almaya gittim en az 5-6 kere u\u011framak zorunda kaldim.\nHala tamamlayamad\u0131m bu arada 1 sene oldu.\nBir daha Karaca\u2019dan bir \u015fey alacak olursam e\u011fer Akasya AVM tercih etmeyece\u011fim.\n\u0130n\u015fallah dikkate al\u0131r ve kendilerini d\u00fczeltirler.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-09-26T17:27:37.674000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/111001853741186508200/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLO_lmyUgH1NgOq5zLWkqPH36AOsynkBlyJMk8Vjb8o=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "akasya avm anadolunun de\u011fil istanbulun en klas avm si oldu\u011fu i\u00e7in tercih etti\u011fim bir ma\u011faqza karaca ma\u011fazas\u0131na meyve s\u0131kaca\u011f\u0131 almak i\u00e7in gittim. ald\u0131\u011f\u0131m blend\u0131r cam oldu\u011fu i\u00e7in k\u0131r\u0131ld\u0131\u011f\u0131nda tekrar yerine koyabileceksem alay\u0131m dedim. \u00e7al\u0131\u015fan k\u0131r\u0131l\u0131rsa yan\u0131m\u0131za gelin biz tedarik ederiz hi\u00e7 sorun yok g\u00f6n\u00fcl rahatl\u0131\u011f\u0131 ile alabilirsiniz dediler. bende smoothi blendr cihaz\u0131n\u0131 sat\u0131n ald\u0131m. s\u00fcrahisi 2 g\u00fcn sonra k\u0131r\u0131ld\u0131. ma\u011fazaya gittim \u015fuanda orada \u00e7al\u0131\u015fan ki\u015fi sonderece sayg\u0131s\u0131z bir sat\u0131\u015f dan\u0131\u015fman\u0131na yak\u0131\u015fmayan uslubla hakaret eder vari davrand\u0131. bana k\u0131r\u0131ld\u0131 yede\u011fi yok yapabilece\u011fim bir\u015fey yok dedi. bende daha 1 hafta olmad\u0131 siz bana yede\u011fi var dediniz bende ona istinaden ald\u0131m. \u015fiddetle \u015fikayet\u00e7iyim  KARACA MA\u011eAZALAR Z\u0130NC\u0130R\u0130NE yak\u0131\u015fmayan bu uslup ve ma\u011fduriyetimden dalay\u0131 \u015fikayet ediyorum. kesinlikle akasya karaca ma\u011fazas\u0131n\u0131 tavsiye etmiyorum.",
+            "reviewer_name": "nursel bazoglu",
+            "rating": 1,
+            "review_text": "akasya avm anadolunun de\u011fil istanbulun en klas avm si oldu\u011fu i\u00e7in tercih etti\u011fim bir ma\u011faqza karaca ma\u011fazas\u0131na meyve s\u0131kaca\u011f\u0131 almak i\u00e7in gittim. ald\u0131\u011f\u0131m blend\u0131r cam oldu\u011fu i\u00e7in k\u0131r\u0131ld\u0131\u011f\u0131nda tekrar yerine koyabileceksem alay\u0131m dedim. \u00e7al\u0131\u015fan k\u0131r\u0131l\u0131rsa yan\u0131m\u0131za gelin biz tedarik ederiz hi\u00e7 sorun yok g\u00f6n\u00fcl rahatl\u0131\u011f\u0131 ile alabilirsiniz dediler. bende smoothi blendr cihaz\u0131n\u0131 sat\u0131n ald\u0131m. s\u00fcrahisi 2 g\u00fcn sonra k\u0131r\u0131ld\u0131. ma\u011fazaya gittim \u015fuanda orada \u00e7al\u0131\u015fan ki\u015fi sonderece sayg\u0131s\u0131z bir sat\u0131\u015f dan\u0131\u015fman\u0131na yak\u0131\u015fmayan uslubla hakaret eder vari davrand\u0131. bana k\u0131r\u0131ld\u0131 yede\u011fi yok yapabilece\u011fim bir\u015fey yok dedi. bende daha 1 hafta olmad\u0131 siz bana yede\u011fi var dediniz bende ona istinaden ald\u0131m. \u015fiddetle \u015fikayet\u00e7iyim  KARACA MA\u011eAZALAR Z\u0130NC\u0130R\u0130NE yak\u0131\u015fmayan bu uslup ve ma\u011fduriyetimden dalay\u0131 \u015fikayet ediyorum. kesinlikle akasya karaca ma\u011fazas\u0131n\u0131 tavsiye etmiyorum.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-08-19T08:07:26.946000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116703998231593288374/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJKNTFWxfCd5OZ0XH3MgCCWX2KqxlibP7qCIxl9NRAg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Karaca Akasya Avm magazasi korkunc bir servis ve personel ekibiyle alicaklarimi kasada birakip cikmama sebep oldu. Bu kadar ilgisiz ve yardimci olamayan bir personel ekip olamaz! Terbiyesiz, ozensiz, mahalle arasi kuafor dukkani gibi bir tavir. Bu sekilde buyumekte olan ve toplumun takdirini kazanan bir markaya asla yakismayan yuzler ve servis. Umarim en kisa zamanda bununla ilgili duzenleme yapilir.",
+            "reviewer_name": "neda afsar",
+            "rating": 1,
+            "review_text": "Karaca Akasya Avm magazasi korkunc bir servis ve personel ekibiyle alicaklarimi kasada birakip cikmama sebep oldu. Bu kadar ilgisiz ve yardimci olamayan bir personel ekip olamaz! Terbiyesiz, ozensiz, mahalle arasi kuafor dukkani gibi bir tavir. Bu sekilde buyumekte olan ve toplumun takdirini kazanan bir markaya asla yakismayan yuzler ve servis. Umarim en kisa zamanda bununla ilgili duzenleme yapilir.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-12-14T18:51:30.034000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 23,
+            "reviewer_url": "https://www.google.com/maps/contrib/106594406099761917365/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKty_ubbP-DWp2eKiAuxetfd-Cp9_NHArS3l5z1dTB-=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

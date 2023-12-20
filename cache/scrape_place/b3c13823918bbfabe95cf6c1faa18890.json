@@ -1,0 +1,160 @@
+{
+    "place_id": "ChIJ1wCmw823yhQRuADhwRtNKCY",
+    "name": "DK LEGAL LAW FIRM",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Astra Law Firm",
+            "link": "https://www.google.com/maps/search/Astra+Law+Firm/@41.0808624,29.010363999999996?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "D\u00f6nmez Law Office",
+            "link": "https://www.google.com/maps/search/D%C3%B6nmez+Law+Office/@41.0805544,29.007663899999997?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 4.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AKT D.T Law Firm",
+            "link": "https://www.google.com/maps/search/AKT+D.T+Law+Firm/@41.0859715,29.012451700000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "D\u00fcndar Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/D%C3%BCndar+Hukuk+B%C3%BCrosu/@41.0765361,29.0137987?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Aksakoglu Law Firm",
+            "link": "https://www.google.com/maps/search/Aksakoglu+Law+Firm/@41.080870499999996,29.0117276?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": "http://www.dk-legal.net/",
+    "owner": {
+        "id": "104939340559141187204",
+        "name": "DK LEGAL LAW FIRM (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/104939340559141187204"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c7ILePVqo6-a_U9T_lFnfA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=236.45927&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": null,
+    "address": "Levent, DK LEGAL LAW FIRM, Esentepe Mah. Harman Sok. No:7 K:6 Nidakule, 34394 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ1wCmw823yhQRuADhwRtNKCY",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1wCmw823yhQRuADhwRtNKCY&q=?q=place_id:ChIJ1wCmw823yhQRuADhwRtNKCY&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0793503,
+        "longitude": 29.0086212
+    },
+    "plus_code": "32H5+PC \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Levent",
+        "street": "Esentepe Mah. Harman Sok. No:7 K:6 Nidakule",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34394",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2749532354121892024",
+    "data_id": "0x14cab7cdc3a600d7:0x26284d1bc1e100b8",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c7ILePVqo6-a_U9T_lFnfA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=236.45927&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNzMxJhIUfQ7lLTJYhmn8ftvRoMyxxBA1cFmOD4=w1133-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c7ILePVqo6-a_U9T_lFnfA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=236.45927&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

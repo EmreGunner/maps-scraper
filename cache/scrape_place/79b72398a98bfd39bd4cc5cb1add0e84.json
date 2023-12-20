@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJ51d2LRC3yhQRvPIP7JWYgMo",
+    "name": "B|S HUKUK B\u00dcROSU",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "BRS Dan\u0131\u015fmanl\u0131k Y\u00f6netim Bilgi Sistemleri",
+            "link": "https://www.google.com/maps/search/BRS+Dan%C4%B1%C5%9Fmanl%C4%B1k+Y%C3%B6netim+Bilgi+Sistemleri/@41.0520225,28.9853867?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Emlak Planlama Hukuku Avukat\u0131"
+        },
+        {
+            "name": "BHS",
+            "link": "https://www.google.com/maps/search/BHS/@41.05046,28.987350000000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Libra Hukuk&Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Libra+Hukuk%26Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.0531898,28.9881142?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Deb Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Deb+Hukuk+B%C3%BCrosu/@41.054308000000006,28.986850900000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "SBU Avukatl\u0131k/Dan\u0131\u015fmanl\u0131k/Arabuluculuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/SBU+Avukatl%C4%B1k%2FDan%C4%B1%C5%9Fmanl%C4%B1k%2FArabuluculuk+B%C3%BCrosu/@41.0643605,28.986157700000003?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "B|S HUKUK B\u00dcROSU (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Bms4DDqpMaI0gEI6LAE5dQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=38.360546&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Me\u015frutiyet, B|S HUKUK B\u00dcROSU, Workinton Pangalt\u0131, Halaskargazi Cd. No:66 K:1, 34363 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ51d2LRC3yhQRvPIP7JWYgMo",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ51d2LRC3yhQRvPIP7JWYgMo&q=?q=place_id:ChIJ51d2LRC3yhQRvPIP7JWYgMo&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0546697,
+        "longitude": 28.987244099999998
+    },
+    "plus_code": "3X3P+VV \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Me\u015frutiyet",
+        "street": "Workinton Pangalt\u0131, Halaskargazi Cd. No:66 K:1",
+        "city": "\u015ei\u015fli",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "14591830562358424252",
+    "data_id": "0x14cab7102d7657e7:0xca809895ec0ff2bc",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Bms4DDqpMaI0gEI6LAE5dQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=38.360546&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Bms4DDqpMaI0gEI6LAE5dQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=38.360546&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,177 @@
+{
+    "place_id": "ChIJqWPd4na3yhQRiLHfgPOgW_4",
+    "name": "Marka Tescil",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "\u0130stanbul Patent A.S.",
+            "link": "https://www.google.com/maps/search/%C4%B0stanbul+Patent+A.S./@41.062031999999995,28.988678699999998?authuser=0&entry=ttu",
+            "reviews": 16,
+            "rating": 4.3,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Patent / Marka Tescil / Marka Tescili / Yelken Patent",
+            "link": "https://www.google.com/maps/search/Patent+%2F+Marka+Tescil+%2F+Marka+Tescili+%2F+Yelken+Patent/@41.0609602,28.9711676?authuser=0&entry=ttu",
+            "reviews": 31,
+            "rating": 4.9,
+            "main_category": "Patent Ofisi"
+        },
+        {
+            "name": "D\u00fcnya Marka Patent",
+            "link": "https://www.google.com/maps/search/D%C3%BCnya+Marka+Patent/@41.066165,28.9975614?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Patent Ofisi"
+        },
+        {
+            "name": "Adres Patent",
+            "link": "https://www.google.com/maps/search/Adres+Patent/@41.0790836,29.019299000000004?authuser=0&entry=ttu",
+            "reviews": 115,
+            "rating": 4.7,
+            "main_category": "Patent Ofisi"
+        },
+        {
+            "name": "Sa\u011flam Patent",
+            "link": "https://www.google.com/maps/search/Sa%C4%9Flam+Patent/@41.0402383,28.9923321?authuser=0&entry=ttu",
+            "reviews": 52,
+            "rating": 5,
+            "main_category": "Patent Ofisi"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Marka Tescil (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oG8dOfUGmiT_UbskhQu8mg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=249.38687&pitch=0&thumbfov=100",
+    "main_category": "Patent Ofisi",
+    "categories": [
+        "Patent Ofisi"
+    ],
+    "rating": 5,
+    "workday_timing": "08:00\u201318:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 211 16 16",
+    "address": "19 May\u0131s, Marka Tescil, Aytekin Kotil Cd. No:12/b, 34400 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJqWPd4na3yhQRiLHfgPOgW_4",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJqWPd4na3yhQRiLHfgPOgW_4&q=?q=place_id:ChIJqWPd4na3yhQRiLHfgPOgW_4&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0614232,
+        "longitude": 28.9944168
+    },
+    "plus_code": "3X6V+HQ \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "19 May\u0131s",
+        "street": "Aytekin Kotil Cd. No:12/b",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34400",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "18328420076214006152",
+    "data_id": "0x14cab776e2dd63a9:0xfe5ba0f380dfb188",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oG8dOfUGmiT_UbskhQu8mg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=249.38687&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oG8dOfUGmiT_UbskhQu8mg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=249.38687&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "\u0130stanbul'da marka tescil sekt\u00f6r\u00fcn\u00fcn \u00f6nc\u00fc firmas\u0131. Sizden istenen evraklar\u0131 haz\u0131rlay\u0131n gerisini Acar Patent hallediyor.",
+            "reviewer_name": "Ferudun G\u00fcltekin",
+            "rating": 5,
+            "review_text": "\u0130stanbul'da marka tescil sekt\u00f6r\u00fcn\u00fcn \u00f6nc\u00fc firmas\u0131. Sizden istenen evraklar\u0131 haz\u0131rlay\u0131n gerisini Acar Patent hallediyor.",
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-09-15T01:11:48.594000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101546234574537816103/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUU5zece0SH2TRVjMNqgpGoBLvJhEymj4N6w6n5woeJCw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

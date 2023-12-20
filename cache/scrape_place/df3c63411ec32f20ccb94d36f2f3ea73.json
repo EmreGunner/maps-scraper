@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJUSPUoLSgyhQRamGqdKGwsog",
+    "name": "Beyza Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Zilek Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Zilek+Hukuk+B%C3%BCrosu/@41.034299499999996,28.679029?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00c7izgi Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%87izgi+Hukuk+B%C3%BCrosu/@41.0330069,28.681355?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Bildirici Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Bildirici+Hukuk+B%C3%BCrosu/@41.038405499999996,28.6835631?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Y\u00dcZG\u00dcLE\u00c7 HUKUK VE DANI\u015eMANLIK B\u00dcROSU(AV. \u015eEHR\u0130BAN Y\u00dcZG\u00dcLE\u00c7)",
+            "link": "https://www.google.com/maps/search/Y%C3%9CZG%C3%9CLE%C3%87+HUKUK+VE+DANI%C5%9EMANLIK+B%C3%9CROSU%28AV.+%C5%9EEHR%C4%B0BAN+Y%C3%9CZG%C3%9CLE%C3%87%29/@41.0466462,28.667295499999998?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Kaymaz Bulut Hukuk& Arabuluculuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Kaymaz+Bulut+Hukuk%26+Arabuluculuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.0148651,28.6483267?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Kurumsal Ofis"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Beyza Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T66hJ9-ter816LLZLXx2Pg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=343.07608&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Yenikent, Beyza Hukuk B\u00fcrosu, 462. Sk. 27 35, 34510 Esenyurt/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJUSPUoLSgyhQRamGqdKGwsog",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJUSPUoLSgyhQRamGqdKGwsog&q=?q=place_id:ChIJUSPUoLSgyhQRamGqdKGwsog&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0347702,
+        "longitude": 28.6908098
+    },
+    "plus_code": "2MMR+W8 Esenyurt, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Yenikent",
+        "street": "462. Sk. 27 35",
+        "city": "Esenyurt",
+        "postal_code": "34510",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "9850129542506242410",
+    "data_id": "0x14caa0b4a0d42351:0x88b2b0a174aa616a",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T66hJ9-ter816LLZLXx2Pg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=343.07608&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T66hJ9-ter816LLZLXx2Pg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=343.07608&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

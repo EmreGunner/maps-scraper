@@ -1,0 +1,264 @@
+{
+    "place_id": "ChIJq6qqqprHyhQRcrndIECbQo4",
+    "name": "Legal Yay\u0131nc\u0131l\u0131k",
+    "description": null,
+    "reviews": 4,
+    "competitors": [
+        {
+            "name": "Legal Kitabevi",
+            "link": "https://www.google.com/maps/search/Legal+Kitabevi/@40.988328,29.023069?authuser=0&entry=ttu",
+            "reviews": 163,
+            "rating": 4.3,
+            "main_category": "Kitap\u00e7\u0131"
+        },
+        {
+            "name": "Chiviyaz\u0131lar\u0131 Yay\u0131nevi",
+            "link": "https://www.google.com/maps/search/Chiviyaz%C4%B1lar%C4%B1+Yay%C4%B1nevi/@40.984850099999996,29.0281965?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Yay\u0131nc\u0131"
+        },
+        {
+            "name": "Anka Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Anka+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@40.986064999999996,29.028591000000002?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "G\u00fclekli & G\u00fclekli Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%BClekli+%26+G%C3%BClekli+Hukuk+B%C3%BCrosu/@40.9869729,29.028186599999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "https://legal.com.tr/",
+    "owner": {
+        "id": "101439692561376068879",
+        "name": "Legal Yay\u0131nc\u0131l\u0131k (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/101439692561376068879"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO-Y_2BK2_hI9jrimDs3FJbuY6QDCrtcBbrakDN=w408-h306-k-no",
+    "main_category": "Yay\u0131nc\u0131",
+    "categories": [
+        "Yay\u0131nc\u0131",
+        "Hukuk K\u00fct\u00fcphanesi",
+        "Hukuk Hizmetleri"
+    ],
+    "rating": 4.3,
+    "workday_timing": "09:00\u201318:30",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0216) 449 04 85",
+    "address": "Legal Yay\u0131nc\u0131l\u0131k, Cafera\u011fa Mah, Bahariye Cad. Sekizler Apt No:59, 34724 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqprHyhQRcrndIECbQo4",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 2
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJq6qqqprHyhQRcrndIECbQo4&q=?q=place_id:ChIJq6qqqprHyhQRcrndIECbQo4&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9850267,
+        "longitude": 29.027539299999997
+    },
+    "plus_code": "X2PH+22 Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Cafera\u011fa",
+        "street": "Cafera\u011fa Mah, Bahariye Cad. Sekizler Apt No:59",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34724",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10250926401580284274",
+    "data_id": "0x14cac79aaaaaaaab:0x8e429b4020ddb972",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                },
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO-Y_2BK2_hI9jrimDs3FJbuY6QDCrtcBbrakDN=w397-h298-k-no"
+        },
+        {
+            "about": "\u0130\u00e7",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNdOvo8GdoAooZF3Nk_GyFDH2VgKUb6q1FgDHgO=w397-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOwZCX3-Qe7NG049Yc9fOtXIxEOqbL8A3wcfnwk=w397-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=F3w2QbG_1fBHkMuRofiq0g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=294.9107&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201312:30"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Sadece kendi yay\u0131nlar\u0131n\u0131 sat\u0131yor. Legal Kitabevine gitmenizi \u00f6neririm",
+            "reviewer_name": "\u015eeyh Saidi Kurdi",
+            "rating": 4,
+            "review_text": "Sadece kendi yay\u0131nlar\u0131n\u0131 sat\u0131yor. Legal Kitabevine gitmenizi \u00f6neririm",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-10-01T11:54:37.350000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/103525066558826332978/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVrIiUbg4DkqnnXiSzRYoi0kjxS6wjcMpIwoCneUlRceA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "T\u00fcrk hukukunun merkez \u00fcss\u00fc",
+            "reviewer_name": "Av. Ramazan \u00c7akmakc\u0131",
+            "rating": 5,
+            "review_text": "T\u00fcrk hukukunun merkez \u00fcss\u00fc",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-01-19T09:53:28.086000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 29,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/115358193519309765807/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUxe7uZY-YUbLfZAWHm3fsMFolVb5dwWEiLzttoQ5wtZQ4d=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Serdar Bayaz\u0131to\u011flu",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-05-23T21:43:51.436000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/107311388745296940754/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXqvnesaSW2rW96NSyoJp1zm4T5o6LXPEpO0m-bjHy71mU=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "vildan ceylan",
+            "rating": 3,
+            "review_text": null,
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-05-16T12:50:06.702000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114710510413841786641/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWEtfmhTtlrBViQR2YT6RDTwVLXIwTe6Npb7NS-Z47RY1uk=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

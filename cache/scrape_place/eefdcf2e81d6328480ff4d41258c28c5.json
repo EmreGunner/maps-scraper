@@ -1,0 +1,107 @@
+{
+    "place_id": "ChIJzXewu8G1yhQRYLeRsR-DcZo",
+    "name": "Ahukuk dan\u0131\u015fmanl\u0131k",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Aku\u011fur Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Aku%C4%9Fur+Hukuk+B%C3%BCrosu/@41.112389,29.01829?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Dan\u0131\u015fman"
+        },
+        {
+            "name": "KAI HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/KAI+HUKUK+B%C3%9CROSU/@41.113149,29.020713599999997?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Koksal Avukatlik Ortakligi",
+            "link": "https://www.google.com/maps/search/Koksal+Avukatlik+Ortakligi/@41.110425,29.019596999999997?authuser=0&entry=ttu",
+            "reviews": 12,
+            "rating": 4.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://ahukuk.com/",
+    "owner": {
+        "id": null,
+        "name": "Ahukuk dan\u0131\u015fmanl\u0131k (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=95Iv8Hz9HJYZqG8pvDwW3w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=169.7513&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 355 61 78",
+    "address": "Ahukuk dan\u0131\u015fmanl\u0131k, Veko Giz Plaza Meydan Sokak No:20/45 K:14, \u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJzXewu8G1yhQRYLeRsR-DcZo",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJzXewu8G1yhQRYLeRsR-DcZo&q=?q=place_id:ChIJzXewu8G1yhQRYLeRsR-DcZo&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.109323599999996,
+        "longitude": 29.0207688
+    },
+    "plus_code": "425C+P8 Sar\u0131yer, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Maslak",
+        "street": "Veko Giz Plaza Meydan Sokak No:20/45 K:14",
+        "city": "Sar\u0131yer",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "11128820326355548000",
+    "data_id": "0x14cab5c1bbb077cd:0x9a71831fb191b760",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=95Iv8Hz9HJYZqG8pvDwW3w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=169.7513&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=95Iv8Hz9HJYZqG8pvDwW3w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=169.7513&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

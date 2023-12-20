@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJoUP-VHG4yhQROt35AWBg5AQ",
+    "name": "Akat Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Tav\u015fano\u011flu Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Tav%C5%9Fano%C4%9Flu+Hukuk+B%C3%BCrosu/@40.991253,29.040056699999997?authuser=0&entry=ttu",
+            "reviews": 10,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Cemal Akat",
+            "link": "https://www.google.com/maps/search/Avukat+Cemal+Akat/@41.0250956,29.0366328?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "AVUKATLIK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/AVUKATLIK+B%C3%9CROSU/@40.9895748,29.066677000000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Atabey Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Atabey+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9915904,29.0299769?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "A\u011eA\u00c7LAR HUKUK ARABULUCULUK",
+            "link": "https://www.google.com/maps/search/A%C4%9EA%C3%87LAR+HUKUK+ARABULUCULUK/@40.9918775,29.042102999999994?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 3,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Akat Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GWIt6aktka8gQjueJYQxrg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=64.52612&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Sahray\u0131 Cedit, Akat Hukuk B\u00fcrosu, Fahrettin Kerim G\u00f6kay Cd NO:71, 34722 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJoUP-VHG4yhQROt35AWBg5AQ",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJoUP-VHG4yhQROt35AWBg5AQ&q=?q=place_id:ChIJoUP-VHG4yhQROt35AWBg5AQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.991203999999996,
+        "longitude": 29.040008
+    },
+    "plus_code": "X2RR+F2 Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Sahray\u0131 Cedit",
+        "street": "Fahrettin Kerim G\u00f6kay Cd NO:71",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34722",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "352512636308020538",
+    "data_id": "0x14cab87154fe43a1:0x4e4606001f9dd3a",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GWIt6aktka8gQjueJYQxrg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=64.52612&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GWIt6aktka8gQjueJYQxrg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=64.52612&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

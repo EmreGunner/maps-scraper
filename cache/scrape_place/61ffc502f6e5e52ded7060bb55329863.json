@@ -1,0 +1,135 @@
+{
+    "place_id": "ChIJAbbTi3K2yhQRIFLdEqZ6NVk",
+    "name": "Erdal Law",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "Ya\u015far Law Office",
+            "link": "https://www.google.com/maps/search/Ya%C5%9Far+Law+Office/@41.0805094,29.0151561?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Serbest Hukuk Avukatl\u0131k Arabuluculuk Tahkim B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Serbest+Hukuk+Avukatl%C4%B1k+Arabuluculuk+Tahkim+B%C3%BCrosu/@41.0796533,29.0111048?authuser=0&entry=ttu",
+            "reviews": 302,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "O\u011fuz Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/O%C4%9Fuz+Hukuk+B%C3%BCrosu/@41.076924000000005,29.018260899999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Alper Law Office",
+            "link": "https://www.google.com/maps/search/Alper+Law+Office/@41.089993,29.020553?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": "http://www.erdallaw.com/iletisim/",
+    "owner": {
+        "id": null,
+        "name": "Erdal Law (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DMek3aZnQshOTOqAtTOxeA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=115.02219&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": 4,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 217 50 34",
+    "address": "Levent, Erdal Law, \u00dclgen Sk. No:150, 34330 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJAbbTi3K2yhQRIFLdEqZ6NVk",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAbbTi3K2yhQRIFLdEqZ6NVk&q=?q=place_id:ChIJAbbTi3K2yhQRIFLdEqZ6NVk&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0857045,
+        "longitude": 29.020005599999998
+    },
+    "plus_code": "32PC+72 Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Levent",
+        "street": "\u00dclgen Sk. No:150",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34330",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6428178896840905248",
+    "data_id": "0x14cab6728bd3b601:0x59357aa612dd5220",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DMek3aZnQshOTOqAtTOxeA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=115.02219&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DMek3aZnQshOTOqAtTOxeA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=115.02219&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Mrt Bkr",
+            "rating": 4,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-08-28T23:04:11.451000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 162,
+            "total_number_of_photos_by_reviewer": 37,
+            "reviewer_url": "https://www.google.com/maps/contrib/105627786282792436138/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLFtpAHrxGDGZyJPBau7ErMefcv_PQ7DtGqYKr0czPH=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,155 @@
+{
+    "place_id": "ChIJj12NS3vEyhQR9wjdDjwFDA8",
+    "name": "Star Hukuk",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "ANKA HUKUK / DANI\u015eMANLIK OF\u0130S\u0130",
+            "link": "https://www.google.com/maps/search/ANKA+HUKUK+%2F+DANI%C5%9EMANLIK+OF%C4%B0S%C4%B0/@40.911966,29.178072?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Av. Burcu \u00d6zt\u00fcrk",
+            "link": "https://www.google.com/maps/search/Av.+Burcu+%C3%96zt%C3%BCrk/@40.9091519,29.178210200000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Koza Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Koza+Hukuk+B%C3%BCrosu/@40.9120759,29.175683000000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Kartal Hukuk & Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kartal+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@40.9111496,29.1772711?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "\u015eahin Hukuk B\u00fcrosu & Avukat Sat\u0131lm\u0131\u015f \u015eahin",
+            "link": "https://www.google.com/maps/search/%C5%9Eahin+Hukuk+B%C3%BCrosu+%26+Avukat+Sat%C4%B1lm%C4%B1%C5%9F+%C5%9Eahin/@40.912491599999996,29.177062600000003?authuser=0&entry=ttu",
+            "reviews": 12,
+            "rating": 4.8,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Star Hukuk (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EtsGvTiOQjKVhUYT4IgwrA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=59.976&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0532 236 32 48",
+    "address": "Cevizli, Star Hukuk, Kastamonu Sk. No:31 D:1, 34865 Kartal/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJj12NS3vEyhQR9wjdDjwFDA8",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJj12NS3vEyhQR9wjdDjwFDA8&q=?q=place_id:ChIJj12NS3vEyhQR9wjdDjwFDA8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.911211099999996,
+        "longitude": 29.1786314
+    },
+    "plus_code": "W56H+FF Kartal, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Cevizli",
+        "street": "Kastamonu Sk. No:31 D:1",
+        "city": "Kartal",
+        "postal_code": "34865",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "1084247365794990327",
+    "data_id": "0x14cac47b4b8d5d8f:0xf0c053c0edd08f7",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EtsGvTiOQjKVhUYT4IgwrA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=59.976&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EtsGvTiOQjKVhUYT4IgwrA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=59.976&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201314:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

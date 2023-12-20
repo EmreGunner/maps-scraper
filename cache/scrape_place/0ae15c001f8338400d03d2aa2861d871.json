@@ -1,0 +1,103 @@
+{
+    "place_id": "ChIJtae87-zJyhQRUNVxHpf5OV8",
+    "name": "\u015eAHLANO\u011eLU HUKUK",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Sarman Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Sarman+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.01811,29.071519?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Meva Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Meva+Hukuk+B%C3%BCrosu/@41.019431,29.062865?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Sahan Law Office",
+            "link": "https://www.google.com/maps/search/Sahan+Law+Office/@41.028118500000005,29.056857800000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "FSM HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/FSM+HUKUK+B%C3%9CROSU/@41.0188136,29.048503000000004?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "\u015eAHLANO\u011eLU HUKUK (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MS2Vya0rbduY9h4xPLReRw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=243.54575&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "K\u00fc\u00e7\u00fck \u00c7aml\u0131ca, \u015eAHLANO\u011eLU HUKUK, \u00c7ilehane Yolu Cd., 34696 \u00dcsk\u00fcdar/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJtae87-zJyhQRUNVxHpf5OV8",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJtae87-zJyhQRUNVxHpf5OV8&q=?q=place_id:ChIJtae87-zJyhQRUNVxHpf5OV8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.014336,
+        "longitude": 29.0648876
+    },
+    "plus_code": "2377+PX \u00dcsk\u00fcdar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "K\u00fc\u00e7\u00fck \u00c7aml\u0131ca",
+        "street": "\u00c7ilehane Yolu Cd.",
+        "city": "\u00dcsk\u00fcdar",
+        "postal_code": "34696",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6861789934721815888",
+    "data_id": "0x14cac9ecefbca7b5:0x5f39f9971e71d550",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MS2Vya0rbduY9h4xPLReRw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=243.54575&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MS2Vya0rbduY9h4xPLReRw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=243.54575&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

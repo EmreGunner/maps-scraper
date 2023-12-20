@@ -1,0 +1,76 @@
+{
+    "place_id": "ChIJackl-l7Rb0ARBM7PYqEuf18",
+    "name": "Tercan",
+    "description": null,
+    "reviews": null,
+    "competitors": [],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": null,
+        "link": null
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPO1aObEsEc41f6My0WTVsnWYhwlYFqEtOj0ccZ=w408-h272-k-no",
+    "main_category": null,
+    "categories": null,
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Tercan, Erzincan",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJackl-l7Rb0ARBM7PYqEuf18",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJackl-l7Rb0ARBM7PYqEuf18&q=?q=place_id:ChIJackl-l7Rb0ARBM7PYqEuf18&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 39.777631,
+        "longitude": 40.383666999999996
+    },
+    "plus_code": null,
+    "detailed_address": {
+        "ward": null,
+        "street": null,
+        "city": "Tercan",
+        "postal_code": null,
+        "state": "Erzincan",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6881270026327805444",
+    "data_id": "0x406fd15efa25c969:0x5f7f2ea162cfce04",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPO1aObEsEc41f6My0WTVsnWYhwlYFqEtOj0ccZ=w447-h298-k-no"
+        },
+        {
+            "about": "Da\u011f",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMsMw48EXrfBFJz-fK5uaPx5OetDoksHs8Ua1gQ=w330-h298-k-no"
+        },
+        {
+            "about": "Videolar",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP9f4qEVtRk2c3Cib_AWlR3gkQD39H1RdVHp3ra=w224-h398-k-no"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

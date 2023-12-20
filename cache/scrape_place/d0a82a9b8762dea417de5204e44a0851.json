@@ -1,0 +1,121 @@
+{
+    "place_id": "ChIJx2KCfa2hyhQRxqg_tAGVdXY",
+    "name": "Mustafa Akot",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Korkmaz Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Korkmaz+Hukuk+B%C3%BCrosu/@40.980894,28.7223668?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Dara Hukuk",
+            "link": "https://www.google.com/maps/search/Dara+Hukuk/@40.980894299999996,28.7223671?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Mustafa Canpolat",
+            "link": "https://www.google.com/maps/search/Avukat+Mustafa+Canpolat/@40.9799851,28.7219048?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Kurtulu\u015f Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kurtulu%C5%9F+Hukuk+B%C3%BCrosu/@40.982401599999996,28.721445600000003?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 3.9,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Akalar Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Akalar+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.979996899999996,28.7219998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Mustafa Akot (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh5.googleusercontent.com/36FS-8ZpUMVag6yV9-R5DttmVqDV2bSDSezL8BdFw33LuN1C_dm9qjr1UZXILTs=w408-h456-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0532 769 60 76",
+    "address": "Merkez, Mustafa Akot, \u015eaml\u0131 Sk. No:23, 34325 Avc\u0131lar/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJx2KCfa2hyhQRxqg_tAGVdXY",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJx2KCfa2hyhQRxqg_tAGVdXY&q=?q=place_id:ChIJx2KCfa2hyhQRxqg_tAGVdXY&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.980753,
+        "longitude": 28.7221723
+    },
+    "plus_code": "XPJC+8V Avc\u0131lar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkez",
+        "street": "\u015eaml\u0131 Sk. No:23",
+        "city": "Avc\u0131lar",
+        "postal_code": "34325",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "8535892503302219974",
+    "data_id": "0x14caa1ad7d8262c7:0x76759501b43fa8c6",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh5.googleusercontent.com/36FS-8ZpUMVag6yV9-R5DttmVqDV2bSDSezL8BdFw33LuN1C_dm9qjr1UZXILTs=w266-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tGGN-dqqmJKuDWMHQAaOAQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=174.71346&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

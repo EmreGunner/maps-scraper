@@ -1,0 +1,156 @@
+{
+    "place_id": "ChIJ42dCrje3yhQRt4F11MkZzgY",
+    "name": "Av. Serap Ta\u015fdelen - Ta\u015fdelen Hukuk & Dan\u0131\u015fmanl\u0131k",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "SRS Hukuk Av. Alper Sar\u0131su",
+            "link": "https://www.google.com/maps/search/SRS+Hukuk+Av.+Alper+Sar%C4%B1su/@41.0213864,29.1909024?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 3.4,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u00d6zel Hukuk B\u00fcrosu Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/%C3%96zel+Hukuk+B%C3%BCrosu+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9979094,29.0284129?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Sara\u00e7 Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Sara%C3%A7+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.986059499999996,29.038614299999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "SCA Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/SCA+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9847609,29.038222699999995?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "SAER Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/SAER+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.985050099999995,29.089298199999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "108394877785589408024",
+        "name": "Av. Serap Ta\u015fdelen - Ta\u015fdelen Hukuk & Dan\u0131\u015fmanl\u0131k (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/108394877785589408024"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oPI2JHCe5sbGMaNZOS4pig&cb_client=search.gws-prod.gps&w=408&h=240&yaw=68.79538&pitch=0&thumbfov=100",
+    "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti",
+    "categories": [
+        "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201319:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0507 865 08 92",
+    "address": "Cafera\u011fa, Av. Serap Ta\u015fdelen - Ta\u015fdelen Hukuk & Dan\u0131\u015fmanl\u0131k, Serasker Cad, Pavlonya Sk. No:25 D:8, 34714 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ42dCrje3yhQRt4F11MkZzgY",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 19:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ42dCrje3yhQRt4F11MkZzgY&q=?q=place_id:ChIJ42dCrje3yhQRt4F11MkZzgY&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9896068,
+        "longitude": 29.0261952
+    },
+    "plus_code": "X2QG+RF Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Cafera\u011fa",
+        "street": "Serasker Cad, Pavlonya Sk. No:25 D:8",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34714",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "490357764073554359",
+    "data_id": "0x14cab737ae4267e3:0x6ce19c9d47581b7",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oPI2JHCe5sbGMaNZOS4pig&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=68.79538&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oPI2JHCe5sbGMaNZOS4pig&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=68.79538&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

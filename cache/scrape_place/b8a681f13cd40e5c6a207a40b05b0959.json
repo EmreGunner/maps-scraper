@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJe_89V6vHyhQRsQK8BjaMtWM",
+    "name": "MOTLEY Mehmet & Bilal",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "M&S Law Istanbul",
+            "link": "https://www.google.com/maps/search/M%26S+Law+Istanbul/@40.971903,29.099912?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 4.4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00c7akmak&Mutlu Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%87akmak%26Mutlu+Hukuk+B%C3%BCrosu/@40.965984999999996,29.109757000000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "VERG\u0130L\u0130 HUKUK VE DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/VERG%C4%B0L%C4%B0+HUKUK+VE+DANI%C5%9EMANLIK/@40.971598,29.099658899999998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "E-M\u00fcvekkil Pro",
+            "link": "https://www.google.com/maps/search/E-M%C3%BCvekkil+Pro/@40.9739034,29.0985415?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Alim Hukuk, Avukatl\u0131k & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Alim+Hukuk%2C+Avukatl%C4%B1k+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9727085,29.1016657?authuser=0&entry=ttu",
+            "reviews": 17,
+            "rating": 5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "MOTLEY Mehmet & Bilal (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NgxPspnYNkaNgN2FmIbjxA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=313.9119&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0216) 372 76 26",
+    "address": "Kozyata\u011f\u0131, MOTLEY Mehmet & Bilal, Marmara Cd. No:25, 34742 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJe_89V6vHyhQRsQK8BjaMtWM",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJe_89V6vHyhQRsQK8BjaMtWM&q=?q=place_id:ChIJe_89V6vHyhQRsQK8BjaMtWM&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.967213,
+        "longitude": 29.091416
+    },
+    "plus_code": "X38R+VH Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Kozyata\u011f\u0131",
+        "street": "Marmara Cd. No:25",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34742",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "7184802944208601777",
+    "data_id": "0x14cac7ab573dff7b:0x63b58c3606bc02b1",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NgxPspnYNkaNgN2FmIbjxA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=313.9119&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NgxPspnYNkaNgN2FmIbjxA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=313.9119&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

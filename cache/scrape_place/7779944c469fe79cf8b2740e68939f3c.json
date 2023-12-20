@@ -1,0 +1,322 @@
+{
+    "place_id": "ChIJ2TInlfi3yhQRZnMR64oKdWA",
+    "name": "S.\u00c7.Florist Flower \u00c7i\u00e7ek\u00e7ilik",
+    "description": null,
+    "reviews": 8,
+    "competitors": [],
+    "website": null,
+    "owner": {
+        "id": "101034343313098299618",
+        "name": "S.\u00c7.Florist Flower \u00c7i\u00e7ek\u00e7ilik (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/101034343313098299618"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNvGuckdE3NCw63rBVCnlLROFQQSPQwx27FI-6X=w408-h371-k-no",
+    "main_category": "\u00c7i\u00e7ek\u00e7i",
+    "categories": [
+        "\u00c7i\u00e7ek\u00e7i"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201323:30",
+    "closed_on": "Open All Days",
+    "phone": "0531 615 99 23",
+    "address": "19 May\u0131s, S.\u00c7.Florist Flower \u00c7i\u00e7ek\u00e7ilik, \u00d6\u011fretmen Ha\u015fim \u00c7eken Cd. no:9/B, 34360 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ2TInlfi3yhQRZnMR64oKdWA",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 23:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 8
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ2TInlfi3yhQRZnMR64oKdWA&q=?q=place_id:ChIJ2TInlfi3yhQRZnMR64oKdWA&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.056842499999995,
+        "longitude": 28.995371
+    },
+    "plus_code": "3X4W+P4 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "19 May\u0131s",
+        "street": "\u00d6\u011fretmen Ha\u015fim \u00c7eken Cd. no:9/B",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34360",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6950473191681782630",
+    "data_id": "0x14cab7f8952732d9:0x60750a8aeb117366",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "from_the_business",
+            "name": "\u0130\u015fletme hakk\u0131nda",
+            "options": [
+                {
+                    "name": "Sahibi kad\u0131n oldu\u011funu belirtiyor",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Arabaya teslim alma",
+                    "enabled": true
+                },
+                {
+                    "name": "Adrese servis",
+                    "enabled": true
+                },
+                {
+                    "name": "Ma\u011faza i\u00e7inde al\u0131\u015fveri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Ayn\u0131 g\u00fcn teslimat",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "\u00d6deme",
+            "options": [
+                {
+                    "name": "Banka kart\u0131",
+                    "enabled": true
+                },
+                {
+                    "name": "Kredi kart\u0131",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201323:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201323:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201323:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201323:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201323:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201323:30"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "09:00\u201323:30"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Harika bay\u0131ld\u0131m m\u00fc\u015fterilerle a\u015f\u0131r\u0131 ilgililer iyi ki sizi tercih etmi\u015fim",
+            "reviewer_name": "Gultekin",
+            "rating": 5,
+            "review_text": "Harika bay\u0131ld\u0131m m\u00fc\u015fterilerle a\u015f\u0131r\u0131 ilgililer iyi ki sizi tercih etmi\u015fim",
+            "published_at": "21 saat \u00f6nce",
+            "published_at_date": "2023-12-19T14:33:16.535000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108954519561688831467/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ-cIOVrs5Di5xhO8kDhQF8EBb5AqQd5I7iwFuFM8Da=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Tam da istedi\u011fim gibi tasarland\u0131 buketim, o kadar memnun kald\u0131m ki her \u015fey i\u00e7in \u00e7ok te\u015fekk\u00fcrler. G\u00f6z\u00fcn\u00fcz kapal\u0131 g\u00fcvenebilirsiniz. G\u00fcler y\u00fcz\u00fcn\u00fcz i\u00e7in ayr\u0131ca te\u015fekk\u00fcrler \ud83e\udd0d",
+            "reviewer_name": "Edanur K\u00fc\u00e7\u00fck",
+            "rating": 5,
+            "review_text": "Tam da istedi\u011fim gibi tasarland\u0131 buketim, o kadar memnun kald\u0131m ki her \u015fey i\u00e7in \u00e7ok te\u015fekk\u00fcrler. G\u00f6z\u00fcn\u00fcz kapal\u0131 g\u00fcvenebilirsiniz. G\u00fcler y\u00fcz\u00fcn\u00fcz i\u00e7in ayr\u0131ca te\u015fekk\u00fcrler \ud83e\udd0d",
+            "published_at": "21 saat \u00f6nce",
+            "published_at_date": "2023-12-19T14:36:28.088000",
+            "response_from_owner_text": "Te\u015fekk\u00fcr ederiz :)",
+            "response_from_owner_ago": "21 saat \u00f6nce",
+            "response_from_owner_date": "2023-12-19T14:48:33.386000",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/117723613958879923980/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUENkIN1eNVD0AIUZ_szDL0sze7d5NytjPmfLKRDe3e_w=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNhA5MUmZb5toiCBkdwhuUVRMuPN7fL-UcJYEHc=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Her\u015fey harikayd\u0131 yol \u00fcst\u00fc u\u011frad\u0131m i\u015fletme sahibine \u00e7ok te\u015fekk\u00fcr ederim",
+            "reviewer_name": "TANIMASIN GT",
+            "rating": 5,
+            "review_text": "Her\u015fey harikayd\u0131 yol \u00fcst\u00fc u\u011frad\u0131m i\u015fletme sahibine \u00e7ok te\u015fekk\u00fcr ederim",
+            "published_at": "15 saat \u00f6nce",
+            "published_at_date": "2023-12-19T21:16:39.592000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112300213422045789298/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUXx34eyAJGL3bkuBBecVgP9jCiQq2TQ_JFNKQBmp_HrR4=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "elleri cok h\u0131zl\u0131 ve detayc\u0131lar sevdim.",
+            "reviewer_name": "Eren Kaya (\u0130S TV)",
+            "rating": 5,
+            "review_text": "elleri cok h\u0131zl\u0131 ve detayc\u0131lar sevdim.",
+            "published_at": "20 saat \u00f6nce",
+            "published_at_date": "2023-12-19T15:39:55.205000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/105391776295925613337/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXPOBDCJFGgmr-LPomOdznvyWmHCuetdo1RGiMWgBSk7xID=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Renklerin uyumu tasar\u0131mlar\u0131n g\u00fczelli\u011fine kesinlikle bir \u015fans vermelisiniz..",
+            "reviewer_name": "K\u00fcbra G\u00fcrk\u00f6k",
+            "rating": 5,
+            "review_text": "Renklerin uyumu tasar\u0131mlar\u0131n g\u00fczelli\u011fine kesinlikle bir \u015fans vermelisiniz..",
+            "published_at": "20 saat \u00f6nce",
+            "published_at_date": "2023-12-19T16:18:15.337000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104081689079264902616/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJuqfALobfvOMW8ArQb8SMhOkywZEcfLt9Lq_wiNVFP=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u00d6ncelikle ilginiz i\u00e7in sizlere \u00e7ok te\u015fekk\u00fcr ederim e\u015fim a\u015f\u0131r\u0131 \u00e7ok be\u011fendi sizi arad\u0131\u011f\u0131m en ba\u015f\u0131ndan beri ilgi ve alakas\u0131n\u0131z \u00fcr\u00fcnleri istedi\u011fim yere ve saate teslim etmeniz ve her arad\u0131\u011f\u0131mda s\u00fcrekli telefonlar\u0131 a\u00e7\u0131p bana yard\u0131mc\u0131 oldu\u011funuz i\u00e7in \u00e7ok ama \u00e7ok te\u015fekk\u00fcr ederim daha sonraki \u00f6zel g\u00fcnlerde tekrardan g\u00f6r\u00fc\u015fmek \u00fczere",
+            "reviewer_name": "Ali Cem \u00c7ET\u0130N",
+            "rating": 5,
+            "review_text": "\u00d6ncelikle ilginiz i\u00e7in sizlere \u00e7ok te\u015fekk\u00fcr ederim e\u015fim a\u015f\u0131r\u0131 \u00e7ok be\u011fendi sizi arad\u0131\u011f\u0131m en ba\u015f\u0131ndan beri ilgi ve alakas\u0131n\u0131z \u00fcr\u00fcnleri istedi\u011fim yere ve saate teslim etmeniz ve her arad\u0131\u011f\u0131mda s\u00fcrekli telefonlar\u0131 a\u00e7\u0131p bana yard\u0131mc\u0131 oldu\u011funuz i\u00e7in \u00e7ok ama \u00e7ok te\u015fekk\u00fcr ederim daha sonraki \u00f6zel g\u00fcnlerde tekrardan g\u00f6r\u00fc\u015fmek \u00fczere",
+            "published_at": "20 saat \u00f6nce",
+            "published_at_date": "2023-12-19T15:47:38.977000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/117800118744966799078/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUP2EzXgQkAB8Jw-lL2wMadhDsiII0K_U4rlvJuQRqWCvI=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOT6p9z9wH6L4Np-XV-dB5o1izAukFI5Nz3b3BL=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "nihat semi \u00e7elik",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "20 saat \u00f6nce",
+            "published_at_date": "2023-12-19T15:35:36.923000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 25,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107940057394108518835/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUQnMO9QGVTjhdMKnbkcoHFYa4Gz7vFFHkioFMmZABPJaDJ=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "bought flowers for my mom here. The owner was very kind and attentive. The prices were reasonable\ud83e\udd70",
+            "reviewer_name": "Olimpos Sades",
+            "rating": 5,
+            "review_text": "bought flowers for my mom here. The owner was very kind and attentive. The prices were reasonable\ud83e\udd70",
+            "published_at": "17 saat \u00f6nce",
+            "published_at_date": "2023-12-19T19:07:42.650000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/114439593830499931126/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVzFUzh6z4ULTzN4uGLz8d2sJ0Fz4pD0feeS0oRSzCA2g=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "Burada anneme \u00e7i\u00e7ek ald\u0131m. Sahibi \u00e7ok nazik ve \u00f6zenliydi. Fiyatlar makuld\u00fc\ud83e\udd70",
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOpaS_LOGZMC9HXh5Q12mhUSAhX-nbW5Uejt83-=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

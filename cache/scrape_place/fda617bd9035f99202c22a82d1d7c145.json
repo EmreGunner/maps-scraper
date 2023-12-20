@@ -1,0 +1,121 @@
+{
+    "place_id": "ChIJVVXJUGm2yhQRYcq3PfV7WoE",
+    "name": "\u015eimayli Law",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "SY PARTNERS LAW F\u0130RM",
+            "link": "https://www.google.com/maps/search/SY+PARTNERS+LAW+F%C4%B0RM/@41.0844398,29.0148671?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ASY Legal",
+            "link": "https://www.google.com/maps/search/ASY+Legal/@41.086279999999995,29.008032?authuser=0&entry=ttu",
+            "reviews": 24,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Sy Hukuk Dan\u0131\u015fmanl\u0131k \u0130stanbul Ofis - Av. Sezgin Y\u0131ld\u0131r\u0131m",
+            "link": "https://www.google.com/maps/search/Sy+Hukuk+Dan%C4%B1%C5%9Fmanl%C4%B1k+%C4%B0stanbul+Ofis+-+Av.+Sezgin+Y%C4%B1ld%C4%B1r%C4%B1m/@41.077467399999996,29.019887999999998?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Esenyel & Partners Lawyers & Consultants",
+            "link": "https://www.google.com/maps/search/Esenyel+%26+Partners+Lawyers+%26+Consultants/@41.0828577,29.0166461?authuser=0&entry=ttu",
+            "reviews": 36,
+            "rating": 4.7,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "I\u015f\u0131k&Partners Avukatl\u0131k Ofisi ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/I%C5%9F%C4%B1k%26Partners+Avukatl%C4%B1k+Ofisi+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.077556699999995,29.014945200000003?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.simaylilaw.com/contact.html",
+    "owner": {
+        "id": null,
+        "name": "\u015eimayli Law (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v8-g_mEtiaiprcAlD39G6w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=300.77167&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 270 36 22",
+    "address": "Levent, \u015eimayli Law, S\u00fcmb\u00fcl Sk. No.41, 34330 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJVVXJUGm2yhQRYcq3PfV7WoE",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJVVXJUGm2yhQRYcq3PfV7WoE&q=?q=place_id:ChIJVVXJUGm2yhQRYcq3PfV7WoE&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0806896,
+        "longitude": 29.0165097
+    },
+    "plus_code": "32J8+7J Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Levent",
+        "street": "S\u00fcmb\u00fcl Sk. No.41",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34330",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "9320898672029321825",
+    "data_id": "0x14cab66950c95555:0x815a7bf53db7ca61",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v8-g_mEtiaiprcAlD39G6w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=300.77167&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v8-g_mEtiaiprcAlD39G6w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=300.77167&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

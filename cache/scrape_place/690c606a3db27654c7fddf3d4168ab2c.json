@@ -1,0 +1,153 @@
+{
+    "place_id": "ChIJDco1qla2yhQRI1SP6Q6awlo",
+    "name": "KORAL HUKUK B\u00dcROSU",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Pulat Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Pulat+Hukuk+B%C3%BCrosu/@41.0670902,29.002956399999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Koclu Law Firm",
+            "link": "https://www.google.com/maps/search/Koclu+Law+Firm/@41.0773923,29.016860599999998?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Av. Dilara \u00d6ZKUL",
+            "link": "https://www.google.com/maps/search/Av.+Dilara+%C3%96ZKUL/@41.0693145,29.004351999999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u00c7ift\u00e7i & Y\u0131lmaz Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/%C3%87ift%C3%A7i+%26+Y%C4%B1lmaz+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.065850499999996,29.003591600000004?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.koralhukuk.com/",
+    "owner": {
+        "id": "111624846270801122161",
+        "name": "KORAL HUKUK B\u00dcROSU (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/111624846270801122161"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uKIEwAcQGgvP6zG4l1BQRA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=16.994175&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 288 53 21",
+    "address": "KORAL HUKUK B\u00dcROSU, Gayrettepe, Y\u0131ld\u0131zposta Cad, No:16 K.4 D.26, 34340 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJDco1qla2yhQRI1SP6Q6awlo",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJDco1qla2yhQRI1SP6Q6awlo&q=?q=place_id:ChIJDco1qla2yhQRI1SP6Q6awlo&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.065962,
+        "longitude": 29.004973
+    },
+    "plus_code": "3283+9X Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Gayrettepe",
+        "street": "Gayrettepe, Y\u0131ld\u0131zposta Cad, No:16 K.4 D.26",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34340",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6539958997734085667",
+    "data_id": "0x14cab656aa35ca0d:0x5ac29a0ee98f5423",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uKIEwAcQGgvP6zG4l1BQRA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=16.994175&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPXg_HSX_jSvDk44JuswdJck28nD5vXwTJtGZfQ=w224-h460-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uKIEwAcQGgvP6zG4l1BQRA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=16.994175&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

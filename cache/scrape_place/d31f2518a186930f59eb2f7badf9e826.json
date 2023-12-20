@@ -1,0 +1,208 @@
+{
+    "place_id": "ChIJ3WCJVQm3yhQRaFxpQR9Mcxg",
+    "name": "ATG Law Firm",
+    "description": null,
+    "reviews": 2,
+    "competitors": [
+        {
+            "name": "RAGY & PARTNERS LAW FIRM",
+            "link": "https://www.google.com/maps/search/RAGY+%26+PARTNERS+LAW+FIRM/@41.080033199999995,29.022421?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Gur Law Firm",
+            "link": "https://www.google.com/maps/search/Gur+Law+Firm/@41.081824999999995,29.0219317?authuser=0&entry=ttu",
+            "reviews": 10,
+            "rating": 4.4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "GUNAY LAW FIRM",
+            "link": "https://www.google.com/maps/search/GUNAY+LAW+FIRM/@41.075573999999996,29.019118999999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "O\u011fuz Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/O%C4%9Fuz+Hukuk+B%C3%BCrosu/@41.076924000000005,29.018260899999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Aras Avukatl\u0131k Ortakl\u0131\u011f\u0131",
+            "link": "https://www.google.com/maps/search/Aras+Avukatl%C4%B1k+Ortakl%C4%B1%C4%9F%C4%B1/@41.077324,29.027496?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        }
+    ],
+    "website": "http://atglawfirm.com/",
+    "owner": {
+        "id": "106069043739041325229",
+        "name": "ATG Law Firm (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/106069043739041325229"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8Mb0Ua8Y0a9JoTxHv25jBA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=62.039177&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 4,
+    "workday_timing": "09:00\u201318:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 231 72 31",
+    "address": "Akat, ATG Law Firm, Maya Meridien Plaza, Ebulula Mardin Cd. No:16 K:5 D:16, 34335 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ3WCJVQm3yhQRaFxpQR9Mcxg",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ3WCJVQm3yhQRaFxpQR9Mcxg&q=?q=place_id:ChIJ3WCJVQm3yhQRaFxpQR9Mcxg&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0817476,
+        "longitude": 29.0220649
+    },
+    "plus_code": "32JC+MR Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Akat",
+        "street": "Maya Meridien Plaza, Ebulula Mardin Cd. No:16 K:5 D:16",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34335",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "1761835576357117032",
+    "data_id": "0x14cab709558960dd:0x18734c1f41695c68",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8Mb0Ua8Y0a9JoTxHv25jBA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=62.039177&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8Mb0Ua8Y0a9JoTxHv25jBA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=62.039177&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "S\u00fcper",
+            "reviewer_name": "Firat Er",
+            "rating": 5,
+            "review_text": "S\u00fcper",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-02-25T16:29:14.862000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 48,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113404907392868687863/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLflyBY7eSAcOc5nXJFA_0R193JS694_roqqnhH2BxG=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "TANJU BAHR\u0130LL\u0130",
+            "rating": 3,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2019-12-31T07:40:01.282000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 29,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105767108168167230776/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL-oXJRzRbNJX7sbCU66XCN48pILx3-4htc1DY23hwk=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

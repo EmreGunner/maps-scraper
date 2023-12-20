@@ -1,0 +1,149 @@
+{
+    "place_id": "ChIJDVXlZzu3yhQRnarZSKjHxD8",
+    "name": "Irmak Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Avukat Irmak Torman G\u00fclayd\u0131n",
+            "link": "https://www.google.com/maps/search/Avukat+Irmak+Torman+G%C3%BClayd%C4%B1n/@41.0676194,29.0111179?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Tayfun IRMAK",
+            "link": "https://www.google.com/maps/search/Avukat+Tayfun+IRMAK/@41.066595,28.986672?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Irmak hukuk b\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Irmak+hukuk+b%C3%BCrosu/@41.0175297,28.6439873?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Deniz Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Deniz+Hukuk+B%C3%BCrosu/@41.0595034,28.969472300000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Irmak Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh6.googleusercontent.com/F9qTbnibvwe1tKQYBjn91WecnqbakRFNEJ8xs43AfDSUS2LCrNPcMtryYEwaNvg=w426-h240-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "08:30\u201318:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 587 69 76",
+    "address": "H. R\u0131fat Pa\u015fa, Irmak Hukuk B\u00fcrosu, Perpa Sk. No:62, 34384 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJDVXlZzu3yhQRnarZSKjHxD8",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJDVXlZzu3yhQRnarZSKjHxD8&q=?q=place_id:ChIJDVXlZzu3yhQRnarZSKjHxD8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0604388,
+        "longitude": 28.9696477
+    },
+    "plus_code": "3X69+5V \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Halil R\u0131fat Pa\u015fa",
+        "street": "Perpa Sk. No:62",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34384",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4595017045415406237",
+    "data_id": "0x14cab73b67e5550d:0x3fc4c7a848d9aa9d",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh6.googleusercontent.com/F9qTbnibvwe1tKQYBjn91WecnqbakRFNEJ8xs43AfDSUS2LCrNPcMtryYEwaNvg=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1vOt2kBYQMZHaKl2M8aQvg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=302.1857&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

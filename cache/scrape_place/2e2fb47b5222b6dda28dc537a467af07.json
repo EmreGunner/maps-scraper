@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJuQbK1fPHyhQRmw5eogmg1Dg",
+    "name": "\u0130likay Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Ak\u00e7ayi\u011fit Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ak%C3%A7ayi%C4%9Fit+Hukuk+B%C3%BCrosu/@40.996517,29.054442?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "KARAKILI\u00c7 HUKUK & DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/KARAKILI%C3%87+HUKUK+%26+DANI%C5%9EMANLIK/@40.9912074,29.052434899999998?authuser=0&entry=ttu",
+            "reviews": 11,
+            "rating": 4.9,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AKIN PARTNERS",
+            "link": "https://www.google.com/maps/search/AKIN+PARTNERS/@40.9357951,29.1353268?authuser=0&entry=ttu",
+            "reviews": 16,
+            "rating": 5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "L\u0130MA HUKUK",
+            "link": "https://www.google.com/maps/search/L%C4%B0MA+HUKUK/@40.995702,29.0490733?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 4.4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ar\u0131soy Hukuk & Arabuluculuk",
+            "link": "https://www.google.com/maps/search/Ar%C4%B1soy+Hukuk+%26+Arabuluculuk/@40.9943604,29.064069099999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        }
+    ],
+    "website": "http://ilikayhukuk.com/",
+    "owner": {
+        "id": null,
+        "name": "\u0130likay Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SY7-8XOOdwhqYLnZ-oFlMQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=85.163704&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0216) 519 39 40",
+    "address": "Fikirtepe, \u0130likay Hukuk B\u00fcrosu, Alya Life Residence, Bar\u0131\u015f Sk. No:1, 34720 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJuQbK1fPHyhQRmw5eogmg1Dg",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJuQbK1fPHyhQRmw5eogmg1Dg&q=?q=place_id:ChIJuQbK1fPHyhQRmw5eogmg1Dg&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.996525,
+        "longitude": 29.0544467
+    },
+    "plus_code": "X3W3+JQ Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Fikirtepe",
+        "street": "Alya Life Residence, Bar\u0131\u015f Sk. No:1",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34720",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4095073924425846427",
+    "data_id": "0x14cac7f3d5ca06b9:0x38d4a009a25e0e9b",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SY7-8XOOdwhqYLnZ-oFlMQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=85.163704&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SY7-8XOOdwhqYLnZ-oFlMQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=85.163704&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

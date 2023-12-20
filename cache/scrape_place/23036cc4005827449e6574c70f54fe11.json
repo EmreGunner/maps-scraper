@@ -1,0 +1,182 @@
+{
+    "place_id": "ChIJD4kKJRzDJRURR83_R5CG3Qw",
+    "name": "Avukat An\u0131l Burak Tek\u00f6z",
+    "description": null,
+    "reviews": 3,
+    "competitors": [
+        {
+            "name": "Tek\u00f6z Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Tek%C3%B6z+Hukuk+B%C3%BCrosu/@36.2056253,36.1593905?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "AVUKAT MEHMET LAB\u0130T G\u00dc\u00c7L\u00dc",
+            "link": "https://www.google.com/maps/search/AVUKAT+MEHMET+LAB%C4%B0T+G%C3%9C%C3%87L%C3%9C/@36.2747691,36.2284113?authuser=0&entry=ttu",
+            "reviews": 119,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Erbek Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Erbek+Hukuk+B%C3%BCrosu/@36.2042358,36.1604609?authuser=0&entry=ttu",
+            "reviews": 13,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u00d6zcan Hukuk & Arabuluculuk",
+            "link": "https://www.google.com/maps/search/%C3%96zcan+Hukuk+%26+Arabuluculuk/@36.2128679,36.1583226?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Mustafa \u00d6z\u00e7elik",
+            "link": "https://www.google.com/maps/search/Avukat+Mustafa+%C3%96z%C3%A7elik/@36.212848099999995,36.1603229?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Avukat An\u0131l Burak Tek\u00f6z (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TJyGPZ63Rrgom-WsSNFK5w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=97.60515&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": 2.7,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0326) 214 02 02",
+    "address": "Avukat An\u0131l Burak Tek\u00f6z, Karao\u011flano\u011flu Cad \u0130sak Sar\u0131cal\u0131 Apt No: 24 a-b Ali R\u0131za \u00c7aml\u0131\u011f\u0131 Kar\u015f\u0131s\u0131, 31040 Antakya/Hatay",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJD4kKJRzDJRURR83_R5CG3Qw",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJD4kKJRzDJRURR83_R5CG3Qw&q=?q=place_id:ChIJD4kKJRzDJRURR83_R5CG3Qw&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.205618799999996,
+        "longitude": 36.159394
+    },
+    "plus_code": "6545+6Q Antakya, Hatay",
+    "detailed_address": {
+        "ward": "Cebrail",
+        "street": "Karao\u011flano\u011flu Cad \u0130sak Sar\u0131cal\u0131 Apt No: 24 a-b Ali R\u0131za \u00c7aml\u0131\u011f\u0131 Kar\u015f\u0131s\u0131",
+        "city": "Antakya",
+        "postal_code": "31040",
+        "state": "Hatay",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "927045052549549383",
+    "data_id": "0x1525c31c250a890f:0xcdd869047ffcd47",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TJyGPZ63Rrgom-WsSNFK5w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=97.60515&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TJyGPZ63Rrgom-WsSNFK5w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=97.60515&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Mesut Yetek",
+            "rating": 2,
+            "review_text": null,
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-11-18T10:03:56.898000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 10,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113074516956452049500/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKabBbDY9PUidwg4aBX5trd42cmAzyYsQTyP35AAyg=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Tek\u00f6z Yap\u0131",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-08-04T12:14:44.408000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112579868323553996028/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKzbjH8L272S8DinuXm7KvAhtQgE2h3W_5bDrPVOo0U=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Salih \u00c7ift\u00e7i",
+            "rating": 1,
+            "review_text": null,
+            "published_at": "bir ay \u00f6nce",
+            "published_at_date": "2023-11-14T21:23:40.766000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/105519498469227518123/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWQpHUmQyilts2sejb0yx8FDOjqCBr_wyqo6idXp0-jYAk=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

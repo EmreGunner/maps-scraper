@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJ-8E7Jga3yhQRn65AFIX_OvA",
+    "name": "\u00dcnal\u00a7Partners",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "\u00dcnal Partners Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%9Cnal+Partners+Hukuk+B%C3%BCrosu/@41.089127999999995,29.027950999999998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00dcnal Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%9Cnal+Hukuk+B%C3%BCrosu/@41.0526355,28.990105399999997?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 3.8,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ni\u015fanta\u015f\u0131 Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Ni%C5%9Fanta%C5%9F%C4%B1+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.058040899999995,28.987922899999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Polat & Partners",
+            "link": "https://www.google.com/maps/search/Polat+%26+Partners/@41.0665774,29.001235?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6ZCAN | PARTNERS",
+            "link": "https://www.google.com/maps/search/%C3%96ZCAN+%7C+PARTNERS/@41.0508585,28.993625299999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "\u00dcnal\u00a7Partners (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QfbzFxIFXIR-LSYmcCfZ1Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=171.9906&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0538 695 81 50",
+    "address": "\u00dcnal\u00a7Partners, Ortaklar Caddesi, No:24 Daire:6 Kat:2, Fulya Sk., 34394 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ-8E7Jga3yhQRn65AFIX_OvA",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ-8E7Jga3yhQRn65AFIX_OvA&q=?q=place_id:ChIJ-8E7Jga3yhQRn65AFIX_OvA&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.054671,
+        "longitude": 28.995734
+    },
+    "plus_code": "3X3W+V7 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Te\u015fvikiye",
+        "street": "Ortaklar Caddesi, No:24 Daire:6 Kat:2, Fulya Sk.",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34394",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "17310429064787439263",
+    "data_id": "0x14cab706263bc1fb:0xf03aff851440ae9f",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QfbzFxIFXIR-LSYmcCfZ1Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=171.9906&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QfbzFxIFXIR-LSYmcCfZ1Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=171.9906&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

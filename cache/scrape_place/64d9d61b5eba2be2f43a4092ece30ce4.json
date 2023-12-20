@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJNQ_RVDq3yhQRYNC8YqlXbho",
+    "name": "MSK LAW OFF\u0130CE",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Emre Kay Law Firm",
+            "link": "https://www.google.com/maps/search/Emre+Kay+Law+Firm/@41.058664799999995,28.987251599999997?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "K.S.K. Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/K.S.K.+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.0472391,28.986829900000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ers\u00f6z Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ers%C3%B6z+Hukuk+B%C3%BCrosu/@41.062570799999996,28.989175399999997?authuser=0&entry=ttu",
+            "reviews": 16,
+            "rating": 1.7,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "MSA HUKUK",
+            "link": "https://www.google.com/maps/search/MSA+HUKUK/@41.0462439,28.9864508?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "CKT Law Firm",
+            "link": "https://www.google.com/maps/search/CKT+Law+Firm/@41.0539059,28.9956386?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "MSK LAW OFF\u0130CE (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RWLH1mFhn_arSrALzudX-A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=273.62222&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Merkez, MSK LAW OFF\u0130CE, Halaskargazi Cd. No: 175/6, 34381 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJNQ_RVDq3yhQRYNC8YqlXbho",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJNQ_RVDq3yhQRYNC8YqlXbho&q=?q=place_id:ChIJNQ_RVDq3yhQRYNC8YqlXbho&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0585115,
+        "longitude": 28.986796799999997
+    },
+    "plus_code": "3X5P+CP \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkez",
+        "street": "Halaskargazi Cd. No: 175/6",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34381",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "1904556077441929312",
+    "data_id": "0x14cab73a54d10f35:0x1a6e57a962bcd060",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RWLH1mFhn_arSrALzudX-A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=273.62222&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RWLH1mFhn_arSrALzudX-A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=273.62222&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

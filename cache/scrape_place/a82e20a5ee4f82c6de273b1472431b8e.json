@@ -1,0 +1,153 @@
+{
+    "place_id": "ChIJQbJT5RK3yhQRqkjzWA3SW2Q",
+    "name": "BOZDO\u011eAN AVUKATLIK B\u00dcROSU",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Orhan Bozdo\u011fan",
+            "link": "https://www.google.com/maps/search/Orhan+Bozdo%C4%9Fan/@41.0536452,28.9820088?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Ovayolu Avukatl\u0131k B\u00fcrosu - \u0130stanbul Ofisi",
+            "link": "https://www.google.com/maps/search/Ovayolu+Avukatl%C4%B1k+B%C3%BCrosu+-+%C4%B0stanbul+Ofisi/@41.0626676,28.973923300000003?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 3.7,
+            "main_category": "\u0130\u015f Hukuku Avukat\u0131"
+        },
+        {
+            "name": "V\u0130ZYON HUKUK VE DANI\u015eMANLIK- Bo\u015fanma Avukat\u0131 - Aile Hukuku Avukat\u0131 - \u0130\u015f Hukuku Avukat\u0131 -",
+            "link": "https://www.google.com/maps/search/V%C4%B0ZYON+HUKUK+VE+DANI%C5%9EMANLIK-+Bo%C5%9Fanma+Avukat%C4%B1+-+Aile+Hukuku+Avukat%C4%B1+-+%C4%B0%C5%9F+Hukuku+Avukat%C4%B1+-/@41.0681246,28.9921761?authuser=0&entry=ttu",
+            "reviews": 30,
+            "rating": 5,
+            "main_category": "Bo\u015fanma Avukat\u0131"
+        },
+        {
+            "name": "AZ\u0130Z GEN\u00c7 HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/AZ%C4%B0Z+GEN%C3%87+HUKUK+B%C3%9CROSU/@41.0627861,28.9736617?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 4.6,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Bozdo\u011fan Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Bozdo%C4%9Fan+Hukuk+B%C3%BCrosu/@40.9993528,28.797861599999997?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 3.8,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.bozdogan.av.tr/",
+    "owner": {
+        "id": "116368897266289650139",
+        "name": "BOZDO\u011eAN AVUKATLIK B\u00dcROSU (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/116368897266289650139"
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu",
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": "08:30\u201318:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 220 27 33",
+    "address": "BOZDO\u011eAN AVUKATLIK B\u00dcROSU, Piyalepa\u015fa Bulvar\u0131 Famas Plaza B Blok Kat:13, 34384 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJQbJT5RK3yhQRqkjzWA3SW2Q",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJQbJT5RK3yhQRqkjzWA3SW2Q&q=?q=place_id:ChIJQbJT5RK3yhQRqkjzWA3SW2Q&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0626538,
+        "longitude": 28.9739173
+    },
+    "plus_code": "3X7F+3H \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Kaptan Pa\u015fa",
+        "street": "Piyalepa\u015fa Bulvar\u0131 Famas Plaza B Blok Kat:13",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34384",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "7231604581442209962",
+    "data_id": "0x14cab712e553b241:0x645bd20d58f348aa",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "http://www.bozdogan.av.tr/index.php/iletisim",
+            "source": "bozdogan.av.tr"
+        }
+    ],
+    "about": [],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

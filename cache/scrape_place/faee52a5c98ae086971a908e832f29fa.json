@@ -1,0 +1,208 @@
+{
+    "place_id": "ChIJx-LWAAPIyhQR305dKhf5i94",
+    "name": "ACDLAWOFFICE",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "Mert Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Mert+Hukuk+B%C3%BCrosu/@41.0201218,29.0447963?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 4.5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Dual Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Dual+Hukuk+B%C3%BCrosu/@41.0218529,29.044367700000002?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 3.8,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ACL \u0130stanbul",
+            "link": "https://www.google.com/maps/search/ACL+%C4%B0stanbul/@41.01882500000001,29.049050299999998?authuser=0&entry=ttu",
+            "reviews": 68,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Altunizade Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Altunizade+Hukuk+B%C3%BCrosu/@41.0226727,29.034811299999998?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Av.\u00d6mer Camuzcu",
+            "link": "https://www.google.com/maps/search/Av.%C3%96mer+Camuzcu/@41.0202621,29.0447419?authuser=0&entry=ttu",
+            "reviews": 11,
+            "rating": 4.9,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://acdlawoffice.com/",
+    "owner": {
+        "id": "110912034046189909525",
+        "name": "ACDLAWOFFICE (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/110912034046189909525"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNG1UlxlgSei-VNx67PoQH2n29g1STf1uSHVk7x=w426-h240-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu",
+        "Avukatl\u0131k Dan\u0131\u015fma Hizmeti",
+        "Hukuki \u0130\u015fler B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "08:30\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 325 57 87",
+    "address": "ACDLAWOFFICE, Altunizade Mahallesi Ord. Prof. Dr. Fahrettin Kerim G\u00f6kay Caddesi, Okul Soka\u011f\u0131 Altunizade Sitesi E Blok Daire 5, 34662 \u00dcsk\u00fcdar/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJx-LWAAPIyhQR305dKhf5i94",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJx-LWAAPIyhQR305dKhf5i94&authuser=0&hl=tr&gl=TR",
+    "coordinates": {
+        "latitude": 41.0188513,
+        "longitude": 29.0486717
+    },
+    "plus_code": "229X+GF \u00dcsk\u00fcdar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Altunizade",
+        "street": "Altunizade Mahallesi Ord. Prof. Dr. Fahrettin Kerim G\u00f6kay Caddesi, Okul Soka\u011f\u0131 Altunizade Sitesi E Blok Daire 5",
+        "city": "\u00dcsk\u00fcdar",
+        "postal_code": "34662",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16036184776073105119",
+    "data_id": "0x14cac80300d6e2c7:0xde8bf9172a5d4edf",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNG1UlxlgSei-VNx67PoQH2n29g1STf1uSHVk7x=w529-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMPeuNRZu8t5e08bLOxT7tW2CUH9Vz30f7gTxde=w298-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CvtfHjgWpJ6qXYPLUv5VAQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=119.078476&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Altunizade bolgesinde bulunan deneyimli kadrosu ile hizmet veren hukuk burosu.",
+            "reviewer_name": "Mehmet Ayas",
+            "rating": 5,
+            "review_text": "Altunizade bolgesinde bulunan deneyimli kadrosu ile hizmet veren hukuk burosu.",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-01-01T11:24:44.416000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 245,
+            "total_number_of_photos_by_reviewer": 3093,
+            "reviewer_url": "https://www.google.com/maps/contrib/109619899141144584769/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWSjOGSIyrWXC0yZK9q3QSZzjGuXs_yLHRzweYIa5hQzDTr=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

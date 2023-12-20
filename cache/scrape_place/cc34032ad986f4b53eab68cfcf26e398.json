@@ -1,0 +1,96 @@
+{
+    "place_id": "ChIJ6UoXrjrCJRURSa17AjuvVKo",
+    "name": "Bay Do\u011fru Oto Al\u0131m Sat\u0131m Emlak",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "\u015eark Emlak Ve Oto",
+            "link": "https://www.google.com/maps/search/%C5%9Eark+Emlak+Ve+Oto/@36.210155,36.1537796?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 3,
+            "main_category": "Emlak B\u00fcrosu"
+        },
+        {
+            "name": "Da\u011fl\u0131 Otomotiv ve Emlak",
+            "link": "https://www.google.com/maps/search/Da%C4%9Fl%C4%B1+Otomotiv+ve+Emlak/@36.2173388,36.161059099999996?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Bar\u0131\u015f Emlak&Oto Al\u0131m Sat\u0131m",
+            "link": "https://www.google.com/maps/search/Bar%C4%B1%C5%9F+Emlak%26Oto+Al%C4%B1m+Sat%C4%B1m/@36.137406999999996,36.044928999999996?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 4,
+            "main_category": "Motorlu Ta\u015f\u0131t Sat\u0131c\u0131s\u0131"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Bay Do\u011fru Oto Al\u0131m Sat\u0131m Emlak (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K0ZhUtKLx-UBSWIAdJ6YNA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=182.97964&pitch=0&thumbfov=100",
+    "main_category": "Emlak B\u00fcrosu",
+    "categories": [
+        "Emlak B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Haraparas\u0131, Bay Do\u011fru Oto Al\u0131m Sat\u0131m Emlak, 114. Sk. No:2, 31060 Antakya/Hatay",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ6UoXrjrCJRURSa17AjuvVKo",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ6UoXrjrCJRURSa17AjuvVKo&q=?q=place_id:ChIJ6UoXrjrCJRURSa17AjuvVKo&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.2127975,
+        "longitude": 36.1656833
+    },
+    "plus_code": "6578+47 Antakya, Hatay",
+    "detailed_address": {
+        "ward": "Haraparas\u0131",
+        "street": "114. Sk. No:2",
+        "city": "Antakya",
+        "postal_code": "31060",
+        "state": "Hatay",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12273627552471035209",
+    "data_id": "0x1525c23aae174ae9:0xaa54af3b027bad49",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K0ZhUtKLx-UBSWIAdJ6YNA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=182.97964&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K0ZhUtKLx-UBSWIAdJ6YNA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=182.97964&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

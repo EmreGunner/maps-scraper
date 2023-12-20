@@ -1,0 +1,238 @@
+{
+    "place_id": "ChIJid7oCaW3yhQRW7vfjgakxpA",
+    "name": "Turkyaman Law Office",
+    "description": null,
+    "reviews": 2,
+    "competitors": [
+        {
+            "name": "Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9915267,29.0408818?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Av. Hilmi",
+            "link": "https://www.google.com/maps/search/Av.+Hilmi/@40.9628517,29.0724863?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Kad\u0131k\u00f6y Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kad%C4%B1k%C3%B6y+Hukuk+B%C3%BCrosu/@40.9896344,29.0308541?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "E-M\u00fcvekkil Pro",
+            "link": "https://www.google.com/maps/search/E-M%C3%BCvekkil+Pro/@40.9739034,29.0985415?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Anwaltskanzlei",
+            "link": "https://www.google.com/maps/search/Anwaltskanzlei/@40.9722399,29.098270099999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "101957952095316738953",
+        "name": "Turkyaman Law Office (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/101957952095316738953"
+    },
+    "featured_image": "//lh4.googleusercontent.com/YK3l-TnKZH2Tm7Hbh3Q33t-r03ExwcQQKkZOsqdoHEIiPjpTm5lJ1qeJJRDtCpgN=w426-h240-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat",
+        "Hukuk B\u00fcrosu",
+        "Hukuk Hizmetleri"
+    ],
+    "rating": 2,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0850 307 4512",
+    "address": "Kozyata\u011f\u0131, Turkyaman Law Office, \u015eht. \u0130lknur Kele\u015f Sk. Ali Ulvi Erim Plaza No:14 K:5 D:14, 34742 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJid7oCaW3yhQRW7vfjgakxpA",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJid7oCaW3yhQRW7vfjgakxpA&q=?q=place_id:ChIJid7oCaW3yhQRW7vfjgakxpA&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.969111399999996,
+        "longitude": 29.1001932
+    },
+    "plus_code": "X492+J3 Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Kozyata\u011f\u0131",
+        "street": "\u015eht. \u0130lknur Kele\u015f Sk. Ali Ulvi Erim Plaza No:14 K:5 D:14",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34742",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10432205934924118875",
+    "data_id": "0x14cab7a509e8de89:0x90c6a4068edfbb5b",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh4.googleusercontent.com/YK3l-TnKZH2Tm7Hbh3Q33t-r03ExwcQQKkZOsqdoHEIiPjpTm5lJ1qeJJRDtCpgN=w529-h298-k-no"
+        },
+        {
+            "about": "D\u0131\u015ftan g\u00f6r\u00fcn\u00fcm",
+            "link": "//lh4.googleusercontent.com/YK3l-TnKZH2Tm7Hbh3Q33t-r03ExwcQQKkZOsqdoHEIiPjpTm5lJ1qeJJRDtCpgN=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aSui-0NUQjqHf6huOfNuLg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=315.3158&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Bin kere arad\u0131m. Ne telefonlar\u0131 a\u00e7\u0131ld\u0131 nede geri d\u00f6n\u00fc\u015f yapt\u0131lar.",
+            "reviewer_name": "Rodi R",
+            "rating": 1,
+            "review_text": "Bin kere arad\u0131m. Ne telefonlar\u0131 a\u00e7\u0131ld\u0131 nede geri d\u00f6n\u00fc\u015f yapt\u0131lar.",
+            "published_at": "11 ay \u00f6nce",
+            "published_at_date": "2023-01-18T09:43:48.688000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 60,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/115145434685052650284/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIc2DVpaZ-i6-kjs9GrMa69z-ES_LaYY79Aa65sg_Tr=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Vyra",
+            "rating": 3,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-01-22T16:52:04.261000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117630205259631932126/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWPVyVqsFsJ7cQOlJ_vnu3_NFpIX_hIqWwlF-iPewxbgPE=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

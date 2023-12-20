@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJy5iH-U-7yhQRObMx8hxIvis",
+    "name": "Kocat\u00fcrk Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "KOCABA\u015e Hukuk ve Arabuluculuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/KOCABA%C5%9E+Hukuk+ve+Arabuluculuk+B%C3%BCrosu/@40.9953011,28.8731322?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 4.7,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "MRB Bak\u0131rk\u00f6y Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/MRB+Bak%C4%B1rk%C3%B6y+Avukatl%C4%B1k+B%C3%BCrosu/@40.992278,28.869122?authuser=0&entry=ttu",
+            "reviews": 51,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AKT\u00dcRK HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/AKT%C3%9CRK+HUKUK+B%C3%9CROSU/@40.9964017,28.872222?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "D\u00f6n\u00fc\u015f\u00fcm Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/D%C3%B6n%C3%BC%C5%9F%C3%BCm+Hukuk+B%C3%BCrosu/@40.9957701,28.869694199999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "C&B HUKUK OF\u0130S\u0130",
+            "link": "https://www.google.com/maps/search/C%26B+HUKUK+OF%C4%B0S%C4%B0/@40.9962167,28.870088499999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Kocat\u00fcrk Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh6.googleusercontent.com/cw1fuiQb9UWGYuHLEsI8bOX31Ojvo_QjkYyoKV9-SmxD4PuJQCv_guiDvdEgH6O8=w426-h240-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 543 23 13",
+    "address": "Bah\u00e7elievler Merkez, Kocat\u00fcrk Hukuk B\u00fcrosu, \u0130ncirli Caddesi & Alpay \u00d6zer Sokak, 34180 Bak\u0131rk\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJy5iH-U-7yhQRObMx8hxIvis",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJy5iH-U-7yhQRObMx8hxIvis&q=?q=place_id:ChIJy5iH-U-7yhQRObMx8hxIvis&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9964035,
+        "longitude": 28.8706511
+    },
+    "plus_code": "XVWC+H7 Bak\u0131rk\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Bah\u00e7elievler Merkez",
+        "street": "\u0130ncirli Caddesi & Alpay \u00d6zer Sokak",
+        "city": "Bak\u0131rk\u00f6y",
+        "postal_code": "34180",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "3152036078365553465",
+    "data_id": "0x14cabb4ff98798cb:0x2bbe481cf231b339",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh6.googleusercontent.com/cw1fuiQb9UWGYuHLEsI8bOX31Ojvo_QjkYyoKV9-SmxD4PuJQCv_guiDvdEgH6O8=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=P6xgzo7C1cMb7KgK4QgWKg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=211.90816&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

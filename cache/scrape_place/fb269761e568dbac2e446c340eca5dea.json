@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJad_7FP62yhQRt0caaskA5D4",
+    "name": "Orhaner Law Office",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Orhan & Orhan Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Orhan+%26+Orhan+Hukuk+B%C3%BCrosu/@41.082220899999996,29.013758000000003?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Arabulucu Nur Evrim Erol",
+            "link": "https://www.google.com/maps/search/Avukat+Arabulucu+Nur+Evrim+Erol/@41.063246,28.997317?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Demir & Partners Law Office",
+            "link": "https://www.google.com/maps/search/Demir+%26+Partners+Law+Office/@41.070268299999995,29.013742099999998?authuser=0&entry=ttu",
+            "reviews": 10,
+            "rating": 4.8,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ayd\u0131ner Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ayd%C4%B1ner+Hukuk+B%C3%BCrosu/@41.0650796,28.9942616?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Aytekin Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Aytekin+Hukuk+B%C3%BCrosu/@41.065751999999996,29.001909?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Orhaner Law Office (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TCjoD8hQW_fRlvb3MhJp4w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=346.47348&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 274 76 94",
+    "address": "Mecidiyek\u00f6y, Orhaner Law Office, Ortaklar Cad. Bah\u00e7eler Sok. Gorbon Apt. No: 17/1, 34360 \u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJad_7FP62yhQRt0caaskA5D4",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJad_7FP62yhQRt0caaskA5D4&q=?q=place_id:ChIJad_7FP62yhQRt0caaskA5D4&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0650003,
+        "longitude": 28.9948445
+    },
+    "plus_code": "3X8V+2W \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Mecidiyek\u00f6y",
+        "street": "Ortaklar Cad. Bah\u00e7eler Sok. Gorbon Apt. No: 17/1",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34360",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4531747990110095287",
+    "data_id": "0x14cab6fe14fbdf69:0x3ee400c96a1a47b7",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TCjoD8hQW_fRlvb3MhJp4w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=346.47348&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TCjoD8hQW_fRlvb3MhJp4w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=346.47348&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

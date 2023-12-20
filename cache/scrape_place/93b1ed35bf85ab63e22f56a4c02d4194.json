@@ -1,0 +1,158 @@
+{
+    "place_id": "ChIJ4ZDtK-G2yhQRBzsAMEFPXMQ",
+    "name": "SBS HUKUK",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "PBA Hukuk",
+            "link": "https://www.google.com/maps/search/PBA+Hukuk/@41.061291499999996,29.012292499999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "B & S Hukuk",
+            "link": "https://www.google.com/maps/search/B+%26+S+Hukuk/@41.0096683,29.0345591?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "BS AVUKATLIK & DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/BS+AVUKATLIK+%26+DANI%C5%9EMANLIK/@41.078021,29.010848099999993?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "B&S Law Office",
+            "link": "https://www.google.com/maps/search/B%26S+Law+Office/@41.0446086,29.007665?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Boyraz & S\u00fcme Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Boyraz+%26+S%C3%BCme+Hukuk+B%C3%BCrosu/@41.0606177,29.011229699999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "https://sbshukuk.com/",
+    "owner": {
+        "id": "103663391190704888530",
+        "name": "SBS HUKUK (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/103663391190704888530"
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 216 98 48",
+    "address": "SBS HUKUK, Balmumcu Mah. Barbaros Bulv. No:76/6 Gamze Apt, Kat 1 Daire:6, 34349 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ4ZDtK-G2yhQRBzsAMEFPXMQ",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ4ZDtK-G2yhQRBzsAMEFPXMQ&q=?q=place_id:ChIJ4ZDtK-G2yhQRBzsAMEFPXMQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0620106,
+        "longitude": 29.0118923
+    },
+    "plus_code": "3266+RQ Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Balmumcu",
+        "street": "Balmumcu Mah. Barbaros Bulv. No:76/6 Gamze Apt, Kat 1 Daire:6",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34349",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "14149271270688045831",
+    "data_id": "0x14cab6e12bed90e1:0xc45c4f4130003b07",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "from_the_business",
+            "name": "\u0130\u015fletme hakk\u0131nda",
+            "options": [
+                {
+                    "name": "Sahibi kad\u0131n oldu\u011funu belirtiyor",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

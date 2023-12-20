@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJr0inboLHyhQRsR7LRTjaIWk",
+    "name": "Mira Hukuk",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Mira Hukuk Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Mira+Hukuk+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.961135899999995,29.0787579?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Mir Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Mir+Hukuk+B%C3%BCrosu/@40.9895819,29.027650499999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "M\u0130R HUKUK&DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/M%C4%B0R+HUKUK%26DANI%C5%9EMANLIK/@40.9950323,28.8764994?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Demir Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Demir+Hukuk+B%C3%BCrosu/@40.9766208,29.049704499999994?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Mir Hukuk | Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Mir+Hukuk+%7C+Hukuk+B%C3%BCrosu/@41.0242078,29.008912199999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Mira Hukuk (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ox9plDUqtLq6Gtizj-U4Yg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=188.81801&pitch=0&thumbfov=100",
+    "main_category": "Hukuk Hizmetleri",
+    "categories": [
+        "Hukuk Hizmetleri"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0216) 345 09 99",
+    "address": "Sahray\u0131 Cedit, Mira Hukuk, Ba\u011fdat Cad. No:206 K:4 D:11, 34726 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJr0inboLHyhQRsR7LRTjaIWk",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJr0inboLHyhQRsR7LRTjaIWk&q=?q=place_id:ChIJr0inboLHyhQRsR7LRTjaIWk&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.97452,
+        "longitude": 29.053634
+    },
+    "plus_code": "X3F3+RF Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Sahray\u0131 Cedit",
+        "street": "Ba\u011fdat Cad. No:206 K:4 D:11",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34726",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "7575575983437848241",
+    "data_id": "0x14cac7826ea748af:0x6921da3845cb1eb1",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ox9plDUqtLq6Gtizj-U4Yg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=188.81801&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ox9plDUqtLq6Gtizj-U4Yg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=188.81801&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

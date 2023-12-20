@@ -1,0 +1,103 @@
+{
+    "place_id": "ChIJA3Qt4E-7yhQR8PoY8L5O0BQ",
+    "name": "C&B HUKUK OF\u0130S\u0130",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "\u00c7ebi\u015fli & Bozkurt Hukuk Ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%87ebi%C5%9Fli+%26+Bozkurt+Hukuk+Ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@40.995837699999996,28.869413099999996?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ERDEM HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/ERDEM+HUKUK+B%C3%9CROSU/@40.9956441,28.871767000000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Cengiz Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Cengiz+Hukuk+B%C3%BCrosu/@40.9957706,28.870624199999998?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Adk Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Adk+Hukuk+B%C3%BCrosu/@40.995801799999995,28.870580499999996?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 5,
+            "main_category": "Dan\u0131\u015fman"
+        }
+    ],
+    "website": "http://cbhukukofisi.com/",
+    "owner": {
+        "id": null,
+        "name": "C&B HUKUK OF\u0130S\u0130 (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lw06rqn63J2DkZ0RruCqwQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=113.65573&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 466 02 40",
+    "address": "C&B HUKUK OF\u0130S\u0130, \u0130ncirli Caddesi No: 110 Daire:9, Bak\u0131rk\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJA3Qt4E-7yhQR8PoY8L5O0BQ",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJA3Qt4E-7yhQR8PoY8L5O0BQ&q=?q=place_id:ChIJA3Qt4E-7yhQR8PoY8L5O0BQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9962167,
+        "longitude": 28.870088499999998
+    },
+    "plus_code": "XVWC+F2 Bak\u0131rk\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Kartaltepe",
+        "street": "\u0130ncirli Caddesi No: 110 Daire:9",
+        "city": "Bak\u0131rk\u00f6y",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "1499785257893296880",
+    "data_id": "0x14cabb4fe02d7403:0x14d04ebef018faf0",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lw06rqn63J2DkZ0RruCqwQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=113.65573&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lw06rqn63J2DkZ0RruCqwQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=113.65573&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

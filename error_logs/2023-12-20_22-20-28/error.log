@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/botasaurus/decorators.py", line 361, in run_task
+    result = func(driver, data)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper.py", line 170, in scrape_places_by_links
+    places = merge_sponsored_links(places, sponsored_links)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper.py", line 141, in merge_sponsored_links
+    place['is_spending_on_ads'] = place['link'] in sponsored_links
+TypeError: 'NoneType' object is not subscriptable

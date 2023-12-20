@@ -1,0 +1,139 @@
+{
+    "place_id": "ChIJ0W_XMU-7yhQR7V2n9e0dz1o",
+    "name": "KARAG\u00dcLLE HUKUK VE DANI\u015eMANLIK",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "G\u00dcL HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/G%C3%9CL+HUKUK+B%C3%9CROSU/@41.0141041,28.9078207?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 3.7,
+            "main_category": "Avukatlar Derne\u011fi"
+        },
+        {
+            "name": "Karag\u00fclle Hukuk B\u00fcrosu - Av. Mustafa Karag\u00fclle",
+            "link": "https://www.google.com/maps/search/Karag%C3%BClle+Hukuk+B%C3%BCrosu+-+Av.+Mustafa+Karag%C3%BClle/@40.992675299999995,28.876656?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Karag\u00fclle Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Karag%C3%BClle+Hukuk+B%C3%BCrosu/@41.0669091,28.998455199999995?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Suat U\u00e7arl\u0131",
+            "link": "https://www.google.com/maps/search/Avukat+Suat+U%C3%A7arl%C4%B1/@41.0130315,28.908974899999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": "https://karagulle-hukuk-ve-dansmanlk.business.site/",
+    "owner": {
+        "id": "111208066871977420204",
+        "name": "KARAG\u00dcLLE HUKUK VE DANI\u015eMANLIK (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/111208066871977420204"
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "08:30\u201319:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0532 152 77 93",
+    "address": "KARAG\u00dcLLE HUKUK VE DANI\u015eMANLIK, Merkez Efendi Mah. Mevlana Cad. Terc\u00fcman Sitesi A2 Blok K:4, D:20, 34015 Zeytinburnu",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ0W_XMU-7yhQR7V2n9e0dz1o",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 19:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ0W_XMU-7yhQR7V2n9e0dz1o&q=?q=place_id:ChIJ0W_XMU-7yhQR7V2n9e0dz1o&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.013131699999995,
+        "longitude": 28.9086677
+    },
+    "plus_code": "2W75+7F Zeytinburnu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkezefendi",
+        "street": "Merkez Efendi Mah. Mevlana Cad. Terc\u00fcman Sitesi A2 Blok K:4, D:20",
+        "city": "Zeytinburnu",
+        "postal_code": "34015",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6543481691458461165",
+    "data_id": "0x14cabb4f31d76fd1:0x5acf1dedf5a75ded",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201319:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201319:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201319:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201319:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201319:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "08:30\u201319:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

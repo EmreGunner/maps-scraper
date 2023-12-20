@@ -1,0 +1,193 @@
+{
+    "place_id": "ChIJUSrpX2qPKBURKk0urRz_SrY",
+    "name": "Bilge Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": 2,
+    "competitors": [
+        {
+            "name": "Karaytu\u011f Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Karaytu%C4%9F+Hukuk+B%C3%BCrosu/@36.9925907,35.3236342?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "BULUT HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/BULUT+HUKUK+B%C3%9CROSU/@36.992481399999996,35.3239543?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Fides Hukuk ve Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Fides+Hukuk+ve+Avukatl%C4%B1k+B%C3%BCrosu/@36.995335499999996,35.3246203?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 4.2,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Akka\u015f Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Akka%C5%9F+Hukuk+B%C3%BCrosu/@36.9956084,35.3252109?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 2,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": "http://www.bilge-hukukburosu.com/",
+    "owner": {
+        "id": null,
+        "name": "Bilge Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat",
+        "Dan\u0131\u015fman"
+    ],
+    "rating": 3,
+    "workday_timing": "08:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0322) 453 98 85",
+    "address": "Bilge Hukuk B\u00fcrosu, Re\u015fatbey Mahallesi Gazipa\u015fa Bulvar\u0131 No: 11 Baltal\u0131 Apartman\u0131 Kat: 2 Daire: 4, 01120",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJUSrpX2qPKBURKk0urRz_SrY",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 08:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJUSrpX2qPKBURKk0urRz_SrY&authuser=0&hl=tr&gl=TR",
+    "coordinates": {
+        "latitude": 36.9986799,
+        "longitude": 35.3260404
+    },
+    "plus_code": "X8XG+FC Seyhan, Adana",
+    "detailed_address": {
+        "ward": "Re\u015fatbey",
+        "street": "Re\u015fatbey Mahallesi Gazipa\u015fa Bulvar\u0131 No: 11 Baltal\u0131 Apartman\u0131 Kat: 2 Daire: 4",
+        "city": "Seyhan",
+        "postal_code": "01120",
+        "state": "Adana",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "13135591761809132842",
+    "data_id": "0x15288f6a5fe92a51:0xb64aff1cad2e4d2a",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "zekeriye borekci",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-01-29T10:25:41.202000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114093642205454562197/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK0QdbYm_M-9r3A-V5ZZuNyb2Q4A18EkKCTeCnkesF9=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "G\u00f6n\u00fcl Bacaks\u0131z",
+            "rating": 1,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-07-09T14:09:14.994000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105654722861340296886/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVANCur0Nr9E-OQldfdaTE8SJMOgb6SwkTGOQrC-kpgA2s=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

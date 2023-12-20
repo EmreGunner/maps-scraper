@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJbcCvrWy2yhQRjQnDu98ySPY",
+    "name": "RAGY & PARTNERS LAW FIRM",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Gur Law Firm",
+            "link": "https://www.google.com/maps/search/Gur+Law+Firm/@41.081824999999995,29.0219317?authuser=0&entry=ttu",
+            "reviews": 10,
+            "rating": 4.4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Libra Hukuk Dan\u0131\u015fmanl\u0131k ve Arabuluculuk Ofisi",
+            "link": "https://www.google.com/maps/search/Libra+Hukuk+Dan%C4%B1%C5%9Fmanl%C4%B1k+ve+Arabuluculuk+Ofisi/@41.081983,29.018168300000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ARTUS HUKUK B\u00dcROSU/LAW F\u0130RM",
+            "link": "https://www.google.com/maps/search/ARTUS+HUKUK+B%C3%9CROSU%2FLAW+F%C4%B0RM/@41.0752756,29.018424299999996?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ATG Law Firm",
+            "link": "https://www.google.com/maps/search/ATG+Law+Firm/@41.0817476,29.0220649?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat \u0130rem G\u00fcrel",
+            "link": "https://www.google.com/maps/search/Avukat+%C4%B0rem+G%C3%BCrel/@41.081983,29.018168300000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.ragylaw.com/index.php%3Fpage%3D86",
+    "owner": {
+        "id": null,
+        "name": "RAGY & PARTNERS LAW FIRM (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0gaYBrGBzRBo3U4pexulxQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=249.18214&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 269 56 61",
+    "address": "Levent, RAGY & PARTNERS LAW FIRM, Ebulula Mardin Cd. No:45, 34330 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJbcCvrWy2yhQRjQnDu98ySPY",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJbcCvrWy2yhQRjQnDu98ySPY&q=?q=place_id:ChIJbcCvrWy2yhQRjQnDu98ySPY&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.080033199999995,
+        "longitude": 29.022420999999998
+    },
+    "plus_code": "32JC+2X Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Levent",
+        "street": "Ebulula Mardin Cd. No:45",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34330",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "17746490268162656653",
+    "data_id": "0x14cab66cadafc06d:0xf64832dfbbc3098d",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0gaYBrGBzRBo3U4pexulxQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=249.18214&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0gaYBrGBzRBo3U4pexulxQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=249.18214&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

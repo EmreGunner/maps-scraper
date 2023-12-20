@@ -1,0 +1,94 @@
+{
+    "place_id": "ChIJs1q8RS23yhQR3exXF4lmj1w",
+    "name": "\u00c7ift\u00e7i Law Office",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "\u00c7ift\u00e7i Avukatl\u0131k Ortakl\u0131\u011f\u0131",
+            "link": "https://www.google.com/maps/search/%C3%87ift%C3%A7i+Avukatl%C4%B1k+Ortakl%C4%B1%C4%9F%C4%B1/@41.0780473,29.0105306?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "CIFTCI Law Firm",
+            "link": "https://www.google.com/maps/search/CIFTCI+Law+Firm/@41.0675965,28.998865?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Yegin Ciftci",
+            "link": "https://www.google.com/maps/search/Yegin+Ciftci/@41.061413200000004,28.9884953?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00c7ift\u00e7i & Y\u0131lmaz Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/%C3%87ift%C3%A7i+%26+Y%C4%B1lmaz+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.065850499999996,29.003591600000004?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "\u00c7ift\u00e7i Law Office (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Esentepe, \u00c7ift\u00e7i Law Office, Mithat Ulu \u00dcnl\u00fc Sk No:17, 34394 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJs1q8RS23yhQR3exXF4lmj1w",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJs1q8RS23yhQR3exXF4lmj1w&q=?q=place_id:ChIJs1q8RS23yhQR3exXF4lmj1w&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0712718,
+        "longitude": 29.010913499999997
+    },
+    "plus_code": "32C6+G9 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Esentepe",
+        "street": "Mithat Ulu \u00dcnl\u00fc Sk No:17",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34394",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6669662312147184861",
+    "data_id": "0x14cab72d45bc5ab3:0x5c8f66891757ecdd",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

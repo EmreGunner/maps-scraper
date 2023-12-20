@@ -1,0 +1,152 @@
+{
+    "place_id": "ChIJAVCy0QO1yhQR6gt2sFNzJIQ",
+    "name": "Karal Hukuki Dan\u0131\u015fmanl\u0131k",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Germeli Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Germeli+Hukuk+B%C3%BCrosu/@41.118952,29.0095085?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "LEGALKA Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/LEGALKA+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@41.1131637,29.0211281?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Barlas Law Firm",
+            "link": "https://www.google.com/maps/search/Barlas+Law+Firm/@41.1154953,29.009933699999994?authuser=0&entry=ttu",
+            "reviews": 13,
+            "rating": 3.6,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Eryurekli Law Office",
+            "link": "https://www.google.com/maps/search/Eryurekli+Law+Office/@41.1126758,29.019619799999997?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Hanyalo\u011flu & Acar Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Hanyalo%C4%9Flu+%26+Acar+Hukuk+B%C3%BCrosu/@41.110642999999996,29.024816999999995?authuser=0&entry=ttu",
+            "reviews": 54,
+            "rating": 4.8,
+            "main_category": "Hukuk Hizmetleri"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "108178016195751982893",
+        "name": "Karal Hukuki Dan\u0131\u015fmanl\u0131k (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/108178016195751982893"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOBJq4n5UrIQIE-1vrT2k9DHhHCHBReU7O0Ym9H=w480-h240-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0533 033 00 21",
+    "address": "Karal Hukuki Dan\u0131\u015fmanl\u0131k, Maslak 1453 T4 A Blok Daire :116, 34398 Sar\u0131yer/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJAVCy0QO1yhQR6gt2sFNzJIQ",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAVCy0QO1yhQR6gt2sFNzJIQ&q=?q=place_id:ChIJAVCy0QO1yhQR6gt2sFNzJIQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.118569,
+        "longitude": 29.0101405
+    },
+    "plus_code": "4296+C3 Sar\u0131yer, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Maslak",
+        "street": "Maslak 1453 T4 A Blok Daire :116",
+        "city": "Sar\u0131yer",
+        "postal_code": "34398",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "9521862315448077290",
+    "data_id": "0x14cab503d1b25001:0x84247353b0760bea",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOBJq4n5UrIQIE-1vrT2k9DHhHCHBReU7O0Ym9H=w596-h298-k-no"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

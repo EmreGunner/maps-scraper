@@ -1,0 +1,361 @@
+{
+    "place_id": "ChIJEwGQ1UZZtRQRQpef0i-i9v8",
+    "name": "B\u00fcy\u00fck\u00e7ekmece 24. Noterli\u011fi",
+    "description": null,
+    "reviews": 15,
+    "competitors": [
+        {
+            "name": "B\u00fcy\u00fck\u00e7ekmece 11. Noter",
+            "link": "https://www.google.com/maps/search/B%C3%BCy%C3%BCk%C3%A7ekmece+11.+Noter/@41.007520299999996,28.661300699999998?authuser=0&entry=ttu",
+            "reviews": 44,
+            "rating": 3.5,
+            "main_category": "Devlet Dairesi"
+        },
+        {
+            "name": "B\u00dcY\u00dcK\u00c7EKMECE 15.NOTER",
+            "link": "https://www.google.com/maps/search/B%C3%9CY%C3%9CK%C3%87EKMECE+15.NOTER/@40.9907514,28.668587300000002?authuser=0&entry=ttu",
+            "reviews": 13,
+            "rating": 4.2,
+            "main_category": "Noter"
+        },
+        {
+            "name": "B\u00fcy\u00fck\u00e7ekmece 12.Noterli\u011fi",
+            "link": "https://www.google.com/maps/search/B%C3%BCy%C3%BCk%C3%A7ekmece+12.Noterli%C4%9Fi/@41.0021045,28.689462399999996?authuser=0&entry=ttu",
+            "reviews": 13,
+            "rating": 3.7,
+            "main_category": "Noter"
+        },
+        {
+            "name": "B\u00fcy\u00fck\u00e7ekmece 9. Noterli\u011fi",
+            "link": "https://www.google.com/maps/search/B%C3%BCy%C3%BCk%C3%A7ekmece+9.+Noterli%C4%9Fi/@41.0118018,28.642770199999998?authuser=0&entry=ttu",
+            "reviews": 35,
+            "rating": 2.5,
+            "main_category": "Noter"
+        },
+        {
+            "name": "B\u00fcy\u00fck\u00e7ekmece 20.Noter",
+            "link": "https://www.google.com/maps/search/B%C3%BCy%C3%BCk%C3%A7ekmece+20.Noter/@41.0074727,28.6815506?authuser=0&entry=ttu",
+            "reviews": 10,
+            "rating": 1.8,
+            "main_category": "Noter"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "114821081192316152685",
+        "name": "B\u00fcy\u00fck\u00e7ekmece 24. Noterli\u011fi (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/114821081192316152685"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPfCQvG3BEwHe3SqVoNp4rceM3EsWfg88iEJ00S=w408-h544-k-no",
+    "main_category": "Noter",
+    "categories": [
+        "Noter"
+    ],
+    "rating": 4.9,
+    "workday_timing": "08:30\u201317:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 422 13 10",
+    "address": "Yakuplu, B\u00fcy\u00fck\u00e7ekmece 24. Noterli\u011fi, Haramidere Sanayi Sitesi Safir Sk A Blok DA\u0130RE No:214, 34903 Beylikd\u00fcz\u00fc/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJEwGQ1UZZtRQRQpef0i-i9v8",
+    "status": "Kapanmak \u00fczere \u22c5 17:30 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Per 08:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 14
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJEwGQ1UZZtRQRQpef0i-i9v8&q=?q=place_id:ChIJEwGQ1UZZtRQRQpef0i-i9v8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0030418,
+        "longitude": 28.684160199999997
+    },
+    "plus_code": "2M3M+6M Beylikd\u00fcz\u00fc, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Yakuplu",
+        "street": "Haramidere Sanayi Sitesi Safir Sk A Blok DA\u0130RE No:214",
+        "city": "Beylikd\u00fcz\u00fc",
+        "postal_code": "34903",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "18444107650223281986",
+    "data_id": "0x14b55946d5900113:0xfff6a22fd29f9742",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPfCQvG3BEwHe3SqVoNp4rceM3EsWfg88iEJ00S=w224-h298-k-no"
+        },
+        {
+            "about": "D\u0131\u015ftan g\u00f6r\u00fcn\u00fcm",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOwCpbpbzfQLqYxaqbebXaFU_1YrJrmjEV4PHjS=w397-h298-k-no"
+        },
+        {
+            "about": "Videolar",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM4zOsRWP7P14Bgbyb4AuzJrsHW0ErV2UpKRWuQ=w224-h398-k-no"
+        },
+        {
+            "about": "\u0130\u00e7",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN_x12pRt_Hw5ytGSnmZZOHGFlksyPg6SR83EmY=w397-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOwCpbpbzfQLqYxaqbebXaFU_1YrJrmjEV4PHjS=w397-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3RaxZIkxL12gjf3DPJf3-A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=193.79147&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201317:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201317:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201317:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201317:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201317:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Bug\u00fcn e\u015fimle beraber gitti\u011fimiz n\u00f6bet\u00e7i noter \u00e7al\u0131\u015fanlar\u0131n\u0131n anlay\u0131\u015f ve nezaketleri i\u00e7in ne kadar te\u015fekk\u00fcr etsem azd\u0131r . \u0130\u015flemimizi yapan kap\u0131dan ilk veznedeki arkada\u015f\u0131n ilgi ve alakas\u0131ndan dolay\u0131 \u00f6zellikle te\u015fekk\u00fcr ederiz . E\u015fim hamile ve \u00f6n\u00fcm\u00fczde 60 bekleyen varken bizlere yard\u0131mc\u0131 oldular bu \u00fclkenin b\u00f6yle g\u00fczel anlay\u0131\u015fl\u0131 insanlara ihtiyac\u0131 var . M\u00fckemmelsiniz .",
+            "reviewer_name": "Mert Beycan",
+            "rating": 5,
+            "review_text": "Bug\u00fcn e\u015fimle beraber gitti\u011fimiz n\u00f6bet\u00e7i noter \u00e7al\u0131\u015fanlar\u0131n\u0131n anlay\u0131\u015f ve nezaketleri i\u00e7in ne kadar te\u015fekk\u00fcr etsem azd\u0131r . \u0130\u015flemimizi yapan kap\u0131dan ilk veznedeki arkada\u015f\u0131n ilgi ve alakas\u0131ndan dolay\u0131 \u00f6zellikle te\u015fekk\u00fcr ederiz . E\u015fim hamile ve \u00f6n\u00fcm\u00fczde 60 bekleyen varken bizlere yard\u0131mc\u0131 oldular bu \u00fclkenin b\u00f6yle g\u00fczel anlay\u0131\u015fl\u0131 insanlara ihtiyac\u0131 var . M\u00fckemmelsiniz .",
+            "published_at": "2 hafta \u00f6nce",
+            "published_at_date": "2023-12-03T10:16:27.659000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111629448070661940260/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKB7hHoYYoTwkfdiMwSTcePLRE_6jGfLCSeIh8Bdmwv=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u00c7ok h\u0131zl\u0131 ve g\u00fcler y\u00fczl\u00fc bir \u015fekilde vekalet i\u015flemimi hallettikleri i\u00e7in hem noter han\u0131ma hem de t\u00fcm personele te\u015fekk\u00fcr ediyorum. Ger\u00e7ekten i\u015fini b\u00f6yle lay\u0131k\u0131yla yapan bir noterlik buldu\u011fum i\u00e7in \u00e7ok memnunum, t\u00fcm \u00e7al\u0131\u015fanlar\u0131na kolayl\u0131klar diliyorum.",
+            "reviewer_name": "melin mert",
+            "rating": 5,
+            "review_text": "\u00c7ok h\u0131zl\u0131 ve g\u00fcler y\u00fczl\u00fc bir \u015fekilde vekalet i\u015flemimi hallettikleri i\u00e7in hem noter han\u0131ma hem de t\u00fcm personele te\u015fekk\u00fcr ediyorum. Ger\u00e7ekten i\u015fini b\u00f6yle lay\u0131k\u0131yla yapan bir noterlik buldu\u011fum i\u00e7in \u00e7ok memnunum, t\u00fcm \u00e7al\u0131\u015fanlar\u0131na kolayl\u0131klar diliyorum.",
+            "published_at": "3 ay \u00f6nce",
+            "published_at_date": "2023-09-11T10:59:53.424000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113025165158068872819/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI3Fgit7tLbr5NsPwgcIO2sHpvTrPtqvgFYZhTwyqsZ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Tesad\u00fcfen buldu\u011fum noter di\u011fer noterlerle hi\u00e7bir alakas\u0131 yok \u00e7ok g\u00fclery\u00fczl\u00fc anlay\u0131\u015fl\u0131 \u00e7\u00f6z\u00fcmc\u00fc ve  10 dakikada t\u00fcm i\u015flemlerimi hallettiler.\n\nt\u00fcm g\u00fcn\u00fcm\u00fcz\u00fc noterde \u00f6ld\u00fcrmeye hic gerek yokmus buraya geldim 10 dakikada i\u015fim halloldu kesinlikle herkese tavsiye ederim.",
+            "reviewer_name": "hakan Hurma",
+            "rating": 5,
+            "review_text": "Tesad\u00fcfen buldu\u011fum noter di\u011fer noterlerle hi\u00e7bir alakas\u0131 yok \u00e7ok g\u00fclery\u00fczl\u00fc anlay\u0131\u015fl\u0131 \u00e7\u00f6z\u00fcmc\u00fc ve  10 dakikada t\u00fcm i\u015flemlerimi hallettiler.\n\nt\u00fcm g\u00fcn\u00fcm\u00fcz\u00fc noterde \u00f6ld\u00fcrmeye hic gerek yokmus buraya geldim 10 dakikada i\u015fim halloldu kesinlikle herkese tavsiye ederim.",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-09-25T10:36:49.789000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/118095395370782984256/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWGeo08G8oZG2LVlLSDQ9GyzrqP6oYohdSKVM8UeY8rlQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Ger\u00e7ektende i\u015flerini severek, sayg\u0131 \u00e7er\u00e7evesinde yapan nadide noterlerden birisi. \u0130lgi ve tecr\u00fcbeleri i\u00e7in te\u015fekk\u00fcr ederim.",
+            "reviewer_name": "Do\u011fan Aksakal",
+            "rating": 5,
+            "review_text": "Ger\u00e7ektende i\u015flerini severek, sayg\u0131 \u00e7er\u00e7evesinde yapan nadide noterlerden birisi. \u0130lgi ve tecr\u00fcbeleri i\u00e7in te\u015fekk\u00fcr ederim.",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-09-25T10:41:35.276000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111383535050476271042/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV9uV01ybYYkvIIg5ZozNWFWboSamsDrX-MzqohDjqYjGU=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u00c7al\u0131\u015fanlar\u0131 profesyonel ve g\u00fcler y\u00fczl\u00fc olan uzun s\u00fcre beklemeden i\u015finizi hemen halledebilece\u011finiz muhte\u015fem bir noterlik.\nArap\u00e7a, \u0130ngilizce ve Fars\u00e7a dilleri ba\u015fta olmak \u00fczere profesyonel ve hizmet a\u00e7\u0131s\u0131ndan uygun fiyatl\u0131 Yeminli Terc\u00fcmanlar\u0131 vard\u0131r kesinlikle tavsiye edilir\ud83d\udc4c\ud83c\udffb",
+            "reviewer_name": "Sami Maktabi",
+            "rating": 5,
+            "review_text": "\u00c7al\u0131\u015fanlar\u0131 profesyonel ve g\u00fcler y\u00fczl\u00fc olan uzun s\u00fcre beklemeden i\u015finizi hemen halledebilece\u011finiz muhte\u015fem bir noterlik.\nArap\u00e7a, \u0130ngilizce ve Fars\u00e7a dilleri ba\u015fta olmak \u00fczere profesyonel ve hizmet a\u00e7\u0131s\u0131ndan uygun fiyatl\u0131 Yeminli Terc\u00fcmanlar\u0131 vard\u0131r kesinlikle tavsiye edilir\ud83d\udc4c\ud83c\udffb",
+            "published_at": "8 ay \u00f6nce",
+            "published_at_date": "2023-04-10T20:46:51.367000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/100720134793164525255/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ-vjdtGT7_HFalD3xvcII0ZrWOAukl7-dSW60X5QVW=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "1. Numara masadaki sorumlu ad\u0131 Tu\u011fba \u00e7ooook profesyonel, g\u00fcler y\u00fczl\u00fc, kibar ve seve seve i\u015f yap\u0131yor, anlatamam. Tavsiye ederim",
+            "reviewer_name": "Enes Osmanl\u0131",
+            "rating": 5,
+            "review_text": "1. Numara masadaki sorumlu ad\u0131 Tu\u011fba \u00e7ooook profesyonel, g\u00fcler y\u00fczl\u00fc, kibar ve seve seve i\u015f yap\u0131yor, anlatamam. Tavsiye ederim",
+            "published_at": "6 ay \u00f6nce",
+            "published_at_date": "2023-06-08T17:08:31.483000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110869268956525924405/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUuMaFiauvThGzOF8EtawfzbJp3wqNPUjgew3VIbP4SYww=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u00c7ok sakin h\u0131zl\u0131 ilgililer; 25 dakikada i\u015flem biti; almak i\u00e7inde gelmek laz\u0131m :)",
+            "reviewer_name": "emir begit",
+            "rating": 5,
+            "review_text": "\u00c7ok sakin h\u0131zl\u0131 ilgililer; 25 dakikada i\u015flem biti; almak i\u00e7inde gelmek laz\u0131m :)",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-11-07T08:49:25.626000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 305,
+            "total_number_of_photos_by_reviewer": 878,
+            "reviewer_url": "https://www.google.com/maps/contrib/111361813136028560579/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKCvnxgp1KL9OfoaUX_-qt0uhnxkKFJsYMXy9Fm5glU=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNwveTGHU4BEIlypglt--glUIKGUyaTlznjOwGP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOy-P8P9P01Ac8BVqPSAGd_4OzSbubx024l5Ovm=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Noterlik \u00e7alisanlarindan tugba hn  mesaiye kalmay\u0131 g\u00f6ze alarak Fel\u00e7li annem i\u00e7in  eve kadar gelerek  i\u015flem yapt\u0131.t\u00fcm noter personeli \u00e7ok h\u0131zl\u0131 guleryuzlu ve profesyoneldi \u00e7ok te\u015fekk\u00fcr ederim",
+            "reviewer_name": "Sermin Baykal",
+            "rating": 5,
+            "review_text": "Noterlik \u00e7alisanlarindan tugba hn  mesaiye kalmay\u0131 g\u00f6ze alarak Fel\u00e7li annem i\u00e7in  eve kadar gelerek  i\u015flem yapt\u0131.t\u00fcm noter personeli \u00e7ok h\u0131zl\u0131 guleryuzlu ve profesyoneldi \u00e7ok te\u015fekk\u00fcr ederim",
+            "published_at": "11 ay \u00f6nce",
+            "published_at_date": "2022-12-22T13:22:52.574000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113999883033121581480/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLE3V-7KvwnVoDZtdQFyH2Qaw5OX7vvOPE3v9gvTnzG=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

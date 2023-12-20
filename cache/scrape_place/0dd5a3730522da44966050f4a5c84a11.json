@@ -1,0 +1,121 @@
+{
+    "place_id": "ChIJM4WS9Wm2yhQRUMpeIJPkbTo",
+    "name": "ACT Law Firm",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Modus Denetim ve Yeminli Mali M\u00fc\u015favirlik Anonim \u015eirketi",
+            "link": "https://www.google.com/maps/search/Modus+Denetim+ve+Yeminli+Mali+M%C3%BC%C5%9Favirlik+Anonim+%C5%9Eirketi/@41.0611804,28.998001499999994?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Mali M\u00fc\u015favir"
+        },
+        {
+            "name": "AKT D.T Law Firm",
+            "link": "https://www.google.com/maps/search/AKT+D.T+Law+Firm/@41.0859715,29.012451700000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "I\u00e7tem Legal",
+            "link": "https://www.google.com/maps/search/I%C3%A7tem+Legal/@41.0873572,29.020083999999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Arslan Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Arslan+Hukuk+B%C3%BCrosu/@41.0800663,29.0178511?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 4.9,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "CpT Law Firm",
+            "link": "https://www.google.com/maps/search/CpT+Law+Firm/@41.080388000000006,29.010213999999994?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "https://act-lawfirm.com/contact-us",
+    "owner": {
+        "id": null,
+        "name": "ACT Law Firm (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5cz9qapnlLB1eZvfJEJe_g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=213.76595&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0554 725 70 87",
+    "address": "Levent, ACT Law Firm, Lale Soka\u011f\u0131 No: 9, 34330 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJM4WS9Wm2yhQRUMpeIJPkbTo",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJM4WS9Wm2yhQRUMpeIJPkbTo&q=?q=place_id:ChIJM4WS9Wm2yhQRUMpeIJPkbTo&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0774033,
+        "longitude": 29.016848399999997
+    },
+    "plus_code": "32G8+XP Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Levent",
+        "street": "Lale Soka\u011f\u0131 No: 9",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34330",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4210272547215690320",
+    "data_id": "0x14cab669f5928533:0x3a6de493205eca50",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5cz9qapnlLB1eZvfJEJe_g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=213.76595&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5cz9qapnlLB1eZvfJEJe_g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=213.76595&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

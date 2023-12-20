@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJfWwXCEi5yhQR50zaqSmzuzI",
+    "name": "Yerebasmaz Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Esen Hukuk B\u00fcrosu- Law Firm",
+            "link": "https://www.google.com/maps/search/Esen+Hukuk+B%C3%BCrosu-+Law+Firm/@40.9808977,29.0414131?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u015eim\u015fek Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/%C5%9Eim%C5%9Fek+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9799865,29.039470299999998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Hukuk+B%C3%BCrosu/@40.9796656,29.0400056?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Yemi\u015fci Hukuk Burosu",
+            "link": "https://www.google.com/maps/search/Yemi%C5%9Fci+Hukuk+Burosu/@40.981561,29.040946?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6z\u015fen Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%96z%C5%9Fen+Hukuk+B%C3%BCrosu/@40.9737084,29.054958?authuser=0&entry=ttu",
+            "reviews": 23,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Yerebasmaz Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nZHt51odI6Zfluq0ghzEsQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=286.8404&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Fenerbah\u00e7e, Yerebasmaz Hukuk B\u00fcrosu, Fener Kalam\u0131\u015f Cd. No:12, 34726 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJfWwXCEi5yhQR50zaqSmzuzI",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJfWwXCEi5yhQR50zaqSmzuzI&q=?q=place_id:ChIJfWwXCEi5yhQR50zaqSmzuzI&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9806211,
+        "longitude": 29.0412705
+    },
+    "plus_code": "X2JR+6G Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Fenerbah\u00e7e",
+        "street": "Fener Kalam\u0131\u015f Cd. No:12",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34726",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "3655712514065976551",
+    "data_id": "0x14cab94808176c7d:0x32bbb329a9da4ce7",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nZHt51odI6Zfluq0ghzEsQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=286.8404&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nZHt51odI6Zfluq0ghzEsQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=286.8404&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

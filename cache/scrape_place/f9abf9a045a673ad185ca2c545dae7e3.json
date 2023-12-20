@@ -1,0 +1,131 @@
+{
+    "place_id": "ChIJAVhtaGe2yhQRao1mbBkaX5w",
+    "name": "NG Legal",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "EREN & GONCE HUKUK ve DANI\u015eMANLIK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/EREN+%26+GONCE+HUKUK+ve+DANI%C5%9EMANLIK+B%C3%9CROSU/@41.0747838,29.0169386?authuser=0&entry=ttu",
+            "reviews": 236,
+            "rating": 4.9,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "BATTAL HUKUK & DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/BATTAL+HUKUK+%26+DANI%C5%9EMANLIK/@41.078899899999996,29.0194856?authuser=0&entry=ttu",
+            "reviews": 20,
+            "rating": 2.6,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "OZKAN Law & Consulting | OZKAN Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/OZKAN+Law+%26+Consulting+%7C+OZKAN+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.076777,29.013283?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "YAZICILEGAL Hukuk b\u00fcrosu",
+            "link": "https://www.google.com/maps/search/YAZICILEGAL+Hukuk+b%C3%BCrosu/@41.0775131,29.014692999999998?authuser=0&entry=ttu",
+            "reviews": 37,
+            "rating": 2.6,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "G\u00dcRASLAN Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%9CRASLAN+Hukuk+B%C3%BCrosu/@41.081933,29.015365300000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Kurumsal Ofis"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "NG Legal (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Kp2QLvH_ohzm7_h4UjVkYQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=300.83835&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0533 928 81 13",
+    "address": "Levent, NG Legal, \u015eair \u00c7elebi Sk. No.1, 34413 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJAVhtaGe2yhQRao1mbBkaX5w",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAVhtaGe2yhQRao1mbBkaX5w&q=?q=place_id:ChIJAVhtaGe2yhQRao1mbBkaX5w&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0798485,
+        "longitude": 29.0067924
+    },
+    "plus_code": "32H4+WP Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Levent",
+        "street": "\u015eair \u00c7elebi Sk. No.1",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34413",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "11267753489199435114",
+    "data_id": "0x14cab667686d5801:0x9c5f1a196c668d6a",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Kp2QLvH_ohzm7_h4UjVkYQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=300.83835&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Kp2QLvH_ohzm7_h4UjVkYQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=300.83835&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

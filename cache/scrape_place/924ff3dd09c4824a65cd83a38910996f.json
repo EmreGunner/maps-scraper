@@ -1,0 +1,101 @@
+{
+    "place_id": "ChIJtWSbsGS2yhQR6iiyN81IFY4",
+    "name": "Alpa\u011fut Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "ALTUNAY HUKUK",
+            "link": "https://www.google.com/maps/search/ALTUNAY+HUKUK/@41.080805,29.010371?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Alfa Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Alfa+Hukuk+B%C3%BCrosu/@41.067296299999995,28.9951357?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "ALPAT Hukuk& Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/ALPAT+Hukuk%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9937712,29.0256432?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ALFA HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/ALFA+HUKUK+B%C3%9CROSU/@41.073752999999996,28.980638000000003?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Pulat Hukuk B\u00fcrosu Av. Faruk Pulat",
+            "link": "https://www.google.com/maps/search/Pulat+Hukuk+B%C3%BCrosu+Av.+Faruk+Pulat/@41.0669934,29.0018865?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 3.7,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": "http://alpagut.av.tr/",
+    "owner": {
+        "id": null,
+        "name": "Alpa\u011fut Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 416 80 25",
+    "address": "Maslak, Alpa\u011fut Hukuk B\u00fcrosu, Eski B\u00fcy\u00fckdere Cad. No:14 Park Plaza Kat:19/43 34398, Sar\u0131yer/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJtWSbsGS2yhQR6iiyN81IFY4",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJtWSbsGS2yhQR6iiyN81IFY4&q=?q=place_id:ChIJtWSbsGS2yhQR6iiyN81IFY4&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0880734,
+        "longitude": 29.0062194
+    },
+    "plus_code": null,
+    "detailed_address": {
+        "ward": "Maslak",
+        "street": "Eski B\u00fcy\u00fckdere Cad. No:14 Park Plaza Kat:19/43 34398",
+        "city": "Sar\u0131yer",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10238169374136609002",
+    "data_id": "0x14cab664b09b64b5:0x8e1548cd37b228ea",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

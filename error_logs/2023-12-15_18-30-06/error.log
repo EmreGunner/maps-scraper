@@ -1,0 +1,120 @@
+Traceback (most recent call last):
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/botasaurus/decorators.py", line 593, in run_task
+    result = func(reqs, data)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper.py", line 113, in scrape_place
+    data = extract_data(app_initialization_state, link)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/extract_data.py", line 579, in extract_data
+    data = parse(input_str)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/extract_data.py", line 436, in parse
+    input_string = json.loads(data)[3][6]  # Replace with actual input
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/botasaurus/decorators.py", line 593, in run_task
+    result = func(reqs, data)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper.py", line 113, in scrape_place
+    data = extract_data(app_initialization_state, link)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/extract_data.py", line 579, in extract_data
+    data = parse(input_str)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/extract_data.py", line 436, in parse
+    input_string = json.loads(data)[3][6]  # Replace with actual input
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/botasaurus/decorators.py", line 593, in run_task
+    result = func(reqs, data)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper.py", line 113, in scrape_place
+    data = extract_data(app_initialization_state, link)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/extract_data.py", line 579, in extract_data
+    data = parse(input_str)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/extract_data.py", line 436, in parse
+    input_string = json.loads(data)[3][6]  # Replace with actual input
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/urllib3/util/connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/home/titan/anaconda3/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/urllib3/connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/urllib3/connectionpool.py", line 1042, in _validate_conn
+    conn.connect()
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/urllib3/connection.py", line 358, in connect
+    self.sock = conn = self._new_conn()
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/urllib3/connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f6f931ae830>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/titan/.local/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /maps/search/Serbest+Muhasebeci+Mali+M%C3%BC%C5%9Favir+Emre+Murat+%C3%87ak%C4%B1r/@41.008380599999995,28.9633823?authuser=0&hl=tr&entry=ttu (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f6f931ae830>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/botasaurus/decorators.py", line 593, in run_task
+    result = func(reqs, data)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper.py", line 105, in scrape_place
+    html =  requests.get(link,cookies=cookies,).text
+  File "/home/titan/.local/lib/python3.10/site-packages/requests/sessions.py", line 600, in get
+    return self.request("GET", url, **kwargs)
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/cloudscraper/__init__.py", line 259, in request
+    self.perform_request(method, url, *args, **kwargs)
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/cloudscraper/__init__.py", line 192, in perform_request
+    return super(CloudScraper, self).request(method, url, *args, **kwargs)
+  File "/home/titan/.local/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/titan/.local/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/titan/.local/lib/python3.10/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /maps/search/Serbest+Muhasebeci+Mali+M%C3%BC%C5%9Favir+Emre+Murat+%C3%87ak%C4%B1r/@41.008380599999995,28.9633823?authuser=0&hl=tr&entry=ttu (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f6f931ae830>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/botasaurus/decorators.py", line 593, in run_task
+    result = func(reqs, data)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper.py", line 113, in scrape_place
+    data = extract_data(app_initialization_state, link)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/extract_data.py", line 579, in extract_data
+    data = parse(input_str)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/extract_data.py", line 436, in parse
+    input_string = json.loads(data)[3][6]  # Replace with actual input
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/botasaurus/decorators.py", line 593, in run_task
+    result = func(reqs, data)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper.py", line 113, in scrape_place
+    data = extract_data(app_initialization_state, link)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/extract_data.py", line 579, in extract_data
+    data = parse(input_str)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/extract_data.py", line 436, in parse
+    input_string = json.loads(data)[3][6]  # Replace with actual input
+IndexError: list index out of range

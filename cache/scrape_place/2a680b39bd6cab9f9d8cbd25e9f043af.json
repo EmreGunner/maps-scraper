@@ -1,0 +1,121 @@
+{
+    "place_id": "ChIJMdhTzRy3yhQRG6Q701itrdI",
+    "name": "F\u0131rat Avukatl\u0131k",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "F\u0131rat Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/F%C4%B1rat+Hukuk+B%C3%BCrosu/@41.062078,28.987711399999995?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat F\u0131rat Y\u0131lmaz - \u00c7a\u011flayan Ceza Avukat\u0131-A\u011f\u0131r Ceza Avukat\u0131-\u0130cra Avukat\u0131-Bo\u015fanma Avukat\u0131-Ka\u011f\u0131thane Avukat",
+            "link": "https://www.google.com/maps/search/Avukat+F%C4%B1rat+Y%C4%B1lmaz+-+%C3%87a%C4%9Flayan+Ceza+Avukat%C4%B1-A%C4%9F%C4%B1r+Ceza+Avukat%C4%B1-%C4%B0cra+Avukat%C4%B1-Bo%C5%9Fanma+Avukat%C4%B1-Ka%C4%9F%C4%B1thane+Avukat/@41.073262500000006,28.9813573?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "F\u0131rat Hukuk&Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/F%C4%B1rat+Hukuk%26Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.976026999999995,29.096269000000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "F\u0131rat Hukuk Ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/F%C4%B1rat+Hukuk+Ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@41.0134786,28.9076925?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 5,
+            "main_category": "Ceza Avukat\u0131"
+        },
+        {
+            "name": "Kul \u0130le Kul Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kul+%C4%B0le+Kul+Hukuk+B%C3%BCrosu/@41.063707799999996,28.986750100000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "115390350272084252512",
+        "name": "F\u0131rat Avukatl\u0131k (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/115390350272084252512"
+    },
+    "featured_image": "//lh4.googleusercontent.com/b_AA1tZCxK5fvrQODdTsZouYhUwjwyvUaW8c1eetCOfvs6sE82G4gnlNgV3YqqM=w408-h306-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 240 00 10",
+    "address": "Merkez, F\u0131rat Avukatl\u0131k, 3 2 134/9, Abide-i H\u00fcrriyet Cd, 34381 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJMdhTzRy3yhQRG6Q701itrdI",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJMdhTzRy3yhQRG6Q701itrdI&q=?q=place_id:ChIJMdhTzRy3yhQRG6Q701itrdI&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.063004199999995,
+        "longitude": 28.987772
+    },
+    "plus_code": "3X7Q+64 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkez",
+        "street": "3 2 134/9, Abide-i H\u00fcrriyet Cd",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34381",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "15180980515948438555",
+    "data_id": "0x14cab71ccd53d831:0xd2adad58d33ba41b",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh4.googleusercontent.com/b_AA1tZCxK5fvrQODdTsZouYhUwjwyvUaW8c1eetCOfvs6sE82G4gnlNgV3YqqM=w397-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gg-aeInA2UEVP61lz2SSWg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=34.81362&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

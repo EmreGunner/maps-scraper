@@ -1,0 +1,103 @@
+{
+    "place_id": "ChIJsUS3jcnDJRURdJKuRUBBZY8",
+    "name": "Avukat Sinem Bal",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Uzman Arabulucu Avukat SEM\u0130R ALKAN - \u0627\u0644\u0645\u062d\u0627\u0645\u064a \u0633\u0645\u064a\u0631 \u0627\u0644\u0643\u0627\u0646",
+            "link": "https://www.google.com/maps/search/Uzman+Arabulucu+Avukat+SEM%C4%B0R+ALKAN+-+%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%8A+%D8%B3%D9%85%D9%8A%D8%B1+%D8%A7%D9%84%D9%83%D8%A7%D9%86/@36.2028941,36.1620923?authuser=0&entry=ttu",
+            "reviews": 40,
+            "rating": 3.8,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat S\u00fcleyman BAH\u00c7EC\u0130O\u011eLU",
+            "link": "https://www.google.com/maps/search/Avukat+S%C3%BCleyman+BAH%C3%87EC%C4%B0O%C4%9ELU/@36.203512499999995,36.1619179?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Sinan G\u00fcm\u00fc\u015f",
+            "link": "https://www.google.com/maps/search/Avukat+Sinan+G%C3%BCm%C3%BC%C5%9F/@36.198969,36.153394999999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "AVUKAT AL\u0130 BEL\u0130\u011e \u00d6ZALP",
+            "link": "https://www.google.com/maps/search/AVUKAT+AL%C4%B0+BEL%C4%B0%C4%9E+%C3%96ZALP/@36.199958099999996,36.1560059?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 4.5,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Avukat Sinem Bal (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9N5Pu55Mvoik8BNnIlvNVw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=191.6556&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Cumhuriyet, Avukat Sinem Bal, G\u00fcnd\u00fcz Cd. No:25, 31040 Antakya/Hatay",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJsUS3jcnDJRURdJKuRUBBZY8",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJsUS3jcnDJRURdJKuRUBBZY8&q=?q=place_id:ChIJsUS3jcnDJRURdJKuRUBBZY8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.2001835,
+        "longitude": 36.156135299999995
+    },
+    "plus_code": "6524+3F Antakya, Hatay",
+    "detailed_address": {
+        "ward": "Cumhuriyet",
+        "street": "G\u00fcnd\u00fcz Cd. No:25",
+        "city": "Antakya",
+        "postal_code": "31040",
+        "state": "Hatay",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10332736664374252148",
+    "data_id": "0x1525c3c98db744b1:0x8f65414045ae9274",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9N5Pu55Mvoik8BNnIlvNVw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=191.6556&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9N5Pu55Mvoik8BNnIlvNVw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=191.6556&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,156 @@
+{
+    "place_id": "ChIJd3cMkiW2yhQRb239SCKIWSU",
+    "name": "Yasaman Hukuk",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Mert Van Avukatl\u0131k ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Mert+Van+Avukatl%C4%B1k+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@41.0681678,29.0058665?authuser=0&entry=ttu",
+            "reviews": 11,
+            "rating": 3.8,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "MD Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/MD+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.0546566,29.033947599999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Aksan Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Aksan+Hukuk+B%C3%BCrosu/@41.086021800000005,29.0124178?authuser=0&entry=ttu",
+            "reviews": 93,
+            "rating": 4.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u0130z Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C4%B0z+Hukuk+B%C3%BCrosu/@41.0614298,29.036810199999998?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 2.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Levent Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Levent+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@41.0845415,29.013868400000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://yasaman.av.tr/fr/?page_id=19",
+    "owner": {
+        "id": "106915536399702584803",
+        "name": "Yasaman Hukuk (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/106915536399702584803"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z_aZGZ3VdpvncUlDeq65NA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=352.68704&pitch=0&thumbfov=100",
+    "main_category": "Hukuk Hizmetleri",
+    "categories": [
+        "Hukuk Hizmetleri"
+    ],
+    "rating": null,
+    "workday_timing": "09:30\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 265 09 21",
+    "address": "Yasaman Hukuk, No:57, Kuru\u00e7e\u015fme Cd., 34345 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJd3cMkiW2yhQRb239SCKIWSU",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJd3cMkiW2yhQRb239SCKIWSU&q=?q=place_id:ChIJd3cMkiW2yhQRb239SCKIWSU&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0619491,
+        "longitude": 29.0385073
+    },
+    "plus_code": "326Q+QC Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Kuru\u00e7e\u015fme",
+        "street": "No:57, Kuru\u00e7e\u015fme Cd.",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34345",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2691331933165415791",
+    "data_id": "0x14cab625920c7777:0x2559882248fd6d6f",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z_aZGZ3VdpvncUlDeq65NA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=352.68704&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z_aZGZ3VdpvncUlDeq65NA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=352.68704&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:30\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

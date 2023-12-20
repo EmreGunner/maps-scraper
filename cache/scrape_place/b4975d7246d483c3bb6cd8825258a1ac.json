@@ -1,0 +1,101 @@
+{
+    "place_id": "ChIJq6qqea23yhQRB_JzNkBBF4w",
+    "name": "K-LEGAL HUKUK",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Kara\u00e7al\u0131 Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kara%C3%A7al%C4%B1+Hukuk+B%C3%BCrosu/@41.0654987,29.008225799999995?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 4.4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Karakaya Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Karakaya+Hukuk+B%C3%BCrosu/@41.067628,29.0109952?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "K\u0131l\u0131\u00e7 Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/K%C4%B1l%C4%B1%C3%A7+Hukuk+B%C3%BCrosu/@41.0600528,29.010438299999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Sar\u0131kaya Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Sar%C4%B1kaya+Hukuk+B%C3%BCrosu/@41.0608814,29.012480399999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Kaya Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kaya+Hukuk+B%C3%BCrosu/@41.06602710000001,29.006893?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://kubraipek.av.tr/",
+    "owner": {
+        "id": null,
+        "name": "K-LEGAL HUKUK (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Hukuk Hizmetleri",
+    "categories": [
+        "Hukuk Hizmetleri"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0507 245 37 92",
+    "address": "Balmumcu, K-LEGAL HUKUK, Barbaros Blv. \u0130ba Bloklar\u0131 D:26/9, 34349 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqea23yhQRB_JzNkBBF4w",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJq6qqea23yhQRB_JzNkBBF4w&q=?q=place_id:ChIJq6qqea23yhQRB_JzNkBBF4w&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0575045,
+        "longitude": 29.0105306
+    },
+    "plus_code": null,
+    "detailed_address": {
+        "ward": "Balmumcu",
+        "street": "Barbaros Blv. \u0130ba Bloklar\u0131 D:26/9",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34349",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10094608833821536775",
+    "data_id": "0x14cab7ad79aaaaab:0x8c1741403673f207",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

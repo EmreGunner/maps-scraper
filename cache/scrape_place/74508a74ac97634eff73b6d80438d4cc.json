@@ -1,0 +1,106 @@
+{
+    "place_id": "ChIJVY7kC5m3yhQR3MusGrd9Dio",
+    "name": "Ozbek Legal",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Avukat Ahmet \u00d6zbolat Attorneys at Law",
+            "link": "https://www.google.com/maps/search/Avukat+Ahmet+%C3%96zbolat+Attorneys+at+Law/@41.049599,28.993344?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u00d6zbek Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%96zbek+Hukuk+B%C3%BCrosu/@41.014784,28.944584000000003?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6zbek & Ba\u015fdalan Hukuk ve Arabuluculuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%96zbek+%26+Ba%C5%9Fdalan+Hukuk+ve+Arabuluculuk+B%C3%BCrosu/@41.0680018,28.9868715?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Serdar Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Serdar+Hukuk+B%C3%BCrosu/@41.0498753,28.9886052?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Maral Avukatl\u0131k Ve Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Maral+Avukatl%C4%B1k+Ve+Hukuk+B%C3%BCrosu/@41.0500968,28.9891897?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Ozbek Legal (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNEswwXK0YYWHLrDm7CsiPMKOBOsOL6YCglH8HO=w408-h551-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 230 22 36",
+    "address": "Halaskargazi, Ozbek Legal, Vali Kona\u011f\u0131 Cd. No:17/2, 34371 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJVY7kC5m3yhQR3MusGrd9Dio",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJVY7kC5m3yhQR3MusGrd9Dio&q=?q=place_id:ChIJVY7kC5m3yhQR3MusGrd9Dio&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.049869799999996,
+        "longitude": 28.9886108
+    },
+    "plus_code": "2XXQ+WC \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Halaskargazi",
+        "street": "Vali Kona\u011f\u0131 Cd. No:17/2",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34371",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "3030497824646941660",
+    "data_id": "0x14cab7990be48e55:0x2a0e7db71aaccbdc",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNEswwXK0YYWHLrDm7CsiPMKOBOsOL6YCglH8HO=w224-h302-k-no"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

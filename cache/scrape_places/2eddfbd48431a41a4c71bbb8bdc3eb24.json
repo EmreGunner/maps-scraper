@@ -1,0 +1,3013 @@
+{
+    "query": "adult shops near Tucson",
+    "places": [
+        {
+            "place_id": "ChIJ7a5U95tx1oYR69n-CN_A-Rg",
+            "name": "Continental Adult Shop",
+            "description": null,
+            "reviews": 31,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Continental Adult Shop (Sahibi)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPB1Ml2qZWd-ilFS7VTJ70VZM0LCRazP9p1AMK_=w408-h725-k-no",
+            "main_category": "Erotik Esya Magazasi",
+            "categories": [
+                "Erotik Esya Magazasi"
+            ],
+            "rating": 4.1,
+            "workday_timing": "09:00-00:00",
+            "closed_on": "Open All Days",
+            "phone": "+1 520-327-8402",
+            "address": "Continental Adult Shop, 2655 N Campbell Ave, Tucson, AZ 85719, Amerika Birlesik Devletleri",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Continental+Adult+Shop/data=!4m7!3m6!1s0x86d6719bf754aeed:0x18f9c0df08fed9eb!8m2!3d32.2554141!4d-110.9442551!16s%2Fg%2F1tcz8rs4!19sChIJ7a5U95tx1oYR69n-CN_A-Rg?authuser=0&hl=tr&rclk=1",
+            "status": "Acik  Kapanis saati: 00:00",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 5,
+                "2": 0,
+                "3": 1,
+                "4": 5,
+                "5": 20
+            },
+            "featured_question": {
+                "question": "(Google tarafindan cevrilmistir) Karanlik bir arka oda var mi?\n\n(Orijinal)\nIS there a dark back room?",
+                "answer": "(Google tarafindan cevrilmistir) Hayir maalesef.\n\n(Orijinal)\nNo, unfortunately.",
+                "question_date": "2017-10-23T20:33:47",
+                "question_ago": "6 yil once",
+                "asked_by": {
+                    "name": "Charles Hughes",
+                    "link": "https://www.google.com/maps/contrib/102733831782731014030"
+                },
+                "answer_date": "2018-05-23T07:57:46",
+                "answer_ago": "5 yil once",
+                "answered_by": {
+                    "name": "ryan GREEN",
+                    "link": "https://www.google.com/maps/contrib/104149954372376931727"
+                }
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ7a5U95tx1oYR69n-CN_A-Rg&q=Continental+Adult+Shop&authuser=0&hl=tr&gl=US",
+            "coordinates": {
+                "latitude": 32.255414099999996,
+                "longitude": -110.94425509999999
+            },
+            "plus_code": "7344+57 Tucson, Arizona, Amerika Birlesik Devletleri",
+            "detailed_address": {
+                "ward": "Samos",
+                "street": "2655 N Campbell Ave",
+                "city": "Tucson",
+                "postal_code": "85719",
+                "state": "Arizona",
+                "country_code": "US"
+            },
+            "time_zone": "America/Phoenix",
+            "cid": "1799681590272383467",
+            "data_id": "0x86d6719bf754aeed:0x18f9c0df08fed9eb",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Hizmet secenekleri",
+                    "options": [
+                        {
+                            "name": "Magaza icinde alisveris",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Erisilebilirlik",
+                    "options": [
+                        {
+                            "name": "Tekerlekli sandalyeye uygun giris",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Tekerlekli sandalyeye uygun park yeri",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Odeme",
+                    "options": [
+                        {
+                            "name": "Banka karti",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Kredi karti",
+                            "enabled": true
+                        },
+                        {
+                            "name": "NFC ile mobil odeme",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Kredi karti",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPB1Ml2qZWd-ilFS7VTJ70VZM0LCRazP9p1AMK_=w224-h398-k-no"
+                },
+                {
+                    "about": "Street View ve 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ae7HkAKMeOXSbhMmZ0zuEw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=182.70345&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "09:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "09:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "09:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "09:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "09:00-02:00"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "09:00-02:00"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "09:00-02:00"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Absolutely disappointing that manger needs to go! he is the worst! Rehiring bad employees with bad attitudes and poor customer service to fire employees with great attitudes and amazing customer service. BRING KIM BACK!!! AND FIRE THAT BISH!! Better yet owner needs to fire the manager and hire KIM as the manager. Should would diffenatly give this place the lift it needs.",
+                    "reviewer_name": "Kluuv Mine",
+                    "rating": 1,
+                    "review_text": "Absolutely disappointing that manger needs to go! he is the worst! Rehiring bad employees with bad attitudes and poor customer service to fire employees with great attitudes and amazing customer service. BRING KIM BACK!!! AND FIRE THAT BISH!! Better yet owner needs to fire the manager and hire KIM as the manager. Should would diffenatly give this place the lift it needs.",
+                    "published_at": "4 ay once",
+                    "published_at_date": "2023-08-01T02:14:34.489000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 4,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100512887180873548003/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJlYjAdnR4npYFtVfJPoOfDrnlt2UVstFXDfQB8MwWb=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Yemligin gitmesi gerektigi kesinlikle hayal kirikligi yaratiyor! o en kotusu! Kotu tavirlara ve kotu musteri hizmetlerine sahip kotu calisanlari yeniden ise almak, harika tavirlara ve harika musteri hizmetlerine sahip calisanlari kovmak icin. KIM'I GERI GETIRIN!!! VE O BISI ATESLEYIN!! Daha da iyisi, sahibinin yoneticiyi kovmasi ve yonetici olarak KIM'i tutmasi gerekiyor. Farkli bir sekilde bu yere ihtiyaci olan destegi vermeli.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Decent selection ..but let's be honest,  went there for the arcade.... booths are small , with a fixed seat that  leaves access under the half-doors, a little funky  but still fun,,,, I just left mine open and put on a show.. someone got an eyeful and then a mouthful of my creamy load.",
+                    "reviewer_name": "public strokin is fun",
+                    "rating": 4,
+                    "review_text": "Decent selection ..but let's be honest,  went there for the arcade.... booths are small , with a fixed seat that  leaves access under the half-doors, a little funky  but still fun,,,, I just left mine open and put on a show.. someone got an eyeful and then a mouthful of my creamy load.",
+                    "published_at": "bir hafta once",
+                    "published_at_date": "2023-11-25T19:58:47.320000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 12,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112557684413063453797/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU60ob5frLXZNvAqthmwvmQARNy3i3GxOxTCrVkMNOzHw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Iyi secim ..ama durust olalim, oraya atari salonu icin gittim.... kabinler kucuk, yarim kapilarin altindan erisim saglayan sabit bir koltuk var, biraz korkak ama yine de eglenceli,,,, benimkini az once acik biraktim ve bir gosteri duzenledim.. Birisi kremali yukumden once gozlerine bakti, sonra da agiz dolusu bir sey aldi.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very welcoming place. Warm friendly. Great selection for all your needs and wants.",
+                    "reviewer_name": "Sonoran Desert Coumnity Watch",
+                    "rating": 5,
+                    "review_text": "Very welcoming place. Warm friendly. Great selection for all your needs and wants.",
+                    "published_at": "3 ay once",
+                    "published_at_date": "2023-08-16T05:43:37.222000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102772103347622642075/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVaKq-xmYv-yBM6P0CUbvnBr-JC1yt7B-UWwGsADXa_KBU=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Cok misafirperver bir yer. Sicak arkadas canlisi. Tum ihtiyaclariniz ve istekleriniz icin mukemmel secim.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I went there today I was very nervous first time out dressed up. Everyone there was awesome made me feel at home explained everything to me. Great place I plan on going back",
+                    "reviewer_name": "Cindie Honey",
+                    "rating": 5,
+                    "review_text": "I went there today I was very nervous first time out dressed up. Everyone there was awesome made me feel at home explained everything to me. Great place I plan on going back",
+                    "published_at": "8 ay once",
+                    "published_at_date": "2023-04-05T02:15:01.898000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 11,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101665573284462695780/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX-UGOASCDiNFmEVfD6mefBp2qorVoPyaTT5-tyjG3eyA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Bugun oraya gittim, ilk kez giyinip disari ciktigimda cok gergindim. Oradaki herkes muhtesemdi, kendimi evimdeymis gibi hissettirdi, bana her seyi anlatti. Harika bir yer geri donmeyi planliyorum",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Came in here looking for a toy with my girlfriend and the woman behind the counter was very helpful and friendly highly recommend this place. Will definitely come again",
+                    "reviewer_name": "Dirtyboi",
+                    "rating": 4,
+                    "review_text": "Came in here looking for a toy with my girlfriend and the woman behind the counter was very helpful and friendly highly recommend this place. Will definitely come again",
+                    "published_at": "7 ay once",
+                    "published_at_date": "2023-04-26T05:30:12.637000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 5,
+                    "total_number_of_reviews_by_reviewer": 9,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104649783575980555190/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXC3EF0FxfsnF6Ne5FlWnuOgk72absGFSofIUDlpYWfwls=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Kiz arkadasimla birlikte bir oyuncak aramak icin buraya geldim ve tezgahin arkasindaki kadin cok yardimsever ve arkadas canlisiydi, burayi siddetle tavsiye ediyorum. Kesinlikle tekrar gelecegim",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I'm writing this as a former employee. (Just finished my very last shift. Worked here for 5 months.)\nThe current crew working at Continental are all fantastic people and wonderful coworkers. Cota, the manager, is an absolute saint. Best manager I've ever had, hands down. He works so hard to make the shop a clean, comfortable, and safe space for everyone, customers and employees alike.\nThe reason I'm leaving is because I'm moving to another state, but as excited as I am for this next chapter of my life it was definitely a difficult goodbye. Thank you, Continental Adult shop. I miss you guys already. ",
+                    "reviewer_name": "Amy Fineshriber",
+                    "rating": 5,
+                    "review_text": "I'm writing this as a former employee. (Just finished my very last shift. Worked here for 5 months.)\nThe current crew working at Continental are all fantastic people and wonderful coworkers. Cota, the manager, is an absolute saint. Best manager I've ever had, hands down. He works so hard to make the shop a clean, comfortable, and safe space for everyone, customers and employees alike.\nThe reason I'm leaving is because I'm moving to another state, but as excited as I am for this next chapter of my life it was definitely a difficult goodbye. Thank you, Continental Adult shop. I miss you guys already. ",
+                    "published_at": "2 yil once",
+                    "published_at_date": "2021-05-18T20:06:21.949000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 28,
+                    "total_number_of_reviews_by_reviewer": 11,
+                    "total_number_of_photos_by_reviewer": 4,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115090547448777787948/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUzMB2TtQzIKmla7KtYndVbYB5jmBE4-UIHx0au-wBrQLE=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Bunu eski bir calisan olarak yaziyorum. (Son vardiyami yeni bitirdim. 5 ay burada calistim.)\nContinental'de calisan mevcut ekibin hepsi harika insanlar ve harika is arkadaslari. Yonetici Cota, mutlak bir azizdir. Simdiye kadar sahip oldugum en iyi menajer, eller asagi. Magazayi herkes, musteriler ve calisanlar icin temiz, rahat ve guvenli bir alan haline getirmek icin cok calisiyor.\nAyrilma sebebim baska bir eyalete tasiniyor olmam ama hayatimin bu sonraki bolumu icin ne kadar heyecanli olsam da bu kesinlikle zor bir vedaydi. Tesekkurler, Continental Yetiskin magazasi. Sizleri simdiden ozledim. ",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Not a bad place and it's centrally located close to the university.  There is a pretty decent toy selection with videos on the back wall.  The arcade is clean and has about 10 booths.  Most of the booths are small and consist of a single chair and monitor.  There is one larger booth toward the front.  The video equipment is a little dated and sometimes the sound doesn't work.  If you're lucky sometimes a few college girls show up to try out the toys at the front of the store.",
+                    "reviewer_name": "Master B",
+                    "rating": 4,
+                    "review_text": "Not a bad place and it's centrally located close to the university.  There is a pretty decent toy selection with videos on the back wall.  The arcade is clean and has about 10 booths.  Most of the booths are small and consist of a single chair and monitor.  There is one larger booth toward the front.  The video equipment is a little dated and sometimes the sound doesn't work.  If you're lucky sometimes a few college girls show up to try out the toys at the front of the store.",
+                    "published_at": "5 yil once",
+                    "published_at_date": "2018-03-02T07:38:40.760000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 21,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101062398311227470798/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLzoJKA3jnn7lOhZUlr3FekS4J52kLvJDrhmzyCzzfu=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Fena bir yer degil ve universiteye yakin, merkezi bir konumda. Arka duvarda videolarin oldugu oldukca iyi bir oyuncak secimi var. Carsi temiz ve yaklasik 10 kabini var. Kabinlerin cogu kucuk olup tek sandalye ve monitorden olusmaktadir. On tarafa dogru daha buyuk bir kabin var. Video ekipmani biraz eski ve bazen ses calismiyor. Sansliysaniz bazen birkac universiteli kiz magazanin onundeki oyuncaklari denemek icin gelir.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "The man at the register was very helpful. My husband and I got a good deal on a couple of dvds. Wish we could've experienced the arcade but there's always next time. Prices were good too!!",
+                    "reviewer_name": "Melanie Gonzales (Mellll)",
+                    "rating": 5,
+                    "review_text": "The man at the register was very helpful. My husband and I got a good deal on a couple of dvds. Wish we could've experienced the arcade but there's always next time. Prices were good too!!",
+                    "published_at": "4 yil once",
+                    "published_at_date": "2019-07-24T02:55:39.249000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 26,
+                    "total_number_of_reviews_by_reviewer": 12,
+                    "total_number_of_photos_by_reviewer": 7,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118285478154883878130/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUcFcKC7I06fYDnAWYYp2Lkgg0i3MCRzKP71uv1AqbRGaX0=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Kasadaki adam cok yardimci oldu. Kocam ve ben birkac DVD konusunda iyi bir anlasma yaptik. Keske atari salonunu deneyimleyebilseydik ama bir dahaki sefere her zaman var. Fiyatlar da iyiydi!",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipM0TG9h8kpaSaPipXS5TdKasgXsnA-cSuhfJKxB=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNcYYCLn21wjHErlTmFD004QTszLkm5nw21MZdd=w150-h150-k-no-p"
+                    ]
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ5Uf2smlx1oYRG0H7-M5MRZQ",
+            "name": "Adult Expectations",
+            "description": null,
+            "reviews": 75,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": "107850070619906617989",
+                "name": "Adult Expectations (Sahibi)",
+                "link": "https://www.google.com/maps/contrib/107850070619906617989"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMSysV5CPMkx5kSw9-mNxWa8mwvyaVwHp2hSBmS=w408-h725-k-no",
+            "main_category": "Erotik Esya Magazasi",
+            "categories": [
+                "Erotik Esya Magazasi",
+                "Yetiskinlere Uygun DVD Magazasi",
+                "Ic Camasiri Magazasi",
+                "Hediyelik esya magazasi",
+                "Kadin giyim magazasi"
+            ],
+            "rating": 3.9,
+            "workday_timing": "09:00-00:00",
+            "closed_on": "Open All Days",
+            "phone": "+1 520-623-8095",
+            "address": "Adult Expectations, 2505 N Stone Ave, Tucson, AZ 85705, Amerika Birlesik Devletleri",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Adult+Expectations/data=!4m7!3m6!1s0x86d67169b2f647e5:0x94454ccef8fb411b!8m2!3d32.2524487!4d-110.9722386!16s%2Fg%2F1tk6wbwm!19sChIJ5Uf2smlx1oYRG0H7-M5MRZQ?authuser=0&hl=tr&rclk=1",
+            "status": "Acik  Kapanis saati: 00:00",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 16,
+                "2": 5,
+                "3": 1,
+                "4": 3,
+                "5": 50
+            },
+            "featured_question": {
+                "question": "(Google tarafindan cevrilmistir) Zafer deliklerin var mi\n\n(Orijinal)\nDo you have glory holes ",
+                "answer": "(Google tarafindan cevrilmistir) Hayir. Tucson'da yasadisilar.\n\n(Orijinal)\nNo.  They're illegal in Tucson.",
+                "question_date": "2020-01-07T20:53:53",
+                "question_ago": "3 yil once",
+                "asked_by": {
+                    "name": "Allison Davis",
+                    "link": "https://www.google.com/maps/contrib/114939635209321080922"
+                },
+                "answer_date": "2023-02-17T04:12:06",
+                "answer_ago": "9 ay once",
+                "answered_by": {
+                    "name": "Jocko Ak-shan",
+                    "link": "https://www.google.com/maps/contrib/118074496095305043433"
+                }
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ5Uf2smlx1oYRG0H7-M5MRZQ&q=Adult+Expectations&authuser=0&hl=tr&gl=US",
+            "coordinates": {
+                "latitude": 32.252448699999995,
+                "longitude": -110.9722386
+            },
+            "plus_code": "722H+X4 Tucson, Arizona, Amerika Birlesik Devletleri",
+            "detailed_address": {
+                "ward": "Balboa Heights",
+                "street": "2505 N Stone Ave",
+                "city": "Tucson",
+                "postal_code": "85705",
+                "state": "Arizona",
+                "country_code": "US"
+            },
+            "time_zone": "America/Phoenix",
+            "cid": "10684030142830559515",
+            "data_id": "0x86d67169b2f647e5:0x94454ccef8fb411b",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "from_the_business",
+                    "name": "Isletme hakkinda",
+                    "options": [
+                        {
+                            "name": "Kucuk isletme",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "service_options",
+                    "name": "Hizmet secenekleri",
+                    "options": [
+                        {
+                            "name": "Magaza icinde alisveris",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Erisilebilirlik",
+                    "options": [
+                        {
+                            "name": "Tekerlekli sandalyeye uygun giris",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Tekerlekli sandalyeye uygun park yeri",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "crowd",
+                    "name": "Kitle",
+                    "options": [
+                        {
+                            "name": "LGBTQ+ dostu",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Trans bireyler icin guvenli yer",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Odeme",
+                    "options": [
+                        {
+                            "name": "Banka karti",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Kredi karti",
+                            "enabled": true
+                        },
+                        {
+                            "name": "NFC ile mobil odeme",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Kredi karti",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOKDZQ8MyQI6r5XxX6H97E546PhxrdSKJ2Vrs8=w224-h298-k-no-pi-10-ya153.60002-ro0-fo100"
+                },
+                {
+                    "about": "Ic",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOU5881wOBFL8Mfyh6fNc5G0h8MKi027itP564=w224-h298-k-no-pi-10-ya168-ro0-fo100"
+                },
+                {
+                    "about": "Street View ve 360deg",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPgcbGdf8iFMayQ0E7p53mmA1cxTpLav6dK9rc=w224-h298-k-no-pi-20-ya282.8-ro-0-fo100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "11:00-22:00"
+                    ]
+                },
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "09:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "09:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "09:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "09:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "09:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "09:00-00:00"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "This place is AMAZING! Great prices and the staff are super helpful, knowledgeable, and fun. I was helped quite a bit by Melissa, she was fantastic and made me feel so comfortable, plus she's got this amazing magnetic smile!\n\nThank you Adult Expections!",
+                    "reviewer_name": "Erin Ollila",
+                    "rating": 5,
+                    "review_text": "This place is AMAZING! Great prices and the staff are super helpful, knowledgeable, and fun. I was helped quite a bit by Melissa, she was fantastic and made me feel so comfortable, plus she's got this amazing magnetic smile!\n\nThank you Adult Expections!",
+                    "published_at": "4 ay once",
+                    "published_at_date": "2023-08-02T18:05:32.471000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117813546295492544199/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXDU8WnGczYoDT8ILDcMyM1lo0w-RmljJaAA6mVUiwR7Q=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Burasi SASIRTICI! Harika fiyatlar ve personel super yardimsever, bilgili ve eglenceli. Melissa bana biraz yardim etti, harikaydi ve beni cok rahat hissettirdi, ayrica inanilmaz manyetik bir gulumsemesi var!\n\nTesekkurler Yetiskin Beklentileri!",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Never have I felt so uncomfortable at an adult store with my girl. The guy behind the register seemed young and kept staring at my wife. At least a dozen times he'd be checking out my wife and when I'd look at him he'd smirk and look at the ground. He was on the bigger side and once we payed he was very awkward towards me. Maybe it's just me but I don't believe he belongs there. His coworker was very nice and outgoing but never again would I go there. My personal opinion ",
+                    "reviewer_name": "Aaron Mendez",
+                    "rating": 1,
+                    "review_text": "Never have I felt so uncomfortable at an adult store with my girl. The guy behind the register seemed young and kept staring at my wife. At least a dozen times he'd be checking out my wife and when I'd look at him he'd smirk and look at the ground. He was on the bigger side and once we payed he was very awkward towards me. Maybe it's just me but I don't believe he belongs there. His coworker was very nice and outgoing but never again would I go there. My personal opinion ",
+                    "published_at": "6 ay once",
+                    "published_at_date": "2023-05-21T06:35:30.582000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100248682484059334755/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKiajDYMRbZDyMBOlq-n1EZ0bBfq3NwVY8zbyQFrYCc=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Kizimla birlikte bir yetiskin magazasinda hic bu kadar rahatsiz hissetmemistim. Kasanin arkasindaki adam genc gorunuyordu ve karima bakmaya devam ediyordu. En az bir duzine kez karimi kontrol ediyordu ve ben ona baktigimda siritip yere bakiyordu. O daha buyuk taraftaydi ve parayi odedigimizde bana karsi cok garip davrandi. Belki sadece benimdir ama onun oraya ait olduguna inanmiyorum. Is arkadasi cok iyi ve cana yakin biriydi ama bir daha asla oraya gitmezdim. Kisisel gorusum ",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Overpriced and only has gotten worse over time. Fair selection but lax customer service. Alienating for people looking to burn money isn't exactly a great vibe for staff to take either.\n\nBetter places in town and online is always an option.",
+                    "reviewer_name": "Elliot Mayfield",
+                    "rating": 2,
+                    "review_text": "Overpriced and only has gotten worse over time. Fair selection but lax customer service. Alienating for people looking to burn money isn't exactly a great vibe for staff to take either.\n\nBetter places in town and online is always an option.",
+                    "published_at": "7 ay once",
+                    "published_at_date": "2023-05-01T03:26:00.103000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 7,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105660133177347137759/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKXXwH6Wo1A_sqEVGiiVqrNTUv8lG72j18s1pZ_9aV3=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Asiri pahali ve zamanla daha da kotulesti. Adil secim ancak gevsek musteri hizmetleri. Para yakmak isteyen insanlar icin yabancilasma, personel icin de pek hos bir duygu degil.\n\nSehirde ve internette daha iyi yerler her zaman bir secenektir.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "BEST VHS cleaner in town, 10/10 would shop here again",
+                    "reviewer_name": "Alex Mimms",
+                    "rating": 5,
+                    "review_text": "BEST VHS cleaner in town, 10/10 would shop here again",
+                    "published_at": "bir ay once",
+                    "published_at_date": "2023-11-04T00:11:17.254000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106833016951559165577/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIy0iC9wy69tElo0WWg7PFjBiqLWYK30fpfoCViDOFg=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Sehirdeki EN IYI VHS temizleyicisi, 10/10 yine buradan alisveris yapardi",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "The staff seemed nice. My issues are the fact I could have paid 60 percent less and purchased from Amazon.\n\nSecond one of the two item I purchased was defective out of the box. Now after paying 60 percent more for the item, I also have to pay for shipping to have it exchanged for a working one.\n\nI should have just purchased online for less and waitied a couple of days. Really disappointed.",
+                    "reviewer_name": "Kevin Dudley",
+                    "rating": 1,
+                    "review_text": "The staff seemed nice. My issues are the fact I could have paid 60 percent less and purchased from Amazon.\n\nSecond one of the two item I purchased was defective out of the box. Now after paying 60 percent more for the item, I also have to pay for shipping to have it exchanged for a working one.\n\nI should have just purchased online for less and waitied a couple of days. Really disappointed.",
+                    "published_at": "bir yil once",
+                    "published_at_date": "2022-10-18T12:47:43.508000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 8,
+                    "total_number_of_reviews_by_reviewer": 48,
+                    "total_number_of_photos_by_reviewer": 14,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100716388895213251465/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKfiIAb2FF6GIuG4-7aTD71g73EKtAGOAtVlUiyTvIH=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Personel guzel gorunuyordu. Sorunlarim yuzde 60 daha az odeyip Amazon'dan satin alabilecegim gercegi.\n\nAldigim iki urunden ikincisi kutudan ciktiginda arizaliydi. Simdi urun icin yuzde 60 daha fazla odedikten sonra, calisan bir urunle degistirilmesi icin nakliye ucretini de odemem gerekiyor.\n\nDaha ucuza internetten satin almali ve birkac gun beklemeliydim. Gercekten hayal kirikligina ugramis.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I love coming here everyone is super friendly and knowledgeable. Angel and Carmen are fantastic. The owner on the other hand is very pushy and can be quite rude. I had been in the store many times before and knew what I was looking for and what I needed she followed me around and was very pushy. I would give it five stars if it wasn't for the owner. She is usually not there that's why I still go and I would highly recommend for people to go here. They really are great people working there.",
+                    "reviewer_name": "Jason Webb",
+                    "rating": 4,
+                    "review_text": "I love coming here everyone is super friendly and knowledgeable. Angel and Carmen are fantastic. The owner on the other hand is very pushy and can be quite rude. I had been in the store many times before and knew what I was looking for and what I needed she followed me around and was very pushy. I would give it five stars if it wasn't for the owner. She is usually not there that's why I still go and I would highly recommend for people to go here. They really are great people working there.",
+                    "published_at": "3 yil once",
+                    "published_at_date": "2020-03-06T14:16:09.882000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 32,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104902104130088505448/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLE4Xr-4HDdOHi0AV7gvkpFaxbWygu1SmQ8lKqkvejf=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Buraya gelmeyi seviyorum, herkes super cana yakin ve bilgili. Angel ve Carmen harikalar. Ote yandan sahibi cok saldirgan ve oldukca kaba olabiliyor. Daha once bircok kez magazaya gitmistim ve ne aradigimi, neye ihtiyacim oldugunu biliyordum, o beni takip ediyordu ve cok israrciydi. Sahibi olmasaydi bes yildiz verirdim. Genellikle orada olmuyor bu yuzden hala gidiyorum ve insanlara buraya gitmelerini siddetle tavsiye ediyorum. Orada calisan gercekten harika insanlar.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "HIGHLY RECCOMEND! Loved the hospitality; staff was so friendly and personable and very helpful and knowledgeable about the store's products. There was a broad price range so it should be accessible for almost everyone. Will definitely return in the future.",
+                    "reviewer_name": "Hannah Herbst",
+                    "rating": 4,
+                    "review_text": "HIGHLY RECCOMEND! Loved the hospitality; staff was so friendly and personable and very helpful and knowledgeable about the store's products. There was a broad price range so it should be accessible for almost everyone. Will definitely return in the future.",
+                    "published_at": "bir yil once",
+                    "published_at_date": "2021-12-10T05:13:00.751000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108330933642288922015/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKi0CbSEkXZgk4bEVszACgNWgxly6gqfImuYAknHN-j=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "SIDDETLE TAVSIYE EDIYORUM! Konukseverligi sevdim; Personel cok cana yakin ve cana yakindi ve magazanin urunleri hakkinda cok yardimsever ve bilgiliydi. Genis bir fiyat araligi vardi, bu yuzden neredeyse herkes icin erisilebilir olmasi gerekiyordu. Kesinlikle gelecekte geri donecegim.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I had a wonderful experience there with my bff. Jt was extremely helpful and patient with us. It is a comfortable place for two young ladies. :) lots of options too!! will definitely come back!",
+                    "reviewer_name": "maia blazek",
+                    "rating": 5,
+                    "review_text": "I had a wonderful experience there with my bff. Jt was extremely helpful and patient with us. It is a comfortable place for two young ladies. :) lots of options too!! will definitely come back!",
+                    "published_at": "bir yil once",
+                    "published_at_date": "2022-07-17T19:09:35.035000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 6,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112726514372246261853/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV1Y8qWbhga-5wyhYnyFNSHi6hNFmoSUQJGy70bZoZAr3RZ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Orada en yakin arkadasimla harika bir deneyim yasadim. Jt bize karsi son derece yardimsever ve sabirliydi. Iki genc bayan icin rahat bir yer. :) cok fazla secenek var! kesinlikle geri gelecek!",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ05pRO7Jv1oYRo7BshOWbe84",
+            "name": "Bookstore Southwest Adult Shop",
+            "description": null,
+            "reviews": 26,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Bookstore Southwest Adult Shop (Sahibi)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOWEIB1LitD_foht9zJQdKmtgmvN1H8vRWwLIoq=w563-h240-k-no",
+            "main_category": "Erotik Esya Magazasi",
+            "categories": [
+                "Erotik Esya Magazasi",
+                "Film kiralama"
+            ],
+            "rating": 4.2,
+            "workday_timing": "10:00-22:30",
+            "closed_on": "Open All Days",
+            "phone": "+1 520-790-1550",
+            "address": "Bookstore Southwest Adult Shop, 5754 E Speedway Blvd, Tucson, AZ 85712, Amerika Birlesik Devletleri",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Bookstore+Southwest+Adult+Shop/data=!4m7!3m6!1s0x86d66fb23b519ad3:0xce7b9be5846cb0a3!8m2!3d32.235824!4d-110.8691073!16s%2Fg%2F1tfh52st!19sChIJ05pRO7Jv1oYRo7BshOWbe84?authuser=0&hl=tr&rclk=1",
+            "status": "Acik  Kapanis saati: 22:30",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 3,
+                "2": 1,
+                "3": 1,
+                "4": 5,
+                "5": 16
+            },
+            "featured_question": {
+                "question": "(Google tarafindan cevrilmistir) Ciftler video kabinlerini kullanabilir mi?\n\n(Orijinal)\nCan couples use the video booths?",
+                "answer": "(Google tarafindan cevrilmistir) Elbette yapabilirsin. Adam ve erkek de.\n\n(Orijinal)\nSure you can.man and man also.",
+                "question_date": "2019-04-08T15:26:51",
+                "question_ago": "4 yil once",
+                "asked_by": {
+                    "name": "Luis Posada",
+                    "link": "https://www.google.com/maps/contrib/115183917283138143048"
+                },
+                "answer_date": "2020-08-28T22:24:45",
+                "answer_ago": "3 yil once",
+                "answered_by": {
+                    "name": "Terry Powell",
+                    "link": "https://www.google.com/maps/contrib/109629171880957760667"
+                }
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ05pRO7Jv1oYRo7BshOWbe84&q=Bookstore+Southwest+Adult+Shop&authuser=0&hl=tr&gl=US",
+            "coordinates": {
+                "latitude": 32.235824,
+                "longitude": -110.8691073
+            },
+            "plus_code": "64PJ+89 Tucson, Arizona, Amerika Birlesik Devletleri",
+            "detailed_address": {
+                "ward": "Mitman",
+                "street": "5754 E Speedway Blvd",
+                "city": "Tucson",
+                "postal_code": "85712",
+                "state": "Arizona",
+                "country_code": "US"
+            },
+            "time_zone": "America/Phoenix",
+            "cid": "14878657204020097187",
+            "data_id": "0x86d66fb23b519ad3:0xce7b9be5846cb0a3",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Hizmet secenekleri",
+                    "options": [
+                        {
+                            "name": "Magaza icinde alisveris",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Erisilebilirlik",
+                    "options": [
+                        {
+                            "name": "Tekerlekli sandalyeye uygun giris",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Tekerlekli sandalyeye uygun park yeri",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Odeme",
+                    "options": [
+                        {
+                            "name": "Kredi karti",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOWEIB1LitD_foht9zJQdKmtgmvN1H8vRWwLIoq=w699-h298-k-no"
+                },
+                {
+                    "about": "Street View ve 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MmjR5v-eJ88jb4veoIg90A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=187.28004&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "10:00-22:30"
+                    ]
+                },
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "10:00-22:30"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "10:00-22:30"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "10:00-22:30"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "10:00-22:30"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "10:00-22:30"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "10:00-22:30"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Really underrated. Selection is insane. Always great service and friendly workers. It's a pleasure coming here and they are happy to help you. Odorants are refrigerated showing a commitment to quality. Place is filled to bursting but worth a visit. Don't waste your time with other places in town.",
+                    "reviewer_name": "S N",
+                    "rating": 5,
+                    "review_text": "Really underrated. Selection is insane. Always great service and friendly workers. It's a pleasure coming here and they are happy to help you. Odorants are refrigerated showing a commitment to quality. Place is filled to bursting but worth a visit. Don't waste your time with other places in town.",
+                    "published_at": "bir yil once",
+                    "published_at_date": "2022-01-21T01:55:09.777000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 9,
+                    "total_number_of_reviews_by_reviewer": 60,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111573053921180746986/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIQ3_Yof8Xm7rkTdyy0xdvSAjL7Zk1EyPt-mXWfQulv=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Gercekten kucumsenmis. Secim cilginca. Her zaman mukemmel hizmet ve guler yuzlu calisanlar. Buraya gelmek bir zevk ve size yardimci olmaktan mutluluk duyuyorlar. Koku vericiler, kaliteye baglilik gostererek sogutulur. Yer patlamaya kadar dolu ama gorulmeye deger. Sehirdeki diger yerlerle zamaninizi bosa harcamayin.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Not only is this place dirty and disorganized, but their prices are DOUBLE the MSRP. Thats right, you can get the same product, from ANY other retailer, for HALF of what they charge here. And you can bet that the product they are selling you here at Southwest Bookstore sat on a shelf for several years before anyone bought it. Not happy.",
+                    "reviewer_name": "B",
+                    "rating": 1,
+                    "review_text": "Not only is this place dirty and disorganized, but their prices are DOUBLE the MSRP. Thats right, you can get the same product, from ANY other retailer, for HALF of what they charge here. And you can bet that the product they are selling you here at Southwest Bookstore sat on a shelf for several years before anyone bought it. Not happy.",
+                    "published_at": "bir yil once",
+                    "published_at_date": "2022-11-13T23:43:57.706000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 5,
+                    "total_number_of_reviews_by_reviewer": 366,
+                    "total_number_of_photos_by_reviewer": 127,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103972465129991974107/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIMiostZGicSJUaCe0kDeiZjLCGczDFk_QXVHq7UOOd=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Burasi sadece kirli ve daginik degil, ayni zamanda fiyatlari MSRP'nin IKI KATINDA. Bu dogru, ayni urunu HERHANGI baska bir saticidan burada aldiklarinin YARISI karsiliginda alabilirsiniz. Ve burada, Southwest Bookstore'da size sattiklari urunun, kimse satin almadan once birkac yil rafta durduguna bahse girebilirsiniz. Mutlu degil.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "The last time I was at this store, there was a guy named Mark. He was so helpful and understanding. I was not familiar at all with some of the products.I recently came from another state and I felt comfortable with him right away. The next time I went in, this girl Angela would not leave me alone. I have not been back since.",
+                    "reviewer_name": "Michael Capone",
+                    "rating": 2,
+                    "review_text": "The last time I was at this store, there was a guy named Mark. He was so helpful and understanding. I was not familiar at all with some of the products.I recently came from another state and I felt comfortable with him right away. The next time I went in, this girl Angela would not leave me alone. I have not been back since.",
+                    "published_at": "10 yil once",
+                    "published_at_date": "2013-03-14T06:18:14.336000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 6,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102135840543906029895/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKDPcxBlZNHIcLb6C2Qknj76aEwOhaf-CV71rYt1svw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Bu magazaya en son geldigimde Mark adinda bir adam vardi. Cok yardimsever ve anlayisliydi. Bazi urunlere hic asina degildim. Yakin zamanda baska bir eyaletten geldim ve onun yaninda kendimi hemen rahat hissettim. Bir dahaki sefere iceri girdigimde bu kiz Angela beni yalniz birakmadi. O zamandan beri geri donmedim.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Absolutely disgraceful business practices even for a sex shop store owner. For 3 days now we have been patiently waiting for a reply on a faulty product sold to us. Instead of just exchanging the broken product for something else within the store he instead told us to deal with the manufacturer. Avoid this place. I will be mailing them back their faulty product and cancelling my credit card transaction for refusing to cooperate or even communicate. Cheap Chinese products",
+                    "reviewer_name": "Suan Corina",
+                    "rating": 1,
+                    "review_text": "Absolutely disgraceful business practices even for a sex shop store owner. For 3 days now we have been patiently waiting for a reply on a faulty product sold to us. Instead of just exchanging the broken product for something else within the store he instead told us to deal with the manufacturer. Avoid this place. I will be mailing them back their faulty product and cancelling my credit card transaction for refusing to cooperate or even communicate. Cheap Chinese products",
+                    "published_at": "6 yil once",
+                    "published_at_date": "2017-03-02T05:08:05.674000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 15,
+                    "total_number_of_reviews_by_reviewer": 11,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116406748554888757680/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWpBpQbLMAdRI6MwdFAgbobfccVplkp9pRzeSiZ1ogSWQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Bir seks dukkani sahibi icin bile kesinlikle utanc verici is uygulamalari. 3 gundur bize satilan hatali bir urun icin sabirla cevap bekliyoruz. Arizali urunu magazadaki baska bir seyle degistirmek yerine, ureticiyle ilgilenmemizi soyledi. Bu yerden kacinin. Isbirligi yapmayi ve hatta iletisim kurmayi reddettikleri icin onlara hatali urunlerini geri postalayacagim ve kredi karti islemimi iptal edecegim. Ucuz Cin urunleri",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Just waiting for a toy that runs off diesel. \"AA\" batteries just ain't doin it! Need more horse power for my toy. Call me when they make it? Jenny 867-5309.",
+                    "reviewer_name": "Larry Beck",
+                    "rating": 5,
+                    "review_text": "Just waiting for a toy that runs off diesel. \"AA\" batteries just ain't doin it! Need more horse power for my toy. Call me when they make it? Jenny 867-5309.",
+                    "published_at": "4 yil once",
+                    "published_at_date": "2019-10-05T21:16:21.508000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 17,
+                    "total_number_of_reviews_by_reviewer": 34,
+                    "total_number_of_photos_by_reviewer": 30,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104926643697571976472/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKWHgW1-4bh415QoM8zSvKZlN_7C-ZTlhiEwQ972Ij_=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Sadece dizelle calisan bir oyuncagi bekliyorum. \"AA\" piller bunu yapmiyor! Oyuncagim icin daha fazla beygir gucune ihtiyacim var. Geldiklerinde beni arar misin? Jenny 867-5309.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Friendly staff, insane selection (one could get lost for days) the prices are comparable to shopping on Amazon. Definitely worth the trip.",
+                    "reviewer_name": "Jamie Unknown",
+                    "rating": 5,
+                    "review_text": "Friendly staff, insane selection (one could get lost for days) the prices are comparable to shopping on Amazon. Definitely worth the trip.",
+                    "published_at": "2 yil once",
+                    "published_at_date": "2021-05-27T02:26:55.918000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 7,
+                    "total_number_of_reviews_by_reviewer": 114,
+                    "total_number_of_photos_by_reviewer": 507,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110345565960461098509/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU6SBc5BGfh1Jhhu2NcAL_WLjhzrke7-ioPG2TlOUt0nj1g=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Guler yuzlu personel, cilgin secim (biri gunlerce kaybolabilir) fiyatlar Amazon'daki alisverislerle karsilastirilabilir. Kesinlikle geziye deger.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Staff always friendly, prices are a lil high but what specialty shops aren't these days. The viewing booths are ok but they need to use current videos instead of videos from 1999 lol",
+                    "reviewer_name": "Azlife623",
+                    "rating": 4,
+                    "review_text": "Staff always friendly, prices are a lil high but what specialty shops aren't these days. The viewing booths are ok but they need to use current videos instead of videos from 1999 lol",
+                    "published_at": "7 yil once",
+                    "published_at_date": "2016-11-19T10:03:13.950000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 6,
+                    "total_number_of_reviews_by_reviewer": 295,
+                    "total_number_of_photos_by_reviewer": 286,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104921762279721571046/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ1yD99byRmCjUrnNjOHnvYkF_xie1R80nRuaJzHjDKRw=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Personel her zaman guler yuzlu, fiyatlar oldukca yuksek ama bu gunlerde ozel magazalar oyle degil. Izleme kabinleri iyi ama 1999'daki videolar yerine guncel videolari kullanmalari gerekiyor hahaha",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Fun place to check out. It's offers a little of everything. Prices are high. I always find the staff friendly and helpful. They will point items out and offer suggestions.",
+                    "reviewer_name": "Hugh Dougherty",
+                    "rating": 4,
+                    "review_text": "Fun place to check out. It's offers a little of everything. Prices are high. I always find the staff friendly and helpful. They will point items out and offer suggestions.",
+                    "published_at": "7 yil once",
+                    "published_at_date": "2016-04-28T01:21:37.759000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 6,
+                    "total_number_of_reviews_by_reviewer": 353,
+                    "total_number_of_photos_by_reviewer": 275,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100673559312375943122/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXzQukn_EH0LuO1iWq9bAP7L-jpNqLqhYaktbPqrZVts9co=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Kontrol etmek icin eglenceli bir yer. Her seyden biraz sunuyor. Fiyatlar yuksek. Personeli her zaman dost canlisi ve yardimsever buluyorum. Ogeleri isaret edecek ve oneriler sunacaklar.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ20R1JY5v1oYRRsfos33FpxE",
+            "name": "Party House",
+            "description": null,
+            "reviews": 18,
+            "competitors": [],
+            "website": "http://www.partyhousetucson.com/",
+            "owner": {
+                "id": "112149045532841779385",
+                "name": "Party House (Sahibi)",
+                "link": "https://www.google.com/maps/contrib/112149045532841779385"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMrtmKUU0ToacP-o0nrj30mJBjL85BQywvLgwOC=w408-h306-k-no",
+            "main_category": "Erotik Esya Magazasi",
+            "categories": [
+                "Erotik Esya Magazasi",
+                "Hediyelik esya magazasi"
+            ],
+            "rating": 4.7,
+            "workday_timing": "07:00-03:00",
+            "closed_on": "Open All Days",
+            "phone": "+1 520-748-9943",
+            "address": "Party House, 5689 E 22nd St, Tucson, AZ 85711, Amerika Birlesik Devletleri",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Party+House/data=!4m7!3m6!1s0x86d66f8e257544db:0x11a7c57db3e8c746!8m2!3d32.2072598!4d-110.8710444!16s%2Fg%2F1tdgq85x!19sChIJ20R1JY5v1oYRRsfos33FpxE?authuser=0&hl=tr&rclk=1",
+            "status": "Acik  Kapanis saati: 03:00",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 2,
+                "4": 2,
+                "5": 14
+            },
+            "featured_question": {
+                "question": "(Google tarafindan cevrilmistir) erkekle kizin birlikte olmasina izin veriyor musunuz?\n\n(Orijinal)\nDo u allow guy and girl together?",
+                "answer": "(Google tarafindan cevrilmistir) Elbette\n\n(Orijinal)\nOf course",
+                "question_date": "2020-05-13T21:22:46",
+                "question_ago": "3 yil once",
+                "asked_by": {
+                    "name": "Steven Baumgardner",
+                    "link": "https://www.google.com/maps/contrib/108544225272364480943"
+                },
+                "answer_date": "2021-10-09T08:57:49",
+                "answer_ago": "2 yil once",
+                "answered_by": {
+                    "name": "D Wy",
+                    "link": "https://www.google.com/maps/contrib/117017907876165702509"
+                }
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ20R1JY5v1oYRRsfos33FpxE&q=Party+House&authuser=0&hl=tr&gl=US",
+            "coordinates": {
+                "latitude": 32.207259799999996,
+                "longitude": -110.87104439999999
+            },
+            "plus_code": "644H+WH Tucson, Arizona, Amerika Birlesik Devletleri",
+            "detailed_address": {
+                "ward": "Colonia Del Valle",
+                "street": "5689 E 22nd St",
+                "city": "Tucson",
+                "postal_code": "85711",
+                "state": "Arizona",
+                "country_code": "US"
+            },
+            "time_zone": "America/Phoenix",
+            "cid": "1272202563435415366",
+            "data_id": "0x86d66f8e257544db:0x11a7c57db3e8c746",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "from_the_business",
+                    "name": "Isletme hakkinda",
+                    "options": [
+                        {
+                            "name": "Kucuk isletme",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "service_options",
+                    "name": "Hizmet secenekleri",
+                    "options": [
+                        {
+                            "name": "Magaza icinde alisveris",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Erisilebilirlik",
+                    "options": [
+                        {
+                            "name": "Tekerlekli sandalyeye uygun giris",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Tekerlekli sandalyeye uygun park yeri",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Odeme",
+                    "options": [
+                        {
+                            "name": "Banka karti",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Kredi karti",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Kredi karti",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMrtmKUU0ToacP-o0nrj30mJBjL85BQywvLgwOC=w397-h298-k-no"
+                },
+                {
+                    "about": "Sahibinin sectikleri",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipP3RmEbTjZJYmRDnT8NphvHvpGHKmfQd4amrc-Q=w397-h298-k-no"
+                },
+                {
+                    "about": "Street View ve 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nkfchQTpOs2nz2c2NwuZJQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=9.260493&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "07:00-03:00"
+                    ]
+                },
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "07:00-03:00"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "07:00-03:00"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "07:00-03:00"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "07:00-03:00"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "07:00-03:00"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "07:00-03:00"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Great cruising place I love going there and having anonymous meetings. Im looking for a top and will be there today giving oral to anyone that wamts to reciporcate",
+                    "reviewer_name": "Dirtyboi",
+                    "rating": 4,
+                    "review_text": "Great cruising place I love going there and having anonymous meetings. Im looking for a top and will be there today giving oral to anyone that wamts to reciporcate",
+                    "published_at": "2 hafta once",
+                    "published_at_date": "2023-11-18T13:36:05.316000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 9,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104649783575980555190/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXC3EF0FxfsnF6Ne5FlWnuOgk72absGFSofIUDlpYWfwls=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Harika bir gezi yeri Oraya gitmeyi ve isimsiz toplantilar yapmayi seviyorum. Bir zirve ariyorum ve bugun orada olacagim ve karsilik vermek isteyen herkese sozlu olarak konusacagim.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Good place to go looks like they finally give you some privacy in the back...no .. I like the booths with the bench seat you have plenty of room to enjoy yourself ....video plays for more than an hour on a $20 bill and if you leave your door unlocked.or turn and squat a little to stick it out underneath the door..you'll usually get somebody to catch your load been there a couple times always good wish more females would go that's really what's fun",
+                    "reviewer_name": "public strokin is fun",
+                    "rating": 5,
+                    "review_text": "Good place to go looks like they finally give you some privacy in the back...no .. I like the booths with the bench seat you have plenty of room to enjoy yourself ....video plays for more than an hour on a $20 bill and if you leave your door unlocked.or turn and squat a little to stick it out underneath the door..you'll usually get somebody to catch your load been there a couple times always good wish more females would go that's really what's fun",
+                    "published_at": "5 ay once",
+                    "published_at_date": "2023-07-04T17:32:19.585000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 18,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112557684413063453797/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU60ob5frLXZNvAqthmwvmQARNy3i3GxOxTCrVkMNOzHw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Gidilecek guzel bir yer, sonunda arka tarafta size biraz mahremiyet sagliyorlar gibi gorunuyor... hayir .. Keyif alacaginiz bolca yer olan bank koltuklu kabinleri seviyorum....videolar bir saatten fazla oynatiliyor 20 dolarlik bir banknot ve eger kapinizi acik birakirsaniz ya da donup biraz comelerek kapinin altina sokarsaniz genellikle yukunuzu kaldiracak birini bulursunuz orada birkac kez bulundunuz mu her zaman iyi keske daha cok kadin gitse bu gercekten eglenceli olan ne",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Love it over hope to see too guys over there ..geart time overtime I go .this place is fixking geart",
+                    "reviewer_name": "Mike Jones",
+                    "rating": 5,
+                    "review_text": "Love it over hope to see too guys over there ..geart time overtime I go .this place is fixking geart",
+                    "published_at": "3 ay once",
+                    "published_at_date": "2023-08-06T14:33:07.039000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104271716229520473119/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUoU-o_gqxaxczetTW1B3S4-MiYKiUkY05ErHjMBqhChw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Bayildim oralari da gormeyi umuyorum ..geart mesai fazla mesai gidiyorum .burasi geart tamir ediyor",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Cool place. Had a nice assortment of leather cleaner, including my favorite brand. Price is good too, even tho I would gladly overpay for that Jungle Juice. They also have lots of toys. Clerk is a nice guy :)",
+                    "reviewer_name": "Alex Mimms",
+                    "rating": 5,
+                    "review_text": "Cool place. Had a nice assortment of leather cleaner, including my favorite brand. Price is good too, even tho I would gladly overpay for that Jungle Juice. They also have lots of toys. Clerk is a nice guy :)",
+                    "published_at": "bir yil once",
+                    "published_at_date": "2022-08-22T05:53:40.249000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106833016951559165577/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIy0iC9wy69tElo0WWg7PFjBiqLWYK30fpfoCViDOFg=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Guzel mekan. Favori markam da dahil olmak uzere cok cesitli deri temizleyiciler vardi. Fiyati da iyi, o Jungle Juice icin memnuniyetle fazla para odesem bile. Ayrica cok sayida oyuncaklari var. Katip iyi bir adam :)",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nice place. Seems small until you walk in.  Plenty of videos and adult toys with a limited selection of magazines. There is a front and a back door.  There are two separate adult arcade areas.  One is on the main floor and has about 4 booths.  The second is next to a wall of preview videos and has about 20 booths in a long hall area.  The area is well kept and has some of the best viewing equipment in town!  The screens are big and HD and the controls let you fast forward or rewind to any point in the video you like.  The videos are switched out weekly and feature 50 titles.  There is actually room to move around in the booths. From what I could tell there are two different types of seats.  A single seat or a cushioned bench.",
+                    "reviewer_name": "Master B",
+                    "rating": 5,
+                    "review_text": "Nice place. Seems small until you walk in.  Plenty of videos and adult toys with a limited selection of magazines. There is a front and a back door.  There are two separate adult arcade areas.  One is on the main floor and has about 4 booths.  The second is next to a wall of preview videos and has about 20 booths in a long hall area.  The area is well kept and has some of the best viewing equipment in town!  The screens are big and HD and the controls let you fast forward or rewind to any point in the video you like.  The videos are switched out weekly and feature 50 titles.  There is actually room to move around in the booths. From what I could tell there are two different types of seats.  A single seat or a cushioned bench.",
+                    "published_at": "5 yil once",
+                    "published_at_date": "2018-03-02T07:29:44.724000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 57,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101062398311227470798/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLzoJKA3jnn7lOhZUlr3FekS4J52kLvJDrhmzyCzzfu=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Guzel yer. Iceri girene kadar kucuk gorunuyor. Sinirli sayida dergi ile bol miktarda video ve yetiskin oyuncaklari. On ve arka kapisi bulunmaktadir. Iki ayri yetiskin atari alani bulunmaktadir. Biri ana katta ve yaklasik 4 kabin var. Ikincisi, on izleme videolariyla dolu bir duvarin yanindadir ve uzun bir salon alaninda yaklasik 20 kabin bulunmaktadir. Bolge bakimlidir ve sehirdeki en iyi izleme ekipmanlarindan bazilarina sahiptir! Ekranlar buyuk ve HD'dir ve kontroller, videoda istediginiz herhangi bir noktaya hizli ileri veya geri sarmaniza olanak tanir. Videolar haftalik olarak degistirilir ve 50 baslik icerir. Aslinda kabinlerde hareket edecek yer var. Bildigim kadariyla iki farkli koltuk tipi var. Tekli koltuk veya minderli bank.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I thoroughly enjoyed my time here especially in the back, it's a little cramped but we made it work 10/10 would come again ",
+                    "reviewer_name": "Jane",
+                    "rating": 5,
+                    "review_text": "I thoroughly enjoyed my time here especially in the back, it's a little cramped but we made it work 10/10 would come again ",
+                    "published_at": "10 ay once",
+                    "published_at_date": "2023-01-10T00:26:31.202000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 19,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104605303600956442712/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJVYNwBz1TuBet6_N-h8LlJjwGFnkGazJQQ5_5URhU3=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Burada gecirdigim zamandan cok keyif aldim ozellikle arkada biraz sikisik ama calistirdik 10/10 yine gelirdi ",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Great place to get toys and have fun in the booths with another person......so much fun tou can have here .....the booth sits 2 so theres always room to have fun and enjoy another ones ......dont ask me how i know....lol...great place to meet someone as you can see from pictures...but these are great people i met that love Google photos... And dont mind the fame.lol....but trust me tou WILL meet someONE. Here great place to take stress off your day or lets someones hands do that or ........fri and sat nites...good ...mostly REALLY pack on LUNCH hours.......",
+                    "reviewer_name": "arnold galvan",
+                    "rating": 5,
+                    "review_text": "Great place to get toys and have fun in the booths with another person......so much fun tou can have here .....the booth sits 2 so theres always room to have fun and enjoy another ones ......dont ask me how i know....lol...great place to meet someone as you can see from pictures...but these are great people i met that love Google photos... And dont mind the fame.lol....but trust me tou WILL meet someONE. Here great place to take stress off your day or lets someones hands do that or ........fri and sat nites...good ...mostly REALLY pack on LUNCH hours.......",
+                    "published_at": "5 yil once",
+                    "published_at_date": "2018-02-07T08:03:47.282000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 51,
+                    "total_number_of_reviews_by_reviewer": 121,
+                    "total_number_of_photos_by_reviewer": 590,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112425143260230841526/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVAzs2kSSg7jsGzoiDbPwIgBc1WS3afdHSj4_IZnymhS1Is=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Oyuncak almak ve stantlarda baska biriyle eglenmek icin harika bir yer...... burada cok eglenebilirsiniz ..... stant 2 kisiliktir, boylece eglenmek ve digerlerinin tadini cikarmak icin her zaman yer vardir .. ....bana nasil bildigimi sormayin....haha...resimlerden de gorebileceginiz gibi birisiyle tanismak icin harika bir yer...ama bunlar tanistigim ve Google fotograflarini seven harika insanlar... Ve sohret...haha... ama guven bana, birisiyle tanisacaksin. Gununuzun stresini atmak icin harika bir yer ya da birinin ellerinin bunu yapmasina izin verin ya da ........cuma ve cumartesi aksamlari...iyi ...cogunlukla OGLE YEMEGI saatlerinde GERCEKTEN bavulunuzu hazirlayin.......",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "This place has thousands of selections. They are a bit pricier but they have lots of sales which make up for it big time. The clerks can be eccentric sometimes, but overall recommend.",
+                    "reviewer_name": "Templario115 V",
+                    "rating": 5,
+                    "review_text": "This place has thousands of selections. They are a bit pricier but they have lots of sales which make up for it big time. The clerks can be eccentric sometimes, but overall recommend.",
+                    "published_at": "5 yil once",
+                    "published_at_date": "2018-09-09T21:16:33.330000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 15,
+                    "total_number_of_reviews_by_reviewer": 5,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114849709933829343623/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocItKo4USLqS9sAOC4xKU6pqbhDpiLt7Af8ePuyruKguiA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Burasi binlerce secime sahip. Biraz daha pahalilar ama buyuk zamani telafi eden cok sayida satislari var. Katipler bazen eksantrik olabiliyor ama genel olarak tavsiye ediyorum.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJIX2vfdJx1oYRRlZqw-73YzE",
+            "name": "Fascinations",
+            "description": null,
+            "reviews": 360,
+            "competitors": [],
+            "website": "http://www.fascinations.net/",
+            "owner": {
+                "id": "116514998831345661013",
+                "name": "Fascinations (Sahibi)",
+                "link": "https://www.google.com/maps/contrib/116514998831345661013"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOKCzEXPGlXFN5aDlmUvVrs8o2EvSnF3YAHje8Q=w408-h240-k-no",
+            "main_category": "Erotik Esya Magazasi",
+            "categories": [
+                "Erotik Esya Magazasi",
+                "Guzellik Urunleri Magazasi",
+                "Bijuteri Magazasi",
+                "Hediyelik esya dukkani",
+                "Saglik ve Guzellik Merkezi",
+                "Ic Camasiri Magazasi",
+                "Hediyelik esya magazasi",
+                "Kadin giyim magazasi"
+            ],
+            "rating": 4.7,
+            "workday_timing": "10:00-00:00",
+            "closed_on": "Open All Days",
+            "phone": "+1 520-322-0757",
+            "address": "Fascinations, 3658 E Speedway Blvd, Tucson, AZ 85716, Amerika Birlesik Devletleri",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Fascinations/data=!4m7!3m6!1s0x86d671d27daf7d21:0x3163f7eec36a5646!8m2!3d32.2358084!4d-110.9143247!16s%2Fg%2F1hhlst9xl!19sChIJIX2vfdJx1oYRRlZqw-73YzE?authuser=0&hl=tr&rclk=1",
+            "status": "Acik  Kapanis saati: 00:00",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 18,
+                "2": 3,
+                "3": 4,
+                "4": 6,
+                "5": 329
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJIX2vfdJx1oYRRlZqw-73YzE&q=Fascinations&authuser=0&hl=tr&gl=US",
+            "coordinates": {
+                "latitude": 32.235808399999996,
+                "longitude": -110.9143247
+            },
+            "plus_code": "63PP+87 Tucson, Arizona, Amerika Birlesik Devletleri",
+            "detailed_address": {
+                "ward": "Miramonte",
+                "street": "3658 E Speedway Blvd",
+                "city": "Tucson",
+                "postal_code": "85716",
+                "state": "Arizona",
+                "country_code": "US"
+            },
+            "time_zone": "America/Phoenix",
+            "cid": "3558960735405626950",
+            "data_id": "0x86d671d27daf7d21:0x3163f7eec36a5646",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Hizmet secenekleri",
+                    "options": [
+                        {
+                            "name": "Magaza icinde alisveris",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Erisilebilirlik",
+                    "options": [
+                        {
+                            "name": "Tekerlekli sandalyeye uygun giris",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Tekerlekli sandalyeye uygun park yeri",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Odeme",
+                    "options": [
+                        {
+                            "name": "Banka karti",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Kredi karti",
+                            "enabled": true
+                        },
+                        {
+                            "name": "NFC ile mobil odeme",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Kredi karti",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOKCzEXPGlXFN5aDlmUvVrs8o2EvSnF3YAHje8Q=w506-h298-k-no"
+                },
+                {
+                    "about": "Ic",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOnRnlfdTIQPdijhwD9pnZeiNx8jk0-dKrMH3L_=w397-h298-k-no"
+                },
+                {
+                    "about": "Sahibinin sectikleri",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOPL3lILwh2m06KcsicLn30u1dVFHFMyh0SBfEB=w529-h298-k-no"
+                },
+                {
+                    "about": "Street View ve 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SNh6_Yt8-RQuVHzCoi_c9w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=165.94449&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "11:00-22:00"
+                    ]
+                },
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "10:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "10:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "10:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "10:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "10:00-01:00"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "10:00-01:00"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "I have been to this location on several occasions and always left happy with my purchases, the prices, and customer service. My experience in majority of adult stores is a rude, unhelpful staff, hard to find what i am looking for, and an unpleasant odor. Fascinations is the complete opposite. They are well organized, very easy to find products, and if you can't, the friendly staff is always happy to help you. This company should be considered the gold standard of adult stores.",
+                    "reviewer_name": "michael Stuchiner aka Travelin Man",
+                    "rating": 5,
+                    "review_text": "I have been to this location on several occasions and always left happy with my purchases, the prices, and customer service. My experience in majority of adult stores is a rude, unhelpful staff, hard to find what i am looking for, and an unpleasant odor. Fascinations is the complete opposite. They are well organized, very easy to find products, and if you can't, the friendly staff is always happy to help you. This company should be considered the gold standard of adult stores.",
+                    "published_at": "6 ay once",
+                    "published_at_date": "2023-05-30T12:42:00.216000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 37,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109079160898928598806/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVDfcQJI_JTYkI4ZWznEmr3bXF0ImYIp_P4GehAFRBhPVo=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Bu yere birkac kez gittim ve satin alimlarimdan, fiyatlardan ve musteri hizmetlerinden her zaman memnun kaldim. Yetiskin magazalarinin cogunda yasadigim deneyim, kaba, yardimci olmayan personel, aradigimi bulmanin zor olmasi ve hos olmayan bir kokudur. Buyuleyicilik ise bunun tam tersidir. Iyi organize edilmislerdir, urunleri bulmak cok kolaydir ve bulamazsaniz guler yuzlu personel size yardimci olmaktan her zaman mutluluk duyacaktir. Bu sirket yetiskin magazalarinin altin standardi olarak gorulmelidir.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "The employees are very nice and helped me find exactly what I needed!",
+                    "reviewer_name": "Jasmine Kwinn",
+                    "rating": 5,
+                    "review_text": "The employees are very nice and helped me find exactly what I needed!",
+                    "published_at": "bir hafta once",
+                    "published_at_date": "2023-11-25T06:40:31.468000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111566595336276781810/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLRSGLqjahzdXOrrjSujBDxaiWkc2etoYQCcpCNoLYT=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Calisanlar cok iyi insanlardi ve tam olarak ihtiyacim olani bulmamda bana yardimci oldular!",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "All the staff were awesome very friendly and helpful. Very nice. Very clean and well laid out. I would love a shop like this where I live.",
+                    "reviewer_name": "Theresa Lawhon",
+                    "rating": 5,
+                    "review_text": "All the staff were awesome very friendly and helpful. Very nice. Very clean and well laid out. I would love a shop like this where I live.",
+                    "published_at": "4 ay once",
+                    "published_at_date": "2023-07-09T22:07:08.384000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 18,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102190755790173045730/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXLhxQwMsgWhveoDqkggsElMcLgiN-Naz6i0mF3etos120=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Tum personel harikaydi, cok cana yakin ve yardimsever. Cok guzel. Cok temiz ve iyi duzenlenmis. Yasadigim yerde boyle bir magazayi cok isterim.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Soon as I walked the customer service was awesome. Hope was awesome and showed me the exact products I wanted and needed. In and out. Perfect.",
+                    "reviewer_name": "John McCaskey",
+                    "rating": 5,
+                    "review_text": "Soon as I walked the customer service was awesome. Hope was awesome and showed me the exact products I wanted and needed. In and out. Perfect.",
+                    "published_at": "3 ay once",
+                    "published_at_date": "2023-08-11T22:13:27.154000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 10,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110817190573514594801/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVucss5vJaRxUXeXbJmFdju_qNqNmBgFlu_nmGwKJy4LQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Yurudugum anda musteri hizmetleri harikaydi. Hope harikaydi ve bana tam olarak istedigim ve ihtiyac duydugum urunleri gosterdi. Ic ve dis. Mukemmel.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Love coming to this place for all my adult fun stuff! Great selection, friendly staff",
+                    "reviewer_name": "David Ohlinger",
+                    "rating": 5,
+                    "review_text": "Love coming to this place for all my adult fun stuff! Great selection, friendly staff",
+                    "published_at": "bir ay once",
+                    "published_at_date": "2023-10-16T22:14:15.857000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 40,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102211774157847587407/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU9aEPNwA7nwy3QhMPkoAOhhWMnPgfMetZiQyAGKBKwqA=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Yetiskinlere yonelik tum eglenceli seylerim icin bu yere gelmeyi seviyorum! Mukemmel secim, guler yuzlu personel",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Liz was very professional and courteous. Very knowledgeable and assisted with choosing the best option for me and my girlfriend. Definitely a repeat customer.",
+                    "reviewer_name": "Rafael_ Leonardo_Michaelangelo",
+                    "rating": 5,
+                    "review_text": "Liz was very professional and courteous. Very knowledgeable and assisted with choosing the best option for me and my girlfriend. Definitely a repeat customer.",
+                    "published_at": "5 ay once",
+                    "published_at_date": "2023-06-30T23:42:50.760000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 265,
+                    "total_number_of_photos_by_reviewer": 274,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109635451890187531315/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUFp14VPpJ7HYp3Au98CQdikAY_DFb98I7KNGkYao58Vmyi=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Liz cok profesyonel ve nazikti. Ben ve kiz arkadasim icin en iyi secenegi secme konusunda cok bilgili ve yardimci oldu. Kesinlikle tekrarlanan bir musteri.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "The environment is very comfortable and the staff is very friendly. Liz was the biggest help! Super informative and honest about all products.",
+                    "reviewer_name": "S Darn",
+                    "rating": 5,
+                    "review_text": "The environment is very comfortable and the staff is very friendly. Liz was the biggest help! Super informative and honest about all products.",
+                    "published_at": "4 ay once",
+                    "published_at_date": "2023-07-11T03:44:57.265000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116686130152387224330/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXHkogJTIHrZj9s3FPP_e1y3pGcON3G2yB5YO0KwTbrcMk=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Ortam cok rahat ve personel cok dost canlisi. Liz en buyuk yardimdi! Tum urunler hakkinda super bilgilendirici ve durust.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Me and my wife were in fascinations today. We have been long time customers and have spent lots of money for years in this store. The short haired blonde is so extremely rude, unprofessional, judgmental. She asked to hold the merchandise my wife had grabbed to buy. I wonder if the owner is paying attention to all these reviews and good customers with bad experiences with the same individual, going to do anything about it. We will not come here again until that short spiky haired rude I think her name is Brianne is gone. Too bad.",
+                    "reviewer_name": "Justin Beers",
+                    "rating": 1,
+                    "review_text": "Me and my wife were in fascinations today. We have been long time customers and have spent lots of money for years in this store. The short haired blonde is so extremely rude, unprofessional, judgmental. She asked to hold the merchandise my wife had grabbed to buy. I wonder if the owner is paying attention to all these reviews and good customers with bad experiences with the same individual, going to do anything about it. We will not come here again until that short spiky haired rude I think her name is Brianne is gone. Too bad.",
+                    "published_at": "6 ay once",
+                    "published_at_date": "2023-06-04T19:06:57.878000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 4,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104797780461535747399/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLdBLeTQXaBMyvQGOIQ4P4kc25ioG4zkv8Fjs5Z21NU=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Bugun ben ve esim buyulendik. Uzun suredir musteriyiz ve bu magazada yillardir cok para harcadik. Kisa sacli sarisin cok kaba, profesyonellikten uzak ve yargilayici. Esimin satin almak icin aldigi urunleri elinde tutmak istedi. Sahibinin tum bu incelemelere ve ayni kisiyle kotu deneyimleri olan iyi musterilere dikkat edip etmedigini, bu konuda herhangi bir sey yapip yapmayacagini merak ediyorum. O kisa dikenli sacli kaba sanirim adi Brianne olana kadar buraya bir daha gelmeyecegiz. Cok kotu.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJQVZUuJF11oYRd2nw_8SZVcg",
+            "name": "Zone D Erotica",
+            "description": null,
+            "reviews": 30,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": "110422397018173894782",
+                "name": "Zone D Erotica (Sahibi)",
+                "link": "https://www.google.com/maps/contrib/110422397018173894782"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMli-03UDkq5GeQubabgy7vAx0khBWHzQCgq95v=w427-h240-k-no",
+            "main_category": "Yetiskinlere Uygun DVD Magazasi",
+            "categories": [
+                "Yetiskinlere Uygun DVD Magazasi"
+            ],
+            "rating": 4,
+            "workday_timing": "08:00-00:00",
+            "closed_on": "Open All Days",
+            "phone": "+1 520-742-4044",
+            "address": "Zone D Erotica, 6227 N Travel Center Dr, Tucson, AZ 85741, Amerika Birlesik Devletleri",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Zone+D+Erotica/data=!4m7!3m6!1s0x86d67591b8545641:0xc85599c4fff06977!8m2!3d32.3199213!4d-111.0482207!16s%2Fg%2F11b7256v_v!19sChIJQVZUuJF11oYRd2nw_8SZVcg?authuser=0&hl=tr&rclk=1",
+            "status": "Acik  Kapanis saati: 00:00",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 6,
+                "2": 0,
+                "3": 1,
+                "4": 5,
+                "5": 18
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJQVZUuJF11oYRd2nw_8SZVcg&q=Zone+D+Erotica&authuser=0&hl=tr&gl=US",
+            "coordinates": {
+                "latitude": 32.3199213,
+                "longitude": -111.0482207
+            },
+            "plus_code": "8X92+XP Tucson, Arizona, Amerika Birlesik Devletleri",
+            "detailed_address": {
+                "ward": "Orange Grove I- Plaza",
+                "street": "6227 N Travel Center Dr",
+                "city": "Tucson",
+                "postal_code": "85741",
+                "state": "Arizona",
+                "country_code": "US"
+            },
+            "time_zone": "America/Phoenix",
+            "cid": "14435613251992578423",
+            "data_id": "0x86d67591b8545641:0xc85599c4fff06977",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "from_the_business",
+                    "name": "Isletme hakkinda",
+                    "options": [
+                        {
+                            "name": "Kucuk isletme",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "service_options",
+                    "name": "Hizmet secenekleri",
+                    "options": [
+                        {
+                            "name": "Magaza icinde alisveris",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Erisilebilirlik",
+                    "options": [
+                        {
+                            "name": "Tekerlekli sandalyeye uygun giris",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Tekerlekli sandalyeye uygun park yeri",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Odeme",
+                    "options": [
+                        {
+                            "name": "Banka karti",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Kredi karti",
+                            "enabled": true
+                        },
+                        {
+                            "name": "NFC ile mobil odeme",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Kredi karti",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMli-03UDkq5GeQubabgy7vAx0khBWHzQCgq95v=w530-h298-k-no"
+                },
+                {
+                    "about": "Ic",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMvy4Mn8h87xbVjFZCojFwQGIny9N7OFRGcPPVR=w224-h398-k-no"
+                },
+                {
+                    "about": "Street View ve 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5K-eHxejNZGoilgME1GWSA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=262.61478&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "08:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "08:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "08:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "08:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "08:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "08:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "08:00-00:00"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "I love coming in here, they are locally owned as well!!! For the first time ever I've found a latex free pair of pasties here. Those are really difficult to come by so I'm beyond happy. Really clean store and management always can answer my questions. ",
+                    "reviewer_name": "Lilly O",
+                    "rating": 5,
+                    "review_text": "I love coming in here, they are locally owned as well!!! For the first time ever I've found a latex free pair of pasties here. Those are really difficult to come by so I'm beyond happy. Really clean store and management always can answer my questions. ",
+                    "published_at": "4 ay once",
+                    "published_at_date": "2023-07-30T00:26:03.754000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 7,
+                    "total_number_of_photos_by_reviewer": 8,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102271496967385299042/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUNWANqvjBrMe8fkFBKuxzs9b8Bc7TWsBtVaTgIhLycNeg=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Buraya gelmeyi seviyorum, onlar da yerel olarak sahipleniliyor! ! ! Ilk defa burada lateks icermeyen bir cift pasti buldum. Bunlara ulasmak gercekten zor, bu yuzden mutluyum. Gercekten temiz magaza ve yonetim her zaman sorularima cevap verebilir. ",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNtQNr-LLO5-SfIZAVq6LXTifQCAhFcI-IKn41H=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNaF19gKQ7QYh0UGdOGWeWzHYEzMFFLuq37lLkt=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Jackie, the owner is a sweet spirit with great energy! She was super helpful on both days I went in. The store itself has a really nice collection of clothes-- which is why I went in based on another review. I am so happy with the quality and cuteness of everything I bought. It's truly helped with content creation! Thank you!\n\nAlso, they have smoke accessories, which is super convenient as it's located right beside Botanica!",
+                    "reviewer_name": "J B",
+                    "rating": 5,
+                    "review_text": "Jackie, the owner is a sweet spirit with great energy! She was super helpful on both days I went in. The store itself has a really nice collection of clothes-- which is why I went in based on another review. I am so happy with the quality and cuteness of everything I bought. It's truly helped with content creation! Thank you!\n\nAlso, they have smoke accessories, which is super convenient as it's located right beside Botanica!",
+                    "published_at": "7 ay once",
+                    "published_at_date": "2023-05-05T20:14:41.755000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101017433228149311485/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIwxK2ZU0HI9c45l6h29LiXdblxsCzo7oNCbc8BJhyb=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Jackie, sahibi buyuk enerjiye sahip tatli bir ruhtur! Iceri girdigim iki gunde de cok yardimci oldu. Magazanin kendisi gercekten guzel bir kiyafet koleksiyonuna sahip - bu yuzden baska bir incelemeye dayanarak gittim. Aldigim her seyin kalitesinden ve sevimliliginden cok memnunum. Icerik olusturma konusunda gercekten yardimci oldu! Tesekkur ederim!\n\nAyrica, Botanica'nin hemen yaninda yer aldigi icin super kullanisli olan duman aksesuarlari da var!",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "They are so badass knew what we were looking for and so much more my bf and I luv this store. Thank u",
+                    "reviewer_name": "Lynda Flores",
+                    "rating": 5,
+                    "review_text": "They are so badass knew what we were looking for and so much more my bf and I luv this store. Thank u",
+                    "published_at": "3 ay once",
+                    "published_at_date": "2023-08-06T01:01:27.777000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118423090338470819918/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLN8rv1UV9KoXCNB8quiny07JWxeLrCmgKbf7OMv8aB8Q=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Cok bas belasilar ne aradigimizi biliyorduk ve cok daha fazlasi erkek arkadasim ve ben bu magazayi seviyoruz. tesekkur ederim",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "This will always be my go to shop for clothes.  I love the thigh-high they get and they have a great selection with awesome pricing.  The ladies that work here have always been helpful and just amazing, especially the associate that worked tonight, 5-20-21. I was in a pinch and she was amazingly helpful and it was unexpected.  Because of that I will ALWAYS come here for all my business .  Thank you thank you. ",
+                    "reviewer_name": "Haley Black",
+                    "rating": 5,
+                    "review_text": "This will always be my go to shop for clothes.  I love the thigh-high they get and they have a great selection with awesome pricing.  The ladies that work here have always been helpful and just amazing, especially the associate that worked tonight, 5-20-21. I was in a pinch and she was amazingly helpful and it was unexpected.  Because of that I will ALWAYS come here for all my business .  Thank you thank you. ",
+                    "published_at": "2 yil once",
+                    "published_at_date": "2021-05-21T07:03:06.746000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113049842727932231979/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKqJLDYJrmb2V5lLMXDfF-EwaZZK45Y3sFK-9X7z3vQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Bu her zaman kiyafet alisverisine gidecegim. Aldiklari uyluk yuksekligini seviyorum ve harika fiyatlarla harika bir secime sahipler. Burada calisan hanimlar her zaman yardimci oldular ve harikalardi, ozellikle de bu gece 5-20-21'de calisan ortak. Zor durumdaydim ve inanilmaz derecede yardimci oldu ve bu beklenmedik bir seydi. Bu nedenle tum islerim icin HER ZAMAN buraya gelecegim. Tesekkur ederim tesekkur ederim. ",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Under new management and the service was amazing. Jackie in particular was incredibly helpful, helped me do all of my shopping and even pulled things from the back she thought I might like. Huge selection of lingerie and clothing, and great shoes. Absolutely my new favorite shop and will definitely be going back time and time again!!",
+                    "reviewer_name": "Madelyn Johnson",
+                    "rating": 5,
+                    "review_text": "Under new management and the service was amazing. Jackie in particular was incredibly helpful, helped me do all of my shopping and even pulled things from the back she thought I might like. Huge selection of lingerie and clothing, and great shoes. Absolutely my new favorite shop and will definitely be going back time and time again!!",
+                    "published_at": "6 yil once",
+                    "published_at_date": "2016-12-29T20:47:13.359000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116806889135613570049/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUa5ESHEzj5lWEyPieXQ9grhVa5WSR2me_3Fst6m3_lZA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Yeni yonetim altinda ve hizmet harikaydi. Ozellikle Jackie inanilmaz derecede yardimci oldu, tum alisverislerimi yapmama yardim etti ve hatta arkadan begenebilecegimi dusundugu seyleri cikardi. Cok cesitli ic camasiri ve kiyafet ve harika ayakkabilar. Kesinlikle yeni favori dukkanim ve kesinlikle tekrar tekrar geri donecegim! !",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "This store is a hidden gem. The store is beautiful and has great vibes. All the clerks are knowledgeable and friendly. They always make you feel your in the right place. Great manager also. Shes put her heart and soul into this place. Please bring your others in and enjoy. Thank you",
+                    "reviewer_name": "pinky james",
+                    "rating": 5,
+                    "review_text": "This store is a hidden gem. The store is beautiful and has great vibes. All the clerks are knowledgeable and friendly. They always make you feel your in the right place. Great manager also. Shes put her heart and soul into this place. Please bring your others in and enjoy. Thank you",
+                    "published_at": "4 yil once",
+                    "published_at_date": "2019-03-03T01:04:14.689000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 152,
+                    "total_number_of_photos_by_reviewer": 114,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114333617958937563356/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI4p9Yzu0S9D25DUX1cjJNwhwykxlskiRBUqYHYladU=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Bu magaza gizli bir mucevherdir. Magaza guzel ve harika hislere sahip. Gorevlilerin hepsi bilgili ve guleryuzlu. Her zaman dogru yerde oldugunuzu hissettiriyorlar. Ayrica harika bir yonetici. Kalbini ve ruhunu bu yere koydu. Lutfen digerlerinizi de getirin ve keyfini cikarin. Tesekkur ederim",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Manager is horrible. Got mad for me waiting in the parking lot for my husband. Came at me very hostile to yell at me for being there for 10 minutes claiming to have watched me from the cameras the whole time when she was out smoking by the front doors. Toys also aren't safe cloth quality is terrible, worse than wish. Manager is homophobic too. I felt very attacked. No signs outside saying select parking spots are for employees or just for customers. Store also smells like a hobo orgy",
+                    "reviewer_name": "xXCloud_NationXx",
+                    "rating": 1,
+                    "review_text": "Manager is horrible. Got mad for me waiting in the parking lot for my husband. Came at me very hostile to yell at me for being there for 10 minutes claiming to have watched me from the cameras the whole time when she was out smoking by the front doors. Toys also aren't safe cloth quality is terrible, worse than wish. Manager is homophobic too. I felt very attacked. No signs outside saying select parking spots are for employees or just for customers. Store also smells like a hobo orgy",
+                    "published_at": "5 yil once",
+                    "published_at_date": "2018-03-20T22:58:03.507000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112973928760410817590/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWfj7w9QnVq4OYl0d8xIRmd62MgdxS76UdbMDmuitG7tg=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Mudur korkunc. Kocami otoparkta beklerken bana kizdi. On kapilarin yaninda sigara icerken beni kameralardan izledigini iddia ederek 10 dakika boyunca orada oldugum icin bana bagirmak icin cok dusmanca geldi. Oyuncaklar da guvenli degil, kumas kalitesi berbat, istekten bile kotu. Yonetici de homofobik. Kendimi cok saldiriya ugramis hissettim. Disarida belirli park yerlerinin calisanlar veya sadece musteriler icin oldugunu soyleyen hicbir isaret yok. Magaza ayrica berdus seks partisi gibi kokuyor",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Wanted to try this store for the first time, but when I arrived, the door was locked and there was a sign on the door that said \"back in 5 minutes\" . We waited outside for 15 minutes and nobody came to unlock the door. Even though we saw the guy that worked there and he clearly saw us. Don't wast your time",
+                    "reviewer_name": "Brittany",
+                    "rating": 1,
+                    "review_text": "Wanted to try this store for the first time, but when I arrived, the door was locked and there was a sign on the door that said \"back in 5 minutes\" . We waited outside for 15 minutes and nobody came to unlock the door. Even though we saw the guy that worked there and he clearly saw us. Don't wast your time",
+                    "published_at": "2 yil once",
+                    "published_at_date": "2021-08-01T03:49:45.513000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 11,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104854183402291023696/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJAQr7oun1Uhw433YDzXJ-TZU2AKPEzqlexoYFlIHjA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Bu magazayi ilk kez denemek istedim ama geldigimde kapi kilitliydi ve kapida \"5 dakika sonra donecegim\" yazan bir tabela vardi. 15 dakika kadar disarida bekledik ama kimse kapiyi acmaya gelmedi. Orada calisan adami gormemize ragmen o da bizi acikca gordu. Zamaninizi bosa harcamayin",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJh83tBB1x1oYRViGS4F-FVRc",
+            "name": "Jellywink Boutique",
+            "description": null,
+            "reviews": 106,
+            "competitors": [
+                {
+                    "name": "Fascinations",
+                    "link": "https://www.google.com/maps/search/Fascinations/@32.235808399999996,-110.9143247?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 360,
+                    "rating": 4.7,
+                    "main_category": "Erotik Esya Magazasi"
+                },
+                {
+                    "name": "Adult Expectations",
+                    "link": "https://www.google.com/maps/search/Adult+Expectations/@32.252448699999995,-110.9722386?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 74,
+                    "rating": 3.9,
+                    "main_category": "Erotik Esya Magazasi"
+                },
+                {
+                    "name": "Party House",
+                    "link": "https://www.google.com/maps/search/Party+House/@32.207259799999996,-110.87104439999999?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 18,
+                    "rating": 4.7,
+                    "main_category": "Erotik Esya Magazasi"
+                },
+                {
+                    "name": "Continental Adult Shop",
+                    "link": "https://www.google.com/maps/search/Continental+Adult+Shop/@32.255414099999996,-110.94425509999999?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 31,
+                    "rating": 4.1,
+                    "main_category": "Erotik Esya Magazasi"
+                }
+            ],
+            "website": "http://www.jellywink.com/",
+            "owner": {
+                "id": "105642801894316500945",
+                "name": "Jellywink Boutique (Sahibi)",
+                "link": "https://www.google.com/maps/contrib/105642801894316500945"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOB85iK1FuOhskXKZo0dISNXv2Vf31fy6XIGc8F=w408-h306-k-no",
+            "main_category": "Butik",
+            "categories": [
+                "Butik"
+            ],
+            "rating": 5,
+            "workday_timing": "12:00-19:00",
+            "closed_on": "Open All Days",
+            "phone": "+1 520-526-2623",
+            "address": "Jellywink Boutique, 416 E 7th St, Tucson, AZ 85705, Amerika Birlesik Devletleri",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jellywink+Boutique/data=!4m7!3m6!1s0x86d6711d04edcd87:0x1755855fe0922156!8m2!3d32.2263092!4d-110.9649758!16s%2Fg%2F11btmqhn6q!19sChIJh83tBB1x1oYRViGS4F-FVRc?authuser=0&hl=tr&rclk=1",
+            "status": "Acik  Kapanis saati: 19:00",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 3,
+                "5": 103
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJh83tBB1x1oYRViGS4F-FVRc&q=Jellywink+Boutique&authuser=0&hl=tr&gl=US",
+            "coordinates": {
+                "latitude": 32.226309199999996,
+                "longitude": -110.96497579999999
+            },
+            "plus_code": "62GP+G2 Tucson, Arizona, Amerika Birlesik Devletleri",
+            "detailed_address": {
+                "ward": "Historic Fourth Avenue",
+                "street": "416 E 7th St",
+                "city": "Tucson",
+                "postal_code": "85705",
+                "state": "Arizona",
+                "country_code": "US"
+            },
+            "time_zone": "America/Phoenix",
+            "cid": "1681396682728808790",
+            "data_id": "0x86d6711d04edcd87:0x1755855fe0922156",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "from_the_business",
+                    "name": "Isletme hakkinda",
+                    "options": [
+                        {
+                            "name": "Kucuk isletme",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Sahibi kadin oldugunu belirtiyor",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "service_options",
+                    "name": "Hizmet secenekleri",
+                    "options": [
+                        {
+                            "name": "Arabaya teslim alma",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Magazadan teslim alma",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Magaza icinde alisveris",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Adrese servis",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "crowd",
+                    "name": "Kitle",
+                    "options": [
+                        {
+                            "name": "LGBTQ+ dostu",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Trans bireyler icin guvenli yer",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "planning",
+                    "name": "Planlama",
+                    "options": [
+                        {
+                            "name": "Hizli ziyaret",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Odeme",
+                    "options": [
+                        {
+                            "name": "Banka karti",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Kredi karti",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Kredi karti",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPYo-Z8gTAeq8icpHfB8L1lSewdc7NHa1ihKROI=w224-h298-k-no"
+                },
+                {
+                    "about": "Ic",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOB85iK1FuOhskXKZo0dISNXv2Vf31fy6XIGc8F=w397-h298-k-no"
+                },
+                {
+                    "about": "Sahibinin sectikleri",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPaBrpfJb2dllu0HhtUBlk3M5uw2JUxSltCd7rr=w224-h298-k-no"
+                },
+                {
+                    "about": "Street View ve 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=20ojdtCvsgh06Z5fwiH63w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=203.0061&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "12:00-19:00"
+                    ]
+                },
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "12:00-19:00"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "12:00-19:00"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "12:00-19:00"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "12:00-19:00"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "12:00-19:00"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "12:00-19:00"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Went in just to browse but the amazing woman that was working was so helpful and made me feel comfortable, so I ended up leaving with some goodies! She was very attentive, answered all of my questions and had a genuine interest in making sure I was well informed and she helped me picked out the best items to fit my needs. I will definitely be retuning, highly recommend stopping by!",
+                    "reviewer_name": "Viviana Sandoval",
+                    "rating": 5,
+                    "review_text": "Went in just to browse but the amazing woman that was working was so helpful and made me feel comfortable, so I ended up leaving with some goodies! She was very attentive, answered all of my questions and had a genuine interest in making sure I was well informed and she helped me picked out the best items to fit my needs. I will definitely be retuning, highly recommend stopping by!",
+                    "published_at": "6 ay once",
+                    "published_at_date": "2023-05-25T04:53:37.481000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111824376410067656724/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX7AbBB8qBKP_nN_z7fj9l9UWHiX8X-alzytEhnjKaeSg=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Sadece goz atmak icin gittim ama calisan harika kadin cok yardimci oldu ve kendimi rahat hissetmemi sagladi, bu yuzden bazi hediyelerle ayrildim! Cok dikkatliydi, tum sorularima cevap verdi ve iyi bilgilendirilmemi saglamakla gercekten ilgilendi ve ihtiyaclarima uygun en iyi urunleri secmemde bana yardimci oldu. Kesinlikle yeniden ayarlayacagim, ugramanizi siddetle tavsiye ederim!",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Jellywink is incredible. Mariah spent so much time answering all of my questions in a thoughtful, enthusiastic, and sensitive way. She was so amazing. I can't reccomend this store enough!",
+                    "reviewer_name": "Even Paglisotti",
+                    "rating": 5,
+                    "review_text": "Jellywink is incredible. Mariah spent so much time answering all of my questions in a thoughtful, enthusiastic, and sensitive way. She was so amazing. I can't reccomend this store enough!",
+                    "published_at": "6 ay once",
+                    "published_at_date": "2023-05-22T02:48:41.173000",
+                    "response_from_owner_text": "Thanks so much for your feedback, Even! We're so glad you had a good experience and can't wait to help you again in the future <3",
+                    "response_from_owner_ago": "6 ay once",
+                    "response_from_owner_date": "2023-05-22T16:50:10.578000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116733178728568667187/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV-fQjo8MFXT6gXMqyzzbIcDkHbmBKNP3sNFBTfxY06C9U=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Jellywink inanilmaz. Mariah tum sorularima dusunceli, coskulu ve duyarli bir sekilde yanit vermek icin cok zaman harcadi. O kadar muhtesemdi ki. Bu magazayi yeterince tavsiye edemem!",
+                    "response_from_owner_translated_text": "Geri bildiriminiz icin cok tesekkurler Even! Iyi bir deneyim yasamaniza cok sevindik ve gelecekte size tekrar yardimci olmak icin sabirsizlaniyoruz <3",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "The vibe is always chill and open minded. Last time I went in, Mariah was very helpful with all my questions and made very good suggestions, and at the same time gave me the space to browse. I appreciated that I didn't feel rushed even tho I left just seconds before closing  The workshops are lit and so informative and the toys are such good quality and inexpensive. Love this place! Highly recommend the womanizer if you have a cl!torous. ",
+                    "reviewer_name": "Maricela Noriega",
+                    "rating": 5,
+                    "review_text": "The vibe is always chill and open minded. Last time I went in, Mariah was very helpful with all my questions and made very good suggestions, and at the same time gave me the space to browse. I appreciated that I didn't feel rushed even tho I left just seconds before closing  The workshops are lit and so informative and the toys are such good quality and inexpensive. Love this place! Highly recommend the womanizer if you have a cl!torous. ",
+                    "published_at": "8 ay once",
+                    "published_at_date": "2023-03-24T23:54:41.928000",
+                    "response_from_owner_text": "Thanks so much for your awesome feedback, Maricela! We can't wait to see you the next time you come in!",
+                    "response_from_owner_ago": "8 ay once",
+                    "response_from_owner_date": "2023-03-25T02:56:13.331000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108724468479869190072/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV_G6oTtUORf41Luooxs33alN-AyarsDjze95LYH3UTuQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Ortam her zaman sakin ve acik fikirlidir. En son iceri girdigimde, Mariah tum sorularima cok yardimci oldu, cok iyi onerilerde bulundu ve ayni zamanda bana goz atmam icin alan verdi. Kapanmadan birkac saniye once ayrilmis olmama ragmen kendimi aceleye getirmedigimi takdir ettim  Atolyeler isikli ve cok bilgilendirici, oyuncaklar ise cok kaliteli ve ucuz. Burayi seviyorum! Eger acik sacik biriyseniz kadin avcisini siddetle tavsiye ederim. ",
+                    "response_from_owner_translated_text": "Harika geri bildirimin icin cok tesekkurler Maricela! Bir dahaki sefere geldiginizde sizi gormek icin sabirsizlaniyoruz!",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "This store is AMAZING! This was my first time shopping in person at a toy shop and Mariah made me feel so comfortable shopping there. She was very knowledgeable, and helpful finding exactly what I was looking for. I WILL be coming back!",
+                    "reviewer_name": "Chris Beaudoin",
+                    "rating": 5,
+                    "review_text": "This store is AMAZING! This was my first time shopping in person at a toy shop and Mariah made me feel so comfortable shopping there. She was very knowledgeable, and helpful finding exactly what I was looking for. I WILL be coming back!",
+                    "published_at": "6 ay once",
+                    "published_at_date": "2023-05-13T20:22:17.155000",
+                    "response_from_owner_text": "Thanks for your business, trust, and feedback, Chris! ",
+                    "response_from_owner_ago": "6 ay once",
+                    "response_from_owner_date": "2023-05-15T22:33:56.584000",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103268333975772074628/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJEvzCfBFAYkGwZd7FgmZ-mo2l7qZG0mNtoQfyAnjh5=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Bu magaza SASIRTICI! Bu benim bir oyuncak magazasindan sahsen alisveris yaptigim ilk seferdi ve Mariah orada alisveris yaparken kendimi cok rahat hissetmemi sagladi. Cok bilgili ve tam olarak aradigim seyi bulmamda yardimci oldu. Geri donecegim!",
+                    "response_from_owner_translated_text": "Isiniz, guveniniz ve geri bildiriminiz icin tesekkurler Chris!",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Such a cute, local boutique with a comfy atmosphere in a great location. The sales rep, Ashley, was really friendly and knowledgeable. She helped us find the products we were looking for and even introduced me to a new product that I ended up getting!",
+                    "reviewer_name": "Danielle Siddall",
+                    "rating": 5,
+                    "review_text": "Such a cute, local boutique with a comfy atmosphere in a great location. The sales rep, Ashley, was really friendly and knowledgeable. She helped us find the products we were looking for and even introduced me to a new product that I ended up getting!",
+                    "published_at": "10 ay once",
+                    "published_at_date": "2023-01-30T21:32:25.017000",
+                    "response_from_owner_text": "Thanks for your feedback Danielle! We're so glad you had a good experience and we look forward to helping you again in the future!",
+                    "response_from_owner_ago": "10 ay once",
+                    "response_from_owner_date": "2023-01-31T20:22:29.117000",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 5,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108284932062958792123/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKS-7nr4lhaXU18VJ5Y60QEZbKuMh4fte4c409nHo6j=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Harika bir konumda rahat bir atmosfere sahip cok sevimli, yerel bir butik. Satis temsilcisi Ashley gercekten arkadas canlisi ve bilgiliydi. Aradigimiz urunleri bulmamiza yardimci oldu ve hatta beni sonunda aldigim yeni bir urunle tanistirdi!",
+                    "response_from_owner_translated_text": "Geri bildiriminiz icin tesekkurler Danielle! Iyi bir deneyim yasamaniza cok sevindik ve gelecekte size tekrar yardimci olmayi sabirsizlikla bekliyoruz!",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Ashley was very friendly, helpful and easy to talk to. Great selection for a small shop!!",
+                    "reviewer_name": "Melissa Allen",
+                    "rating": 5,
+                    "review_text": "Ashley was very friendly, helpful and easy to talk to. Great selection for a small shop!!",
+                    "published_at": "9 ay once",
+                    "published_at_date": "2023-02-27T20:40:41.377000",
+                    "response_from_owner_text": "Thanks for your business and feedback, Melissa! We hope to see you again in the future!",
+                    "response_from_owner_ago": "8 ay once",
+                    "response_from_owner_date": "2023-03-13T16:22:18.255000",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 11,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103934872089844146760/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVHxZyf9SbxhwfmzppH6SQ9iAzB19CLbLzkyJYyYaJSPvw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Ashley cok dost canlisi, yardimsever ve konusmasi kolay bir insandi. Kucuk bir dukkan icin mukemmel secim!",
+                    "response_from_owner_translated_text": "Isiniz ve geri bildiriminiz icin tesekkurler Melissa! Gelecekte sizi tekrar gormeyi umuyoruz!",
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipOMdf68yE_TsJG3ffUVJA3OifeYzLR1qKqMOrM5=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Jess was the absolute best! She was very kind, knowledgeable and, comforting! It was my partner and my first time into this boutique and immediately felt so welcomed. Jess gave us time alone to browse while also giving us helpful suggestions! We will definitely be coming back ! 10/10 would recommend! Thank you Jess! <3",
+                    "reviewer_name": "claudia rodriguez",
+                    "rating": 5,
+                    "review_text": "Jess was the absolute best! She was very kind, knowledgeable and, comforting! It was my partner and my first time into this boutique and immediately felt so welcomed. Jess gave us time alone to browse while also giving us helpful suggestions! We will definitely be coming back ! 10/10 would recommend! Thank you Jess! <3",
+                    "published_at": "bir yil once",
+                    "published_at_date": "2022-08-13T20:19:38.813000",
+                    "response_from_owner_text": "Thanks so much for your feedback, Claudia! We're so happy you had a positive experience and can't wait to help you again in the future <3",
+                    "response_from_owner_ago": "bir yil once",
+                    "response_from_owner_date": "2022-08-15T18:41:28.380000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110248760708865332290/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVL8XQg6tTjwZvxzO_mfqQmexYBcFIQfZNvY9Llk_X8auQZ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Jess kesinlikle en iyisiydi! Cok nazik, bilgili ve rahatlaticiydi! Partnerimdi ve bu butige ilk gelisimdi ve hemen kendimi cok iyi karsilanmis hissettim. Jess bize goz atmamiz icin yalniz zaman verirken ayni zamanda yararli oneriler de verdi! Kesinlikle geri donecegiz! 10/10 tavsiye ederim! Tesekkurler Jess! <3",
+                    "response_from_owner_translated_text": "Geri bildirimin icin cok tesekkurler Claudia! Olumlu bir deneyim yasadiginiz icin cok mutluyuz ve gelecekte size tekrar yardimci olmak icin sabirsizlaniyoruz <3",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Went in sort of on a whim one Sunday afternoon with my partner. Mariah was super helpful and knowledgable. Even though there were lots of people in the shop at the time they were really attentive and took the time to answer questions and offer options and looking up different sizes. Overall a great experience.",
+                    "reviewer_name": "Jacob Martinez",
+                    "rating": 5,
+                    "review_text": "Went in sort of on a whim one Sunday afternoon with my partner. Mariah was super helpful and knowledgable. Even though there were lots of people in the shop at the time they were really attentive and took the time to answer questions and offer options and looking up different sizes. Overall a great experience.",
+                    "published_at": "9 ay once",
+                    "published_at_date": "2023-02-13T16:40:03.796000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103573521511796771582/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVwwrdp1Ae3RwW6C8yKilWdJB1PlH6VFm8qOEIS1D5-0X8=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Bir Pazar ogleden sonra esimle birlikte bir hevesle gittik. Mariah super yardimsever ve bilgili idi. O sirada magazada cok sayida insan olmasina ragmen gercekten dikkatliydiler ve sorulari yanitlamak, secenekler sunmak ve farkli boyutlara bakmak icin zaman ayirdilar. Genel olarak harika bir deneyim.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJaVzVptF11oYRMeObEsRXOQ0",
+            "name": "Fascinations",
+            "description": null,
+            "reviews": 170,
+            "competitors": [],
+            "website": "http://www.fascinations.net/",
+            "owner": {
+                "id": "118392486260027531841",
+                "name": "Fascinations (Sahibi)",
+                "link": "https://www.google.com/maps/contrib/118392486260027531841"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN3dLN_ROZfU9bZCkgLYtyJjI1aDOfgqqASHRNJ=w408-h306-k-no",
+            "main_category": "Erotik Esya Magazasi",
+            "categories": [
+                "Erotik Esya Magazasi",
+                "Guzellik Urunleri Magazasi",
+                "Bijuteri Magazasi",
+                "Hediyelik esya dukkani",
+                "Saglik ve Guzellik Merkezi",
+                "Ic Camasiri Magazasi",
+                "Hediyelik esya magazasi",
+                "Kadin giyim magazasi"
+            ],
+            "rating": 5,
+            "workday_timing": "10:00-00:00",
+            "closed_on": "Open All Days",
+            "phone": "+1 520-447-2199",
+            "address": "Fascinations, 4499 W Ina Rd, Tucson, AZ 85741, Amerika Birlesik Devletleri",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Fascinations/data=!4m7!3m6!1s0x86d675d1a6d55c69:0xd3957c4129be331!8m2!3d32.337109!4d-111.0613878!16s%2Fg%2F11h3zs3phg!19sChIJaVzVptF11oYRMeObEsRXOQ0?authuser=0&hl=tr&rclk=1",
+            "status": "Acik  Kapanis saati: 00:00",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 2,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 168
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJaVzVptF11oYRMeObEsRXOQ0&q=Fascinations&authuser=0&hl=tr&gl=TR",
+            "coordinates": {
+                "latitude": 32.337109,
+                "longitude": -111.06138779999999
+            },
+            "plus_code": "8WPQ+RC Tucson, Arizona, Amerika Birlesik Devletleri",
+            "detailed_address": {
+                "ward": null,
+                "street": "4499 W Ina Rd",
+                "city": "Tucson",
+                "postal_code": "85741",
+                "state": "Arizona",
+                "country_code": "US"
+            },
+            "time_zone": "America/Phoenix",
+            "cid": "952889295802983217",
+            "data_id": "0x86d675d1a6d55c69:0xd3957c4129be331",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Hizmet secenekleri",
+                    "options": [
+                        {
+                            "name": "Magaza icinde alisveris",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Erisilebilirlik",
+                    "options": [
+                        {
+                            "name": "Tekerlekli sandalyeye uygun giris",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Tekerlekli sandalyeye uygun park yeri",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "crowd",
+                    "name": "Kitle",
+                    "options": [
+                        {
+                            "name": "LGBTQ+ dostu",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Trans bireyler icin guvenli yer",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Odeme",
+                    "options": [
+                        {
+                            "name": "Banka karti",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Kredi karti",
+                            "enabled": true
+                        },
+                        {
+                            "name": "NFC ile mobil odeme",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipN3dLN_ROZfU9bZCkgLYtyJjI1aDOfgqqASHRNJ=w397-h298-k-no"
+                },
+                {
+                    "about": "Ic",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPXyyUeB3vu4UmW5Q1eKJnas7So5Af3Ljirk2GC=w397-h298-k-no"
+                },
+                {
+                    "about": "Sahibinin sectikleri",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMhwWuNjFAAyYA998AGb_V7GFDzgfHDkgCkVs0L=w397-h298-k-no"
+                },
+                {
+                    "about": "Street View ve 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U1GJyKx95IWgduyclJgb5Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=153.54567&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "11:00-22:00"
+                    ]
+                },
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "10:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "10:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "10:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "10:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "10:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "10:00-00:00"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Great staff! They have a welcoming atmosphere especially for first time buyers. They answered all my questions and helped me find what I needed. Thank you so much Fascinations!",
+                    "reviewer_name": "Zane Taylor",
+                    "rating": 5,
+                    "review_text": "Great staff! They have a welcoming atmosphere especially for first time buyers. They answered all my questions and helped me find what I needed. Thank you so much Fascinations!",
+                    "published_at": "4 gun once",
+                    "published_at_date": "2023-11-30T23:15:15.933000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116645468564584397950/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVHQ0BnuVm-sPgJKpaQIEWqNn3QJlDEk8esUQ1kfRZoqNfy=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Harika personel! Ozellikle ilk kez alisveris yapacaklar icin sicak bir atmosfere sahipler. Tum sorularima cevap verdiler ve ihtiyacim olani bulmama yardimci oldular. Cok tesekkur ederim Fascinations!",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Amazing clean store and professional environment compared to other local Adult stores. Made shopping here fun! Staff smiling and greeted me and came to me to ask if I needed help finding something.",
+                    "reviewer_name": "Katie Townsend",
+                    "rating": 5,
+                    "review_text": "Amazing clean store and professional environment compared to other local Adult stores. Made shopping here fun! Staff smiling and greeted me and came to me to ask if I needed help finding something.",
+                    "published_at": "bir ay once",
+                    "published_at_date": "2023-10-08T06:27:04.596000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116250712293623880175/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVciQ7ftXchR_rv6x-ItrxUw8tDbRdXhrsCzxqcJJbrKas=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Diger yerel Yetiskin magazalarina kiyasla inanilmaz temiz magaza ve profesyonel ortam. Burada alisverisi eglenceli hale getirdik! Personel gulumseyerek beni selamladi ve bir sey bulma konusunda yardima ihtiyacim olup olmadigini sormak icin yanima geldi.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Zoe and Sophie were extremely helpful and made me feel so comfortable! They helped me find something I would love with a budget too! The store is super clean and organized. Amazing experience! This location> Speedway",
+                    "reviewer_name": "hannah giselle",
+                    "rating": 5,
+                    "review_text": "Zoe and Sophie were extremely helpful and made me feel so comfortable! They helped me find something I would love with a budget too! The store is super clean and organized. Amazing experience! This location> Speedway",
+                    "published_at": "4 ay once",
+                    "published_at_date": "2023-08-03T05:26:03.663000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105283443636798913659/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJiQOXvur2Y2C_rN1oMlBMfHSJlvsPtNU6BLV15t5yHIQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Zoe ve Sophie son derece yardimci oldular ve beni cok rahat hissettirdiler! Butceyle de sevecegim bir sey bulmama yardim ettiler! Magaza super temiz ve duzenli. Muhtesem deneyim! Bu konum> Yaris Pisti",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I'm not sure what the cashiers name was and I wish I did honestly, I went in around 8 o'clock on 08/22 and she was awesome very professional all while making conversations (that most find uncomfortable) very easy to talk about and it's always nice to talk without feeling judged. I wish I had asked her name to shout her out specifically but get more employees like her!!!!",
+                    "reviewer_name": "Brandon Ratliff",
+                    "rating": 5,
+                    "review_text": "I'm not sure what the cashiers name was and I wish I did honestly, I went in around 8 o'clock on 08/22 and she was awesome very professional all while making conversations (that most find uncomfortable) very easy to talk about and it's always nice to talk without feeling judged. I wish I had asked her name to shout her out specifically but get more employees like her!!!!",
+                    "published_at": "3 ay once",
+                    "published_at_date": "2023-08-23T03:54:46.201000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108862673554040503564/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKw85kymKwHJvbEj8pcR-sduxU7ZUsRWbZI-FBuzOIY=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Kasiyerin adinin ne oldugundan emin degilim ve keske durustce yapsaydim, 22/08'de saat 8 civarinda gittim ve kendisi muhtesemdi, cok profesyoneldi ve konusmalari (cogunlugun rahatsiz edici buldugu) konusmayi cok kolay hale getiriyordu. ve yargilanmadan konusmak her zaman guzeldir. Keske ozellikle onu haykirmak ama onun gibi daha fazla calisan bulmak icin adini sorsaydim!!!!",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Emma was super helpful! Highly recommend this place for anyone looking for good quality toys!",
+                    "reviewer_name": "Ren Crosswell",
+                    "rating": 5,
+                    "review_text": "Emma was super helpful! Highly recommend this place for anyone looking for good quality toys!",
+                    "published_at": "5 gun once",
+                    "published_at_date": "2023-11-29T23:14:44.915000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108899123061662200517/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXtwVRQmu0M6u0op8JR2C2U4svG7MZoLsRaR11fUjlLZu0=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Emma super yardimci oldu! Burasi kaliteli oyuncaklar arayan herkese siddetle tavsiye edilir!",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "The store on Ina Rd. In Tucson, AZ. Has the most helpful employees I have experienced in a long time!!!!",
+                    "reviewer_name": "Christa Musial",
+                    "rating": 5,
+                    "review_text": "The store on Ina Rd. In Tucson, AZ. Has the most helpful employees I have experienced in a long time!!!!",
+                    "published_at": "bir hafta once",
+                    "published_at_date": "2023-11-23T04:34:30.159000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104257643269479711011/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLQpfCLeudVDaw4LQiWLwcBWugx526hJjN2WYD7FkVC=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Ina Caddesi'ndeki magaza. Tucson, AZ'de. Uzun zamandir karsilastigim en yardimsever calisanlara sahip!!!!",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "The staff was very helpful and let us roam without making it weird. We haven't been to many shops, but this one was very clean and well organized. They had a selection for everyone. We will go back.\n\nPlus there were Tacos outside.",
+                    "reviewer_name": "Ryan Shead",
+                    "rating": 5,
+                    "review_text": "The staff was very helpful and let us roam without making it weird. We haven't been to many shops, but this one was very clean and well organized. They had a selection for everyone. We will go back.\n\nPlus there were Tacos outside.",
+                    "published_at": "bir yil once",
+                    "published_at_date": "2022-06-19T00:31:38.825000",
+                    "response_from_owner_text": "Thank you so much for stopping in and shopping with us1",
+                    "response_from_owner_ago": "bir yil once",
+                    "response_from_owner_date": "2022-06-20T23:51:13.195000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 23,
+                    "total_number_of_photos_by_reviewer": 4,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108748898846682865654/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXOnrymc-gGUiGUEDdRD1mEaxEQ9mN0V7gsWLg8NlLY_Uo=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Personel cok yardimci oldu ve durumu tuhaflastirmadan dolasabilmemize izin verdi. Cok fazla magazaya gitmedik ama bu cok temiz ve iyi organize edilmisti. Herkes icin bir secimleri vardi. Geri donecegiz.\n\nAyrica disarida Tacos vardi.",
+                    "response_from_owner_translated_text": "Bizi ziyaret ettiginiz ve bizimle alisveris yaptiginiz icin cok tesekkur ederiz1",
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNGpKkwoLK_Fr8sQ5Kk7fFRtFBP5yqbFaOp0r0u=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "This place is amazeballs!!! I love shopping here!! Hannah was amazing tonight with my husband and I and answered all of our questions. She was so sweet. We bought more then intended due to the welcoming environment and not feeling ashamed.\n\nWe come here every once in awhile but tonight was our best experience :))",
+                    "reviewer_name": "Araceli Munoz",
+                    "rating": 5,
+                    "review_text": "This place is amazeballs!!! I love shopping here!! Hannah was amazing tonight with my husband and I and answered all of our questions. She was so sweet. We bought more then intended due to the welcoming environment and not feeling ashamed.\n\nWe come here every once in awhile but tonight was our best experience :))",
+                    "published_at": "10 ay once",
+                    "published_at_date": "2023-01-22T06:47:20.259000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105463131494719796211/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJAcYDIpBH-1iO2baP6zj5fSi3AxyKysXTz2w0R5wSP=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Burasi hayret toplari! Burada alisveris yapmayi seviyorum! Hannah bu gece kocam ve benle birlikte harikaydi ve tum sorularimizi yanitladi. Cok tatliydi. Karsilama ortami nedeniyle ve utanmadigimiz icin planladigimizdan daha fazlasini satin aldik.\n\nArada bir buraya geliyoruz ama bu gece en iyi deneyimimizdi:))",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJqVlIY1Fo1oYRZiD6qW2vzCA",
+            "name": "ENTYC Entertainment",
+            "description": null,
+            "reviews": 2,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "ENTYC Entertainment (Sahibi)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EJqLNYudwJ8cF3KANPSb5g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=164.37613&pitch=0&thumbfov=100",
+            "main_category": "Erotik Esya Magazasi",
+            "categories": [
+                "Erotik Esya Magazasi"
+            ],
+            "rating": 5,
+            "workday_timing": "10:00-00:00",
+            "closed_on": "Open All Days",
+            "phone": "+1 520-869-3534",
+            "address": "ENTYC Entertainment, 11240 E Sundance Dr, Tucson, AZ 85749, Amerika Birlesik Devletleri",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/ENTYC+Entertainment/data=!4m7!3m6!1s0x86d66851634859a9:0x20ccaf6da9fa2066!8m2!3d32.2552308!4d-110.7517632!16s%2Fg%2F1td0yxtp!19sChIJqVlIY1Fo1oYRZiD6qW2vzCA?authuser=0&hl=tr&rclk=1",
+            "status": "Acik  Kapanis saati: 00:00",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 2
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJqVlIY1Fo1oYRZiD6qW2vzCA&q=ENTYC+Entertainment&authuser=0&hl=tr&gl=US",
+            "coordinates": {
+                "latitude": 32.2552308,
+                "longitude": -110.7517632
+            },
+            "plus_code": "764X+37 Tucson, Arizona, Amerika Birlesik Devletleri",
+            "detailed_address": {
+                "ward": "Bel Air Ranch Estates",
+                "street": "11240 E Sundance Dr",
+                "city": "Tucson",
+                "postal_code": "85749",
+                "state": "Arizona",
+                "country_code": "US"
+            },
+            "time_zone": "America/Phoenix",
+            "cid": "2363456790000705638",
+            "data_id": "0x86d66851634859a9:0x20ccaf6da9fa2066",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Hizmet secenekleri",
+                    "options": [
+                        {
+                            "name": "Magaza icinde alisveris",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Erisilebilirlik",
+                    "options": [
+                        {
+                            "name": "Tekerlekli sandalyeye uygun giris",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Tekerlekli sandalyeye uygun park yeri",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EJqLNYudwJ8cF3KANPSb5g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=164.37613&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View ve 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EJqLNYudwJ8cF3KANPSb5g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=164.37613&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "11:00-22:00"
+                    ]
+                },
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "10:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "10:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "10:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "10:00-00:00"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "10:00-02:00"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "10:00-01:00"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Haven't been there but plan on stopping by",
+                    "reviewer_name": "thomas becerril",
+                    "rating": 5,
+                    "review_text": "Haven't been there but plan on stopping by",
+                    "published_at": "bir yil once",
+                    "published_at_date": "2022-04-30T20:01:57.990000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115172021972729569120/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIKCT3TF5iFk3rwz7n7JsUvj3f2YkeunnZzBBvc1gg6=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Oraya gitmedim ama ugramayi planliyorum",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Jumping on trampolines with topless girls rocks!!!",
+                    "reviewer_name": "Lara Evans",
+                    "rating": 5,
+                    "review_text": "Jumping on trampolines with topless girls rocks!!!",
+                    "published_at": "2 yil once",
+                    "published_at_date": "2021-03-05T21:14:55.647000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 17,
+                    "total_number_of_reviews_by_reviewer": 16,
+                    "total_number_of_photos_by_reviewer": 6,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106737673320729324515/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVxjxLV_W5aT6Cx6esHMJwf8S8m8im_uRiNdB_pt9I-VUg=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Ustsuz kizlarla trambolinde atlamak harika!",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

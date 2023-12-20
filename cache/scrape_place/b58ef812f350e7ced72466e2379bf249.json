@@ -1,0 +1,103 @@
+{
+    "place_id": "ChIJKcPsmT3CJRURQbAWiZEgTLE",
+    "name": "Avukat P\u0131nar Tuncer Alev",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "N\u0130DAL H\u00dcZMEL\u0130 HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/N%C4%B0DAL+H%C3%9CZMEL%C4%B0+HUKUK+B%C3%9CROSU/@36.2270016,36.1644074?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Edip Edibo\u011flu",
+            "link": "https://www.google.com/maps/search/Avukat+Edip+Edibo%C4%9Flu/@36.221289,36.162088?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Neslihan G\u00fcraslan Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Avukat+Neslihan+G%C3%BCraslan+Hukuk+B%C3%BCrosu/@36.2286529,36.1379516?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Neseli Hukuk B\u00fcrosu Av. Mehmet Alper Ne\u015feli",
+            "link": "https://www.google.com/maps/search/Neseli+Hukuk+B%C3%BCrosu+Av.+Mehmet+Alper+Ne%C5%9Feli/@36.206121599999996,36.1596595?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Avukat P\u0131nar Tuncer Alev (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HAz37of7pWbgsUkaJrLnWw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=133.43091&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0326) 215 39 80",
+    "address": "Odaba\u015f\u0131, Avukat P\u0131nar Tuncer Alev, Atat\u00fcrk Cad. \u00d6zcan 1 Apt. D:6, 31001 Antakya/Hatay",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJKcPsmT3CJRURQbAWiZEgTLE",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJKcPsmT3CJRURQbAWiZEgTLE&q=?q=place_id:ChIJKcPsmT3CJRURQbAWiZEgTLE&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.221289,
+        "longitude": 36.162088
+    },
+    "plus_code": null,
+    "detailed_address": {
+        "ward": "Odaba\u015f\u0131",
+        "street": "Atat\u00fcrk Cad. \u00d6zcan 1 Apt. D:6",
+        "city": "Antakya",
+        "postal_code": "31001",
+        "state": "Hatay",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12775622052385566785",
+    "data_id": "0x1525c23d99ecc329:0xb14c20918916b041",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HAz37of7pWbgsUkaJrLnWw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=133.43091&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HAz37of7pWbgsUkaJrLnWw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=133.43091&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

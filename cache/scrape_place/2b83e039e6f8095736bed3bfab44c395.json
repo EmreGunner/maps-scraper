@@ -1,0 +1,322 @@
+{
+    "place_id": "ChIJZ93eAG65yhQRNigJesf34mU",
+    "name": "T teknik",
+    "description": null,
+    "reviews": 14,
+    "competitors": [
+        {
+            "name": "Bahariye Teknik",
+            "link": "https://www.google.com/maps/search/Bahariye+Teknik/@40.9883169,29.031545599999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": ""
+        },
+        {
+            "name": "ELEKTRO TEKN\u0130K T\u0130CARET",
+            "link": "https://www.google.com/maps/search/ELEKTRO+TEKN%C4%B0K+T%C4%B0CARET/@40.9920289,29.025487799999993?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": ""
+        },
+        {
+            "name": "teknikburada.com",
+            "link": "https://www.google.com/maps/search/teknikburada.com/@40.9926861,29.0254077?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 3.9,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Teknik Servis kadik\u00f6y",
+            "link": "https://www.google.com/maps/search/Teknik+Servis+kadik%C3%B6y/@40.991839299999995,29.0253701?authuser=0&entry=ttu",
+            "reviews": 12,
+            "rating": 4.4,
+            "main_category": "Cep Telefonu Tamir At\u00f6lyesi"
+        },
+        {
+            "name": "Tt Otomotiv",
+            "link": "https://www.google.com/maps/search/Tt+Otomotiv/@40.987287099999996,29.0769929?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Oto Galeri"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "107289669118787519504",
+        "name": "T teknik (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/107289669118787519504"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM7ESMqYu8oK_1vhuirXPsKphX4PjzqLPQqOI6d=w408-h306-k-no",
+    "main_category": null,
+    "categories": null,
+    "rating": 3.9,
+    "workday_timing": "09:00\u201319:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0543 147 25 25",
+    "address": "Osmana\u011fa, T teknik, Gen. As\u0131m G\u00fcnd\u00fcz Cd. no:19 D:18, 34714 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJZ93eAG65yhQRNigJesf34mU",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 19:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 4,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 10
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJZ93eAG65yhQRNigJesf34mU&q=?q=place_id:ChIJZ93eAG65yhQRNigJesf34mU&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9886988,
+        "longitude": 29.0289269
+    },
+    "plus_code": "X2QH+FH Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Osmana\u011fa",
+        "street": "Gen. As\u0131m G\u00fcnd\u00fcz Cd. no:19 D:18",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34714",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "7341702778685302838",
+    "data_id": "0x14cab96e00dedd67:0x65e2f7c77a092836",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM7ESMqYu8oK_1vhuirXPsKphX4PjzqLPQqOI6d=w397-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN2n1yM5vA-Xt-BF11nYAzt83lkbAY6qXjCtFuT=w397-h298-k-no"
+        },
+        {
+            "about": "Videolar",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMVQLJyPvbMf1uPK0CUeahA1FCVS2XzohKZRLZk=w224-h398-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8ynU4pzXQ36-MEfLRRfh1g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=72.54764&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "\u0130lgi ve m\u00fc\u015fteri memnuniyeti a\u00e7\u0131s\u0131ndan \u00e7ok g\u00fczel bir yer tamirdede \u00e7ok a\u015f\u0131r\u0131 uygun fiyattan yap\u0131yorlar tavsiye ederim te\u015fekk\u00fcrler t teknik \ud83d\udc4d",
+            "reviewer_name": "\u00d6mer Ta\u015fp\u0131nar",
+            "rating": 5,
+            "review_text": "\u0130lgi ve m\u00fc\u015fteri memnuniyeti a\u00e7\u0131s\u0131ndan \u00e7ok g\u00fczel bir yer tamirdede \u00e7ok a\u015f\u0131r\u0131 uygun fiyattan yap\u0131yorlar tavsiye ederim te\u015fekk\u00fcrler t teknik \ud83d\udc4d",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-09-30T16:06:48.454000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/108909634524498708390/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIBZG5Ad_r18BolraU_sEz0NDU8ri65nOulvCwO4yqZ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Satt\u0131klar\u0131 \u00fcr\u00fcn\u00fcn arkas\u0131nda de\u011filler. Ar\u0131zal\u0131 cihaz satt\u0131lar. Sonras\u0131 zaten bildi\u011finiz gibi s\u0131k\u0131nt\u0131. 10 g\u00fcn serviste bekleyen cihaz\u0131 po\u015fetinden bile \u00e7\u0131marmadan geri verdiler. Birde bizi s\u0131k\u0131yorsun gibi tabirler. Ne diyelim. Kad\u0131k\u00f6y Global ileti\u015fim di\u011fer bir d\u00fckkanlar\u0131. Hakk\u0131m helal de\u011fil.",
+            "reviewer_name": "CELAL T\u00dcYL\u00dcO\u011eLU",
+            "rating": 1,
+            "review_text": "Satt\u0131klar\u0131 \u00fcr\u00fcn\u00fcn arkas\u0131nda de\u011filler. Ar\u0131zal\u0131 cihaz satt\u0131lar. Sonras\u0131 zaten bildi\u011finiz gibi s\u0131k\u0131nt\u0131. 10 g\u00fcn serviste bekleyen cihaz\u0131 po\u015fetinden bile \u00e7\u0131marmadan geri verdiler. Birde bizi s\u0131k\u0131yorsun gibi tabirler. Ne diyelim. Kad\u0131k\u00f6y Global ileti\u015fim di\u011fer bir d\u00fckkanlar\u0131. Hakk\u0131m helal de\u011fil.",
+            "published_at": "9 ay \u00f6nce",
+            "published_at_date": "2023-03-13T12:23:08.150000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113665082306766683131/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU2bVruPXp7bMQbfOHyjLkNRtNEOpqXxtrmRnCgwN15y1U=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "aman arkada\u015flar  Yan\u0131ndan bile ge\u00e7meyin Allah korkusu olmayan bir yer yaz\u0131k g\u00fcnah paran\u0131z\u0131 kapt\u0131rmay\u0131n",
+            "reviewer_name": "Farukr Yilt",
+            "rating": 1,
+            "review_text": "aman arkada\u015flar  Yan\u0131ndan bile ge\u00e7meyin Allah korkusu olmayan bir yer yaz\u0131k g\u00fcnah paran\u0131z\u0131 kapt\u0131rmay\u0131n",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-09-23T21:38:25.462000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101882432316837613728/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIQbWRYoI0FuzuYnJgTvSDHcIcNdXRKpq5Hfq1PXwTV=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "sahibinden. com \u00fczerinden ileti\u015fime ge\u00e7tik sahtekar yalanc\u0131 bir firma uzak durun",
+            "reviewer_name": "SERAP BALCI BORHAN",
+            "rating": 1,
+            "review_text": "sahibinden. com \u00fczerinden ileti\u015fime ge\u00e7tik sahtekar yalanc\u0131 bir firma uzak durun",
+            "published_at": "3 ay \u00f6nce",
+            "published_at_date": "2023-09-16T17:51:09.894000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111512195155174223120/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUU38QdvzpKVTMMSNGFeHaaX17YZKfogu8I1vkbdx09uL0=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Efendim gercekten kalite hizmet ve uygun fiyata urun alabikeceginiz bir nokta lokasyo harika",
+            "reviewer_name": "Salih Irmak",
+            "rating": 5,
+            "review_text": "Efendim gercekten kalite hizmet ve uygun fiyata urun alabikeceginiz bir nokta lokasyo harika",
+            "published_at": "7 ay \u00f6nce",
+            "published_at_date": "2023-05-08T16:36:24.983000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/103678404359520979783/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI8cuGbuGW0fC_DPC6SbI9DvjnURCNwuLHFiqnJ-UmB=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Xiaomi markas\u0131n\u0131 ald\u0131k fabrika sat\u0131s noktas\u0131 kadar donan\u0131ml\u0131 sarz ve k\u0131l\u0131f sat\u0131s\u0131mda harikalar",
+            "reviewer_name": "Osman Yenidogan",
+            "rating": 5,
+            "review_text": "Xiaomi markas\u0131n\u0131 ald\u0131k fabrika sat\u0131s noktas\u0131 kadar donan\u0131ml\u0131 sarz ve k\u0131l\u0131f sat\u0131s\u0131mda harikalar",
+            "published_at": "7 ay \u00f6nce",
+            "published_at_date": "2023-05-08T14:39:01.084000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108586482685952398496/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLCyYDYMxjbt6HgzKMmCNgZLMKSY4s8KRCYS3ZPgu_5=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Tar\u0131k bey ileti\u015fim cihazlar\u0131 konusunda ailemizin ve i\u015f yerimizin b\u00fct\u00fcn \u00e7\u00f6z\u00fcmlerini hallediyor bilgi tecr\u00fcbe ve  uygun \u00e7\u00f6z\u00fcmlerine g\u00fcveniyoruz. Hay\u0131rl\u0131 olsun yeni yeriniz.",
+            "reviewer_name": "serhat karakus",
+            "rating": 5,
+            "review_text": "Tar\u0131k bey ileti\u015fim cihazlar\u0131 konusunda ailemizin ve i\u015f yerimizin b\u00fct\u00fcn \u00e7\u00f6z\u00fcmlerini hallediyor bilgi tecr\u00fcbe ve  uygun \u00e7\u00f6z\u00fcmlerine g\u00fcveniyoruz. Hay\u0131rl\u0131 olsun yeni yeriniz.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-03-30T09:35:24.654000",
+            "response_from_owner_text": "Te\u015fekk\u00fcrler serhat bey. Her zaman g\u00fcvenilir hizmet i\u00e7in yan\u0131n\u0131zday\u0131z.",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-03-30T10:05:10.761000",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/114895432684335325592/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUpQWEexvg06GwyIqXCcqC94k27lv0ShjFSzrHluRkQqE8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Evet konusunda profesyonel \u00e7\u00f6z\u00fcmler sunuyor ve en \u00f6nemlisi d\u00fcr\u00fcst ve g\u00fcvenilir.. fiyatlar\u0131 makul .. te\u015fekk\u00fcrler",
+            "reviewer_name": "Olgun G\u00fcleroglu",
+            "rating": 5,
+            "review_text": "Evet konusunda profesyonel \u00e7\u00f6z\u00fcmler sunuyor ve en \u00f6nemlisi d\u00fcr\u00fcst ve g\u00fcvenilir.. fiyatlar\u0131 makul .. te\u015fekk\u00fcrler",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-12-18T12:49:45.616000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 179,
+            "total_number_of_photos_by_reviewer": 25,
+            "reviewer_url": "https://www.google.com/maps/contrib/109303281062511243928/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUPrdpL5H8c2aoA1HnCedKGlUqE2WjQUdwPqF0yHydBXQ=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

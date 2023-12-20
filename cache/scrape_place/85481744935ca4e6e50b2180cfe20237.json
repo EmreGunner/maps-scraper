@@ -1,0 +1,108 @@
+{
+    "place_id": "ChIJ95BVwmC4yhQRFpM9_WG05ZU",
+    "name": "G\u00fcrel",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Altus",
+            "link": "https://www.google.com/maps/search/Altus/@40.9894897,29.021878299999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": ""
+        },
+        {
+            "name": "Ezo cafe & snack food",
+            "link": "https://www.google.com/maps/search/Ezo+cafe+%26+snack+food/@41.0606273,28.999026399999998?authuser=0&entry=ttu",
+            "reviews": 12,
+            "rating": 4.1,
+            "main_category": "Restoran"
+        },
+        {
+            "name": "Alt\u0131yol",
+            "link": "https://www.google.com/maps/search/Alt%C4%B1yol/@40.9909704,29.029920100000002?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3.5,
+            "main_category": "Otob\u00fcs Dura\u011f\u0131"
+        },
+        {
+            "name": "Umut Market",
+            "link": "https://www.google.com/maps/search/Umut+Market/@40.984333,29.023309?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 4.9,
+            "main_category": "Bakkal"
+        },
+        {
+            "name": "32",
+            "link": "https://www.google.com/maps/search/32/@40.9854092,29.022616199999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": ""
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "G\u00fcrel (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9bGu0J8GJDdQm4033uNJ-g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=347.7919&pitch=0&thumbfov=100",
+    "main_category": null,
+    "categories": null,
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Cafera\u011fa, G\u00fcrel, 34710 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ95BVwmC4yhQRFpM9_WG05ZU",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ95BVwmC4yhQRFpM9_WG05ZU&q=?q=place_id:ChIJ95BVwmC4yhQRFpM9_WG05ZU&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.985262399999996,
+        "longitude": 29.0247128
+    },
+    "plus_code": "X2PF+4V Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Cafera\u011fa",
+        "street": null,
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10801237614271501078",
+    "data_id": "0x14cab860c25590f7:0x95e5b461fd3d9316",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9bGu0J8GJDdQm4033uNJ-g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=347.7919&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9bGu0J8GJDdQm4033uNJ-g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=347.7919&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

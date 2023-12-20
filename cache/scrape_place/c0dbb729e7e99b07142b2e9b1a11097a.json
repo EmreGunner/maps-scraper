@@ -1,0 +1,121 @@
+{
+    "place_id": "ChIJEy7L8DXKyhQR7UDpVl8pslM",
+    "name": "Avukat Bur\u00e7in Deniz Ilik\u00e7i",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "\u0130lik\u00e7i Hukuk - Bur\u00e7in \u0130lik\u00e7i",
+            "link": "https://www.google.com/maps/search/%C4%B0lik%C3%A7i+Hukuk+-+Bur%C3%A7in+%C4%B0lik%C3%A7i/@41.0936956,29.087557699999998?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ke\u00e7ili Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ke%C3%A7ili+Hukuk+B%C3%BCrosu/@41.0930754,29.087100200000002?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4.8,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AVUKAT B\u00dc\u015eRA NAR\u0130N KILI\u00c7",
+            "link": "https://www.google.com/maps/search/AVUKAT+B%C3%9C%C5%9ERA+NAR%C4%B0N+KILI%C3%87/@41.093691,29.089225?authuser=0&entry=ttu",
+            "reviews": 22,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Cabir Soylu",
+            "link": "https://www.google.com/maps/search/Avukat+Cabir+Soylu/@41.093271,29.087100999999997?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Bo\u011fazi\u00e7i Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Bo%C4%9Fazi%C3%A7i+Hukuk+B%C3%BCrosu/@41.0939025,29.0889875?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Avukat Bur\u00e7in Deniz Ilik\u00e7i (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Tnuerxl_tc3tRBJGgyE6vQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=109.7806&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Kavac\u0131k, Avukat Bur\u00e7in Deniz Ilik\u00e7i, \u00d6zg\u00fcr Cd. No:15, 34810 Beykoz/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJEy7L8DXKyhQR7UDpVl8pslM",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJEy7L8DXKyhQR7UDpVl8pslM&q=?q=place_id:ChIJEy7L8DXKyhQR7UDpVl8pslM&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0937031,
+        "longitude": 29.0876043
+    },
+    "plus_code": "33VQ+F2 Beykoz, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Kavac\u0131k",
+        "street": "\u00d6zg\u00fcr Cd. No:15",
+        "city": "Beykoz",
+        "postal_code": "34810",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6030928340459274477",
+    "data_id": "0x14caca35f0cb2e13:0x53b2295f56e940ed",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Tnuerxl_tc3tRBJGgyE6vQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=109.7806&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Tnuerxl_tc3tRBJGgyE6vQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=109.7806&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

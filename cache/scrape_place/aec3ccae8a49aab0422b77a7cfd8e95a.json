@@ -1,0 +1,111 @@
+{
+    "place_id": "ChIJ9x7SPXu3yhQR0dxQxPPJzMY",
+    "name": "Canbolat Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Canbolat & Canbolat Av. Emine Canbolat",
+            "link": "https://www.google.com/maps/search/Canbolat+%26+Canbolat+Av.+Emine+Canbolat/@41.021777,29.0353321?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Canpolat Legal",
+            "link": "https://www.google.com/maps/search/Canpolat+Legal/@40.979460599999996,29.068171399999997?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat G\u00fclcan Karayel",
+            "link": "https://www.google.com/maps/search/Avukat+G%C3%BClcan+Karayel/@41.0341807,28.979121900000003?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ANKA HUKUK DANI\u015eMANLIK&ARABULUCULUK",
+            "link": "https://www.google.com/maps/search/ANKA+HUKUK+DANI%C5%9EMANLIK%26ARABULUCULUK/@41.0407982,28.9853657?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Beyo\u011flu Hukuk B\u00fcrosu | Law Office",
+            "link": "https://www.google.com/maps/search/Beyo%C4%9Flu+Hukuk+B%C3%BCrosu+%7C+Law+Office/@41.0387044,28.9852642?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        }
+    ],
+    "website": "http://canbolatlawfirm.com/",
+    "owner": {
+        "id": null,
+        "name": "Canbolat Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=h-LsChkr1BV5d7W2-bW3Xw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=227.2804&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu",
+        "Hukuk Hizmetleri"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 244 76 16",
+    "address": "G\u00fcm\u00fc\u015fsuyu, Canbolat Hukuk B\u00fcrosu, Ayaz Pa\u015fa Cami Sk. No: 2 D:4, 34437 Beyo\u011flu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ9x7SPXu3yhQR0dxQxPPJzMY",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ9x7SPXu3yhQR0dxQxPPJzMY&q=?q=place_id:ChIJ9x7SPXu3yhQR0dxQxPPJzMY&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0346213,
+        "longitude": 28.9890895
+    },
+    "plus_code": "2XMQ+RJ Beyo\u011flu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "G\u00fcm\u00fc\u015fsuyu",
+        "street": "Ayaz Pa\u015fa Cami Sk. No: 2 D:4",
+        "city": "Beyo\u011flu",
+        "postal_code": "34437",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "14325046563566574801",
+    "data_id": "0x14cab77b3dd21ef7:0xc6ccc9f3c450dcd1",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=h-LsChkr1BV5d7W2-bW3Xw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=227.2804&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=h-LsChkr1BV5d7W2-bW3Xw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=227.2804&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

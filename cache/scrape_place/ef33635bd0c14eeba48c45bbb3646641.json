@@ -1,0 +1,121 @@
+{
+    "place_id": "ChIJjbyV6nO4yhQRsrdBEGTqf7c",
+    "name": "AKG LAW",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "AKG LEGAL",
+            "link": "https://www.google.com/maps/search/AKG+LEGAL/@41.0789788,29.010334099999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "A&G Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/A%26G+Hukuk+B%C3%BCrosu/@40.993924,29.036455000000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "N&G Avukatl\u0131k&Arabuluculuk",
+            "link": "https://www.google.com/maps/search/N%26G+Avukatl%C4%B1k%26Arabuluculuk/@40.993404999999996,29.035589?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Ark Legal",
+            "link": "https://www.google.com/maps/search/Ark+Legal/@40.9892259,29.028376299999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "KA\u0130M HUKUK & DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/KA%C4%B0M+HUKUK+%26+DANI%C5%9EMANLIK/@40.993475,29.038346?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "AKG LAW (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ylvna2JuFO6iy55fSe2BSQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=114.73779&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0216) 541 40 74",
+    "address": "Hasanpa\u015fa, AKG LAW, Fahrettin Kerim G\u00f6kay Cd No:41, 34722 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJjbyV6nO4yhQRsrdBEGTqf7c",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJjbyV6nO4yhQRsrdBEGTqf7c&q=?q=place_id:ChIJjbyV6nO4yhQRsrdBEGTqf7c&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9927692,
+        "longitude": 29.0387952
+    },
+    "plus_code": "X2VQ+4G Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Hasanpa\u015fa",
+        "street": "Fahrettin Kerim G\u00f6kay Cd No:41",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34722",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "13222544746473437106",
+    "data_id": "0x14cab873ea95bc8d:0xb77fea641041b7b2",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ylvna2JuFO6iy55fSe2BSQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=114.73779&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ylvna2JuFO6iy55fSe2BSQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=114.73779&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

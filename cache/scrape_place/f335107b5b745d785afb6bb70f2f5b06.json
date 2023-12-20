@@ -1,0 +1,140 @@
+{
+    "place_id": "ChIJffI0ShW2yhQRKjuZqyI72xo",
+    "name": "\u00dcnsal Law Firm",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "UNSAL Avukatl\u0131k Ortakl\u0131\u011f\u0131 / UNSAL Attorney Partnership",
+            "link": "https://www.google.com/maps/search/UNSAL+Avukatl%C4%B1k+Ortakl%C4%B1%C4%9F%C4%B1+%2F+UNSAL+Attorney+Partnership/@41.076777,29.013283?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00dcnsal Avukatl\u0131k & Arabuluculuk",
+            "link": "https://www.google.com/maps/search/%C3%9Cnsal+Avukatl%C4%B1k+%26+Arabuluculuk/@41.10167,28.9800452?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "SPehlivan Hukuk Ofisi",
+            "link": "https://www.google.com/maps/search/SPehlivan+Hukuk+Ofisi/@41.1094906,29.019012499999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Guzeldere & Balkan Law Firm",
+            "link": "https://www.google.com/maps/search/Guzeldere+%26+Balkan+Law+Firm/@41.111503,29.024803700000003?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "I\u015f\u0131k&Partners Law Firm",
+            "link": "https://www.google.com/maps/search/I%C5%9F%C4%B1k%26Partners+Law+Firm/@41.112412,29.019664000000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": "http://www.unsallaw.com/",
+    "owner": {
+        "id": "105905522538742505593",
+        "name": "\u00dcnsal Law Firm (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/105905522538742505593"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CQUCFxuHHgIj56glABs3Jg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=161.14496&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat",
+        "Hukuk Hizmetleri"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 380 24 85",
+    "address": "Emniyetevleri, \u00dcnsal Law Firm, Park Plaza, Eski B\u00fcy\u00fckdere Cd. No: 14, 34396 Sar\u0131yer/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJffI0ShW2yhQRKjuZqyI72xo",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJffI0ShW2yhQRKjuZqyI72xo&q=?q=place_id:ChIJffI0ShW2yhQRKjuZqyI72xo&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.1082488,
+        "longitude": 29.018248099999997
+    },
+    "plus_code": "4259+77 Sar\u0131yer, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Emniyetevleri",
+        "street": "Park Plaza, Eski B\u00fcy\u00fckdere Cd. No: 14",
+        "city": "Sar\u0131yer",
+        "postal_code": "34396",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "1935205484979632938",
+    "data_id": "0x14cab6154a34f27d:0x1adb3b22ab993b2a",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun giri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CQUCFxuHHgIj56glABs3Jg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=161.14496&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CQUCFxuHHgIj56glABs3Jg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=161.14496&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

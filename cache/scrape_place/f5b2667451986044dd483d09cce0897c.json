@@ -1,0 +1,369 @@
+{
+    "place_id": "ChIJ88T-hpLOyhQRglVrTekgON8",
+    "name": "Turna Emlak \u0130n\u015faat San. Tic. Ltd. \u015eti.",
+    "description": null,
+    "reviews": 50,
+    "competitors": [
+        {
+            "name": "TURYAP \u00c7EKMEK\u00d6Y M\u0130MAR S\u0130NAN TEMS\u0130LC\u0130L\u0130\u011e\u0130",
+            "link": "https://www.google.com/maps/search/TURYAP+%C3%87EKMEK%C3%96Y+M%C4%B0MAR+S%C4%B0NAN+TEMS%C4%B0LC%C4%B0L%C4%B0%C4%9E%C4%B0/@41.0320027,29.181098300000002?authuser=0&entry=ttu",
+            "reviews": 13,
+            "rating": 3.5,
+            "main_category": "Emlak B\u00fcrosu"
+        },
+        {
+            "name": "G\u00f6rkan Emlak Gayrimenkul",
+            "link": "https://www.google.com/maps/search/G%C3%B6rkan+Emlak+Gayrimenkul/@41.0313594,29.1717876?authuser=0&entry=ttu",
+            "reviews": 99,
+            "rating": 5,
+            "main_category": "Emlak B\u00fcrosu"
+        },
+        {
+            "name": "Karde\u015f Emlak",
+            "link": "https://www.google.com/maps/search/Karde%C5%9F+Emlak/@41.038606699999995,29.1789222?authuser=0&entry=ttu",
+            "reviews": 10,
+            "rating": 4.5,
+            "main_category": "Emlak B\u00fcrosu"
+        },
+        {
+            "name": "Turyap",
+            "link": "https://www.google.com/maps/search/Turyap/@41.0383339,29.175226300000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Emlak B\u00fcrosu"
+        },
+        {
+            "name": "Mutlu Yuvam Emlak",
+            "link": "https://www.google.com/maps/search/Mutlu+Yuvam+Emlak/@41.027439699999995,29.2197405?authuser=0&entry=ttu",
+            "reviews": 10,
+            "rating": 4.6,
+            "main_category": "Emlak B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.turnaemlak.com/",
+    "owner": {
+        "id": "106470371038039192052",
+        "name": "Turna Emlak \u0130n\u015faat San. Tic. Ltd. \u015eti. (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/106470371038039192052"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMCoJbAzQAF70B7jMvRB2yMIbo-iRUjpmEVjici=w427-h240-k-no",
+    "main_category": "Emlak B\u00fcrosu",
+    "categories": [
+        "Emlak B\u00fcrosu"
+    ],
+    "rating": 4.8,
+    "workday_timing": "09:00\u201319:30",
+    "closed_on": "Open All Days",
+    "phone": "0541 604 10 04",
+    "address": "Merkez, Turna Emlak \u0130n\u015faat San. Tic. Ltd. \u015eti., \u00c7avu\u015fba\u015f\u0131 Cd. No:29, 34782 \u00c7ekmek\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ88T-hpLOyhQRglVrTekgON8",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 19:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 46
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ88T-hpLOyhQRglVrTekgON8&q=?q=place_id:ChIJ88T-hpLOyhQRglVrTekgON8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0354557,
+        "longitude": 29.1735097
+    },
+    "plus_code": "25PF+5C \u00c7ekmek\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkez",
+        "street": "\u00c7avu\u015fba\u015f\u0131 Cd. No:29",
+        "city": "\u00c7ekmek\u00f6y",
+        "postal_code": "34782",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16084642255552075138",
+    "data_id": "0x14cace9286fec4f3:0xdf3820e94d6b5582",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun giri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun oturma d\u00fczeni",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMCoJbAzQAF70B7jMvRB2yMIbo-iRUjpmEVjici=w530-h298-k-no"
+        },
+        {
+            "about": "D\u0131\u015ftan g\u00f6r\u00fcn\u00fcm",
+            "link": "//lh5.googleusercontent.com/WFRt_Y_G2MQPE4TssKu3Mv4F8-0-0GPKe8RJhf1jWHnWw2weNl0WTy2M3HKVUe1F=w529-h298-k-no"
+        },
+        {
+            "about": "Videolar",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipODuiU9q_lJo6WAZBeV0AR9U1ZNCekePTzUdUcH=w224-h398-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMqkx5zaxExEkaHEvk5hIuMOoRraS2_NGEcDE6j=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jP0pFRNMA6T7nLpEIN9jzg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=244.69286&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201320:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201319:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201319:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "09:00\u201319:30"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "\u0130lgili, yard\u0131msever ve g\u00fcvenilir. Evi kiralad\u0131ktan sonra bile elinden gelen her t\u00fcrl\u00fc yard\u0131m\u0131 yap\u0131yor ve ihtiyac\u0131n\u0131z\u0131 bir \u015fekilde hallediyor. Turna emlak\u2019a te\u015fekk\u00fcrler.",
+            "reviewer_name": "harun bayaro\u011fullar\u0131",
+            "rating": 5,
+            "review_text": "\u0130lgili, yard\u0131msever ve g\u00fcvenilir. Evi kiralad\u0131ktan sonra bile elinden gelen her t\u00fcrl\u00fc yard\u0131m\u0131 yap\u0131yor ve ihtiyac\u0131n\u0131z\u0131 bir \u015fekilde hallediyor. Turna emlak\u2019a te\u015fekk\u00fcrler.",
+            "published_at": "5 ay \u00f6nce",
+            "published_at_date": "2023-07-09T11:01:17.947000",
+            "response_from_owner_text": "Hakkimizda ki d\u00fc\u015f\u00fcnceleriniz i\u00e7in te\u015fekk\u00fcrler Harun bey.\nEn k\u0131sa s\u00fcrede bi kahve i\u00e7meye bekliyoruz.",
+            "response_from_owner_ago": "5 ay \u00f6nce",
+            "response_from_owner_date": "2023-07-09T11:29:14.464000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108185908154848309939/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLlxv5mv1lycwJV_zLs96Y_7Pf1hO7olzZ9dn772kAN=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u00d6ncelikle Tuna Emlak in\u015faat san\u0131yi Ticaret \u015firketine  \u00e7ok te\u015fekk\u00fcr ederim\nMaddi manevi anlamda  ilgi g\u00f6rd\u00fcm\nAyn\u0131 zamanda evimi ta\u015f\u0131mamada yard\u0131mc\u0131 oldu bu zamanda b\u00f6yle  \u015firketlerimizde varm\u0131\u015f   Te\u015fekk\u00fcrler\nTuna emlak \ud83d\ude4f",
+            "reviewer_name": "ERKAN TONKAZ",
+            "rating": 5,
+            "review_text": "\u00d6ncelikle Tuna Emlak in\u015faat san\u0131yi Ticaret \u015firketine  \u00e7ok te\u015fekk\u00fcr ederim\nMaddi manevi anlamda  ilgi g\u00f6rd\u00fcm\nAyn\u0131 zamanda evimi ta\u015f\u0131mamada yard\u0131mc\u0131 oldu bu zamanda b\u00f6yle  \u015firketlerimizde varm\u0131\u015f   Te\u015fekk\u00fcrler\nTuna emlak \ud83d\ude4f",
+            "published_at": "4 ay \u00f6nce",
+            "published_at_date": "2023-07-25T21:23:10.797000",
+            "response_from_owner_text": "Te\u015fekk\u00fcrler Erkan bey, size hizmet etmekten keyif duyduk. M\u00fccadelemiz meslekte en iyiler arasinda olmaya devam etmek.",
+            "response_from_owner_ago": "4 ay \u00f6nce",
+            "response_from_owner_date": "2023-07-26T05:57:58.287000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100855312393137196585/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLTogbbUh9vATtqqcudBLoAMHSZJGRxGCsLTMrXHtok=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Bence tercih etmelisiniz emin olun pi\u015fman olmazs\u0131n\u0131z bende evimi turna emlaktan buldum her konuda yard\u0131mc\u0131 oldular...",
+            "reviewer_name": "Ertu\u011frul Demir",
+            "rating": 5,
+            "review_text": "Bence tercih etmelisiniz emin olun pi\u015fman olmazs\u0131n\u0131z bende evimi turna emlaktan buldum her konuda yard\u0131mc\u0131 oldular...",
+            "published_at": "4 ay \u00f6nce",
+            "published_at_date": "2023-08-06T12:20:03.559000",
+            "response_from_owner_text": "Te\u015fekk\u00fcrler Tu\u011frul bey, sizlere hizmet vermekten b\u00fcy\u00fck keyif duyduk. ",
+            "response_from_owner_ago": "4 ay \u00f6nce",
+            "response_from_owner_date": "2023-08-06T14:47:37.927000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117031546643225950187/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKpC26qJ7Zmgyu2I5RHK8OWOP1W0sN6TKSCx2yRLa6A=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "G\u00fcler y\u00fczl\u00fc ve ilgili davran\u0131\u015flar sergiledi\u011finiz i\u00e7in ve her konuda yard\u0131mc\u0131 oldu\u011funuzdan dolay\u0131 te\u015fekk\u00fcr ederiz.\u0130stanbul gibi kozmopolit bir \u015fehirde, hele ki b\u00f6yle sert ya\u015fam \u015fartlar\u0131 alt\u0131nda g\u00fcven duygusunun zedelendi\u011fi ve hatta yok oldu\u011fu b\u00f6yle bir d\u00f6nemde,bizimle ince detay\u0131na kadar ilgilenen turna emlak sahibi  Yavuz beye \u015f\u00fckranlar\u0131m\u0131 sunar\u0131m\ud83d\ude4f",
+            "reviewer_name": "Esra \u00c7akmak",
+            "rating": 5,
+            "review_text": "G\u00fcler y\u00fczl\u00fc ve ilgili davran\u0131\u015flar sergiledi\u011finiz i\u00e7in ve her konuda yard\u0131mc\u0131 oldu\u011funuzdan dolay\u0131 te\u015fekk\u00fcr ederiz.\u0130stanbul gibi kozmopolit bir \u015fehirde, hele ki b\u00f6yle sert ya\u015fam \u015fartlar\u0131 alt\u0131nda g\u00fcven duygusunun zedelendi\u011fi ve hatta yok oldu\u011fu b\u00f6yle bir d\u00f6nemde,bizimle ince detay\u0131na kadar ilgilenen turna emlak sahibi  Yavuz beye \u015f\u00fckranlar\u0131m\u0131 sunar\u0131m\ud83d\ude4f",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-08-23T19:04:34.003000",
+            "response_from_owner_text": "Firmam\u0131z hakk\u0131ndaki duygulariniz bizi onurland\u0131rd\u0131 Esra han\u0131m te\u015fekk\u00fcr ederiz.",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-08-23T19:17:00.533000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/109854170588592582090/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJTTfUIu7BNkWlZLvZWo_NROrM-dCr2VtOgPNrEUNnt=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u0130\u015finiz de \u00e7ok tecrubelisiniz emlak i\u015fi ile ilgili i\u015fi olan herkes kesinlikle ba\u015fvurabilir \ud83d\udc4d\ud83d\udc4d",
+            "reviewer_name": "Hasan Y\u0131ld\u0131z",
+            "rating": 5,
+            "review_text": "\u0130\u015finiz de \u00e7ok tecrubelisiniz emlak i\u015fi ile ilgili i\u015fi olan herkes kesinlikle ba\u015fvurabilir \ud83d\udc4d\ud83d\udc4d",
+            "published_at": "5 ay \u00f6nce",
+            "published_at_date": "2023-06-20T17:19:24.829000",
+            "response_from_owner_text": "Hakk\u0131m\u0131zdaki d\u00fc\u015f\u00fcnceleriniz i\u00e7in te\u015fekk\u00fcr ederiz Hasan Bey \u0130n\u015fallah en k\u0131sa zamanda tekrardan g\u00f6r\u00fc\u015fmek \u00fczere",
+            "response_from_owner_ago": "5 ay \u00f6nce",
+            "response_from_owner_date": "2023-06-20T18:31:13.545000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101414337495037220112/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXE1Kwl5BRLrlHQrD2TbFlbQNI7cjMpZftFLA00OTD80A=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Turna emlak firma sahibi Yavuz bey ile tan\u0131\u015ft\u0131\u011f\u0131m\u0131z i\u00e7in \u00e7ok \u015fansl\u0131 oldu\u011fumuzu d\u00fc\u015f\u00fcn\u00fcyorum.\u00c7ekmek\u00f6y deki evimizi kiralamak i\u00e7in kendisinden yard\u0131m istedi\u011fimizde, bizi \u00e7ok samimi bir \u015fekilde kar\u015f\u0131layarak,piyasa ko\u015fullar\u0131na uygun olarak evi fiyatland\u0131rabilmemiz i\u00e7in bizi do\u011fru y\u00f6nlendirdi.2 g\u00fcn i\u00e7inde evimizi kiralayabilece\u011fimiz g\u00fcvenilir ve uygun kirac\u0131y\u0131 Bularak her iki taraf\u0131 koruyan s\u00f6zle\u015fmemizi  haz\u0131rlad\u0131. Kirac\u0131n\u0131n talep etti\u011fi eksiklerin giderilmesi ile de bize yard\u0131mc\u0131 olarak \u00e7ekmek\u00f6ydeki elimiz aya\u011f\u0131m\u0131z, g\u00f6z\u00fcm\u00fcz kula\u011f\u0131m\u0131z  oldu.\nYavuz beye h\u0131zl\u0131 \u00e7\u00f6z\u00fcm\u00fc ve ilgisi i\u00e7in \u00e7ok te\u015fekk\u00fcr ediyorum.",
+            "reviewer_name": "Taner yenen",
+            "rating": 5,
+            "review_text": "Turna emlak firma sahibi Yavuz bey ile tan\u0131\u015ft\u0131\u011f\u0131m\u0131z i\u00e7in \u00e7ok \u015fansl\u0131 oldu\u011fumuzu d\u00fc\u015f\u00fcn\u00fcyorum.\u00c7ekmek\u00f6y deki evimizi kiralamak i\u00e7in kendisinden yard\u0131m istedi\u011fimizde, bizi \u00e7ok samimi bir \u015fekilde kar\u015f\u0131layarak,piyasa ko\u015fullar\u0131na uygun olarak evi fiyatland\u0131rabilmemiz i\u00e7in bizi do\u011fru y\u00f6nlendirdi.2 g\u00fcn i\u00e7inde evimizi kiralayabilece\u011fimiz g\u00fcvenilir ve uygun kirac\u0131y\u0131 Bularak her iki taraf\u0131 koruyan s\u00f6zle\u015fmemizi  haz\u0131rlad\u0131. Kirac\u0131n\u0131n talep etti\u011fi eksiklerin giderilmesi ile de bize yard\u0131mc\u0131 olarak \u00e7ekmek\u00f6ydeki elimiz aya\u011f\u0131m\u0131z, g\u00f6z\u00fcm\u00fcz kula\u011f\u0131m\u0131z  oldu.\nYavuz beye h\u0131zl\u0131 \u00e7\u00f6z\u00fcm\u00fc ve ilgisi i\u00e7in \u00e7ok te\u015fekk\u00fcr ediyorum.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-04-22T17:56:58.458000",
+            "response_from_owner_text": "Taner bey hakk\u0131m\u0131zda ki d\u00fc\u015f\u00fcnceleriniz bizi ziyadesi ile mutlu etti.\nSizlere uzun y\u0131llar hizmet vermekten ayn\u0131 \u015fekilde mutluluk duyaca\u011f\u0131z.\nRamazan sonras\u0131 terasta kahve i\u00e7meye bekliyoruz.",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-04-22T18:12:01.667000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117999024820357495878/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIy4lhA_YqtAP6DnOWJGkfyUrIR1d9VXyrpLELb1nMw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u0130\u015fitme engelli durumdan nas\u0131l ileti\u015fim kuraca\u011f\u0131m s\u0131k\u0131nt\u0131s\u0131 ya\u015farken i\u015faret dilini biraz biliyorum demesi beni gururland\u0131rd\u0131 ev sahibi ile olan ileti\u015fim konusundaki yard\u0131mlar\u0131 ile \u00e7ok memnun oldum \u00c7ekmek\u00f6y gibi geli\u015fmi\u015f yerde m\u00fc\u015fteri memnuniyetini d\u00fc\u015f\u00fcnen emlak\u00e7\u0131lar olsun y\u00fcz\u00fcm\u00fcz\u00fcn g\u00fcl\u00fcmsemeyle ayr\u0131lmak oldu te\u015fekk\u00fcrler turna emlak \ud83e\udd17\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+            "reviewer_name": "Filiz Sa\u011flam",
+            "rating": 5,
+            "review_text": "\u0130\u015fitme engelli durumdan nas\u0131l ileti\u015fim kuraca\u011f\u0131m s\u0131k\u0131nt\u0131s\u0131 ya\u015farken i\u015faret dilini biraz biliyorum demesi beni gururland\u0131rd\u0131 ev sahibi ile olan ileti\u015fim konusundaki yard\u0131mlar\u0131 ile \u00e7ok memnun oldum \u00c7ekmek\u00f6y gibi geli\u015fmi\u015f yerde m\u00fc\u015fteri memnuniyetini d\u00fc\u015f\u00fcnen emlak\u00e7\u0131lar olsun y\u00fcz\u00fcm\u00fcz\u00fcn g\u00fcl\u00fcmsemeyle ayr\u0131lmak oldu te\u015fekk\u00fcrler turna emlak \ud83e\udd17\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-05-01T09:14:52.106000",
+            "response_from_owner_text": "G\u00fczel  dilekleriniz bizi onurland\u0131rd\u0131 Filiz han\u0131m. \u00c7ok te\u015fekk\u00fcr ederiz.",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-05-01T09:17:03.969000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111673457993989695789/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUUmygWlQjJHpBEVDQx6H6yfqE_AYVbT7sweUO89YcgCc4=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Mustafa Bey ve o\u011flu ev alma s\u00fcrecimde bize \u00e7ok destek oldular. Cuma ald\u0131\u011f\u0131m\u0131z evi Pazar g\u00fcn\u00fc kiraya verdiler... Kombisi takt\u0131rd\u0131lar, kap\u0131 ve cam kilitleriyle de bizzat ilgilendiler. Ankastreyi bile uygun fiyata bizim i\u00e7in sat\u0131n al\u0131p monte ettirdiler. Her\u015fey i\u00e7in ne kadar te\u015fekk\u00fcr etsem az, bu devirde g\u00fcvenilir emlak\u00e7\u0131 bulmak ger\u00e7ekten b\u00fcy\u00fck bir \u015fans. Tavsiye ediyoruz.",
+            "reviewer_name": "Tu\u011f\u00e7e Baysal",
+            "rating": 5,
+            "review_text": "Mustafa Bey ve o\u011flu ev alma s\u00fcrecimde bize \u00e7ok destek oldular. Cuma ald\u0131\u011f\u0131m\u0131z evi Pazar g\u00fcn\u00fc kiraya verdiler... Kombisi takt\u0131rd\u0131lar, kap\u0131 ve cam kilitleriyle de bizzat ilgilendiler. Ankastreyi bile uygun fiyata bizim i\u00e7in sat\u0131n al\u0131p monte ettirdiler. Her\u015fey i\u00e7in ne kadar te\u015fekk\u00fcr etsem az, bu devirde g\u00fcvenilir emlak\u00e7\u0131 bulmak ger\u00e7ekten b\u00fcy\u00fck bir \u015fans. Tavsiye ediyoruz.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-08-24T07:42:08.912000",
+            "response_from_owner_text": "Tu\u011f\u00e7e han\u0131m yapm\u0131\u015f oldu\u011fumuz meslek, bizim i\u00e7in kazan\u00e7tan \u00f6nce  hizmet \u00fcretmektir.\nHizmetlerimiz den memnun kalman\u0131z ve bizi tavsiye ediyor olman\u0131z, bizleri ziyadesiyle ile onurland\u0131rd\u0131.\nTe\u015fekk\u00fcr ederiz.",
+            "response_from_owner_ago": "2 y\u0131l \u00f6nce",
+            "response_from_owner_date": "2021-08-24T08:44:01.626000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/114879322205492756439/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ2R79F4Q1t9zC_DPL5kB_H9w1b9tlvHbmKIpuRcuwM=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

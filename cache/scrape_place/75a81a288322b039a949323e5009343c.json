@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJH5RJLB67yhQRjElkZ23WwW0",
+    "name": "\u00d6zata hukuk b\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "\u00d6zbek&\u00d6zbek Hukuk Ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/%C3%96zbek%26%C3%96zbek+Hukuk+Ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.0123855,28.9088034?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Nokta Hukuk ve Arabuluculuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Nokta+Hukuk+ve+Arabuluculuk+B%C3%BCrosu/@41.0135758,28.9093507?authuser=0&entry=ttu",
+            "reviews": 13,
+            "rating": 3.6,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "GTZ HUKUK & ARABULUCULUK",
+            "link": "https://www.google.com/maps/search/GTZ+HUKUK+%26+ARABULUCULUK/@41.0141041,28.9078207?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Atlas Hukuk Ofisi",
+            "link": "https://www.google.com/maps/search/Atlas+Hukuk+Ofisi/@41.0116902,28.909129?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 3.6,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6zata",
+            "link": "https://www.google.com/maps/search/%C3%96zata/@40.9855076,29.1366294?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 4.2,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "\u00d6zata hukuk b\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=atUUCaRJnASvDBRQ4jrnkw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=24.891909&pitch=0&thumbfov=100",
+    "main_category": "Kurumsal Ofis",
+    "categories": [
+        "Kurumsal Ofis"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Merkezefendi, \u00d6zata hukuk b\u00fcrosu, Terc\u00fcman Sitesi No:6 a 10 blok daire, 34015 Zeytinburnu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJH5RJLB67yhQRjElkZ23WwW0",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJH5RJLB67yhQRjElkZ23WwW0&q=?q=place_id:ChIJH5RJLB67yhQRjElkZ23WwW0&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.012751,
+        "longitude": 28.907822799999998
+    },
+    "plus_code": "2W75+44 Zeytinburnu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkezefendi",
+        "street": "Terc\u00fcman Sitesi No:6 a 10 blok daire",
+        "city": "Zeytinburnu",
+        "postal_code": "34015",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "7908838186013706636",
+    "data_id": "0x14cabb1e2c49941f:0x6dc1d66d6764498c",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=atUUCaRJnASvDBRQ4jrnkw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=24.891909&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=atUUCaRJnASvDBRQ4jrnkw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=24.891909&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

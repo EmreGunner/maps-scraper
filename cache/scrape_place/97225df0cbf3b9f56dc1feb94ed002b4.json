@@ -1,0 +1,199 @@
+{
+    "place_id": "ChIJrbm35vfGyhQRhgKaxU7wspc",
+    "name": "Wisdom Denetim",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Andersen T\u00fcrkiye",
+            "link": "https://www.google.com/maps/search/Andersen+T%C3%BCrkiye/@40.9764214,29.102886799999997?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Kad\u0131k\u00f6y Vergi Denetim M\u00fcd\u00fcrl\u00fc\u011f\u00fc",
+            "link": "https://www.google.com/maps/search/Kad%C4%B1k%C3%B6y+Vergi+Denetim+M%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC/@40.9629519,29.108402?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Devlet Dairesi"
+        },
+        {
+            "name": "Optimal Denetim",
+            "link": "https://www.google.com/maps/search/Optimal+Denetim/@40.9638006,29.1086963?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 5,
+            "main_category": "Mali M\u00fc\u015favir"
+        },
+        {
+            "name": "Beyaz Serbest Muhasebeci Mali M\u00fc\u015favirlik ve Ba\u011f\u0131ms\u0131z Denetim Ltd. \u015eti.",
+            "link": "https://www.google.com/maps/search/Beyaz+Serbest+Muhasebeci+Mali+M%C3%BC%C5%9Favirlik+ve+Ba%C4%9F%C4%B1ms%C4%B1z+Denetim+Ltd.+%C5%9Eti./@40.9821982,29.1140977?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "\u0130\u015f Merkezi"
+        },
+        {
+            "name": "Ata\u015fehir BDK Denetim ve Mali M\u00fc\u015favirlik",
+            "link": "https://www.google.com/maps/search/Ata%C5%9Fehir+BDK+Denetim+ve+Mali+M%C3%BC%C5%9Favirlik/@40.9741724,29.120433499999997?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 4.5,
+            "main_category": "Mali M\u00fc\u015favir"
+        }
+    ],
+    "website": "http://www.wisdomdenetim.com/",
+    "owner": {
+        "id": "106886584361741740361",
+        "name": "Wisdom Denetim (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/106886584361741740361"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMib9-C_I7Rkx-_pvVH0rbpnEQPEAaGOgeZN6dB=w408-h272-k-no",
+    "main_category": "Vergi Dan\u0131\u015fman\u0131",
+    "categories": [
+        "Vergi Dan\u0131\u015fman\u0131",
+        "Hukuk Hizmetleri",
+        "Vergi \u0130\u015flemleri",
+        "Vergi \u0130adesi Hizmeti"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 574 27 00",
+    "address": "\u0130\u00e7erenk\u00f6y, Wisdom Denetim, 34752 Ata\u015fehir/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJrbm35vfGyhQRhgKaxU7wspc",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJrbm35vfGyhQRhgKaxU7wspc&q=?q=place_id:ChIJrbm35vfGyhQRhgKaxU7wspc&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9652548,
+        "longitude": 29.1071107
+    },
+    "plus_code": "X484+4R Ata\u015fehir, \u0130stanbul",
+    "detailed_address": {
+        "ward": "\u0130\u00e7erenk\u00f6y",
+        "street": null,
+        "city": "Ata\u015fehir",
+        "postal_code": "34752",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10931063466694935174",
+    "data_id": "0x14cac6f7e6b7b9ad:0x97b2f04ec59a0286",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "http://www.wisdomdenetim.com/",
+            "source": "wisdomdenetim.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMib9-C_I7Rkx-_pvVH0rbpnEQPEAaGOgeZN6dB=w447-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNP5p7yevtKp6fQ4XDQr39whQ4le-KZ7Y22s23j=w298-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xoFdzLdWK0MAZBaiBX235w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=258.62045&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

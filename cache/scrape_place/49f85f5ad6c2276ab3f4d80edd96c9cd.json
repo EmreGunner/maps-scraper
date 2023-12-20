@@ -1,0 +1,103 @@
+{
+    "place_id": "ChIJq6qaRl67yhQRSuwVJFq2AmE",
+    "name": "KIVILCIMER HUKUK B\u00dcROSU",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "MRB Bak\u0131rk\u00f6y Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/MRB+Bak%C4%B1rk%C3%B6y+Avukatl%C4%B1k+B%C3%BCrosu/@40.992278,28.869122?authuser=0&entry=ttu",
+            "reviews": 51,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Hukuk Ve Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Hukuk+Ve+Avukatl%C4%B1k+B%C3%BCrosu/@40.9938292,28.870332500000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Cevat \u00c7\u0130L Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosusu",
+            "link": "https://www.google.com/maps/search/Cevat+%C3%87%C4%B0L+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosusu/@40.980832299999996,28.868407400000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "K\u0131ran Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/K%C4%B1ran+Hukuk+B%C3%BCrosu/@40.995396199999995,28.8862123?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "KIVILCIMER HUKUK B\u00dcROSU (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Pqy-z1m_odgDqkzPgP21ow&cb_client=search.gws-prod.gps&w=408&h=240&yaw=348.962&pitch=0&thumbfov=100",
+    "main_category": "Hukuk Hizmetleri",
+    "categories": [
+        "Hukuk Hizmetleri"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Kartaltepe, KIVILCIMER HUKUK B\u00dcROSU, Ko\u015fuyolu Cd. No:39, 34145 Bak\u0131rk\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJq6qaRl67yhQRSuwVJFq2AmE",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJq6qaRl67yhQRSuwVJFq2AmE&q=?q=place_id:ChIJq6qaRl67yhQRSuwVJFq2AmE&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9869383,
+        "longitude": 28.881206799999998
+    },
+    "plus_code": "XVPJ+QF Bak\u0131rk\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Kartaltepe",
+        "street": "Ko\u015fuyolu Cd. No:39",
+        "city": "Bak\u0131rk\u00f6y",
+        "postal_code": "34145",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6990350069901159498",
+    "data_id": "0x14cabb5e469aaaab:0x6102b65a2415ec4a",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Pqy-z1m_odgDqkzPgP21ow&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=348.962&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Pqy-z1m_odgDqkzPgP21ow&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=348.962&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

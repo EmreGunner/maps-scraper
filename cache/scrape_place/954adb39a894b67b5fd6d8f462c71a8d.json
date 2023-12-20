@@ -1,0 +1,176 @@
+{
+    "place_id": "ChIJm1ixj1a2yhQRJKtzDschidI",
+    "name": "Tercang\u00f6k Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "TERCAN HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/TERCAN+HUKUK+B%C3%9CROSU/@41.067037899999995,29.001889?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 4.9,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Tercan&Ildir Law Office",
+            "link": "https://www.google.com/maps/search/Tercan%26Ildir+Law+Office/@41.0627192,28.9895973?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Tomurcuk Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Tomurcuk+Hukuk+B%C3%BCrosu/@41.0661881,29.0049865?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "GG Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/GG+Avukatl%C4%B1k+B%C3%BCrosu/@41.065108699999996,28.9942972?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "DKND Law Firm / DKND Hukuk Burosu",
+            "link": "https://www.google.com/maps/search/DKND+Law+Firm+%2F+DKND+Hukuk+Burosu/@41.064851,29.009177399999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.tercangok.com/",
+    "owner": {
+        "id": null,
+        "name": "Tercang\u00f6k Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh4.googleusercontent.com/-JmvLFdG2MCbO_KxBYdAN-D4nwmZS7iRO8HfIsQZ90jKCnbUVY1UhAQLQOXdRHXJ=w426-h240-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0212) 234 24 28",
+    "address": "Gayrettepe, Tercang\u00f6k Hukuk B\u00fcrosu, B\u00fcy\u00fckdere Cd. No:105, 34418 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJm1ixj1a2yhQRJKtzDschidI",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJm1ixj1a2yhQRJKtzDschidI&q=?q=place_id:ChIJm1ixj1a2yhQRJKtzDschidI&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.06709,
+        "longitude": 29.002955999999998
+    },
+    "plus_code": "3283+R5 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Gayrettepe",
+        "street": "B\u00fcy\u00fckdere Cd. No:105",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34418",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "15170693958598896420",
+    "data_id": "0x14cab6568fb1589b:0xd28921c70e73ab24",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh4.googleusercontent.com/-JmvLFdG2MCbO_KxBYdAN-D4nwmZS7iRO8HfIsQZ90jKCnbUVY1UhAQLQOXdRHXJ=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4-4jh66K_ytMU4dUBIdQ-Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=19.435448&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Damla Durmu\u015f",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "7 ay \u00f6nce",
+            "published_at_date": "2023-05-12T19:21:30.820000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 40,
+            "total_number_of_photos_by_reviewer": 7,
+            "reviewer_url": "https://www.google.com/maps/contrib/101102965005810247995/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVo2xOp1q8z0SQzybAauAVTJ3eQCAYIKl6uCODe7PGROao=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

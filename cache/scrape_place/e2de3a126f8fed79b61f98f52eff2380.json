@@ -1,0 +1,103 @@
+{
+    "place_id": "ChIJr854AWfJyhQRtgGWP7OwTvc",
+    "name": "Yildiz Hukuk Burosu ve Danismanlik LTD Stti",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "YILDIZ HUKUK DANI\u015eMANLIK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/YILDIZ+HUKUK+DANI%C5%9EMANLIK+B%C3%9CROSU/@40.9332354,29.137206600000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Y\u0131ld\u0131z Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Y%C4%B1ld%C4%B1z+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9973922,29.0480212?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Y\u0131ld\u0131z Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Y%C4%B1ld%C4%B1z+Hukuk+B%C3%BCrosu/@40.9741113,29.1006957?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "SANCAK HUKUK",
+            "link": "https://www.google.com/maps/search/SANCAK+HUKUK/@40.9948993,29.124298500000002?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 4.7,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Yildiz Hukuk Burosu ve Danismanlik LTD Stti (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U2iz55hQQAnXj80OibyNTw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=168.46019&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0312) 777 71 89",
+    "address": "Yildiz Hukuk Burosu ve Danismanlik LTD Stti, Ata\u015fehir Bulvari, Gardenya Plaza, No 1, 34750 Ata\u015fehir/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJr854AWfJyhQRtgGWP7OwTvc",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJr854AWfJyhQRtgGWP7OwTvc&q=?q=place_id:ChIJr854AWfJyhQRtgGWP7OwTvc&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9923341,
+        "longitude": 29.1281079
+    },
+    "plus_code": "X4RH+W6 Ata\u015fehir, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Ata\u015fehir Atat\u00fcrk",
+        "street": "Ata\u015fehir Bulvari, Gardenya Plaza, No 1",
+        "city": "Ata\u015fehir",
+        "postal_code": "34750",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "17820375059464061366",
+    "data_id": "0x14cac9670178ceaf:0xf74eb0b33f9601b6",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U2iz55hQQAnXj80OibyNTw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=168.46019&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U2iz55hQQAnXj80OibyNTw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=168.46019&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

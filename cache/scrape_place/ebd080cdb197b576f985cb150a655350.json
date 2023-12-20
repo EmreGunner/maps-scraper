@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJFc8qdW63yhQR_bA5e4AgAsI",
+    "name": "Ercin Bilgin Bektasoglu Hukuk",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Er\u00e7in Bilgin Bekta\u015fo\u011flu Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Er%C3%A7in+Bilgin+Bekta%C5%9Fo%C4%9Flu+Avukatl%C4%B1k+B%C3%BCrosu/@41.040080599999996,28.9859598?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Bircanoglu Law Firm",
+            "link": "https://www.google.com/maps/search/Bircanoglu+Law+Firm/@41.036416,28.9896533?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Er\u00e7in Hukuk &Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Er%C3%A7in+Hukuk+%26Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9905512,29.0295407?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Ar\u0131kbo\u011fa & \u00d6zbey Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ar%C4%B1kbo%C4%9Fa+%26+%C3%96zbey+Hukuk+B%C3%BCrosu/@41.0461489,28.9864385?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 4.1,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Bilgin Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Bilgin+Hukuk+B%C3%BCrosu/@41.060243899999996,28.969396600000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://ercinbilginbektasoglu.av.tr/",
+    "owner": {
+        "id": null,
+        "name": "Ercin Bilgin Bektasoglu Hukuk (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mGQcoWnj-yu3PUaIF_SHIw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=188.96504&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 297 41 01",
+    "address": "Ercin Bilgin Bektasoglu Hukuk, Cumhuriyet Cad. Cumhuriyet Apt.17, D:7, 34437 \u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJFc8qdW63yhQR_bA5e4AgAsI",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJFc8qdW63yhQR_bA5e4AgAsI&q=?q=place_id:ChIJFc8qdW63yhQR_bA5e4AgAsI&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0430407,
+        "longitude": 28.9863358
+    },
+    "plus_code": "2XVP+6G \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "\u0130n\u00f6n\u00fc",
+        "street": "Cumhuriyet Cad. Cumhuriyet Apt.17, D:7",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34437",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "13979771929506722045",
+    "data_id": "0x14cab76e752acf15:0xc20220807b39b0fd",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mGQcoWnj-yu3PUaIF_SHIw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=188.96504&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mGQcoWnj-yu3PUaIF_SHIw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=188.96504&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

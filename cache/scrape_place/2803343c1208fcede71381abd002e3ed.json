@@ -1,0 +1,169 @@
+{
+    "place_id": "ChIJjySck267yhQRa2zEKoeOF-w",
+    "name": "NARBAY Hukuk b\u00fcrosu",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "Av. Mehmet Narbay",
+            "link": "https://www.google.com/maps/search/Av.+Mehmet+Narbay/@40.9937593,28.8795831?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "NBA Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/NBA+Hukuk+B%C3%BCrosu/@40.996705,28.873806?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Nar Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Nar+Hukuk+B%C3%BCrosu/@40.9947328,28.880227899999998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 2,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Ozan Bayram Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Avukat+Ozan+Bayram+Hukuk+B%C3%BCrosu/@40.9936569,28.879946699999998?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "NARBAY Hukuk b\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pfw_5TtyQeYOYV9TzCbcLg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=188.44559&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "08:00\u201317:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": null,
+    "address": "Osmaniye, NARBAY Hukuk b\u00fcrosu, \u0130ncirli Yolu Sk. No:9, 34146, 34146 Bak\u0131rk\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJjySck267yhQRa2zEKoeOF-w",
+    "status": "Kapal\u0131 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 08:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJjySck267yhQRa2zEKoeOF-w&q=?q=place_id:ChIJjySck267yhQRa2zEKoeOF-w&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9937642,
+        "longitude": 28.8796833
+    },
+    "plus_code": "XVVH+GV Bak\u0131rk\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Osmaniye",
+        "street": "\u0130ncirli Yolu Sk. No:9, 34146",
+        "city": "Bak\u0131rk\u00f6y",
+        "postal_code": "34146",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "17012222828604583019",
+    "data_id": "0x14cabb6e939c248f:0xec178e872ac46c6b",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pfw_5TtyQeYOYV9TzCbcLg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=188.44559&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pfw_5TtyQeYOYV9TzCbcLg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=188.44559&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "11:00\u201315:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "irfan polat",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-09-13T13:53:07.765000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 89,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/107430658216450854814/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVAVpLfiXBtrOXQycZxz_Jhu1C-pwTJg3aJ0thQhWMrmGQ=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

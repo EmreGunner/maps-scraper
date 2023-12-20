@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJbRY_ieC2yhQRQaDR0cSb1bY",
+    "name": "BTS",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "BTS Bili\u015fim",
+            "link": "https://www.google.com/maps/search/BTS+Bili%C5%9Fim/@41.1686413,29.0548769?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Bilgisayar Servisi"
+        },
+        {
+            "name": "BTS Bilgisayar",
+            "link": "https://www.google.com/maps/search/BTS+Bilgisayar/@40.985508200000005,28.8955758?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3.5,
+            "main_category": "Bilgisayar Dan\u0131\u015fman\u0131"
+        },
+        {
+            "name": "BTS B\u0130NA TEKNOLOJ\u0130K S\u0130STEMLER\u0130",
+            "link": "https://www.google.com/maps/search/BTS+B%C4%B0NA+TEKNOLOJ%C4%B0K+S%C4%B0STEMLER%C4%B0/@41.0304125,29.1736022?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4.3,
+            "main_category": "Elektronik \u015eirketi"
+        },
+        {
+            "name": "bts bilgisayar teknik servis",
+            "link": "https://www.google.com/maps/search/bts+bilgisayar+teknik+servis/@41.0990259,28.8679511?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Bilgisayar Tamir Servisi"
+        },
+        {
+            "name": "Bts Al\u00fcminyum",
+            "link": "https://www.google.com/maps/search/Bts+Al%C3%BCminyum/@41.0707978,28.982340500000003?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 4.8,
+            "main_category": "Kurumsal Ofis"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "BTS (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7BYpXC2rz6SiSOk_V_f1Yg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=286.50446&pitch=0&thumbfov=100",
+    "main_category": "Yaz\u0131l\u0131m \u015eirketi",
+    "categories": [
+        "Yaz\u0131l\u0131m \u015eirketi"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 210 99 83",
+    "address": "G\u00fcrsel, BTS, Beylik Sk No:5/A, 34400 K\u00e2\u011f\u0131thane/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJbRY_ieC2yhQRQaDR0cSb1bY",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJbRY_ieC2yhQRQaDR0cSb1bY&q=?q=place_id:ChIJbRY_ieC2yhQRQaDR0cSb1bY&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0713836,
+        "longitude": 28.977145099999998
+    },
+    "plus_code": "3XCG+HV K\u00e2\u011f\u0131thane, \u0130stanbul",
+    "detailed_address": {
+        "ward": "G\u00fcrsel",
+        "street": "Beylik Sk No:5/A",
+        "city": "K\u00e2\u011f\u0131thane",
+        "postal_code": "34400",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "13174607554578325569",
+    "data_id": "0x14cab6e0893f166d:0xb6d59bc4d1d1a041",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7BYpXC2rz6SiSOk_V_f1Yg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=286.50446&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7BYpXC2rz6SiSOk_V_f1Yg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=286.50446&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJbSkZw_nbJRUR71HxlUgdZyU",
+    "name": "Av Atakan ATAR Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "ATAR&ATAR HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/ATAR%26ATAR+HUKUK+B%C3%9CROSU/@36.224307599999996,36.1305745?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Vahit Hoca",
+            "link": "https://www.google.com/maps/search/Avukat+Vahit+Hoca/@36.0869474,35.968593?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Meltem Ahras Nuran",
+            "link": "https://www.google.com/maps/search/Avukat+Meltem+Ahras+Nuran/@36.0869474,35.968593?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Orhan \u00d6zen",
+            "link": "https://www.google.com/maps/search/Avukat+Orhan+%C3%96zen/@36.131346,36.039778?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 4.3,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat \u00c7etin Sakall\u0131",
+            "link": "https://www.google.com/maps/search/Avukat+%C3%87etin+Sakall%C4%B1/@36.110495799999995,35.9427883?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "117888836520530569785",
+        "name": "Av Atakan ATAR Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/117888836520530569785"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UplEEnz1TAEILsPihVELpg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=106.347275&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0537 385 37 44",
+    "address": "Atat\u00fcrk, Av Atakan ATAR Hukuk B\u00fcrosu, Antakya Samanda\u011f Yolu, 31800 Samanda\u011f/Hatay",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJbSkZw_nbJRUR71HxlUgdZyU",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJbSkZw_nbJRUR71HxlUgdZyU&q=?q=place_id:ChIJbSkZw_nbJRUR71HxlUgdZyU&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.1460315,
+        "longitude": 36.056636399999995
+    },
+    "plus_code": "43W4+CM Samanda\u011f, Hatay",
+    "detailed_address": {
+        "ward": "Atat\u00fcrk",
+        "street": "Antakya Samanda\u011f Yolu",
+        "city": "Samanda\u011f",
+        "postal_code": "31800",
+        "state": "Hatay",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2695155099595002351",
+    "data_id": "0x1525dbf9c319296d:0x25671d4895f151ef",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UplEEnz1TAEILsPihVELpg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=106.347275&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UplEEnz1TAEILsPihVELpg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=106.347275&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,115 @@
+{
+    "place_id": "ChIJ5eANmCK6yhQRLuTl2_LZvKk",
+    "name": "Uzun Moda",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Aksesuar",
+            "link": "https://www.google.com/maps/search/Aksesuar/@41.023157,28.857219399999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Giyim ma\u011fazas\u0131"
+        },
+        {
+            "name": "feyzmoda",
+            "link": "https://www.google.com/maps/search/feyzmoda/@41.0420648,28.674259399999997?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 1,
+            "main_category": "Giyim ma\u011fazas\u0131"
+        },
+        {
+            "name": "Dua Tekstil",
+            "link": "https://www.google.com/maps/search/Dua+Tekstil/@41.011133,28.837190900000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Giyim ma\u011fazas\u0131"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Uzun Moda (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Vp40P40LQA7ZMrhCXZsp6A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=254.70189&pitch=0&thumbfov=100",
+    "main_category": "Giyim ma\u011fazas\u0131",
+    "categories": [
+        "Giyim ma\u011fazas\u0131"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "H\u0131rka-i \u015eerif, Uzun Moda, 34091 Fatih/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ5eANmCK6yhQRLuTl2_LZvKk",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ5eANmCK6yhQRLuTl2_LZvKk&q=?q=place_id:ChIJ5eANmCK6yhQRLuTl2_LZvKk&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0221594,
+        "longitude": 28.942715699999997
+    },
+    "plus_code": "2WCV+V3 Fatih, \u0130stanbul",
+    "detailed_address": {
+        "ward": "H\u0131rka-i \u015eerif",
+        "street": null,
+        "city": "Fatih",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12230890325126013998",
+    "data_id": "0x14caba22980de0e5:0xa9bcd9f2dbe5e42e",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Adrese servis",
+                    "enabled": true
+                },
+                {
+                    "name": "Ma\u011faza i\u00e7inde al\u0131\u015fveri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Ayn\u0131 g\u00fcn teslimat",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Vp40P40LQA7ZMrhCXZsp6A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=254.70189&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Vp40P40LQA7ZMrhCXZsp6A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=254.70189&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

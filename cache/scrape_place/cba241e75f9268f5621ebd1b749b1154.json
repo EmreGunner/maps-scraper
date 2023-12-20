@@ -1,0 +1,140 @@
+{
+    "place_id": "ChIJBXkPsEXFyhQR7yWPPBFeUMg",
+    "name": "AveA Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Ert\u00fcrk Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ert%C3%BCrk+Hukuk+B%C3%BCrosu/@40.9165551,29.1884433?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 3.4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "A\u015fa\u011f\u0131\u00e7ay\u0131r Hukuk ve Dan\u0131\u015fmanl\u0131k Ofisi",
+            "link": "https://www.google.com/maps/search/A%C5%9Fa%C4%9F%C4%B1%C3%A7ay%C4%B1r+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+Ofisi/@40.914919999999995,29.18785?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Selvi Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Selvi+Hukuk+B%C3%BCrosu/@40.9149266,29.1878332?authuser=0&entry=ttu",
+            "reviews": 18,
+            "rating": 4.7,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Taiya",
+            "link": "https://www.google.com/maps/search/Taiya/@40.9146255,29.187690399999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://aveahukuk.com/",
+    "owner": {
+        "id": "110277119517554312475",
+        "name": "AveA Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/110277119517554312475"
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201317:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 451 16 85",
+    "address": "So\u011fanl\u0131k Yeni, AveA Hukuk B\u00fcrosu, Helenium Twins, Baltac\u0131 Mehmet Pa\u015fa Sk. No:1/1 A Blok D: 46, 34880 Kartal/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJBXkPsEXFyhQR7yWPPBFeUMg",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 17:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJBXkPsEXFyhQR7yWPPBFeUMg&q=?q=place_id:ChIJBXkPsEXFyhQR7yWPPBFeUMg&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9146255,
+        "longitude": 29.187690399999997
+    },
+    "plus_code": "W57Q+V3 Kartal, \u0130stanbul",
+    "detailed_address": {
+        "ward": "So\u011fanl\u0131k Yeni",
+        "street": "Helenium Twins, Baltac\u0131 Mehmet Pa\u015fa Sk. No:1/1 A Blok D: 46",
+        "city": "Kartal",
+        "postal_code": "34880",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "14434140233845908975",
+    "data_id": "0x14cac545b00f7905:0xc8505e113c8f25ef",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

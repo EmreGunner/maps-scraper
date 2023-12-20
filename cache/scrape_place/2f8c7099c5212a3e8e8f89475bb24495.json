@@ -1,0 +1,392 @@
+{
+    "place_id": "ChIJF69lVgm3yhQRHZZq_G8UAak",
+    "name": "Liberte Vivo",
+    "description": null,
+    "reviews": 21,
+    "competitors": [
+        {
+            "name": "Liberte Couture",
+            "link": "https://www.google.com/maps/search/Liberte+Couture/@41.0501554,28.994372199999997?authuser=0&entry=ttu",
+            "reviews": 12,
+            "rating": 4.5,
+            "main_category": "Giyim ma\u011fazas\u0131"
+        },
+        {
+            "name": "Tre Vella By Junior",
+            "link": "https://www.google.com/maps/search/Tre+Vella+By+Junior/@41.0505168,28.990906?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Giyim ma\u011fazas\u0131"
+        },
+        {
+            "name": "Berluti",
+            "link": "https://www.google.com/maps/search/Berluti/@41.0493193,28.9924182?authuser=0&entry=ttu",
+            "reviews": 15,
+            "rating": 4.7,
+            "main_category": "Erkek Giyim Ma\u011fazas\u0131"
+        },
+        {
+            "name": "Be\u1e21eni Butik",
+            "link": "https://www.google.com/maps/search/Be%E1%B8%A1eni+Butik/@41.0489542,28.9952293?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Giyim ma\u011fazas\u0131"
+        }
+    ],
+    "website": "http://libertevivo.com/",
+    "owner": {
+        "id": "106758102427176878446",
+        "name": "Liberte Vivo (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/106758102427176878446"
+    },
+    "featured_image": "//lh5.googleusercontent.com/YivV2UFgeD7FIIMs06fNt4Ei-qnDAlAxBB216u4hV9asKZ7GyBzXlWrAA_uFgn2S=w426-h240-k-no",
+    "main_category": "Kad\u0131n giyim ma\u011fazas\u0131",
+    "categories": [
+        "Kad\u0131n giyim ma\u011fazas\u0131"
+    ],
+    "rating": 4.8,
+    "workday_timing": "10:00\u201319:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0212) 231 26 12",
+    "address": "Te\u015fvikiye, Liberte Vivo, Ni\u015fanta\u015f\u0131 Ihlamur Yolu Sk. 13/E, 34365 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJF69lVgm3yhQRHZZq_G8UAak",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 19:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 20
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJF69lVgm3yhQRHZZq_G8UAak&q=?q=place_id:ChIJF69lVgm3yhQRHZZq_G8UAak&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0507008,
+        "longitude": 28.9943924
+    },
+    "plus_code": "3X2V+7Q \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Te\u015fvikiye",
+        "street": "Ni\u015fanta\u015f\u0131 Ihlamur Yolu Sk. 13/E",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34365",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12178037338595300893",
+    "data_id": "0x14cab7095665af17:0xa901146ffc6a961d",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "from_the_business",
+            "name": "\u0130\u015fletme hakk\u0131nda",
+            "options": [
+                {
+                    "name": "Sahibi kad\u0131n oldu\u011funu belirtiyor",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Adrese servis",
+                    "enabled": true
+                },
+                {
+                    "name": "Ma\u011fazadan teslim alma",
+                    "enabled": true
+                },
+                {
+                    "name": "Ma\u011faza i\u00e7inde al\u0131\u015fveri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Ayn\u0131 g\u00fcn teslimat",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Sunulanlar",
+            "options": [
+                {
+                    "name": "Kad\u0131n giyim",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Kablosuz",
+                    "enabled": true
+                },
+                {
+                    "name": "Kablosuz a\u011f ba\u011flant\u0131s\u0131",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "\u00d6deme",
+            "options": [
+                {
+                    "name": "Banka kart\u0131",
+                    "enabled": true
+                },
+                {
+                    "name": "Kredi kart\u0131",
+                    "enabled": true
+                },
+                {
+                    "name": "Kredi kart\u0131",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh5.googleusercontent.com/YivV2UFgeD7FIIMs06fNt4Ei-qnDAlAxBB216u4hV9asKZ7GyBzXlWrAA_uFgn2S=w529-h298-k-no"
+        },
+        {
+            "about": "\u0130\u00e7",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNCY9qqmY8nJlBxLxzJLgKiAwm4kVSve65CqJ3o=w224-h298-k-no-pi-10-ya9.480002-ro-0-fo100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOX0dmm6wa8FIOLpxPbDTrW2dylCP8vyJB1_C3Z=w224-h298-k-no-pi0-ya237.70001-ro-0-fo100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "10:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "10:00\u201319:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "10:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "10:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "10:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "10:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "\ud83d\udc9c\ud83e\udd0d",
+            "reviewer_name": "TURKAN ARPAK",
+            "rating": 5,
+            "review_text": "\ud83d\udc9c\ud83e\udd0d",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-09-30T09:53:13.850000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101271740024994850833/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIMV0jdVodfSO0tGJ2ItqFO5rlK08Nr9xSL6qad-dxO=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u2728\ud83d\udc95",
+            "reviewer_name": "Yaz Sarp",
+            "rating": 5,
+            "review_text": "\u2728\ud83d\udc95",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-11-29T08:54:17.981000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116997856857693064900/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVuDMckb-lMBnMJQp8Sv3wxl9NjewWTFexn28adOj9chYw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u0645\u0644\u0627\u0628\u0633 \u0631\u0627\u0642\u064a\u0647 \u0648 \u0627\u0642\u0645\u0634\u0647 \u062c\u0645\u064a\u0644\u0647 \u060c \u0645\u0639\u0627\u0645\u0644\u062a\u0647\u0645 \u0637\u064a\u0628\u0647 \ud83d\udc4c\ud83c\udffb",
+            "reviewer_name": "\u062d\u0641\u064a\u062f\u0629 \u0627\u0644\u0646\u0648\u062e\u0630\u0647",
+            "rating": 5,
+            "review_text": "\u0645\u0644\u0627\u0628\u0633 \u0631\u0627\u0642\u064a\u0647 \u0648 \u0627\u0642\u0645\u0634\u0647 \u062c\u0645\u064a\u0644\u0647 \u060c \u0645\u0639\u0627\u0645\u0644\u062a\u0647\u0645 \u0637\u064a\u0628\u0647 \ud83d\udc4c\ud83c\udffb",
+            "published_at": "7 ay \u00f6nce",
+            "published_at_date": "2023-04-26T12:59:37.574000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 72,
+            "total_number_of_photos_by_reviewer": 44,
+            "reviewer_url": "https://www.google.com/maps/contrib/105216301552920340159/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXBfulRMWn7Z8JOVYTWw6bA00JZGImXlTpYMXVAwBaoz-4=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": "Zarif k\u0131yafetler ve g\u00fczel kuma\u015flar, iyi muamele \ud83d\udc4c\ud83c\udffb",
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipM5LC1BZ6vv0jhGPNzsM2qGij5lHnoJK-N52ZMM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMaozF9C5v3tPR8GcBsRjQNfTyp5Xvn8Eqb1F2d=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMIukWh8GPlXpCIRiynTPs3wdzCTT8Dc1slX1C8=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "My favorite fashion brand in Istanbul! May be the best possible choice for evening dresses especially if you don't want to see the one you purchased on someone else:)",
+            "reviewer_name": "Sinem Serdaroglu",
+            "rating": 5,
+            "review_text": "My favorite fashion brand in Istanbul! May be the best possible choice for evening dresses especially if you don't want to see the one you purchased on someone else:)",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-11-29T08:45:34.948000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109161678124955234971/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWKTTrjj-hC2yYz7gHdPy1c_waew5goYlZJNELg32yv3k8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "\u0130stanbul'daki en sevdi\u011fim moda markas\u0131! \u00d6zellikle sat\u0131n ald\u0131\u011f\u0131n\u0131z elbiseyi ba\u015fkas\u0131n\u0131n \u00fczerinde g\u00f6rmek istemiyorsan\u0131z abiye i\u00e7in en iyi se\u00e7im olabilir :)",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u064a\u062c\u0646\u0646 \u0642\u0637\u0639\u0647 \u062c\u0645\u064a\u0644\u0629 \u062c\u062f\u0627 \u0648\u0645\u0645\u064a\u0632\u0647 \u0645\u0627\u0634\u0641\u062a \u0645\u062b\u0644\u0647\u0627 \u0641\u064a \u0646\u0634\u0627\u0646\u062a\u0634\u064a",
+            "reviewer_name": "A H",
+            "rating": 5,
+            "review_text": "\u064a\u062c\u0646\u0646 \u0642\u0637\u0639\u0647 \u062c\u0645\u064a\u0644\u0629 \u062c\u062f\u0627 \u0648\u0645\u0645\u064a\u0632\u0647 \u0645\u0627\u0634\u0641\u062a \u0645\u062b\u0644\u0647\u0627 \u0641\u064a \u0646\u0634\u0627\u0646\u062a\u0634\u064a",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-08-10T21:34:28.316000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 31,
+            "total_number_of_photos_by_reviewer": 13,
+            "reviewer_url": "https://www.google.com/maps/contrib/101250468285124986909/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX4xf33Nzk_7SRPqormQpT9yFilDwMB8fMgr-3njMv7NrA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "\u00c7ok g\u00fczel ve farkl\u0131 bir par\u00e7a, Nashanchi'de hi\u00e7 buna benzer bir \u015fey g\u00f6rmemi\u015ftim.",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "best shop in town!",
+            "reviewer_name": "gamze sisik",
+            "rating": 5,
+            "review_text": "best shop in town!",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-11-29T15:23:28.385000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106699373942381748922/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKJ3Cr4iRQQm4TGxEwKfMvv8-4jur46HPWd89658h8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "\u015fehirdeki en iyi ma\u011faza!",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\ud83d\ude0d\ud83d\ude0d",
+            "reviewer_name": "\u0645\u0646\u0649 \u0645\u062d\u0645\u062f",
+            "rating": 5,
+            "review_text": "\ud83d\ude0d\ud83d\ude0d",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-09-13T12:46:55.349000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 181,
+            "total_number_of_photos_by_reviewer": 520,
+            "reviewer_url": "https://www.google.com/maps/contrib/113685530810635731063/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUgSpt2GVwf8pI7KzJmOI2EqksPIxxPrsP2jZ9R6qIleQ=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Cigdem Kuda",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-09-30T10:21:06.019000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114481966533739853548/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIg0v3y1Yi-QoIpdoq7si6iJt-VGbhrg033knzkX8Xo=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

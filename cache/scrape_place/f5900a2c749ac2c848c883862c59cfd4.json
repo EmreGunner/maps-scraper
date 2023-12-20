@@ -1,0 +1,177 @@
+{
+    "place_id": "ChIJ3cNrjgW3yhQRQs0yfDGaE1E",
+    "name": "Kuzey Hukuk",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "KUZEY HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/KUZEY+HUKUK+B%C3%9CROSU/@41.07373750000001,28.982723499999995?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Kuzey Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kuzey+Hukuk+B%C3%BCrosu/@40.9904796,29.028434299999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "\u00d6zg\u00fcr Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%96zg%C3%BCr+Hukuk+B%C3%BCrosu/@41.0631657,28.9877908?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Universal",
+            "link": "https://www.google.com/maps/search/Universal/@41.0607669,28.987984899999997?authuser=0&entry=ttu",
+            "reviews": 13,
+            "rating": 2.9,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Keskin & Alptekin Hukuk B\u00fcrosu / Law Firm",
+            "link": "https://www.google.com/maps/search/Keskin+%26+Alptekin+Hukuk+B%C3%BCrosu+%2F+Law+Firm/@41.05796790000001,28.987142099999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": "http://www.kuzeyhukuk.com.tr/",
+    "owner": {
+        "id": "106343876140302780881",
+        "name": "Kuzey Hukuk (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/106343876140302780881"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dDYyNp68_MTv6qpQ4Vev5g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=324.09268&pitch=0&thumbfov=100",
+    "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti",
+    "categories": [
+        "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 945 89 39",
+    "address": "Merkez, Kuzey Hukuk, Ge\u00e7it Soka\u011f\u0131 No:4/3, 34384 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ3cNrjgW3yhQRQs0yfDGaE1E",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ3cNrjgW3yhQRQs0yfDGaE1E&q=?q=place_id:ChIJ3cNrjgW3yhQRQs0yfDGaE1E&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0662944,
+        "longitude": 28.987766299999997
+    },
+    "plus_code": "3X8Q+G4 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkez",
+        "street": "Ge\u00e7it Soka\u011f\u0131 No:4/3",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34384",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "5842182678957444418",
+    "data_id": "0x14cab7058e6bc3dd:0x51139a317c32cd42",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dDYyNp68_MTv6qpQ4Vev5g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=324.09268&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dDYyNp68_MTv6qpQ4Vev5g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=324.09268&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Mustafa Ozenc",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "11 ay \u00f6nce",
+            "published_at_date": "2022-12-23T11:21:45.823000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116204873559015924389/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIOTJsEcjSDAAFfRtAVCFR_ihClrIHIeyoNCEqCdV0=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,360 @@
+{
+    "place_id": "ChIJsQl_J7OjyhQRT-sTmUPeVkw",
+    "name": "Avukat Mustafa Y\u0131ld\u0131z",
+    "description": null,
+    "reviews": 85,
+    "competitors": [
+        {
+            "name": "Av. Altay \u015eent\u00fcrk",
+            "link": "https://www.google.com/maps/search/Av.+Altay+%C5%9Eent%C3%BCrk/@41.0050726,28.7969458?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Mustafa Kahraman",
+            "link": "https://www.google.com/maps/search/Avukat+Mustafa+Kahraman/@41.005638,28.798147300000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Atakent Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Atakent+Hukuk+B%C3%BCrosu/@41.035533099999995,28.789125400000003?authuser=0&entry=ttu",
+            "reviews": 19,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Ferhat Kule",
+            "link": "https://www.google.com/maps/search/Avukat+Ferhat+Kule/@40.999758199999995,28.799442599999995?authuser=0&entry=ttu",
+            "reviews": 29,
+            "rating": 4.4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat G\u00f6khan Ya\u011fmur | ''Bo\u015fanma Avukat\u0131'' ''Ceza Avukat\u0131'' ''Yabanc\u0131lar Avukat\u0131'' ''Gayrimenkul Avukat\u0131'' ''\u0130cra Avukat\u0131''",
+            "link": "https://www.google.com/maps/search/Avukat+G%C3%B6khan+Ya%C4%9Fmur+%7C+%27%27Bo%C5%9Fanma+Avukat%C4%B1%27%27+%27%27Ceza+Avukat%C4%B1%27%27+%27%27Yabanc%C4%B1lar+Avukat%C4%B1%27%27+%27%27Gayrimenkul+Avukat%C4%B1%27%27+%27%27%C4%B0cra+Avukat%C4%B1%27%27/@40.9995854,28.797159299999997?authuser=0&entry=ttu",
+            "reviews": 92,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "https://avukatmustafayildiz.com/",
+    "owner": {
+        "id": "101833300769833902659",
+        "name": "Avukat Mustafa Y\u0131ld\u0131z (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/101833300769833902659"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN-W_J7ttqfht6BgRgMziu38Y6S1faT5A4qgCpF=w408-h544-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": 4.9,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0505 031 26 71",
+    "address": "Avukat Mustafa Y\u0131ld\u0131z, Halkal\u0131 Caddesi, Kirazl\u0131 Sk. Sefak\u00f6y No:5 Daire:7, 34295 K\u00fc\u00e7\u00fck\u00e7ekmece/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJsQl_J7OjyhQRT-sTmUPeVkw",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 83
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJsQl_J7OjyhQRT-sTmUPeVkw&authuser=0&hl=tr&gl=TR",
+    "coordinates": {
+        "latitude": 41.005552,
+        "longitude": 28.797342999999998
+    },
+    "plus_code": "2Q4W+6W K\u00fc\u00e7\u00fck\u00e7ekmece, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Tevfik Bey",
+        "street": "Halkal\u0131 Caddesi, Kirazl\u0131 Sk. Sefak\u00f6y No:5 Daire:7",
+        "city": "K\u00fc\u00e7\u00fck\u00e7ekmece",
+        "postal_code": "34295",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "5500828376792034127",
+    "data_id": "0x14caa3b3277f09b1:0x4c56de439913eb4f",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun giri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN-W_J7ttqfht6BgRgMziu38Y6S1faT5A4qgCpF=w224-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNmQ3zmf6no8XCzIP3Kvb9BJdDJA-phcg2xwxXg=w224-h484-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-xSk7Xo1UHwd-qLSyYTHEg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=19.960407&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Ger\u00e7ek manada derdinizi dinliyor ve b\u0131kmadan sab\u0131rla cevap veriyor.Gece g\u00fcnd\u00fcz ne zaman arad\u0131m ise mutlaka kendisine ula\u015fabildim.\u015euda \u00e7ok \u00f6nemli kendisi i\u015fini iyi yapt\u0131\u011f\u0131 i\u00e7in insan\u0131n g\u00f6z\u00fc arkada kalm\u0131yor.Daha \u00f6ncede avukat\u0131m oldu bir ka\u00e7 farkl\u0131 avukatla \u00e7al\u0131\u015ft\u0131m lakin bende mustafa beyin yeri farkl\u0131 . Kendisi m\u00fctevaz\u0131 \u00e7ok m\u00fclayim beyefendi bir ki\u015fili\u011fe sahip.Kendisinden onunda beni tercih etti\u011fi i\u00e7in \u00e7ok te\u015fekk\u00fcr ederim.Te\u015fekk\u00fcrler\u2026",
+            "reviewer_name": "\u0130rfan \u00c7a\u011flar G\u00fczelo\u011flu",
+            "rating": 5,
+            "review_text": "Ger\u00e7ek manada derdinizi dinliyor ve b\u0131kmadan sab\u0131rla cevap veriyor.Gece g\u00fcnd\u00fcz ne zaman arad\u0131m ise mutlaka kendisine ula\u015fabildim.\u015euda \u00e7ok \u00f6nemli kendisi i\u015fini iyi yapt\u0131\u011f\u0131 i\u00e7in insan\u0131n g\u00f6z\u00fc arkada kalm\u0131yor.Daha \u00f6ncede avukat\u0131m oldu bir ka\u00e7 farkl\u0131 avukatla \u00e7al\u0131\u015ft\u0131m lakin bende mustafa beyin yeri farkl\u0131 . Kendisi m\u00fctevaz\u0131 \u00e7ok m\u00fclayim beyefendi bir ki\u015fili\u011fe sahip.Kendisinden onunda beni tercih etti\u011fi i\u00e7in \u00e7ok te\u015fekk\u00fcr ederim.Te\u015fekk\u00fcrler\u2026",
+            "published_at": "3 hafta \u00f6nce",
+            "published_at_date": "2023-11-28T20:40:22.646000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105595665594014063125/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXzm6p4lXsPWjXB9NwvZUtA2b-OtK4iOAvxT8Mdo3pjEA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Mustafa beye bir arkada\u015f\u0131m\u0131n tavsiyesi ile ula\u015ft\u0131m. 5 y\u0131ld\u0131r devam eden bir ceza davam vard\u0131, farkl\u0131 \u015fehirlerde olmam\u0131za ra\u011fmen s\u00fcreci \u00e7ok g\u00fczel y\u00f6netti. Olduk\u00e7a bilgili ve ula\u015f\u0131labilir bir avukat. \u0130nsan i\u015fi d\u00fc\u015fmeyince anlam\u0131yormu\u015f, profesyonel birinden dan\u0131\u015fmanl\u0131k al\u0131nca i\u015fimiz \u00e7\u00f6z\u00fcld\u00fc. Kendisine buradan da te\u015fekk\u00fcr ederim.",
+            "reviewer_name": "\u00e7i\u011fdem canbolat seyman",
+            "rating": 5,
+            "review_text": "Mustafa beye bir arkada\u015f\u0131m\u0131n tavsiyesi ile ula\u015ft\u0131m. 5 y\u0131ld\u0131r devam eden bir ceza davam vard\u0131, farkl\u0131 \u015fehirlerde olmam\u0131za ra\u011fmen s\u00fcreci \u00e7ok g\u00fczel y\u00f6netti. Olduk\u00e7a bilgili ve ula\u015f\u0131labilir bir avukat. \u0130nsan i\u015fi d\u00fc\u015fmeyince anlam\u0131yormu\u015f, profesyonel birinden dan\u0131\u015fmanl\u0131k al\u0131nca i\u015fimiz \u00e7\u00f6z\u00fcld\u00fc. Kendisine buradan da te\u015fekk\u00fcr ederim.",
+            "published_at": "2 hafta \u00f6nce",
+            "published_at_date": "2023-11-30T08:10:38.787000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 25,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114733011409079915070/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXbkGcj4S2FjxVo6r3g9DasOQ2sR6kmjgATSlpZq4pSwq3j=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Arkada\u015f\u0131m\u0131n \u00f6nerisiyle tan\u0131\u015ft\u0131\u011f\u0131m Mustafa bey'e ne kadar te\u015fekk\u00fcr etsem puanlasam az kal\u0131r. iyiki tan\u0131m\u0131\u015f\u0131m bilgisi  ilgisi ile  davam\u0131z\u0131  ba\u015far\u0131 ile sonuclandirdik sonsuz te\u015fekk\u00fcrlerimi iletir \u00e7evreme ve herkese \u00f6neririm.",
+            "reviewer_name": "Esra Y\u0131ld\u0131r\u0131m",
+            "rating": 5,
+            "review_text": "Arkada\u015f\u0131m\u0131n \u00f6nerisiyle tan\u0131\u015ft\u0131\u011f\u0131m Mustafa bey'e ne kadar te\u015fekk\u00fcr etsem puanlasam az kal\u0131r. iyiki tan\u0131m\u0131\u015f\u0131m bilgisi  ilgisi ile  davam\u0131z\u0131  ba\u015far\u0131 ile sonuclandirdik sonsuz te\u015fekk\u00fcrlerimi iletir \u00e7evreme ve herkese \u00f6neririm.",
+            "published_at": "bir ay \u00f6nce",
+            "published_at_date": "2023-11-09T19:19:25.598000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116547071045296056759/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLqTha18cq4UwaLZqjCebo5_orlvkvLvjc9oPq4N54n=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Mustafa beyle T\u00fcrkiye\u2019de ki miras kalan tapular\u0131m\u0131zla ilgili telefonda uzun s\u00fcren konu\u015fmam\u0131z sonucunda tan\u0131\u015ft\u0131k ve t\u00fcm i\u015flerimizi kendisine g\u00f6n\u00fcl rahatl\u0131\u011f\u0131 ile teslim ettik . Yurtd\u0131\u015f\u0131nda ya\u015f\u0131yoruz geldi\u011fimizde kendisini ziyaret ederek ne kadar do\u011fru bir tercih yapt\u0131\u011f\u0131m\u0131z\u0131 bir kez daha anlad\u0131k her\u015fey i\u00e7in te\u015fekk\u00fcrler",
+            "reviewer_name": "Hacer Erdo\u011fan",
+            "rating": 5,
+            "review_text": "Mustafa beyle T\u00fcrkiye\u2019de ki miras kalan tapular\u0131m\u0131zla ilgili telefonda uzun s\u00fcren konu\u015fmam\u0131z sonucunda tan\u0131\u015ft\u0131k ve t\u00fcm i\u015flerimizi kendisine g\u00f6n\u00fcl rahatl\u0131\u011f\u0131 ile teslim ettik . Yurtd\u0131\u015f\u0131nda ya\u015f\u0131yoruz geldi\u011fimizde kendisini ziyaret ederek ne kadar do\u011fru bir tercih yapt\u0131\u011f\u0131m\u0131z\u0131 bir kez daha anlad\u0131k her\u015fey i\u00e7in te\u015fekk\u00fcrler",
+            "published_at": "3 hafta \u00f6nce",
+            "published_at_date": "2023-11-28T19:35:34.135000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116267299425823684324/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ5snMggFuIZebMPYLJcRwh2yd3V7_GvcggNaQ25ZZl=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Bir \u00e7ok konuda dan\u0131\u015fmanl\u0131k ald\u0131\u011f\u0131m i\u015fini ehliyle yapan say\u0131l\u0131 avukatlardan birisidir Mustafa bey. Hukuk bilgisiyle \u00e7\u00f6zemedi\u011fimiz bir olay olmad\u0131 \u015fu ana kadar ne zaman bir avukata ihtiyac\u0131m\u0131z olsa ilk tercihimiz.",
+            "reviewer_name": "Asl\u0131 \u00c7ayl\u0131",
+            "rating": 5,
+            "review_text": "Bir \u00e7ok konuda dan\u0131\u015fmanl\u0131k ald\u0131\u011f\u0131m i\u015fini ehliyle yapan say\u0131l\u0131 avukatlardan birisidir Mustafa bey. Hukuk bilgisiyle \u00e7\u00f6zemedi\u011fimiz bir olay olmad\u0131 \u015fu ana kadar ne zaman bir avukata ihtiyac\u0131m\u0131z olsa ilk tercihimiz.",
+            "published_at": "3 hafta \u00f6nce",
+            "published_at_date": "2023-11-28T17:13:10.742000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 10,
+            "total_number_of_photos_by_reviewer": 8,
+            "reviewer_url": "https://www.google.com/maps/contrib/117197127436195076843/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXWYg79j3RLXhEP4GlymgG1u4yQp9Oh88ejhHxHvC9xdsU=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Mustafa Bey ile tavsiye \u00fczerine \u00e7al\u0131\u015fma f\u0131rsat\u0131m oldu, hakl\u0131 sebeple ayr\u0131ld\u0131\u011f\u0131m i\u015fimden alamad\u0131\u011f\u0131m tazminat\u0131m\u0131 mahkeme safhas\u0131na gelmeden arabulucu a\u015famas\u0131nda tahsil etmi\u015ftir. S\u00fcrecin her a\u015famas\u0131nda kendisi beni aray\u0131p bilgilendirmi\u015ftir. Her zaman tavsiye edebilece\u011fim bir Avukat.",
+            "reviewer_name": "Aysel \u00d6z",
+            "rating": 5,
+            "review_text": "Mustafa Bey ile tavsiye \u00fczerine \u00e7al\u0131\u015fma f\u0131rsat\u0131m oldu, hakl\u0131 sebeple ayr\u0131ld\u0131\u011f\u0131m i\u015fimden alamad\u0131\u011f\u0131m tazminat\u0131m\u0131 mahkeme safhas\u0131na gelmeden arabulucu a\u015famas\u0131nda tahsil etmi\u015ftir. S\u00fcrecin her a\u015famas\u0131nda kendisi beni aray\u0131p bilgilendirmi\u015ftir. Her zaman tavsiye edebilece\u011fim bir Avukat.",
+            "published_at": "bir ay \u00f6nce",
+            "published_at_date": "2023-11-09T18:02:44.789000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117060981213896311943/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLE-minMLAsjy6dFAwOvA_K9BVIbGP_SKXBwwfDbiE21g=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Mustafa beye epey ara\u015ft\u0131rmalar\u0131m sayesinde ula\u015ft\u0131m, kendisinin hakimlik ge\u00e7mi\u015finin olmas\u0131 avukatl\u0131k bilgisi ile birle\u015fince bizleri i\u015f davam\u0131zda mutlu sona ula\u015ft\u0131rd\u0131 kendilerine te\u015fekk\u00fcrlerimi bor\u00e7 bilirim g\u00f6n\u00fclden tavsiyemizdir",
+            "reviewer_name": "Fikriye \u00d6z",
+            "rating": 5,
+            "review_text": "Mustafa beye epey ara\u015ft\u0131rmalar\u0131m sayesinde ula\u015ft\u0131m, kendisinin hakimlik ge\u00e7mi\u015finin olmas\u0131 avukatl\u0131k bilgisi ile birle\u015fince bizleri i\u015f davam\u0131zda mutlu sona ula\u015ft\u0131rd\u0131 kendilerine te\u015fekk\u00fcrlerimi bor\u00e7 bilirim g\u00f6n\u00fclden tavsiyemizdir",
+            "published_at": "3 hafta \u00f6nce",
+            "published_at_date": "2023-11-27T12:41:35.611000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101422312143591629508/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJaFaxvctO7kxuK32QYOYeFCq4q1weG5eB2IMCQwfoX=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Tesad\u00fcf \u00fczeri yoldan ge\u00e7erken tabeladan rastlad\u0131\u011f\u0131m\u0131z ender avukatlardan biridir kendisi. Engin tecr\u00fcbesi ile bizlere yol g\u00f6stererek tahliye davam\u0131z\u0131 istedi\u011fimiz \u015fekilde sonu\u00e7land\u0131rd\u0131 . G\u00f6z\u00fc kapal\u0131 g\u00fcvenebilirsiniz \ud83d\ude4f\ud83c\udffb",
+            "reviewer_name": "Sultan Uzun",
+            "rating": 5,
+            "review_text": "Tesad\u00fcf \u00fczeri yoldan ge\u00e7erken tabeladan rastlad\u0131\u011f\u0131m\u0131z ender avukatlardan biridir kendisi. Engin tecr\u00fcbesi ile bizlere yol g\u00f6stererek tahliye davam\u0131z\u0131 istedi\u011fimiz \u015fekilde sonu\u00e7land\u0131rd\u0131 . G\u00f6z\u00fc kapal\u0131 g\u00fcvenebilirsiniz \ud83d\ude4f\ud83c\udffb",
+            "published_at": "3 hafta \u00f6nce",
+            "published_at_date": "2023-11-28T19:27:15.034000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/105612381301939659518/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKDrA_5w3sfBpxC7Kmfw9gKy5-4gRdbt5Dta80O_MJ5=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

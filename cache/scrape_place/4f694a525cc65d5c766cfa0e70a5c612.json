@@ -1,0 +1,117 @@
+{
+    "place_id": "ChIJZYBKwBnJyhQRnI6dWDlF09o",
+    "name": "hayran playstation",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "\u00d6rnek playstation",
+            "link": "https://www.google.com/maps/search/%C3%96rnek+playstation/@41.0171425,29.134099799999994?authuser=0&entry=ttu",
+            "reviews": 52,
+            "rating": 4.2,
+            "main_category": "Oyun/E\u011flence Merkezi"
+        },
+        {
+            "name": "Fenomen Playstation Cafe",
+            "link": "https://www.google.com/maps/search/Fenomen+Playstation+Cafe/@41.017758,29.1554668?authuser=0&entry=ttu",
+            "reviews": 46,
+            "rating": 4.8,
+            "main_category": "Video oyun salonu"
+        },
+        {
+            "name": "KUYU Play Station Oyun Salonu",
+            "link": "https://www.google.com/maps/search/KUYU+Play+Station+Oyun+Salonu/@41.017268,29.1341832?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Oyun/E\u011flence Merkezi"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "hayran playstation (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pzpHzqxAPp6-sLjGHnR7lA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=241.45894&pitch=0&thumbfov=100",
+    "main_category": "Video oyun salonu",
+    "categories": [
+        "Video oyun salonu"
+    ],
+    "rating": 5,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0533 404 94 46",
+    "address": "hayran playstation, tepe\u00fcst\u00fc mah do\u011fanevler cad, Hayran Sk. no3/a, 34771 \u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJZYBKwBnJyhQRnI6dWDlF09o",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJZYBKwBnJyhQRnI6dWDlF09o&q=?q=place_id:ChIJZYBKwBnJyhQRnI6dWDlF09o&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.013996999999996,
+        "longitude": 29.137401099999998
+    },
+    "plus_code": "247P+HX \u00dcmraniye, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Tepe\u00fcst\u00fc",
+        "street": "tepe\u00fcst\u00fc mah do\u011fanevler cad, Hayran Sk. no3/a",
+        "city": "\u00dcmraniye",
+        "postal_code": "34771",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "15768022832956411548",
+    "data_id": "0x14cac919c04a8065:0xdad34539589d8e9c",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pzpHzqxAPp6-sLjGHnR7lA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=241.45894&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pzpHzqxAPp6-sLjGHnR7lA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=241.45894&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Serdar Akkilic",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-08-08T19:48:11.926000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/108155140433611597310/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXSUuPOprVLhNs7jEEzArZiE4bnOGJ4j6HGb3pqLFv8jjQ8=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

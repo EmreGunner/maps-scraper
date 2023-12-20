@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJv8e_Q4TFyhQRrzrzPYJklpA",
+    "name": "Akredite Hukuk B\u00fcrosu Av.Fatih Akta\u015f",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Aktif Hukuk & Dan\u0131\u015fmanl\u0131k Aktif Legal & Consultancy",
+            "link": "https://www.google.com/maps/search/Aktif+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k+Aktif+Legal+%26+Consultancy/@40.921108700000005,29.1572103?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 4.7,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Akredite Hukuk B\u00fcrosu Av. Fatih Akta\u015f",
+            "link": "https://www.google.com/maps/search/Akredite+Hukuk+B%C3%BCrosu+Av.+Fatih+Akta%C5%9F/@40.9146256,29.1876905?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ABDULLAH DEM\u0130R AVUKATLIK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/ABDULLAH+DEM%C4%B0R+AVUKATLIK+B%C3%9CROSU/@40.9226181,29.158008100000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "AV. SEDAT DURNA",
+            "link": "https://www.google.com/maps/search/AV.+SEDAT+DURNA/@40.9220586,29.158289300000003?authuser=0&entry=ttu",
+            "reviews": 66,
+            "rating": 4.9,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ATAK HUKUK",
+            "link": "https://www.google.com/maps/search/ATAK+HUKUK/@40.925293599999996,29.156005300000004?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 4.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Akredite Hukuk B\u00fcrosu Av.Fatih Akta\u015f (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_DY-FQpM8zA6uwP7COa4eg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=170.9007&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Cevizli, Akredite Hukuk B\u00fcrosu Av.Fatih Akta\u015f, Ritim \u0130stanbul A4 Blok D:44, Zuhal Cd. 46D, 34846 Maltepe",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJv8e_Q4TFyhQRrzrzPYJklpA",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJv8e_Q4TFyhQRrzrzPYJklpA&q=?q=place_id:ChIJv8e_Q4TFyhQRrzrzPYJklpA&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.921064,
+        "longitude": 29.156962999999998
+    },
+    "plus_code": "W5C4+CQ Maltepe, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Cevizli",
+        "street": "Ritim \u0130stanbul A4 Blok D:44, Zuhal Cd. 46D",
+        "city": "Maltepe",
+        "postal_code": "34846",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10418625298516097711",
+    "data_id": "0x14cac58443bfc7bf:0x909664823df33aaf",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_DY-FQpM8zA6uwP7COa4eg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=170.9007&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_DY-FQpM8zA6uwP7COa4eg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=170.9007&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

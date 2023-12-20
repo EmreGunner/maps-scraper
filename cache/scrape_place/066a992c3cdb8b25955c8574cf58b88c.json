@@ -1,0 +1,268 @@
+{
+    "place_id": "ChIJ5e9rGbG3yhQRT5Gi05sLJzM",
+    "name": "Bozano\u011flu Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": 6,
+    "competitors": [
+        {
+            "name": "\u00d6Z\u00c7ET\u0130N HUKUK & DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/%C3%96Z%C3%87ET%C4%B0N+HUKUK+%26+DANI%C5%9EMANLIK/@41.110012499999996,29.020557600000004?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "G\u00fclery\u00fcz Partners Attorneys at Law",
+            "link": "https://www.google.com/maps/search/G%C3%BClery%C3%BCz+Partners+Attorneys+at+Law/@41.108391999999995,29.015392?authuser=0&entry=ttu",
+            "reviews": 26,
+            "rating": 5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Y\u0131lmaz G\u00f6ksu Serdaro\u011flu Avukatl\u0131k Ortakl\u0131\u011f\u0131",
+            "link": "https://www.google.com/maps/search/Y%C4%B1lmaz+G%C3%B6ksu+Serdaro%C4%9Flu+Avukatl%C4%B1k+Ortakl%C4%B1%C4%9F%C4%B1/@41.108475,29.019579000000004?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 4.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Hanyalo\u011flu & Acar Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Hanyalo%C4%9Flu+%26+Acar+Hukuk+B%C3%BCrosu/@41.110642999999996,29.024816999999995?authuser=0&entry=ttu",
+            "reviews": 54,
+            "rating": 4.8,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Ak\u0131nc\u0131 hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ak%C4%B1nc%C4%B1+hukuk+B%C3%BCrosu/@41.1125639,29.020829799999998?authuser=0&entry=ttu",
+            "reviews": 24,
+            "rating": 4.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.bozanoglu.av.tr/",
+    "owner": {
+        "id": null,
+        "name": "Bozano\u011flu Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 2.7,
+    "workday_timing": "09:00\u201318:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 241 72 52",
+    "address": "Bozano\u011flu Hukuk B\u00fcrosu, Maslak Mah. A.O.S. 55 Sok. No:2 42 Maslak Ofis 4 D:35-41, 34485 Sar\u0131yer/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ5e9rGbG3yhQRT5Gi05sLJzM",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 2,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ5e9rGbG3yhQRT5Gi05sLJzM&q=?q=place_id:ChIJ5e9rGbG3yhQRT5Gi05sLJzM&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.1133854,
+        "longitude": 29.020671999999998
+    },
+    "plus_code": "427C+97 Sar\u0131yer, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Maslak",
+        "street": "Maslak Mah. A.O.S. 55 Sok. No:2 42 Maslak Ofis 4 D:35-41",
+        "city": "Sar\u0131yer",
+        "postal_code": "34485",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "3685927583924523343",
+    "data_id": "0x14cab7b1196befe5:0x33270b9bd3a2914f",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Daha \u00f6nceden Sa\u011fl\u0131k hukuku konusunda tecr\u00fcbeli olduklarini duydu\u011fum bir hukuk b\u00fcrosu.  Kendi hastanemizde acil geli\u015fen bir durumda irtibata ge\u00e7tim . Ayn\u0131 h\u0131zla Av. Pelin hanim cevap verdi . Tabi biz farkl\u0131 \u015fehirde oldugumuzdan konu acilen \u00e7\u00f6z\u00fclm\u00fc\u015f oldu. Buna ra\u011fmen Pelin han\u0131m\u0131n acil deste\u011fi yol g\u00f6stermesi k\u0131ymetli. Te\u015fekk\u00fcrler Bozano\u011flu hukuk te\u015fekk\u00fcrler Pelin han\u0131m.",
+            "reviewer_name": "\u00d6zg\u00fcr \u015een",
+            "rating": 5,
+            "review_text": "Daha \u00f6nceden Sa\u011fl\u0131k hukuku konusunda tecr\u00fcbeli olduklarini duydu\u011fum bir hukuk b\u00fcrosu.  Kendi hastanemizde acil geli\u015fen bir durumda irtibata ge\u00e7tim . Ayn\u0131 h\u0131zla Av. Pelin hanim cevap verdi . Tabi biz farkl\u0131 \u015fehirde oldugumuzdan konu acilen \u00e7\u00f6z\u00fclm\u00fc\u015f oldu. Buna ra\u011fmen Pelin han\u0131m\u0131n acil deste\u011fi yol g\u00f6stermesi k\u0131ymetli. Te\u015fekk\u00fcrler Bozano\u011flu hukuk te\u015fekk\u00fcrler Pelin han\u0131m.",
+            "published_at": "bir ay \u00f6nce",
+            "published_at_date": "2023-10-27T05:37:41.360000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 28,
+            "total_number_of_photos_by_reviewer": 8,
+            "reviewer_url": "https://www.google.com/maps/contrib/110468887434724420170/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXqpUrNujvpO4bVrtONVyMFTNBsCBy28YTH9jrFkNmT25o=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Ar\u0131yorum cevap vermiyorlar 1 hafta oldu ayn\u0131 kadin telefonu a\u00e7\u0131yor \u015fuan bakamam \u015fuan bakamam 1 saat sonra aray\u0131n bildi\u011fin t...k ge\u00e7iyor adamla kendi telefonumdan ar\u0131yorum acmadigi i\u00e7in abskasindan ar\u0131yorum onu a\u00e7\u0131yor bide bana sesini y\u00fckselterek konu\u015fuyor borcumu odicem zor durumday\u0131m maa\u015f\u0131m\u0131 \u00e7ekemiyorum diyorum maasimdaki hacizin kalkmas\u0131 laz\u0131m surat\u0131ma telefon kapat\u0131yor bunlar y\u00fcz\u00fcnden isimden oldum maasimi \u00e7ekemiyorum paras\u0131z kald\u0131m g\u00fcnl\u00fck elden para alaca\u011f\u0131m i\u015flere gitmek zorunda kald\u0131m hakk\u0131m haram z\u0131kk\u0131m olsun beter olun evdeki \u00e7oluk \u00e7ocuk kim varsa buradaki bir kad\u0131nin i\u015fini yapmamasi y\u00fcz\u00fcnden ma\u011fdur durumda",
+            "reviewer_name": "Serhat Akbaba",
+            "rating": 1,
+            "review_text": "Ar\u0131yorum cevap vermiyorlar 1 hafta oldu ayn\u0131 kadin telefonu a\u00e7\u0131yor \u015fuan bakamam \u015fuan bakamam 1 saat sonra aray\u0131n bildi\u011fin t...k ge\u00e7iyor adamla kendi telefonumdan ar\u0131yorum acmadigi i\u00e7in abskasindan ar\u0131yorum onu a\u00e7\u0131yor bide bana sesini y\u00fckselterek konu\u015fuyor borcumu odicem zor durumday\u0131m maa\u015f\u0131m\u0131 \u00e7ekemiyorum diyorum maasimdaki hacizin kalkmas\u0131 laz\u0131m surat\u0131ma telefon kapat\u0131yor bunlar y\u00fcz\u00fcnden isimden oldum maasimi \u00e7ekemiyorum paras\u0131z kald\u0131m g\u00fcnl\u00fck elden para alaca\u011f\u0131m i\u015flere gitmek zorunda kald\u0131m hakk\u0131m haram z\u0131kk\u0131m olsun beter olun evdeki \u00e7oluk \u00e7ocuk kim varsa buradaki bir kad\u0131nin i\u015fini yapmamasi y\u00fcz\u00fcnden ma\u011fdur durumda",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-10-13T12:45:13.033000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107644822075207311023/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKFKXrK98DJd8J0ABrnyLxCgREFYdg_xifydzH4077N=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Bunlar kadar i\u015fini yoku\u015fa s\u00fcren bir b\u00fcro olamaz. Asla g\u00fcvenmeyin. Asla. Sedat beyi aray\u0131nnnn bulun asla ula\u015famazs\u0131n\u0131z beyefendi sadece patronlara hizmet veriyor",
+            "reviewer_name": "Elmayra",
+            "rating": 1,
+            "review_text": "Bunlar kadar i\u015fini yoku\u015fa s\u00fcren bir b\u00fcro olamaz. Asla g\u00fcvenmeyin. Asla. Sedat beyi aray\u0131nnnn bulun asla ula\u015famazs\u0131n\u0131z beyefendi sadece patronlara hizmet veriyor",
+            "published_at": "7 ay \u00f6nce",
+            "published_at_date": "2023-05-15T12:11:59.318000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 23,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113764616575285595550/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWuxrcfN-okUo-SlOC7x3-SYRU7yrcnn6gcV1uasKmsY3qj=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Yeterince hukuk varm\u0131 ger\u00e7ekten",
+            "reviewer_name": "Re\u015fat ALPTURAN",
+            "rating": 4,
+            "review_text": "Yeterince hukuk varm\u0131 ger\u00e7ekten",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-11-03T09:52:35.158000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 270,
+            "total_number_of_photos_by_reviewer": 1459,
+            "reviewer_url": "https://www.google.com/maps/contrib/104832313707801071554/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWBYBgrw3WZuS54mlMQV0oyaSKvg7_6eeralVn4HcYJxQ=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Avukatlar",
+            "reviewer_name": "Enes malik Ayan",
+            "rating": 3,
+            "review_text": "Avukatlar",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-09-07T18:30:55.616000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 85,
+            "total_number_of_photos_by_reviewer": 25,
+            "reviewer_url": "https://www.google.com/maps/contrib/100056217086602479196/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWzsPfpUJDNsC992-rR3rJn2mOz9-q1ZUSg8ybyhLdLIH5Z=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Murat Uzunkaya",
+            "rating": 2,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-01-18T09:58:50.635000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 27,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110954532179070987281/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLmBHq8GfJ-EXBJnT9BZXv_gbrzjbY9UYf42pi8vAKZAA=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

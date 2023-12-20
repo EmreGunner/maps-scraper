@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJI9uoKfmgyhQRfDpXnPd2Bl0",
+    "name": "DNR Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "NSR LAW GROUP",
+            "link": "https://www.google.com/maps/search/NSR+LAW+GROUP/@40.995428800000006,28.7062836?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Hasan T\u00fcn\u00fc\u00e7",
+            "link": "https://www.google.com/maps/search/Avukat+Hasan+T%C3%BCn%C3%BC%C3%A7/@40.9818363,28.722164600000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "DNR AKADEM\u0130",
+            "link": "https://www.google.com/maps/search/DNR+AKADEM%C4%B0/@40.9962873,28.722636599999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "E\u011fitim Dan\u0131\u015fman\u0131"
+        },
+        {
+            "name": "TUNA HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/TUNA+HUKUK+B%C3%9CROSU/@40.993179000000005,28.708516999999997?authuser=0&entry=ttu",
+            "reviews": 82,
+            "rating": 2.4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "TEM\u0130Z HUKUK VE ARABULUCULUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/TEM%C4%B0Z+HUKUK+VE+ARABULUCULUK+B%C3%9CROSU/@40.9922507,28.714658699999994?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "DNR Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ndSX4MQmzVNiNjwacKYB3Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=355.28653&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 555 36 18",
+    "address": "\u00dcniversite, DNR Hukuk B\u00fcrosu, Cemil Meri\u00e7 Sk., 34320 Avc\u0131lar/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJI9uoKfmgyhQRfDpXnPd2Bl0",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJI9uoKfmgyhQRfDpXnPd2Bl0&q=?q=place_id:ChIJI9uoKfmgyhQRfDpXnPd2Bl0&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9948249,
+        "longitude": 28.7133577
+    },
+    "plus_code": "XPV7+W8 Avc\u0131lar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "\u00dcniversite",
+        "street": "Cemil Meri\u00e7 Sk.",
+        "city": "Avc\u0131lar",
+        "postal_code": "34320",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6703175901239523964",
+    "data_id": "0x14caa0f929a8db23:0x5d0676f79c573a7c",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ndSX4MQmzVNiNjwacKYB3Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=355.28653&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ndSX4MQmzVNiNjwacKYB3Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=355.28653&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

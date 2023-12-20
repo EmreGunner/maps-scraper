@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJRfj5LWa2yhQRk2-_LQhx-w8",
+    "name": "ALTUNAY HUKUK",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Astra Law Firm",
+            "link": "https://www.google.com/maps/search/Astra+Law+Firm/@41.0808624,29.010363999999996?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "D\u00f6nmez Law Office",
+            "link": "https://www.google.com/maps/search/D%C3%B6nmez+Law+Office/@41.0805544,29.007663899999997?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 4.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00dcNER HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/%C3%9CNER+HUKUK+B%C3%9CROSU/@41.077689899999996,29.014424?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "G\u00fcnel Akpek Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%BCnel+Akpek+Hukuk+B%C3%BCrosu/@41.0808597,29.0110287?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "BATI HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/BATI+HUKUK+B%C3%9CROSU/@41.085642299999996,29.009484900000004?authuser=0&entry=ttu",
+            "reviews": 17,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://altunayhukuk.com/",
+    "owner": {
+        "id": null,
+        "name": "ALTUNAY HUKUK (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3xkOnDpcfNlULFR5nxDt-g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=267.27872&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 801 75 17",
+    "address": "ALTUNAY HUKUK, Esentepe Mah Levent LOFT-1 Residence B\u00fcy\u00fckdere Caddesi No:201 D:A, Blok D.76, \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJRfj5LWa2yhQRk2-_LQhx-w8",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJRfj5LWa2yhQRk2-_LQhx-w8&q=?q=place_id:ChIJRfj5LWa2yhQRk2-_LQhx-w8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.080805,
+        "longitude": 29.010371
+    },
+    "plus_code": "32J6+84 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Esentepe",
+        "street": "Esentepe Mah Levent LOFT-1 Residence B\u00fcy\u00fckdere Caddesi No:201 D:A, Blok D.76",
+        "city": "\u015ei\u015fli",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "1151638409664491411",
+    "data_id": "0x14cab6662df9f845:0xffb71082dbf6f93",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3xkOnDpcfNlULFR5nxDt-g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=267.27872&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3xkOnDpcfNlULFR5nxDt-g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=267.27872&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

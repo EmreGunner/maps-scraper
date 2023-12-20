@@ -1,0 +1,674 @@
+[
+    {
+        "place_id": "ChIJZb0NanC3yhQRf5FKmoU2fqs",
+        "name": "IBB Ataturk Kitapligi",
+        "main_category": "Kutuphane",
+        "rating": 4.1,
+        "reviews": 711,
+        "website": "https://ataturkkitapligi.ibb.gov.tr/tr/Anasayfa",
+        "phone": "(0212) 249 09 45",
+        "address": "Gumussuyu, IBB Ataturk Kitapligi, Miralay Sefikbey Sk. No:6, 34437 Beyoglu/Istanbul",
+        "link": "https://www.google.com/maps/place/%C4%B0BB+Atat%C3%BCrk+Kitapl%C4%B1%C4%9F%C4%B1/data=!4m7!3m6!1s0x14cab7706a0dbd65:0xab7e36859a4a917f!8m2!3d41.0391249!4d28.9895638!16s%2Fg%2F1tnmbzm1!19sChIJZb0NanC3yhQRf5FKmoU2fqs?authuser=0&hl=tr&rclk=1",
+        "is_spending_on_ads": false,
+        "competitors": [
+            {
+                "name": "Beyoglu Belediyesi Turabi Baba Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Beyo%C4%9Flu+Belediyesi+Turabi+Baba+K%C3%BCt%C3%BCphanesi/@41.032056999999995,28.966506?authuser=0&hl=tr&entry=ttu",
+                "reviews": 119,
+                "rating": 4.3,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Kutuphane Ve Muzeler Mudurlugu",
+                "link": "https://www.google.com/maps/search/K%C3%BCt%C3%BCphane+Ve+M%C3%BCzeler+M%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC/@41.038861999999995,28.988941999999998?authuser=0&hl=tr&entry=ttu",
+                "reviews": 4,
+                "rating": 3,
+                "main_category": "Resmi Kurum"
+            },
+            {
+                "name": "Sevgi Soysal Kutuphane ve Kultur Evi",
+                "link": "https://www.google.com/maps/search/Sevgi+Soysal+K%C3%BCt%C3%BCphane+ve+K%C3%BClt%C3%BCr+Evi/@41.0395769,28.985671299999996?authuser=0&hl=tr&entry=ttu",
+                "reviews": 31,
+                "rating": 3.2,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Turk Eskicag Bilimleri Enstitusu Kutuphanesi",
+                "link": "https://www.google.com/maps/search/T%C3%BCrk+Eski%C3%A7a%C4%9F+Bilimleri+Enstit%C3%BCs%C3%BC+K%C3%BCt%C3%BCphanesi/@41.031948,28.976326999999998?authuser=0&hl=tr&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Orhan Kemal Il Halk Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Orhan+Kemal+%C4%B0l+Halk+K%C3%BCt%C3%BCphanesi/@41.009192899999995,28.962333500000003?authuser=0&hl=tr&entry=ttu",
+                "reviews": 231,
+                "rating": 4.3,
+                "main_category": "Halk Kutuphanesi"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJxYmZHeO5yhQRnUrew-MbPZw",
+        "name": "Beyoglu Belediyesi Turabi Baba Kutuphanesi",
+        "main_category": "Kutuphane",
+        "rating": 4.3,
+        "reviews": 119,
+        "website": "http://kutuphane.beyoglu.bel.tr/",
+        "phone": "(0212) 361 33 14",
+        "address": "Camii Kebir Mahallesi, Beyoglu Belediyesi Turabi Baba Kutuphanesi, Turabibaba Caddesi, Matbaa Arkasi Sokak No:2, 34440 Beyoglu/Istanbul",
+        "link": "https://www.google.com/maps/place/Beyo%C4%9Flu+Belediyesi+Turabi+Baba+K%C3%BCt%C3%BCphanesi/data=!4m7!3m6!1s0x14cab9e31d9989c5:0x9c3d1be3c3de4a9d!8m2!3d41.032057!4d28.966506!16s%2Fg%2F1tjgxpmz!19sChIJxYmZHeO5yhQRnUrew-MbPZw?authuser=0&hl=tr&rclk=1",
+        "is_spending_on_ads": false,
+        "competitors": [
+            {
+                "name": "IBB Ataturk Kitapligi",
+                "link": "https://www.google.com/maps/search/%C4%B0BB+Atat%C3%BCrk+Kitapl%C4%B1%C4%9F%C4%B1/@41.0391249,28.989563800000003?authuser=0&hl=tr&entry=ttu",
+                "reviews": 710,
+                "rating": 4.1,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Fatih Belediyesi Topkapi Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Fatih+Belediyesi+Topkap%C4%B1+K%C3%BCt%C3%BCphanesi/@41.0195171,28.9252759?authuser=0&hl=tr&entry=ttu",
+                "reviews": 294,
+                "rating": 4.3,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Beyazit Devlet Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Beyaz%C4%B1t+Devlet+K%C3%BCt%C3%BCphanesi/@41.011083299999996,28.9654934?authuser=0&hl=tr&entry=ttu",
+                "reviews": 472,
+                "rating": 4.3,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Ebru Library",
+                "link": "https://www.google.com/maps/search/Ebru+Library/@41.029936,28.973821999999995?authuser=0&hl=tr&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Bogazici Universitesi Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Bo%C4%9Fazi%C3%A7i+%C3%9Cniversitesi+K%C3%BCt%C3%BCphanesi/@41.0854834,29.044253400000002?authuser=0&hl=tr&entry=ttu",
+                "reviews": 151,
+                "rating": 4.7,
+                "main_category": "Kutuphane"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJtR-1OOK3yhQRdpIIVFgie3A",
+        "name": "Vitali Hakko Kreatif Endustriler Kutuphanesi",
+        "main_category": "Kutuphane",
+        "rating": 4.8,
+        "reviews": 37,
+        "website": "http://www.vakko.com/",
+        "phone": "(0216) 554 07 00",
+        "address": "Gumussuyu, Vitali Hakko Kreatif Endustriler Kutuphanesi, AKM, Mete Cd. No: 2, 34437 Beyoglu/Istanbul",
+        "link": "https://www.google.com/maps/place/Vitali+Hakko+Kreatif+End%C3%BCstriler+K%C3%BCt%C3%BCphanesi/data=!4m7!3m6!1s0x14cab7e238b51fb5:0x707b225854089276!8m2!3d41.0367069!4d28.9876663!16s%2Fg%2F1pv1vrmgp!19sChIJtR-1OOK3yhQRdpIIVFgie3A?authuser=0&hl=tr&rclk=1",
+        "is_spending_on_ads": false,
+        "competitors": [
+            {
+                "name": "IBB Ataturk Kitapligi",
+                "link": "https://www.google.com/maps/search/%C4%B0BB+Atat%C3%BCrk+Kitapl%C4%B1%C4%9F%C4%B1/@41.0391249,28.989563800000003?authuser=0&hl=tr&entry=ttu",
+                "reviews": 710,
+                "rating": 4.1,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Ebru Library",
+                "link": "https://www.google.com/maps/search/Ebru+Library/@41.029936,28.973821999999995?authuser=0&hl=tr&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Beyoglu Belediyesi Turabi Baba Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Beyo%C4%9Flu+Belediyesi+Turabi+Baba+K%C3%BCt%C3%BCphanesi/@41.032056999999995,28.966506?authuser=0&hl=tr&entry=ttu",
+                "reviews": 119,
+                "rating": 4.3,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Turk Eskicag Bilimleri Enstitusu Kutuphanesi",
+                "link": "https://www.google.com/maps/search/T%C3%BCrk+Eski%C3%A7a%C4%9F+Bilimleri+Enstit%C3%BCs%C3%BC+K%C3%BCt%C3%BCphanesi/@41.031948,28.976326999999998?authuser=0&hl=tr&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Kutuphane"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJYcmaWpC3yhQRzp8f1KORCUw",
+        "name": "Sevgi Soysal Kutuphane ve Kultur Evi",
+        "main_category": "Kutuphane",
+        "rating": 3.2,
+        "reviews": 31,
+        "website": "http://ataturkkitapligi.ibb.gov.tr/ataturkkitapligi/index.php%3Fdil%3Dtr%26p%3D2",
+        "phone": "(0212) 249 95 65",
+        "address": "Kocatepe, Sevgi Soysal Kutuphane ve Kultur Evi, Recep Pasa Cd. No:3, 34437 Beyoglu/Istanbul",
+        "link": "https://www.google.com/maps/place/Sevgi+Soysal+K%C3%BCt%C3%BCphane+ve+K%C3%BClt%C3%BCr+Evi/data=!4m7!3m6!1s0x14cab7905a9ac961:0x4c0991a3d41f9fce!8m2!3d41.0395769!4d28.9856713!16s%2Fg%2F11s7s5q6h2!19sChIJYcmaWpC3yhQRzp8f1KORCUw?authuser=0&hl=tr&rclk=1",
+        "is_spending_on_ads": false,
+        "competitors": [
+            {
+                "name": "Kutuphane Ve Muzeler Mudurlugu",
+                "link": "https://www.google.com/maps/search/K%C3%BCt%C3%BCphane+Ve+M%C3%BCzeler+M%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC/@41.038861999999995,28.988941999999998?authuser=0&hl=tr&entry=ttu",
+                "reviews": 4,
+                "rating": 3,
+                "main_category": "Resmi Kurum"
+            },
+            {
+                "name": "Sevgi Sosyal Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Sevgi+Sosyal+K%C3%BCt%C3%BCphanesi/@41.0394929,28.985597?authuser=0&hl=tr&entry=ttu",
+                "reviews": 10,
+                "rating": 3.9,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Turk Eskicag Bilimleri Enstitusu Kutuphanesi",
+                "link": "https://www.google.com/maps/search/T%C3%BCrk+Eski%C3%A7a%C4%9F+Bilimleri+Enstit%C3%BCs%C3%BC+K%C3%BCt%C3%BCphanesi/@41.031948,28.976326999999998?authuser=0&hl=tr&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Fatih Belediyesi Fatih Merkez Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Fatih+Belediyesi+Fatih+Merkez+K%C3%BCt%C3%BCphanesi/@41.0176455,28.9404256?authuser=0&hl=tr&entry=ttu",
+                "reviews": 749,
+                "rating": 4.3,
+                "main_category": "Kutuphane"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJJxu9hWe5yhQRyCAC7TxupUY",
+        "name": "IBB Peyami Safa Kutuphanesi",
+        "main_category": "Halk Kutuphanesi",
+        "rating": 4.3,
+        "reviews": 17,
+        "website": "http://ataturkkitapligi.ibb.gov.tr/",
+        "phone": "(0212) 249 09 45",
+        "address": "Yahya Kahya, IBB Peyami Safa Kutuphanesi, Bahriye Cd. No:24, 34440 Beyoglu/Istanbul",
+        "link": "https://www.google.com/maps/place/%C4%B0BB+Peyami+Safa+K%C3%BCt%C3%BCphanesi/data=!4m7!3m6!1s0x14cab96785bd1b27:0x46a56e3ced0220c8!8m2!3d41.0334078!4d28.9694435!16s%2Fg%2F11tfk8nspd!19sChIJJxu9hWe5yhQRyCAC7TxupUY?authuser=0&hl=tr&rclk=1",
+        "is_spending_on_ads": false,
+        "competitors": [
+            {
+                "name": "Beyoglu Belediyesi Turabi Baba Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Beyo%C4%9Flu+Belediyesi+Turabi+Baba+K%C3%BCt%C3%BCphanesi/@41.032056999999995,28.966506?authuser=0&hl=tr&entry=ttu",
+                "reviews": 119,
+                "rating": 4.3,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Sevgi Soysal Kutuphane ve Kultur Evi",
+                "link": "https://www.google.com/maps/search/Sevgi+Soysal+K%C3%BCt%C3%BCphane+ve+K%C3%BClt%C3%BCr+Evi/@41.0395769,28.985671299999996?authuser=0&hl=tr&entry=ttu",
+                "reviews": 31,
+                "rating": 3.2,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Ebru Library",
+                "link": "https://www.google.com/maps/search/Ebru+Library/@41.029936,28.973821999999995?authuser=0&hl=tr&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "MuHaBBet",
+                "link": "https://www.google.com/maps/search/MuHaBBet/@41.032837699999995,28.9669047?authuser=0&hl=tr&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Kutuphane"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJrVF3bWC3yhQR403OS3Ew8kc",
+        "name": "Yapi Kredi Arastirma Kutuphanesi",
+        "main_category": "Kutuphane",
+        "rating": 5,
+        "reviews": 9,
+        "website": "http://sanat.ykykultur.com.tr/kutuphane",
+        "phone": "(0212) 252 47 00",
+        "address": "Tomtom, Yapi Kredi Arastirma Kutuphanesi, Istiklal Cd. No:161 Kat:5, 34433 Beyoglu/Istanbul",
+        "link": "https://www.google.com/maps/place/Yap%C4%B1+Kredi+Ara%C5%9Ft%C4%B1rma+K%C3%BCt%C3%BCphanesi/data=!4m7!3m6!1s0x14cab7606d7751ad:0x47f230714bce4de3!8m2!3d41.0331311!4d28.9769273!16s%2Fg%2F11hbntnjhn!19sChIJrVF3bWC3yhQR403OS3Ew8kc?authuser=0&hl=tr&rclk=1",
+        "is_spending_on_ads": false,
+        "competitors": [
+            {
+                "name": "Ebru Library",
+                "link": "https://www.google.com/maps/search/Ebru+Library/@41.029936,28.973821999999995?authuser=0&hl=tr&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Turk Eskicag Bilimleri Enstitusu Kutuphanesi",
+                "link": "https://www.google.com/maps/search/T%C3%BCrk+Eski%C3%A7a%C4%9F+Bilimleri+Enstit%C3%BCs%C3%BC+K%C3%BCt%C3%BCphanesi/@41.031948,28.976326999999998?authuser=0&hl=tr&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "IBB Peyami Safa Kutuphanesi",
+                "link": "https://www.google.com/maps/search/%C4%B0BB+Peyami+Safa+K%C3%BCt%C3%BCphanesi/@41.0334078,28.969443499999997?authuser=0&hl=tr&entry=ttu",
+                "reviews": 17,
+                "rating": 4.3,
+                "main_category": "Halk Kutuphanesi"
+            },
+            {
+                "name": "Beyoglu Belediyesi Turabi Baba Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Beyo%C4%9Flu+Belediyesi+Turabi+Baba+K%C3%BCt%C3%BCphanesi/@41.032056999999995,28.966506?authuser=0&hl=tr&entry=ttu",
+                "reviews": 119,
+                "rating": 4.3,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Vitali Hakko Kreatif Endustriler Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Vitali+Hakko+Kreatif+End%C3%BCstriler+K%C3%BCt%C3%BCphanesi/@41.0367069,28.987666299999997?authuser=0&hl=tr&entry=ttu",
+                "reviews": 37,
+                "rating": 4.8,
+                "main_category": "Kutuphane"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJ4yqf7GK3yhQRDPKWIYHh2PE",
+        "name": "Orient-Institut Istanbul",
+        "main_category": "Kutuphane",
+        "rating": 5,
+        "reviews": 4,
+        "website": "http://www.oiist.org/",
+        "phone": "(0212) 293 60 67",
+        "address": "Cihangir, Orient-Institut Istanbul, Susam Sk. No:16 D:8, 34433 Beyoglu/Istanbul",
+        "link": "https://www.google.com/maps/place/Orient-Institut+Istanbul/data=!4m7!3m6!1s0x14cab762ec9f2ae3:0xf1d8e1812196f20c!8m2!3d41.0305615!4d28.9858456!16s%2Fg%2F124xvxhj1!19sChIJ4yqf7GK3yhQRDPKWIYHh2PE?authuser=0&hl=tr&rclk=1",
+        "is_spending_on_ads": false,
+        "competitors": [
+            {
+                "name": "Beyoglu Belediyesi Turabi Baba Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Beyo%C4%9Flu+Belediyesi+Turabi+Baba+K%C3%BCt%C3%BCphanesi/@41.032056999999995,28.966506?authuser=0&hl=tr&entry=ttu",
+                "reviews": 119,
+                "rating": 4.3,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Ebru Library",
+                "link": "https://www.google.com/maps/search/Ebru+Library/@41.029936,28.973821999999995?authuser=0&hl=tr&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Tophane-i Amire Kultur ve Sanat Merkezi",
+                "link": "https://www.google.com/maps/search/Tophane-i+%C3%82mire+K%C3%BClt%C3%BCr+ve+Sanat+Merkezi/@41.0274899,28.980946?authuser=0&hl=tr&entry=ttu",
+                "reviews": 614,
+                "rating": 4.7,
+                "main_category": "Muze"
+            },
+            {
+                "name": "IBB Ataturk Kitapligi",
+                "link": "https://www.google.com/maps/search/%C4%B0BB+Atat%C3%BCrk+Kitapl%C4%B1%C4%9F%C4%B1/@41.0391249,28.989563800000003?authuser=0&hl=tr&entry=ttu",
+                "reviews": 710,
+                "rating": 4.1,
+                "main_category": "Kutuphane"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJH0ae_9-5yhQRt_KrTJCYkYk",
+        "name": "Turk Eskicag Bilimleri Enstitusu Kutuphanesi",
+        "main_category": "Kutuphane",
+        "rating": null,
+        "reviews": null,
+        "website": "http://turkinst.org/",
+        "phone": "(0212) 393 60 00",
+        "address": "Istiklal, Turk Eskicag Bilimleri Enstitusu Kutuphanesi, Istiklal Cad. Merkez Han No:181, 34433 Beyoglu/Istanbul",
+        "link": "https://www.google.com/maps/place/T%C3%BCrk+Eski%C3%A7a%C4%9F+Bilimleri+Enstit%C3%BCs%C3%BC+K%C3%BCt%C3%BCphanesi/data=!4m7!3m6!1s0x14cab9dfff9e461f:0x899198904cabf2b7!8m2!3d41.031948!4d28.976327!16s%2Fg%2F11b6jh80jx!19sChIJH0ae_9-5yhQRt_KrTJCYkYk?authuser=0&hl=tr&rclk=1",
+        "is_spending_on_ads": false,
+        "competitors": [
+            {
+                "name": "IBB Ataturk Kitapligi",
+                "link": "https://www.google.com/maps/search/%C4%B0BB+Atat%C3%BCrk+Kitapl%C4%B1%C4%9F%C4%B1/@41.0391249,28.989563800000003?authuser=0&hl=tr&entry=ttu",
+                "reviews": 710,
+                "rating": 4.1,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Ebru Library",
+                "link": "https://www.google.com/maps/search/Ebru+Library/@41.029936,28.973821999999995?authuser=0&hl=tr&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Vitali Hakko Kreatif Endustriler Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Vitali+Hakko+Kreatif+End%C3%BCstriler+K%C3%BCt%C3%BCphanesi/@41.0367069,28.987666299999997?authuser=0&hl=tr&entry=ttu",
+                "reviews": 37,
+                "rating": 4.8,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Isvec Arastirma Enstitusu",
+                "link": "https://www.google.com/maps/search/%C4%B0sve%C3%A7+Ara%C5%9Ft%C4%B1rma+Enstit%C3%BCs%C3%BC/@41.0290041,28.975390500000003?authuser=0&hl=tr&entry=ttu",
+                "reviews": 3,
+                "rating": 5,
+                "main_category": "Enstitu"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJx4_P8Za5yhQRdPNR2sZjmU8",
+        "name": "Koprulu Kutuphanesi",
+        "main_category": "Kutuphane",
+        "rating": 4.4,
+        "reviews": 38,
+        "website": null,
+        "phone": "(0212) 516 83 13",
+        "address": "Binbirdirek, Koprulu Kutuphanesi, No:29, Divan Yolu Cd., 34122 Fatih/Istanbul",
+        "link": "https://www.google.com/maps/place/K%C3%B6pr%C3%BCl%C3%BC+K%C3%BCt%C3%BCphanesi/data=!4m7!3m6!1s0x14cab996f1cf8fc7:0x4f9963c6da51f374!8m2!3d41.008122!4d28.9725059!16s%2Fg%2F121k2my2!19sChIJx4_P8Za5yhQRdPNR2sZjmU8?authuser=0&hl=tr&rclk=1",
+        "is_spending_on_ads": false,
+        "competitors": [
+            {
+                "name": "III. Ahmed Kutuphanesi",
+                "link": "https://www.google.com/maps/search/III.+Ahmed+K%C3%BCt%C3%BCphanesi/@41.0129887,28.9845869?authuser=0&hl=tr&entry=ttu",
+                "reviews": 25,
+                "rating": 4.8,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Beyazit Devlet Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Beyaz%C4%B1t+Devlet+K%C3%BCt%C3%BCphanesi/@41.011083299999996,28.9654934?authuser=0&hl=tr&entry=ttu",
+                "reviews": 472,
+                "rating": 4.3,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Fatih Belediyesi Kadirga Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Fatih+Belediyesi+Kad%C4%B1rga+K%C3%BCt%C3%BCphanesi/@41.0046743,28.9676065?authuser=0&hl=tr&entry=ttu",
+                "reviews": 91,
+                "rating": 4.5,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Orhan Kemal Il Halk Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Orhan+Kemal+%C4%B0l+Halk+K%C3%BCt%C3%BCphanesi/@41.009192899999995,28.962333500000003?authuser=0&hl=tr&entry=ttu",
+                "reviews": 231,
+                "rating": 4.3,
+                "main_category": "Halk Kutuphanesi"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJHbXg3nG5yhQRQ3B5QE3CEmg",
+        "name": "Istiklal Millet Kutuphanesi",
+        "main_category": "Kutuphane",
+        "rating": 4.6,
+        "reviews": 18,
+        "website": null,
+        "phone": null,
+        "address": "Sahkulu, Istiklal Millet Kutuphanesi, Mesrutiyet Cd. No:121, 34430 Beyoglu/Istanbul",
+        "link": "https://www.google.com/maps/place/%C4%B0stiklal+Millet+K%C3%BCt%C3%BCphanesi/data=!4m7!3m6!1s0x14cab971dee0b51d:0x6812c24d40797043!8m2!3d41.0282288!4d28.9733884!16s%2Fg%2F11sbgydry3!19sChIJHbXg3nG5yhQRQ3B5QE3CEmg?authuser=0&hl=tr&rclk=1",
+        "is_spending_on_ads": false,
+        "competitors": [
+            {
+                "name": "Beyoglu Belediyesi Turabi Baba Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Beyo%C4%9Flu+Belediyesi+Turabi+Baba+K%C3%BCt%C3%BCphanesi/@41.032056999999995,28.966506?authuser=0&hl=tr&entry=ttu",
+                "reviews": 119,
+                "rating": 4.3,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Millet Yazma Eser Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Millet+Yazma+Eser+K%C3%BCt%C3%BCphanesi/@41.016993899999996,28.949849399999998?authuser=0&hl=tr&entry=ttu",
+                "reviews": 76,
+                "rating": 4.2,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Ebru Library",
+                "link": "https://www.google.com/maps/search/Ebru+Library/@41.029936,28.973821999999995?authuser=0&hl=tr&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "IBB Ataturk Kitapligi",
+                "link": "https://www.google.com/maps/search/%C4%B0BB+Atat%C3%BCrk+Kitapl%C4%B1%C4%9F%C4%B1/@41.0391249,28.989563800000003?authuser=0&hl=tr&entry=ttu",
+                "reviews": 710,
+                "rating": 4.1,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "MuHaBBet",
+                "link": "https://www.google.com/maps/search/MuHaBBet/@41.032837699999995,28.9669047?authuser=0&hl=tr&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Kutuphane"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJK1yUP2O3yhQRZ8MPX8oGVLM",
+        "name": "Sevgi Sosyal Kutuphanesi",
+        "main_category": "Kutuphane",
+        "rating": 3.9,
+        "reviews": 10,
+        "website": null,
+        "phone": null,
+        "address": "Kocatepe, Sevgi Sosyal Kutuphanesi, Recep Pasa Cd. No:1, 34437 Beyoglu/Istanbul",
+        "link": "https://www.google.com/maps/place/Sevgi+Sosyal+K%C3%BCt%C3%BCphanesi/data=!4m7!3m6!1s0x14cab7633f945c2b:0xb35406ca5f0fc367!8m2!3d41.0394929!4d28.985597!16s%2Fg%2F11tcw6pl9m!19sChIJK1yUP2O3yhQRZ8MPX8oGVLM?authuser=0&hl=tr&rclk=1",
+        "is_spending_on_ads": false,
+        "competitors": [
+            {
+                "name": "Sevgi Soysal Kutuphane ve Kultur Evi",
+                "link": "https://www.google.com/maps/search/Sevgi+Soysal+K%C3%BCt%C3%BCphane+ve+K%C3%BClt%C3%BCr+Evi/@41.0395769,28.985671299999996?authuser=0&hl=tr&entry=ttu",
+                "reviews": 31,
+                "rating": 3.2,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Kutuphane Ve Muzeler Mudurlugu",
+                "link": "https://www.google.com/maps/search/K%C3%BCt%C3%BCphane+Ve+M%C3%BCzeler+M%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC/@41.038861999999995,28.988941999999998?authuser=0&hl=tr&entry=ttu",
+                "reviews": 4,
+                "rating": 3,
+                "main_category": "Resmi Kurum"
+            },
+            {
+                "name": "Ebru Library",
+                "link": "https://www.google.com/maps/search/Ebru+Library/@41.029936,28.973821999999995?authuser=0&hl=tr&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Korleri Egitim ve Kalkindirma Dernegi",
+                "link": "https://www.google.com/maps/search/K%C3%B6rleri+E%C4%9Fitim+ve+Kalk%C4%B1nd%C4%B1rma+Derne%C4%9Fi/@41.038120899999996,28.9879803?authuser=0&hl=tr&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Kutuphane"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJ89iOGhG5yhQRliTwkzWTkdA",
+        "name": "MuHaBBet",
+        "main_category": "Kutuphane",
+        "rating": 5,
+        "reviews": 1,
+        "website": null,
+        "phone": null,
+        "address": "Camiikebir, MuHaBBet, Eski Borekci Sk. No:4A, 34440 Beyoglu/Istanbul",
+        "link": "https://www.google.com/maps/place/MuHaBBet/data=!4m7!3m6!1s0x14cab9111a8ed8f3:0xd091933593f02496!8m2!3d41.0328377!4d28.9669047!16s%2Fg%2F11kvwr9492!19sChIJ89iOGhG5yhQRliTwkzWTkdA?authuser=0&hl=tr&rclk=1",
+        "is_spending_on_ads": false,
+        "competitors": [
+            {
+                "name": "Ebru Library",
+                "link": "https://www.google.com/maps/search/Ebru+Library/@41.029936,28.973821999999995?authuser=0&hl=tr&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Beyoglu Belediyesi Turabi Baba Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Beyo%C4%9Flu+Belediyesi+Turabi+Baba+K%C3%BCt%C3%BCphanesi/@41.032056999999995,28.966506?authuser=0&hl=tr&entry=ttu",
+                "reviews": 119,
+                "rating": 4.3,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Millet Yazma Eser Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Millet+Yazma+Eser+K%C3%BCt%C3%BCphanesi/@41.016993899999996,28.949849399999998?authuser=0&hl=tr&entry=ttu",
+                "reviews": 76,
+                "rating": 4.2,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Istiklal Millet Kutuphanesi",
+                "link": "https://www.google.com/maps/search/%C4%B0stiklal+Millet+K%C3%BCt%C3%BCphanesi/@41.0282288,28.973388399999994?authuser=0&hl=tr&entry=ttu",
+                "reviews": 17,
+                "rating": 4.6,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "IBB Peyami Safa Kutuphanesi",
+                "link": "https://www.google.com/maps/search/%C4%B0BB+Peyami+Safa+K%C3%BCt%C3%BCphanesi/@41.0334078,28.969443499999997?authuser=0&hl=tr&entry=ttu",
+                "reviews": 17,
+                "rating": 4.3,
+                "main_category": "Halk Kutuphanesi"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJXwwQQjSxyhQRN7nIooseE48",
+        "name": "Beyoglu Halk Kutuphanesi",
+        "main_category": "Kutuphane",
+        "rating": 5,
+        "reviews": 1,
+        "website": null,
+        "phone": null,
+        "address": "Kececi Piri, Beyoglu Halk Kutuphanesi, Haskoy Cd. No:2 D:14, 34445 Beyoglu/Istanbul",
+        "link": "https://www.google.com/maps/place/Beyo%C4%9Flu+Halk+K%C3%BCt%C3%BCphanesi/data=!4m7!3m6!1s0x14cab13442100c5f:0x8f131e8ba2c8b937!8m2!3d41.039274!4d28.9515114!16s%2Fg%2F11k50417wc!19sChIJXwwQQjSxyhQRN7nIooseE48?authuser=0&hl=tr&rclk=1",
+        "is_spending_on_ads": false,
+        "competitors": [
+            {
+                "name": "Gaziosmanpasa Ilce Halk Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Gaziosmanpa%C5%9Fa+%C4%B0l%C3%A7e+Halk+K%C3%BCt%C3%BCphanesi/@41.0574569,28.914579900000003?authuser=0&hl=tr&entry=ttu",
+                "reviews": 87,
+                "rating": 2.3,
+                "main_category": "Halk Kutuphanesi"
+            },
+            {
+                "name": "Beyoglu Belediyesi Turabi Baba Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Beyo%C4%9Flu+Belediyesi+Turabi+Baba+K%C3%BCt%C3%BCphanesi/@41.032056999999995,28.966506?authuser=0&hl=tr&entry=ttu",
+                "reviews": 119,
+                "rating": 4.3,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Istanbul Ticaret Universitesi Sutluce Yerleskesi Kutuphanesi",
+                "link": "https://www.google.com/maps/search/%C4%B0stanbul+Ticaret+%C3%9Cniversitesi+S%C3%BCtl%C3%BCce+Yerle%C5%9Fkesi+K%C3%BCt%C3%BCphanesi/@41.0581271,28.951173999999998?authuser=0&hl=tr&entry=ttu",
+                "reviews": 44,
+                "rating": 4.6,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Istiklal Millet Kutuphanesi",
+                "link": "https://www.google.com/maps/search/%C4%B0stiklal+Millet+K%C3%BCt%C3%BCphanesi/@41.0282288,28.973388399999994?authuser=0&hl=tr&entry=ttu",
+                "reviews": 17,
+                "rating": 4.6,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "FETIHTEPE MERKEZ CAMII KUTUPHANESI",
+                "link": "https://www.google.com/maps/search/FET%C4%B0HTEPE+MERKEZ+CAM%C4%B0%C4%B0+K%C3%9CT%C3%9CPHANES%C4%B0/@41.0529013,28.9588003?authuser=0&hl=tr&entry=ttu",
+                "reviews": 4,
+                "rating": 4,
+                "main_category": "Kutuphane"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJwwIFCgS5yhQRPUmno86KxeI",
+        "name": "Ebru Library",
+        "main_category": "Kutuphane",
+        "rating": null,
+        "reviews": null,
+        "website": null,
+        "phone": null,
+        "address": "Asmali Mescit, Ebru Library, Sehbender Sk. No:18, 34430 Beyoglu/Istanbul",
+        "link": "https://www.google.com/maps/place/Ebru+Library/data=!4m7!3m6!1s0x14cab9040a0502c3:0xe2c58acea3a7493d!8m2!3d41.029936!4d28.973822!16s%2Fg%2F11g0mhh4kz!19sChIJwwIFCgS5yhQRPUmno86KxeI?authuser=0&hl=tr&rclk=1",
+        "is_spending_on_ads": false,
+        "competitors": [
+            {
+                "name": "Beyoglu Belediyesi Turabi Baba Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Beyo%C4%9Flu+Belediyesi+Turabi+Baba+K%C3%BCt%C3%BCphanesi/@41.032056999999995,28.966506?authuser=0&hl=tr&entry=ttu",
+                "reviews": 119,
+                "rating": 4.3,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "MuHaBBet",
+                "link": "https://www.google.com/maps/search/MuHaBBet/@41.032837699999995,28.9669047?authuser=0&hl=tr&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "IBB Ataturk Kitapligi",
+                "link": "https://www.google.com/maps/search/%C4%B0BB+Atat%C3%BCrk+Kitapl%C4%B1%C4%9F%C4%B1/@41.0391249,28.989563800000003?authuser=0&hl=tr&entry=ttu",
+                "reviews": 710,
+                "rating": 4.1,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Vitali Hakko Kreatif Endustriler Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Vitali+Hakko+Kreatif+End%C3%BCstriler+K%C3%BCt%C3%BCphanesi/@41.0367069,28.987666299999997?authuser=0&hl=tr&entry=ttu",
+                "reviews": 37,
+                "rating": 4.8,
+                "main_category": "Kutuphane"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJ97RzAHC3yhQRmkrMbIiJZv8",
+        "name": "Korleri Egitim ve Kalkindirma Dernegi",
+        "main_category": "Kutuphane",
+        "rating": null,
+        "reviews": null,
+        "website": null,
+        "phone": "(0212) 249 09 45",
+        "address": "Gumussuyu, Korleri Egitim ve Kalkindirma Dernegi, Mete Cd. Numara:45, 34437 Beyoglu/Istanbul",
+        "link": "https://www.google.com/maps/place/K%C3%B6rleri+E%C4%9Fitim+ve+Kalk%C4%B1nd%C4%B1rma+Derne%C4%9Fi/data=!4m7!3m6!1s0x14cab7700073b4f7:0xff6689886ccc4a9a!8m2!3d41.0381209!4d28.9879803!16s%2Fg%2F11fmq0gkgv!19sChIJ97RzAHC3yhQRmkrMbIiJZv8?authuser=0&hl=tr&rclk=1",
+        "is_spending_on_ads": false,
+        "competitors": [
+            {
+                "name": "Ebru Library",
+                "link": "https://www.google.com/maps/search/Ebru+Library/@41.029936,28.973821999999995?authuser=0&hl=tr&entry=ttu",
+                "reviews": 0,
+                "rating": 0,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "IBB Ataturk Kitapligi",
+                "link": "https://www.google.com/maps/search/%C4%B0BB+Atat%C3%BCrk+Kitapl%C4%B1%C4%9F%C4%B1/@41.0391249,28.989563800000003?authuser=0&hl=tr&entry=ttu",
+                "reviews": 710,
+                "rating": 4.1,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "Vitali Hakko Kreatif Endustriler Kutuphanesi",
+                "link": "https://www.google.com/maps/search/Vitali+Hakko+Kreatif+End%C3%BCstriler+K%C3%BCt%C3%BCphanesi/@41.0367069,28.987666299999997?authuser=0&hl=tr&entry=ttu",
+                "reviews": 37,
+                "rating": 4.8,
+                "main_category": "Kutuphane"
+            },
+            {
+                "name": "MuHaBBet",
+                "link": "https://www.google.com/maps/search/MuHaBBet/@41.032837699999995,28.9669047?authuser=0&hl=tr&entry=ttu",
+                "reviews": 1,
+                "rating": 5,
+                "main_category": "Kutuphane"
+            }
+        ]
+    }
+]

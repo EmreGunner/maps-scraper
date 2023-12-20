@@ -1,0 +1,177 @@
+{
+    "place_id": "ChIJgyrZT2G4yhQR7MoeihuadO8",
+    "name": "Chiviyaz\u0131lar\u0131 Yay\u0131nevi",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "Yaz\u0131lama Yay\u0131nevi",
+            "link": "https://www.google.com/maps/search/Yaz%C4%B1lama+Yay%C4%B1nevi/@40.9897746,29.0283825?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 4.8,
+            "main_category": "Yay\u0131nc\u0131"
+        },
+        {
+            "name": "Legal Yay\u0131nc\u0131l\u0131k",
+            "link": "https://www.google.com/maps/search/Legal+Yay%C4%B1nc%C4%B1l%C4%B1k/@40.9850267,29.027539299999997?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4.3,
+            "main_category": "Yay\u0131nc\u0131"
+        },
+        {
+            "name": "Tarih\u00e7i Kitabevi",
+            "link": "https://www.google.com/maps/search/Tarih%C3%A7i+Kitabevi/@40.9853434,29.024747599999998?authuser=0&entry=ttu",
+            "reviews": 49,
+            "rating": 4.4,
+            "main_category": "Kitap\u00e7\u0131"
+        },
+        {
+            "name": "\u0130mge Kitabevi",
+            "link": "https://www.google.com/maps/search/%C4%B0mge+Kitabevi/@40.988441099999996,29.022851199999998?authuser=0&entry=ttu",
+            "reviews": 111,
+            "rating": 4.5,
+            "main_category": "Kitap\u00e7\u0131"
+        },
+        {
+            "name": "D\u00f6rtkap\u0131 Yay\u0131nevi",
+            "link": "https://www.google.com/maps/search/D%C3%B6rtkap%C4%B1+Yay%C4%B1nevi/@40.9912815,29.0283111?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Kitap Yay\u0131nc\u0131s\u0131"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Chiviyaz\u0131lar\u0131 Yay\u0131nevi (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh5.googleusercontent.com/PLGu-7YqYC7fN8GM8bp9-JoXvt-RQWn-H1Ip7aEqAxvl3TTkgjTmHqYDJUz6uO8=w426-h240-k-no",
+    "main_category": "Yay\u0131nc\u0131",
+    "categories": [
+        "Yay\u0131nc\u0131"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 330 90 01",
+    "address": "Cafera\u011fa, Chiviyaz\u0131lar\u0131 Yay\u0131nevi, Gen. As\u0131m G\u00fcnd\u00fcz Cd. No:69 3 D:9, 34710 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJgyrZT2G4yhQR7MoeihuadO8",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJgyrZT2G4yhQR7MoeihuadO8&q=?q=place_id:ChIJgyrZT2G4yhQR7MoeihuadO8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.984850099999996,
+        "longitude": 29.0281965
+    },
+    "plus_code": "X2MH+W7 Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Cafera\u011fa",
+        "street": "Gen. As\u0131m G\u00fcnd\u00fcz Cd. No:69 3 D:9",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34710",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "17254585515435281132",
+    "data_id": "0x14cab8614fd92a83:0xef749a1b8a1ecaec",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh5.googleusercontent.com/PLGu-7YqYC7fN8GM8bp9-JoXvt-RQWn-H1Ip7aEqAxvl3TTkgjTmHqYDJUz6uO8=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BnJ45B8Ln5V7gBhC19WCKg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=96.43888&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Cengiz AYDEN\u0130Z",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-12-14T15:37:47.695000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/103064041852285319140/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVuR1m8kgnqqLC1r01UBGHpuIRBbvqUWkJr9BILZoiS9g=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

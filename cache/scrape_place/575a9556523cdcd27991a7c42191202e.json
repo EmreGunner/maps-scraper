@@ -1,0 +1,151 @@
+{
+    "place_id": "ChIJrzQbidXLyhQRsLYbSKOC80k",
+    "name": "Efeo\u011flu Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": 2,
+    "competitors": [
+        {
+            "name": "Bo\u011fazi\u00e7i Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Bo%C4%9Fazi%C3%A7i+Hukuk+B%C3%BCrosu/@41.0939025,29.0889875?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Kavac\u0131k Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kavac%C4%B1k+Hukuk+B%C3%BCrosu/@41.0934567,29.086837900000003?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ALP Hukuk B\u00fcrosu / Figen ALPDEM\u0130R",
+            "link": "https://www.google.com/maps/search/ALP+Hukuk+B%C3%BCrosu+%2F+Figen+ALPDEM%C4%B0R/@41.0940884,29.089863599999997?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Beykoz Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Beykoz+Hukuk+B%C3%BCrosu/@41.1260221,29.1003021?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 3.7,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "SA\u011eLAMDEM\u0130R HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/SA%C4%9ELAMDEM%C4%B0R+HUKUK+B%C3%9CROSU/@41.092290299999995,29.0940808?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.efeogluhukuk.com/",
+    "owner": {
+        "id": "108953960874153385084",
+        "name": "Efeo\u011flu Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/108953960874153385084"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Xm6pETGHX7pkld6hVJhfoQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=171.93393&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0216) 330 43 43",
+    "address": "Efeo\u011flu Hukuk B\u00fcrosu, Kavac\u0131k Mahallesi Fatih Sultan Mehmet Caddesi Ahmet Y\u0131lmaz \u0130\u015f Merkezi No:2 K:3 D:16, 34810 Beykoz/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJrzQbidXLyhQRsLYbSKOC80k",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJrzQbidXLyhQRsLYbSKOC80k&q=?q=place_id:ChIJrzQbidXLyhQRsLYbSKOC80k&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0929313,
+        "longitude": 29.086503999999998
+    },
+    "plus_code": "33VP+5J Beykoz, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Kavac\u0131k",
+        "street": "Kavac\u0131k Mahallesi Fatih Sultan Mehmet Caddesi Ahmet Y\u0131lmaz \u0130\u015f Merkezi No:2 K:3 D:16",
+        "city": "Beykoz",
+        "postal_code": "34810",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "5328746421910484656",
+    "data_id": "0x14cacbd5891b34af:0x49f382a3481bb6b0",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Xm6pETGHX7pkld6hVJhfoQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=171.93393&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Xm6pETGHX7pkld6hVJhfoQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=171.93393&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Ula\u015f\u0131m\u0131 hem kolay hemde Levent bey i\u015finde ger\u00e7ekten m\u00fckemmel. Te\u015fekk\u00fcrler",
+            "reviewer_name": "Serap Sarsilmaz",
+            "rating": 5,
+            "review_text": "Ula\u015f\u0131m\u0131 hem kolay hemde Levent bey i\u015finde ger\u00e7ekten m\u00fckemmel. Te\u015fekk\u00fcrler",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-05-30T21:11:13.802000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 26,
+            "total_number_of_photos_by_reviewer": 10,
+            "reviewer_url": "https://www.google.com/maps/contrib/100715860072441049942/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUmV3dPAkiwT_n_kFWOQJpc5ZIo_uFc7Eh4d9YzAZWM3wo=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Yusufhan G\u00fcler",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-07-07T12:15:11.758000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/107156642863949396297/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWLDUWq2MYOL08Jc1AFH7IBxf1oV540DpQ8mZENNdfhgac=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

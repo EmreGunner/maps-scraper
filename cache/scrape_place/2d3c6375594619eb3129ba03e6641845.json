@@ -1,0 +1,103 @@
+{
+    "place_id": "ChIJnaUru-K2yhQR4AHEiv37z8c",
+    "name": "Efdal Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "EFDAL HUKUK DANI\u015eMANLIK VE ARABULUCULUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/EFDAL+HUKUK+DANI%C5%9EMANLIK+VE+ARABULUCULUK+B%C3%9CROSU/@41.0370929,29.0303035?authuser=0&entry=ttu",
+            "reviews": 21,
+            "rating": 5,
+            "main_category": "Bo\u015fanma Avukat\u0131"
+        },
+        {
+            "name": "\u0130stanbul Hukuk&Arabuluculuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C4%B0stanbul+Hukuk%26Arabuluculuk+B%C3%BCrosu/@41.0600513,28.9871791?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "B\u00fcke O\u011ful Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/B%C3%BCke+O%C4%9Ful+Hukuk+B%C3%BCrosu/@41.066673,28.986553?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u0130lter&Bozkurt&K\u0131rdar Avukatl\u0131k ve Arabuluculuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C4%B0lter%26Bozkurt%26K%C4%B1rdar+Avukatl%C4%B1k+ve+Arabuluculuk+B%C3%BCrosu/@41.0563526,28.9856464?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 4,
+            "main_category": "Hukuk Hizmetleri"
+        }
+    ],
+    "website": "http://www.efdalhukukburosu.net/",
+    "owner": {
+        "id": "107517044919816241832",
+        "name": "Efdal Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/107517044919816241832"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u-imj1ShcHC5GO0CBCVizA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=218.92271&pitch=0&thumbfov=100",
+    "main_category": "Kurumsal Ofis",
+    "categories": [
+        "Kurumsal Ofis"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 219 27 23",
+    "address": "Merkez, Efdal Hukuk B\u00fcrosu, Merkez Cd. 4 A, 34381 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJnaUru-K2yhQR4AHEiv37z8c",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJnaUru-K2yhQR4AHEiv37z8c&q=?q=place_id:ChIJnaUru-K2yhQR4AHEiv37z8c&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.066790499999996,
+        "longitude": 28.986844599999998
+    },
+    "plus_code": "3X8P+PP \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkez",
+        "street": "Merkez Cd. 4 A",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34381",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "14398003600100164064",
+    "data_id": "0x14cab6e2bb2ba59d:0xc7cffbfd8ac401e0",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u-imj1ShcHC5GO0CBCVizA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=218.92271&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u-imj1ShcHC5GO0CBCVizA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=218.92271&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,107 @@
+{
+    "place_id": "ChIJB6-XMve1yhQRQjE5oeq2ILE",
+    "name": "\u00d6zmenYal\u00e7\u0131n",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Yaman Hukuk",
+            "link": "https://www.google.com/maps/search/Yaman+Hukuk/@41.0819706,29.009922?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "OZKAN Law & Consulting | OZKAN Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/OZKAN+Law+%26+Consulting+%7C+OZKAN+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.076777,29.013283?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00dcnl\u00fc Law Firm",
+            "link": "https://www.google.com/maps/search/%C3%9Cnl%C3%BC+Law+Firm/@41.079883599999995,29.011001600000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "D\u00f6nmez Law Office",
+            "link": "https://www.google.com/maps/search/D%C3%B6nmez+Law+Office/@41.0805544,29.007663899999997?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 4.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.ozmenyalcin.com/",
+    "owner": {
+        "id": "105113438499788402974",
+        "name": "\u00d6zmenYal\u00e7\u0131n (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/105113438499788402974"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMjHrbfeniOdbENmZ3bXJQSV04lHHWwYuYT0GH6=w408-h674-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 942 35 25",
+    "address": "Levent, \u00d6zmenYal\u00e7\u0131n, B\u00fcy\u00fckdere Caddesi, Apa Giz Plaza, Kat: 9, 34330 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJB6-XMve1yhQRQjE5oeq2ILE",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJB6-XMve1yhQRQjE5oeq2ILE&q=?q=place_id:ChIJB6-XMve1yhQRQjE5oeq2ILE&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0793061,
+        "longitude": 29.011343399999998
+    },
+    "plus_code": "32H6+PG \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Levent",
+        "street": "B\u00fcy\u00fckdere Caddesi, Apa Giz Plaza, Kat: 9",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34330",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12763402462811468098",
+    "data_id": "0x14cab5f73297af07:0xb120b6eaa1393142",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMjHrbfeniOdbENmZ3bXJQSV04lHHWwYuYT0GH6=w224-h370-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMjHrbfeniOdbENmZ3bXJQSV04lHHWwYuYT0GH6=w224-h370-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vK1deSvDk6lM_SftbcHAhw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=257.36386&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

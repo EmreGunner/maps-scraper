@@ -1,0 +1,241 @@
+{
+    "place_id": "ChIJr0pI6ti3yhQRwRxXczn88Vk",
+    "name": "Gri Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": 4,
+    "competitors": [
+        {
+            "name": "Abdurrahman KONYAR",
+            "link": "https://www.google.com/maps/search/Abdurrahman+KONYAR/@41.0675454,28.988155100000004?authuser=0&entry=ttu",
+            "reviews": 61,
+            "rating": 4.8,
+            "main_category": "G\u00fcvenlik G\u00f6revlisi Hizmeti"
+        },
+        {
+            "name": "SORMEN HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/SORMEN+HUKUK+B%C3%9CROSU/@41.073304199999995,28.981359899999994?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 2.7,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Gmt Hukuk B\u00fcrosu & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Gmt+Hukuk+B%C3%BCrosu+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.07378190000001,28.980697700000004?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 1.9,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "A\u011f\u0131n Hukuk B\u00fcrosu \u0130stanbul \u00c7a\u011flayan Bo\u015fanma Avukat\u0131 \u0130\u015f Hukuku Ceza Avukat\u0131",
+            "link": "https://www.google.com/maps/search/A%C4%9F%C4%B1n+Hukuk+B%C3%BCrosu+%C4%B0stanbul+%C3%87a%C4%9Flayan+Bo%C5%9Fanma+Avukat%C4%B1+%C4%B0%C5%9F+Hukuku+Ceza+Avukat%C4%B1/@41.0713844,28.981807999999997?authuser=0&entry=ttu",
+            "reviews": 12,
+            "rating": 4.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "GRG Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/GRG+Hukuk+B%C3%BCrosu/@41.0667787,28.9867943?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "114062559364199710748",
+        "name": "Gri Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/114062559364199710748"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JsNOjuVs3H3kli_OqXPGEQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=231.34341&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0534 979 73 97",
+    "address": "\u00c7a\u011flayan, Gri Hukuk B\u00fcrosu, Park Cd No: 13/4, 34403 K\u00e2\u011f\u0131thane/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJr0pI6ti3yhQRwRxXczn88Vk",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 4
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJr0pI6ti3yhQRwRxXczn88Vk&q=?q=place_id:ChIJr0pI6ti3yhQRwRxXczn88Vk&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0736701,
+        "longitude": 28.981337099999998
+    },
+    "plus_code": "3XFJ+FG K\u00e2\u011f\u0131thane, \u0130stanbul",
+    "detailed_address": {
+        "ward": "\u00c7a\u011flayan",
+        "street": "Park Cd No: 13/4",
+        "city": "K\u00e2\u011f\u0131thane",
+        "postal_code": "34403",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6481238662441278657",
+    "data_id": "0x14cab7d8ea484aaf:0x59f1fc3973571cc1",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JsNOjuVs3H3kli_OqXPGEQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=231.34341&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPgplZ__7cXF4RQjiTmcfa0JEbcRmb4O8LS8QE=w224-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JsNOjuVs3H3kli_OqXPGEQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=231.34341&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Emirhan Bey ger\u00e7ekten i\u015fine \u00f6zen g\u00f6steren, profesyonel bir avukat. 3 y\u0131ld\u0131r tahsil edemedi\u011fimiz \u00e7ekimizi 2 hafta i\u00e7erisinde tahsil etti ve s\u00fcre\u00e7 boyunca bizimle yak\u0131ndan ilgilenip her t\u00fcrl\u00fc sorumuza yan\u0131t verdi.",
+            "reviewer_name": "Furkan T\u00fct\u00fcnc\u00fc",
+            "rating": 5,
+            "review_text": "Emirhan Bey ger\u00e7ekten i\u015fine \u00f6zen g\u00f6steren, profesyonel bir avukat. 3 y\u0131ld\u0131r tahsil edemedi\u011fimiz \u00e7ekimizi 2 hafta i\u00e7erisinde tahsil etti ve s\u00fcre\u00e7 boyunca bizimle yak\u0131ndan ilgilenip her t\u00fcrl\u00fc sorumuza yan\u0131t verdi.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-09-10T19:38:24.921000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 14,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110469938223610408066/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXNXNNjT3bXnr7ChoGOAYZptrwbtUcxXzWUMJcX9mBWkg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Hayat mucuzelerle dolu gercekten...Kendisiyle tesadufen tanistim.Her alanda \u00e7ok deneyimli ve tecr\u016bbeli bir avukat...Batmakta olan sirketimi kurtardi.Allah razi olsun.Tebrik eder ba\u015far\u0131lar\u0131n\u0131n devam\u0131n\u0131 dilerim..",
+            "reviewer_name": "Murat Atahan",
+            "rating": 5,
+            "review_text": "Hayat mucuzelerle dolu gercekten...Kendisiyle tesadufen tanistim.Her alanda \u00e7ok deneyimli ve tecr\u016bbeli bir avukat...Batmakta olan sirketimi kurtardi.Allah razi olsun.Tebrik eder ba\u015far\u0131lar\u0131n\u0131n devam\u0131n\u0131 dilerim..",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-10-23T13:30:42.487000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105776164586670586788/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKO8PazrTteBKFWf1XkeQVLNDt5W70LahQEezfdBmlh=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Ali Ba\u015far",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "4 ay \u00f6nce",
+            "published_at_date": "2023-08-09T16:23:05.321000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112812536814545205393/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKNx3W9tZ9fDnRfHtZ1Q2tbMtEDDG9rnNZYDzAhCg75=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "\u00d6mer Faruk AKY\u00dcZ",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "4 ay \u00f6nce",
+            "published_at_date": "2023-08-09T16:21:03.412000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113914324852598432744/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKKQ0Uk1rOg3nuGuAnSnX8J-zhx_n-k87yF5mjITfzq=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

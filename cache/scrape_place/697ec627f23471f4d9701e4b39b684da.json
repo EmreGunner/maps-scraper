@@ -1,0 +1,103 @@
+{
+    "place_id": "ChIJAQAZFCnGyhQR8_mxBMR04mg",
+    "name": "\u00c7elikler Hukuk Takibi",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "\u00c7EL\u0130K HUKUK & DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/%C3%87EL%C4%B0K+HUKUK+%26+DANI%C5%9EMANLIK/@40.9910619,29.1167586?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Din\u00e7eller Legal",
+            "link": "https://www.google.com/maps/search/Din%C3%A7eller+Legal/@40.9951641,29.099703899999998?authuser=0&entry=ttu",
+            "reviews": 29,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Alkan Legal",
+            "link": "https://www.google.com/maps/search/Alkan+Legal/@41.0006108,29.1009311?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Bahad\u0131r & Y\u00fcksel Hukuk Ofisi",
+            "link": "https://www.google.com/maps/search/Bahad%C4%B1r+%26+Y%C3%BCksel+Hukuk+Ofisi/@40.9944579,29.1032375?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "\u00c7elikler Hukuk Takibi (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1z0hZ4vTF_Urnznw3TAqHQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=24.817183&pitch=0&thumbfov=100",
+    "main_category": "Hukuk Hizmetleri",
+    "categories": [
+        "Hukuk Hizmetleri"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0216) 532 69 97",
+    "address": "\u00c7elikler Hukuk Takibi, Barbaros Mh.Mor S\u00fcmb\u00fcl Sok Kat:17 Deluxia Palace No: 5 D:A D:480, Ata\u015fehir/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJAQAZFCnGyhQR8_mxBMR04mg",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAQAZFCnGyhQR8_mxBMR04mg&q=?q=place_id:ChIJAQAZFCnGyhQR8_mxBMR04mg&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9947246,
+        "longitude": 29.1001361
+    },
+    "plus_code": "X4V2+V3 Ata\u015fehir, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Barbaros",
+        "street": "Barbaros Mh.Mor S\u00fcmb\u00fcl Sok Kat:17 Deluxia Palace No: 5 D:A D:480",
+        "city": "Ata\u015fehir",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "7557731509922298355",
+    "data_id": "0x14cac62914190001:0x68e274c404b1f9f3",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1z0hZ4vTF_Urnznw3TAqHQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=24.817183&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1z0hZ4vTF_Urnznw3TAqHQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=24.817183&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

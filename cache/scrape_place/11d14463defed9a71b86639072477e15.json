@@ -1,0 +1,167 @@
+{
+    "place_id": "ChIJCza_49PHyhQRHBP4I88ZVmc",
+    "name": "Dersim Muhasebe",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Serbet Muhasebeci Mali M\u00fc\u015favir Serkan Sabri Dizmen",
+            "link": "https://www.google.com/maps/search/Serbet+Muhasebeci+Mali+M%C3%BC%C5%9Favir+Serkan+Sabri+Dizmen/@41.0013787,29.086694400000003?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Serbest Muhasebeci Mali M\u00fc\u015favir"
+        },
+        {
+            "name": "Erdeniz Mali M\u00fc\u015favirik",
+            "link": "https://www.google.com/maps/search/Erdeniz+Mali+M%C3%BC%C5%9Favirik/@40.9640049,29.109522300000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Serbest Muhasebeci Mali M\u00fc\u015favir"
+        },
+        {
+            "name": "Tuncel Muhasebe B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Tuncel+Muhasebe+B%C3%BCrosu/@41.029837,28.974650999999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Serbest Muhasebeci Mali M\u00fc\u015favir"
+        },
+        {
+            "name": "S.M.M.M Faruk Karakurt",
+            "link": "https://www.google.com/maps/search/S.M.M.M+Faruk+Karakurt/@40.9937811,29.123054999999994?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Serbest Muhasebeci Mali M\u00fc\u015favir"
+        },
+        {
+            "name": "S.M.M.M ERDEM BAKAR",
+            "link": "https://www.google.com/maps/search/S.M.M.M+ERDEM+BAKAR/@41.007318399999996,29.080388700000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Mali M\u00fc\u015favir"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Dersim Muhasebe (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BWM4XZ5hzrzEHp_UiTnGfw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=154.41295&pitch=0&thumbfov=100",
+    "main_category": "Serbest Muhasebeci Mali M\u00fc\u015favir",
+    "categories": [
+        "Serbest Muhasebeci Mali M\u00fc\u015favir"
+    ],
+    "rating": null,
+    "workday_timing": "09:30\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 315 95 38",
+    "address": "Esatpasa, Dersim Muhasebe, Ziya Pa\u015fa Cd. No:2 K:2, 34704 Ata\u015fehir/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJCza_49PHyhQRHBP4I88ZVmc",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJCza_49PHyhQRHBP4I88ZVmc&q=?q=place_id:ChIJCza_49PHyhQRHBP4I88ZVmc&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9961761,
+        "longitude": 29.0869699
+    },
+    "plus_code": "X3WP+FQ Ata\u015fehir, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Esatpasa",
+        "street": "Ziya Pa\u015fa Cd. No:2 K:2",
+        "city": "Ata\u015fehir",
+        "postal_code": "34704",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "7446167411356078876",
+    "data_id": "0x14cac7d3e3bf360b:0x675619cf23f8131c",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BWM4XZ5hzrzEHp_UiTnGfw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=154.41295&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BWM4XZ5hzrzEHp_UiTnGfw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=154.41295&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:30\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

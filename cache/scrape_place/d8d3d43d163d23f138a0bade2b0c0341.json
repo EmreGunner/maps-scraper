@@ -1,0 +1,212 @@
+{
+    "place_id": "ChIJjemJKlTPyhQRBsl5vAEaZzQ",
+    "name": "Ata Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": 3,
+    "competitors": [
+        {
+            "name": "Mustafa Kiraz Avukatl\u0131k Ofisi",
+            "link": "https://www.google.com/maps/search/Mustafa+Kiraz+Avukatl%C4%B1k+Ofisi/@40.993953399999995,29.121571099999997?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "ATA Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/ATA+Hukuk+B%C3%BCrosu/@40.912268700000006,29.1760122?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "G\u00f6\u011f\u00fc\u015f Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%B6%C4%9F%C3%BC%C5%9F+Hukuk+B%C3%BCrosu/@40.992103,29.119187?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u00c7a\u011fda\u015f Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%87a%C4%9Fda%C5%9F+Hukuk+B%C3%BCrosu/@41.0063418,29.0850621?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "https://www.ata-hukuk.com/",
+    "owner": {
+        "id": "108178047170606522148",
+        "name": "Ata Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/108178047170606522148"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4VkPRexsu2DSXMV_7jMZ2g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=261.14264&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu",
+        "Avukatl\u0131k Dan\u0131\u015fma Hizmeti",
+        "Avukat"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 499 65 42",
+    "address": "Ata Hukuk B\u00fcrosu, Ata\u015fehir Bulvar\u0131 Gardenya 7/1 Plaza, 34758 Ata\u015fehir/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJjemJKlTPyhQRBsl5vAEaZzQ",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJjemJKlTPyhQRBsl5vAEaZzQ&q=?q=place_id:ChIJjemJKlTPyhQRBsl5vAEaZzQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9930567,
+        "longitude": 29.1281444
+    },
+    "plus_code": "X4VH+67 Ata\u015fehir, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Ata\u015fehir Atat\u00fcrk",
+        "street": "Ata\u015fehir Bulvar\u0131 Gardenya 7/1 Plaza",
+        "city": "Ata\u015fehir",
+        "postal_code": "34758",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "3776015407332837638",
+    "data_id": "0x14cacf542a89e98d:0x34671a01bc79c906",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4VkPRexsu2DSXMV_7jMZ2g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=261.14264&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4VkPRexsu2DSXMV_7jMZ2g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=261.14264&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Muhte\u015fem bir \u015fey tavsiye ediyorum",
+            "reviewer_name": "Feke Man",
+            "rating": 5,
+            "review_text": "Muhte\u015fem bir \u015fey tavsiye ediyorum",
+            "published_at": "3 ay \u00f6nce",
+            "published_at_date": "2023-09-13T11:11:05.581000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106539955947068160694/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXW7AT49YdQxDGp_l8uf88YD3qBFDNbQyzWLg-2cd7v_A=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "BEK\u0130R G\u00dcL",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "7 y\u0131l \u00f6nce",
+            "published_at_date": "2016-11-01T20:21:45.397000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108823877664149011591/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWXi5FXMPZvxknHM1O0QiTn-uNDBvQWKQFYa7lOFENz5Hsg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Tursunbay Madrimov",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-03-05T13:25:41.569000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108092548693474390496/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVOSZ5VcyKELLg_mUyYZqY73AR_ZynkW2s8Ifd8OJOmpns=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

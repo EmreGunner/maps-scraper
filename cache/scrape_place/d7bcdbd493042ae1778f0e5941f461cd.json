@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJNVpGhGO3yhQRoBZZsdff--o",
+    "name": "Sel\u00e7uk Avukatl\u0131k B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "\u00dcNL\u00dcLegal Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%9CNL%C3%9CLegal+Avukatl%C4%B1k+B%C3%BCrosu/@41.038703999999996,28.985228000000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ate\u015f Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ate%C5%9F+Hukuk+B%C3%BCrosu/@41.0336275,28.9841222?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "SEL\u00c7UK Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/SEL%C3%87UK+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.069481499999995,28.9766216?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Sel\u00e7uk Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Sel%C3%A7uk+Hukuk+B%C3%BCrosu/@40.9919727,28.8271855?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Ali E\u015fki",
+            "link": "https://www.google.com/maps/search/Avukat+Ali+E%C5%9Fki/@41.0389957,28.9845044?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Sel\u00e7uk Avukatl\u0131k B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh3.googleusercontent.com/DnOxN7BoQdLjbwl8HbiEpeeVsFxjfQpj7YdwqCw8KSiOAGhC_BJtVaP-90tKJw0=w426-h240-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 251 51 33",
+    "address": "Katip Mustafa \u00c7elebi, Sel\u00e7uk Avukatl\u0131k B\u00fcrosu, S\u0131raselviler Cd. No:24 D:7, 34433 Beyo\u011flu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJNVpGhGO3yhQRoBZZsdff--o",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJNVpGhGO3yhQRoBZZsdff--o&q=?q=place_id:ChIJNVpGhGO3yhQRoBZZsdff--o&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0340559,
+        "longitude": 28.9843931
+    },
+    "plus_code": "2XMM+JQ Beyo\u011flu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Katip Mustafa \u00c7elebi",
+        "street": "S\u0131raselviler Cd. No:24 D:7",
+        "city": "Beyo\u011flu",
+        "postal_code": "34433",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16932373341515880096",
+    "data_id": "0x14cab76384465a35:0xeafbdfd7b15916a0",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh3.googleusercontent.com/DnOxN7BoQdLjbwl8HbiEpeeVsFxjfQpj7YdwqCw8KSiOAGhC_BJtVaP-90tKJw0=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lx_pCR-3BRK3sfxPl7oEwA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=266.4032&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

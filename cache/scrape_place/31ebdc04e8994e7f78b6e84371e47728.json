@@ -1,0 +1,121 @@
+{
+    "place_id": "ChIJPXl3UFa2yhQRWfbj7WY2cj0",
+    "name": "NET Law Office",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "\u00d6ZCAN&AL\u0130O\u011eLU HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/%C3%96ZCAN%26AL%C4%B0O%C4%9ELU+HUKUK+B%C3%9CROSU/@41.068222,29.002623999999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Emlak ve Gayrimenkul Avukat\u0131",
+            "link": "https://www.google.com/maps/search/Emlak+ve+Gayrimenkul+Avukat%C4%B1/@41.066918099999995,28.9944478?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Prime Law",
+            "link": "https://www.google.com/maps/search/Prime+Law/@41.066168999999995,29.000533999999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "YABANCILAR HUKUKU",
+            "link": "https://www.google.com/maps/search/YABANCILAR+HUKUKU/@41.0647685,29.007393200000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Tepeyurt Law Firm",
+            "link": "https://www.google.com/maps/search/Tepeyurt+Law+Firm/@41.0690501,29.0004181?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": "https://www.netlawoffice.com/you-may-contact-us-via/",
+    "owner": {
+        "id": null,
+        "name": "NET Law Office (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7pCcI5YdO5OQfJTVNVrldQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=108.90808&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0532 635 98 99",
+    "address": "NET Law Office, No:10, Otello Kamil Sk., 34394",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJPXl3UFa2yhQRWfbj7WY2cj0",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJPXl3UFa2yhQRWfbj7WY2cj0&q=?q=place_id:ChIJPXl3UFa2yhQRWfbj7WY2cj0&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.068413,
+        "longitude": 29.0023149
+    },
+    "plus_code": "3292+9W \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "G\u00fclbahar",
+        "street": "No:10, Otello Kamil Sk.",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34394",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4427661199364322905",
+    "data_id": "0x14cab6565077793d:0x3d723666ede3f659",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7pCcI5YdO5OQfJTVNVrldQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=108.90808&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7pCcI5YdO5OQfJTVNVrldQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=108.90808&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

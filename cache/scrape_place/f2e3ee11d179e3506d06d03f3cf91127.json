@@ -1,0 +1,149 @@
+{
+    "place_id": "ChIJ02DWB_62yhQRr37ZhZYx6ZU",
+    "name": "Demirkesen Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Ayd\u0131ner Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ayd%C4%B1ner+Hukuk+B%C3%BCrosu/@41.0650796,28.9942616?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "D & S Hukuk / Law Firm",
+            "link": "https://www.google.com/maps/search/D+%26+S+Hukuk+%2F+Law+Firm/@41.065456999999995,29.0005484?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "DATA Hukuk",
+            "link": "https://www.google.com/maps/search/DATA+Hukuk/@41.0662281,29.001577599999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Mustafa Demir",
+            "link": "https://www.google.com/maps/search/Mustafa+Demir/@41.064977,28.995884999999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Demirkesen Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh3.googleusercontent.com/YhQTlvJToyuckqD93T8OuoX2-A0__KfoACAlyV52sBiWdMDVale5YDbIrTBLh3GZ=w426-h240-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "08:00\u201317:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 273 21 25",
+    "address": "Fulya, Demirkesen Hukuk B\u00fcrosu, B\u00fcy\u00fckdere Cd. No:30, 34394 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ02DWB_62yhQRr37ZhZYx6ZU",
+    "status": "Kapanmak \u00fczere \u22c5 17:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Per 08:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ02DWB_62yhQRr37ZhZYx6ZU&q=?q=place_id:ChIJ02DWB_62yhQRr37ZhZYx6ZU&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.064847799999995,
+        "longitude": 28.993769099999998
+    },
+    "plus_code": "3X7V+WG \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Fulya",
+        "street": "B\u00fcy\u00fckdere Cd. No:30",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34394",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10802219703785324207",
+    "data_id": "0x14cab6fe07d660d3:0x95e9319685d97eaf",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh3.googleusercontent.com/YhQTlvJToyuckqD93T8OuoX2-A0__KfoACAlyV52sBiWdMDVale5YDbIrTBLh3GZ=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=j1IHO-qx2YwOCf_YySP3aw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=155.95705&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

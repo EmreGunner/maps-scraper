@@ -1,0 +1,192 @@
+{
+    "place_id": "ChIJV9SoQnfLyhQRJMosls3hVko",
+    "name": "Yemi\u015fci Hukuk Burosu",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "DEN\u0130Z HUKUK & ARABULUCULUK",
+            "link": "https://www.google.com/maps/search/DEN%C4%B0Z+HUKUK+%26+ARABULUCULUK/@40.965184199999996,29.0633065?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00c7evik Hukuk Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/%C3%87evik+Hukuk+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9690269,29.054346000000002?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Ceylan Mahmuto\u011flu",
+            "link": "https://www.google.com/maps/search/Ceylan+Mahmuto%C4%9Flu/@40.968271,29.066402399999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Ke\u00e7elio\u011flu I Yap\u0131\u015flar Hukuk&Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Ke%C3%A7elio%C4%9Flu+I+Yap%C4%B1%C5%9Flar+Hukuk%26Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.972099,29.061819000000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Av. Hilmi",
+            "link": "https://www.google.com/maps/search/Av.+Hilmi/@40.9628517,29.0724863?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "110505443815904489615",
+        "name": "Yemi\u015fci Hukuk Burosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/110505443815904489615"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=G-wwVNxTplDygWE7mPhzlg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=201.83188&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 4,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0532 212 57 63",
+    "address": "Caddebostan, Yemi\u015fci Hukuk Burosu, Caddebostan Mah. Ba\u011fdat Caddesi Asya Apt. No:288/1 d:12, 34728 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJV9SoQnfLyhQRJMosls3hVko",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJV9SoQnfLyhQRJMosls3hVko&authuser=0&hl=tr&gl=TR",
+    "coordinates": {
+        "latitude": 40.9683566,
+        "longitude": 29.0650817
+    },
+    "plus_code": "X398+82 Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Caddebostan",
+        "street": "Caddebostan Mah. Ba\u011fdat Caddesi Asya Apt. No:288/1 d:12",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34728",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "5356717079907846692",
+    "data_id": "0x14cacb7742a8d457:0x4a56e1cd962cca24",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                },
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=G-wwVNxTplDygWE7mPhzlg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=201.83188&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=G-wwVNxTplDygWE7mPhzlg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=201.83188&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Abed Hussien (3bbodi)",
+            "rating": 4,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-04-15T20:22:23.282000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117062872111548393236/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKyWpmXd--OUSkOrcTL71roenrJQqORCFTXgDZKv5b0=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

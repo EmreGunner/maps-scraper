@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJe6I3NoXEyhQR8k1Csq4Alvc",
+    "name": "Trio Denetim",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Trio Gayrimenkul Yat\u0131r\u0131m Dan\u0131\u015fmanl\u0131\u011f\u0131",
+            "link": "https://www.google.com/maps/search/Trio+Gayrimenkul+Yat%C4%B1r%C4%B1m+Dan%C4%B1%C5%9Fmanl%C4%B1%C4%9F%C4%B1/@40.8928302,29.1990989?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Emlak B\u00fcrosu"
+        },
+        {
+            "name": "TR\u0130OSOL Limited \u015eirketi",
+            "link": "https://www.google.com/maps/search/TR%C4%B0OSOL+Limited+%C5%9Eirketi/@40.905333299999995,29.196618799999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Redstone Trio Gayrimenkul",
+            "link": "https://www.google.com/maps/search/Redstone+Trio+Gayrimenkul/@40.891157799999995,29.189705?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Emlak Y\u00f6netim \u015eirketi"
+        },
+        {
+            "name": "Trio G\u00fcvenlik Hizmetleri",
+            "link": "https://www.google.com/maps/search/Trio+G%C3%BCvenlik+Hizmetleri/@40.9530874,29.100829099999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": ""
+        },
+        {
+            "name": "TrioWorx \u0130\u015f \u00c7\u00f6z\u00fcmleri",
+            "link": "https://www.google.com/maps/search/TrioWorx+%C4%B0%C5%9F+%C3%87%C3%B6z%C3%BCmleri/@40.9115864,29.192729999999997?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Yaz\u0131l\u0131m \u015eirketi"
+        }
+    ],
+    "website": "http://triodenetim.com/",
+    "owner": {
+        "id": null,
+        "name": "Trio Denetim (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qs0fb5sVW2zyY-tIlZQmZA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=321.7148&pitch=0&thumbfov=100",
+    "main_category": "Kurumsal Ofis",
+    "categories": [
+        "Kurumsal Ofis"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0216) 511 58 69",
+    "address": "Esentepe, Trio Denetim, Milangaz Cd. Kartal Vizyon, 34870 Kartal/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJe6I3NoXEyhQR8k1Csq4Alvc",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJe6I3NoXEyhQR8k1Csq4Alvc&q=?q=place_id:ChIJe6I3NoXEyhQR8k1Csq4Alvc&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9051586,
+        "longitude": 29.1966365
+    },
+    "plus_code": "W54W+3M Kartal, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Esentepe",
+        "street": "Milangaz Cd. Kartal Vizyon",
+        "city": "Kartal",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "17840447724189797874",
+    "data_id": "0x14cac4853637a27b:0xf79600aeb2424df2",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qs0fb5sVW2zyY-tIlZQmZA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=321.7148&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qs0fb5sVW2zyY-tIlZQmZA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=321.7148&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

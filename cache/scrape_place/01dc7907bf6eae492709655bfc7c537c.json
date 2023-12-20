@@ -1,0 +1,136 @@
+{
+    "place_id": "ChIJG_vU_Sy5yhQROAH8GOshdbg",
+    "name": "Ta\u015f\u00e7\u0131",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "Ta\u015fc\u0131 Aksesuar",
+            "link": "https://www.google.com/maps/search/Ta%C5%9Fc%C4%B1+Aksesuar/@41.0160317,28.9699594?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Boncuk Toptanc\u0131s\u0131"
+        },
+        {
+            "name": "Ta\u015f\u00e7\u0131 Servet \u0130stanbul",
+            "link": "https://www.google.com/maps/search/Ta%C5%9F%C3%A7%C4%B1+Servet+%C4%B0stanbul/@41.0152738,28.9690341?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hediyelik e\u015fya ma\u011fazas\u0131"
+        },
+        {
+            "name": "HANCI T\u0130CARET",
+            "link": "https://www.google.com/maps/search/HANCI+T%C4%B0CARET/@41.0178206,28.9680715?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "A\u011fa\u00e7 \u0130\u015fleme Malzemeleri Sat\u0131c\u0131s\u0131"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Ta\u015f\u00e7\u0131 (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PCQ9gPSG3AEiwnM5805SFQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=182.07198&pitch=0&thumbfov=100",
+    "main_category": "Hobi d\u00fckkan\u0131",
+    "categories": [
+        "Hobi d\u00fckkan\u0131"
+    ],
+    "rating": 3,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "R\u00fcstem Pa\u015fa, Ta\u015f\u00e7\u0131, Alaca Hamam Cd. No:55, 34116 Fatih/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJG_vU_Sy5yhQROAH8GOshdbg",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJG_vU_Sy5yhQROAH8GOshdbg&q=?q=place_id:ChIJG_vU_Sy5yhQROAH8GOshdbg&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.014776,
+        "longitude": 28.9703001
+    },
+    "plus_code": "2X7C+W4 Fatih, \u0130stanbul",
+    "detailed_address": {
+        "ward": "R\u00fcstem Pa\u015fa",
+        "street": "Alaca Hamam Cd. No:55",
+        "city": "Fatih",
+        "postal_code": "34116",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "13291567168874086712",
+    "data_id": "0x14cab92cfdd4fb1b:0xb87521eb18fc0138",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Adrese servis",
+                    "enabled": true
+                },
+                {
+                    "name": "Ma\u011faza i\u00e7inde al\u0131\u015fveri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Ayn\u0131 g\u00fcn teslimat",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PCQ9gPSG3AEiwnM5805SFQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=182.07198&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PCQ9gPSG3AEiwnM5805SFQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=182.07198&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "G\u00fcl Alada\u011f",
+            "rating": 3,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-11-05T10:29:03.665000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 34,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/117090416519919585705/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIE0qj2nrHfECbWrMJryGQJqIVoMOULOEMKTIMkw-R5=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

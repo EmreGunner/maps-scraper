@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJAQAAAFy3yhQR0VmqOiH0L_k",
+    "name": "turkishlegal",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Turkish Legal Centre \u015een Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Turkish+Legal+Centre+%C5%9Een+Hukuk+B%C3%BCrosu/@41.038392099999996,28.984943?authuser=0&entry=ttu",
+            "reviews": 14,
+            "rating": 4.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u0130staklal Hukuk Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/%C4%B0staklal+Hukuk+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.031222,28.974970399999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Turk&Co. Attorneys at Law",
+            "link": "https://www.google.com/maps/search/Turk%26Co.+Attorneys+at+Law/@41.0241241,28.973263099999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "TurkishDivorce.com",
+            "link": "https://www.google.com/maps/search/TurkishDivorce.com/@41.0251142,28.972264799999994?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Bo\u015fanma Avukat\u0131"
+        },
+        {
+            "name": "Tokar Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Tokar+Hukuk+B%C3%BCrosu/@41.034261699999995,28.977720799999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "turkishlegal (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=O6wgG1HA2G42l9Y8Y_kOpg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=67.17643&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 245 03 13",
+    "address": "turkishlegal, Bankalar Caddesi Nazli Han No:26 Kat, D:3, 34420 Beyo\u011flu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAFy3yhQR0VmqOiH0L_k",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAQAAAFy3yhQR0VmqOiH0L_k&q=?q=place_id:ChIJAQAAAFy3yhQR0VmqOiH0L_k&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0382864,
+        "longitude": 28.970330399999998
+    },
+    "plus_code": null,
+    "detailed_address": {
+        "ward": "\u0130stiklal",
+        "street": "Bankalar Caddesi Nazli Han No:26 Kat, D:3",
+        "city": "Beyo\u011flu",
+        "postal_code": "34420",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "17955838662904797649",
+    "data_id": "0x14cab75c00000001:0xf92ff4213aaa59d1",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=O6wgG1HA2G42l9Y8Y_kOpg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=67.17643&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=O6wgG1HA2G42l9Y8Y_kOpg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=67.17643&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

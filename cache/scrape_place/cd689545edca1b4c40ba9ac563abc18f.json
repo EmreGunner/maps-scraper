@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJoUWEPHDEyhQR_PYTBljgX9I",
+    "name": "Key Hukuk",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "A\u00e7\u0131k \u00c7ay\u0131r Hukuk B\u00fcrosu & Arabuluculuk",
+            "link": "https://www.google.com/maps/search/A%C3%A7%C4%B1k+%C3%87ay%C4%B1r+Hukuk+B%C3%BCrosu+%26+Arabuluculuk/@40.910764,29.179653?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Sar\u0131kaya Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Sar%C4%B1kaya+Hukuk+B%C3%BCrosu/@40.9112358,29.1791448?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 4,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Yal\u00e7\u0131nkaya Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Yal%C3%A7%C4%B1nkaya+Hukuk+B%C3%BCrosu/@40.9112832,29.1789399?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "R K Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/R+K+Hukuk+B%C3%BCrosu/@40.912357,29.1762917?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Star Hukuk",
+            "link": "https://www.google.com/maps/search/Star+Hukuk/@40.911211099999996,29.178631400000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://keyhukuk.com/",
+    "owner": {
+        "id": null,
+        "name": "Key Hukuk (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6B73UCCU6gkoem0DgqmPPA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=299.89252&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "216459441213",
+    "address": "Key Hukuk, Cevizli Mah. Bayburt Sok. Akasya Apt. No:11 K:1 D:2, Kartal/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJoUWEPHDEyhQR_PYTBljgX9I",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJoUWEPHDEyhQR_PYTBljgX9I&q=?q=place_id:ChIJoUWEPHDEyhQR_PYTBljgX9I&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9125762,
+        "longitude": 29.172230199999998
+    },
+    "plus_code": "W57C+2V Kartal, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Cevizli",
+        "street": "Cevizli Mah. Bayburt Sok. Akasya Apt. No:11 K:1 D:2",
+        "city": "Kartal",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "15159081539416094460",
+    "data_id": "0x14cac4703c8445a1:0xd25fe0580613f6fc",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6B73UCCU6gkoem0DgqmPPA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=299.89252&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6B73UCCU6gkoem0DgqmPPA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=299.89252&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,175 @@
+{
+    "place_id": "ChIJP9MAWbWxyhQRm9gyZ3EJxlI",
+    "name": "Bilir Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Y\u0131ld\u0131r\u0131m Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Y%C4%B1ld%C4%B1r%C4%B1m+Hukuk+B%C3%BCrosu/@41.0582773,28.911965100000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "T\u00fcrky\u0131lmaz Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/T%C3%BCrky%C4%B1lmaz+Hukuk+B%C3%BCrosu/@41.0578624,28.909914?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 4.8,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AVUKAT YA\u015eAR KARABAYIR",
+            "link": "https://www.google.com/maps/search/AVUKAT+YA%C5%9EAR+KARABAYIR/@41.058013100000004,28.911204700000003?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "B\u0130L\u0130R HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/B%C4%B0L%C4%B0R+HUKUK+B%C3%9CROSU/@41.1790747,28.891314299999994?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Ar\u0131kan Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ar%C4%B1kan+Hukuk+B%C3%BCrosu/@41.056522699999995,28.9131872?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "100762749117367855659",
+        "name": "Bilir Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/100762749117367855659"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yqjnMxMJjKaFTA04bv4ixw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=265.8408&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201317:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 545 95 41",
+    "address": "Bilir Hukuk B\u00fcrosu, Merkez Mah. Ali Galipbey Cad. No:15 Diyar \u0130\u015f Merkezi K.2, 34245 Gaziosmanpa\u015fa/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJP9MAWbWxyhQRm9gyZ3EJxlI",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 17:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJP9MAWbWxyhQRm9gyZ3EJxlI&q=?q=place_id:ChIJP9MAWbWxyhQRm9gyZ3EJxlI&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0568326,
+        "longitude": 28.912785799999998
+    },
+    "plus_code": "3W47+P4 Gaziosmanpa\u015fa, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkez",
+        "street": "Merkez Mah. Ali Galipbey Cad. No:15 Diyar \u0130\u015f Merkezi K.2",
+        "city": "Gaziosmanpa\u015fa",
+        "postal_code": "34245",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "5964465139166140571",
+    "data_id": "0x14cab1b55900d33f:0x52c609716732d89b",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                },
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yqjnMxMJjKaFTA04bv4ixw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=265.8408&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM0xn3ZHrI6yhbURsMBzrNS7227K59oYqvPrQk=w298-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yqjnMxMJjKaFTA04bv4ixw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=265.8408&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

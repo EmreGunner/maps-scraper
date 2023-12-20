@@ -1,0 +1,360 @@
+{
+    "place_id": "ChIJZV5Yht1ZLxURKPGl-4ovEnY",
+    "name": "Avukat Oktay Ko\u00e7ak - \u0130skenderun /HATAY",
+    "description": null,
+    "reviews": 88,
+    "competitors": [
+        {
+            "name": "Fethiye Avukat Ozan Y\u00fcksek Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Fethiye+Avukat+Ozan+Y%C3%BCksek+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@36.6368922,29.158757500000004?authuser=0&entry=ttu",
+            "reviews": 59,
+            "rating": 4.8,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "AVUKAT \u015eENG\u00dcL KELE\u015e",
+            "link": "https://www.google.com/maps/search/AVUKAT+%C5%9EENG%C3%9CL+KELE%C5%9E/@36.5888791,36.1703087?authuser=0&entry=ttu",
+            "reviews": 86,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Akbay Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Akbay+Hukuk+B%C3%BCrosu/@36.574536099999996,36.163610000000006?authuser=0&entry=ttu",
+            "reviews": 29,
+            "rating": 4.1,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AVUKAT ESRA EROL (\u0130SKENDERUN)",
+            "link": "https://www.google.com/maps/search/AVUKAT+ESRA+EROL+%28%C4%B0SKENDERUN%29/@36.589087299999996,36.1723219?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Abd\u00fclkerim G\u00fcven",
+            "link": "https://www.google.com/maps/search/Avukat+Abd%C3%BClkerim+G%C3%BCven/@36.587067999999995,36.170339?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 4.1,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": "http://avkocak.com/",
+    "owner": {
+        "id": "111257214682970513066",
+        "name": "Avukat Oktay Ko\u00e7ak - \u0130skenderun /HATAY (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/111257214682970513066"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMM8LUXlz5mc4_2dv_9U1n8uc3y1k-W846uNfP-=w408-h543-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0538 787 41 61",
+    "address": "Avukat Oktay Ko\u00e7ak - \u0130skenderun /HATAY, Sava\u015f Mah. Kanatl\u0131 Cad. \u0130lyaz \u0130\u015fhan\u0131, K:4 D:8, 31300 \u0130skenderun/Hatay",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJZV5Yht1ZLxURKPGl-4ovEnY",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 88
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJZV5Yht1ZLxURKPGl-4ovEnY&q=?q=place_id:ChIJZV5Yht1ZLxURKPGl-4ovEnY&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.588880499999995,
+        "longitude": 36.1703097
+    },
+    "plus_code": "H5QC+H4 \u0130skenderun, Hatay",
+    "detailed_address": {
+        "ward": "Sava\u015f",
+        "street": "Sava\u015f Mah. Kanatl\u0131 Cad. \u0130lyaz \u0130\u015fhan\u0131, K:4 D:8",
+        "city": "\u0130skenderun",
+        "postal_code": "31300",
+        "state": "Hatay",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "8507914920030236968",
+    "data_id": "0x152f59dd86585e65:0x76122f8afba5f128",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://avkocak.com/",
+            "source": "avkocak.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMM8LUXlz5mc4_2dv_9U1n8uc3y1k-W846uNfP-=w224-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNDUzGdtjTSkUC5DKi8VaKy0Hthq8gVNTK1YY2p=w397-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XTK0JQoQzy7EDqh5xM1O7A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=342.3965&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201314:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Hayat\u0131mda g\u00f6rd\u00fc\u011f\u00fcm\u00fcz en \u00f6zverili\ng\u00fcvenilir d\u00fcr\u00fcst sayg\u0131l\u0131 i\u015fini \u00e7ok g\u00fczel yapan sizi can kula\u011f\u0131yla derdinizi dinleyen \u00e7\u00f6z\u00fcm bulan yard\u0131mc\u0131 olan  hayatta  kar\u015f\u0131n\u0131za \u00e7\u0131kabilecek \u00e7ok nadir bir avukatt\u0131r kendileri yan\u0131nda tabi d\u00fcnyalar tatl\u0131s\u0131 birde avukat \u015eeng\u00fcl han\u0131m var birlikte \u00e7al\u0131\u015f\u0131p birlikte dinleyip derdinize derman olmaya \u00e7al\u0131\u015f\u0131yorlar  e\u011fer yolunuz bir g\u00fcn avukata d\u00fc\u015ferse mutlaka kap\u0131lar\u0131na gidip ziline bas\u0131n asla pi\u015fman olmazs\u0131n\u0131z kendi evinize girer gibi g\u00f6n\u00fcl rahatl\u0131yla i\u00e7eri girebilirsiniz iyiki rast geldik size iyiki vars\u0131n\u0131z \u00e7al\u0131\u015fma hayat\u0131n\u0131zda sonsuz ba\u015far\u0131lar diliyorum tekrar iskendurana geldi\u011fimde mutlaka ilk sizleri ziyaret etmeye gelecem ba\u015far\u0131lar\u0131n\u0131z daim olsun sonsuz te\u015fekk\u00fcrler.....",
+            "reviewer_name": "Ebru Kale",
+            "rating": 5,
+            "review_text": "Hayat\u0131mda g\u00f6rd\u00fc\u011f\u00fcm\u00fcz en \u00f6zverili\ng\u00fcvenilir d\u00fcr\u00fcst sayg\u0131l\u0131 i\u015fini \u00e7ok g\u00fczel yapan sizi can kula\u011f\u0131yla derdinizi dinleyen \u00e7\u00f6z\u00fcm bulan yard\u0131mc\u0131 olan  hayatta  kar\u015f\u0131n\u0131za \u00e7\u0131kabilecek \u00e7ok nadir bir avukatt\u0131r kendileri yan\u0131nda tabi d\u00fcnyalar tatl\u0131s\u0131 birde avukat \u015eeng\u00fcl han\u0131m var birlikte \u00e7al\u0131\u015f\u0131p birlikte dinleyip derdinize derman olmaya \u00e7al\u0131\u015f\u0131yorlar  e\u011fer yolunuz bir g\u00fcn avukata d\u00fc\u015ferse mutlaka kap\u0131lar\u0131na gidip ziline bas\u0131n asla pi\u015fman olmazs\u0131n\u0131z kendi evinize girer gibi g\u00f6n\u00fcl rahatl\u0131yla i\u00e7eri girebilirsiniz iyiki rast geldik size iyiki vars\u0131n\u0131z \u00e7al\u0131\u015fma hayat\u0131n\u0131zda sonsuz ba\u015far\u0131lar diliyorum tekrar iskendurana geldi\u011fimde mutlaka ilk sizleri ziyaret etmeye gelecem ba\u015far\u0131lar\u0131n\u0131z daim olsun sonsuz te\u015fekk\u00fcrler.....",
+            "published_at": "11 ay \u00f6nce",
+            "published_at_date": "2023-01-13T19:51:19.604000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104519250882585570875/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVojcGS5L1EnBizSZRSnQ1JUXP-Xqv6E5CekKh9FpfflfRV=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "A\u00e7\u0131klay\u0131c\u0131 anlatan, yard\u0131mc\u0131 olan bir avukat",
+            "reviewer_name": "Esra Sari",
+            "rating": 5,
+            "review_text": "A\u00e7\u0131klay\u0131c\u0131 anlatan, yard\u0131mc\u0131 olan bir avukat",
+            "published_at": "4 ay \u00f6nce",
+            "published_at_date": "2023-08-05T07:28:52.907000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 19,
+            "total_number_of_photos_by_reviewer": 143,
+            "reviewer_url": "https://www.google.com/maps/contrib/104260638709325058753/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJXKkpQAyuV54UmZKibPsqBVudl2qTDw6RGquG-TGem=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "G\u00fcler y\u00fcz, samimiyet ilgi alakas\u0131 ile \u00e7ok iyi ve ba\u015far\u0131l\u0131 bir avukatt\u0131r.",
+            "reviewer_name": "Dilan Acar",
+            "rating": 5,
+            "review_text": "G\u00fcler y\u00fcz, samimiyet ilgi alakas\u0131 ile \u00e7ok iyi ve ba\u015far\u0131l\u0131 bir avukatt\u0131r.",
+            "published_at": "6 ay \u00f6nce",
+            "published_at_date": "2023-05-25T20:09:50.458000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107115318074418036832/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXQVTrx3eaaXsJE9jH_jtiUDozZswF0MJTv5kB_pXcwmw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u0130\u015fyeri ile ilgili bir davam vard\u0131 ve kazanabilece\u011fimden umudum yoktu ama Av. Oktak Ko\u00e7ak'\u0131n \u00f6zverili ve profosyonel \u00e7al\u0131\u015fmas\u0131 ile davam\u0131 kazand\u0131m. G\u00f6z\u00fcn\u00fcz kapal\u0131 g\u00fcvenebilece\u011finiz bir Avukatt\u0131r.",
+            "reviewer_name": "Furkan Efe \u015eeng\u00fcl",
+            "rating": 5,
+            "review_text": "\u0130\u015fyeri ile ilgili bir davam vard\u0131 ve kazanabilece\u011fimden umudum yoktu ama Av. Oktak Ko\u00e7ak'\u0131n \u00f6zverili ve profosyonel \u00e7al\u0131\u015fmas\u0131 ile davam\u0131 kazand\u0131m. G\u00f6z\u00fcn\u00fcz kapal\u0131 g\u00fcvenebilece\u011finiz bir Avukatt\u0131r.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-03-17T07:34:59.148000",
+            "response_from_owner_text": "G\u00f6r\u00fc\u015f\u00fcn\u00fcz i\u00e7in te\u015fekk\u00fcr ederim.",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-05-28T16:18:57.371000",
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107832606080113039425/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUNf5ieDdvYJHSqNt9tuQQmYSfc5y_f_1DAiFjiwJGrdtA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Birlikte \u00e7al\u0131\u015fmaktan gurur duydu\u011fum ba\u015far\u0131l\u0131 ve \u00e7al\u0131\u015fkan bir avukat. Birlikte nice g\u00fczel ba\u015far\u0131lara \u2b50",
+            "reviewer_name": "Sengul Keles",
+            "rating": 5,
+            "review_text": "Birlikte \u00e7al\u0131\u015fmaktan gurur duydu\u011fum ba\u015far\u0131l\u0131 ve \u00e7al\u0131\u015fkan bir avukat. Birlikte nice g\u00fczel ba\u015far\u0131lara \u2b50",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-11-13T19:03:21.455000",
+            "response_from_owner_text": "Nice... ",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-11-13T19:10:49.264000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116884283052721839293/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL6UwP5EVaJc_ydlSfI4_o2KxC2uY1_OIJKLOXfRCRR=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": "G\u00fczel...",
+            "review_photos": []
+        },
+        {
+            "review_id": "Davam\u0131za olan takibiniz ve yard\u0131m\u0131n\u0131z ile bize \u00e7ok yard\u0131mc\u0131 oldunuz. Her \u015fey i\u00e7in tekrar burdan da te\u015fekk\u00fcr etmek istedim . Herkese de tavsiye ediyorum.",
+            "reviewer_name": "Meral \u00c7etinkaya",
+            "rating": 5,
+            "review_text": "Davam\u0131za olan takibiniz ve yard\u0131m\u0131n\u0131z ile bize \u00e7ok yard\u0131mc\u0131 oldunuz. Her \u015fey i\u00e7in tekrar burdan da te\u015fekk\u00fcr etmek istedim . Herkese de tavsiye ediyorum.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-11-13T17:37:20.776000",
+            "response_from_owner_text": "Te\u015fekk\u00fcr ederim. ",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-11-13T17:40:16.860000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106819933264207677759/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJj5jECG9po9CvFTYAX1d96o9Ec1cDUyg9nKhlPIifc=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u00c7ok ba\u015farili bir avukat,cok yardimci oluyor.kesinlikle tavsiye ederim.",
+            "reviewer_name": "MEL\u0130S SABUNCUO\u011eLU",
+            "rating": 5,
+            "review_text": "\u00c7ok ba\u015farili bir avukat,cok yardimci oluyor.kesinlikle tavsiye ederim.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-11-15T10:53:07.717000",
+            "response_from_owner_text": "Te\u015fekk\u00fcr ederim. ",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-11-16T06:37:23.651000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/110573381565898974498/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXu7dOswZutt40F-G4HBRNS5xVr-JSI5J3PW62tPE4qmE0=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Davam\u0131za olan takibiniz ve yard\u0131m\u0131n\u0131z i\u00e7in te\u015fekk\u00fcr ederim. Tavsiye ederim iyi bir avukat",
+            "reviewer_name": "UrazKadir s\u00f6kmen",
+            "rating": 5,
+            "review_text": "Davam\u0131za olan takibiniz ve yard\u0131m\u0131n\u0131z i\u00e7in te\u015fekk\u00fcr ederim. Tavsiye ederim iyi bir avukat",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-11-15T07:16:18.480000",
+            "response_from_owner_text": "Te\u015fekk\u00fcr ederim. ",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-11-15T07:25:12.673000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110611421551182149273/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJdSjzWJ7vr6iPsYSc3ja7r2onZG8joCrt0IzNs-gda=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

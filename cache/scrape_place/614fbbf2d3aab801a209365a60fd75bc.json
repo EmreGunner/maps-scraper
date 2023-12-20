@@ -1,0 +1,191 @@
+{
+    "place_id": "ChIJb28I4wFP0xQRim_8k3Qlgnw",
+    "name": "Ta\u015f\u0131nmaz Davalar\u0131 - \u00d6z-Ay Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "\u00d6zbek & Ayd\u0131n Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%96zbek+%26+Ayd%C4%B1n+Hukuk+B%C3%BCrosu/@39.9099155,32.7646389?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ANKAY HUKUK/DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/ANKAY+HUKUK%2FDANI%C5%9EMANLIK/@39.915026,32.767687?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AY Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/AY+Hukuk+B%C3%BCrosu/@39.9082259,32.7531424?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 3.8,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6zendi Avukatl\u0131k ve Hukuki Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%96zendi+Avukatl%C4%B1k+ve+Hukuki+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@39.915326199999996,32.7695869?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6Z\u015eAH\u0130N AVUKATLIK",
+            "link": "https://www.google.com/maps/search/%C3%96Z%C5%9EAH%C4%B0N+AVUKATLIK/@39.909742699999995,32.7650654?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        }
+    ],
+    "website": "http://tasinmazdavalari.com/",
+    "owner": {
+        "id": "116557354315040503904",
+        "name": "Ta\u015f\u0131nmaz Davalar\u0131 - \u00d6z-Ay Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/116557354315040503904"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOCU7E9f1E50WOUGYvsQLxdrtgpOPr1643UR3R1=w1012-h240-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201317:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0312) 231 53 64",
+    "address": "Ta\u015f\u0131nmaz Davalar\u0131 - \u00d6z-Ay Hukuk B\u00fcrosu, Mustafa Kemal Mah. 2118. Cadde No:4 Maidan A Blok Kat:3 No:24, 06510 \u00c7ankaya/Ankara",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJb28I4wFP0xQRim_8k3Qlgnw",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJb28I4wFP0xQRim_8k3Qlgnw&q=?q=place_id:ChIJb28I4wFP0xQRim_8k3Qlgnw&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 39.9092106,
+        "longitude": 32.764338099999996
+    },
+    "plus_code": "WQ57+MP \u00c7ankaya, Ankara",
+    "detailed_address": {
+        "ward": "Mustafa Kemal",
+        "street": "Mustafa Kemal Mah. 2118. Cadde No:4 Maidan A Blok Kat:3 No:24",
+        "city": "\u00c7ankaya",
+        "postal_code": "06510",
+        "state": "Ankara",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "8971774590304677770",
+    "data_id": "0x14d34f01e3086f6f:0x7c82257493fc6f8a",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOCU7E9f1E50WOUGYvsQLxdrtgpOPr1643UR3R1=w1257-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOMUOgzjfJ4KVvUsEf6XF-Qwo5T51kz6ZrJcKgZ=w298-h298-k-no"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

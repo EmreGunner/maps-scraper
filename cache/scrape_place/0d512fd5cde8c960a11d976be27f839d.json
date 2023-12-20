@@ -1,0 +1,121 @@
+{
+    "place_id": "ChIJ__9zBW63yhQRETrrwtsE01k",
+    "name": "Topo Law Firm",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Topo Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Topo+Hukuk+B%C3%BCrosu/@41.0115147,28.8997823?authuser=0&entry=ttu",
+            "reviews": 75,
+            "rating": 4.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Toplar Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Toplar+Hukuk+B%C3%BCrosu/@41.0554402,28.986854?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 3,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "K\u0130TAPLI HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/K%C4%B0TAPLI+HUKUK+B%C3%9CROSU/@41.0489149,28.994876599999994?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ANT HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/ANT+HUKUK+B%C3%9CROSU/@41.047691,28.987015999999997?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 4.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Mehmet \u0130nan",
+            "link": "https://www.google.com/maps/search/Avukat+Mehmet+%C4%B0nan/@41.0352941,28.983660900000004?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": "https://www.topolawfirm.com/contact-us/",
+    "owner": {
+        "id": null,
+        "name": "Topo Law Firm (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=shinDHbNWON28bL3IDuIrA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=148.8857&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 909 36 98",
+    "address": "Harbiye, Topo Law Firm, Cumhuriyet Cd. No: 40, 34367 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ__9zBW63yhQRETrrwtsE01k",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ__9zBW63yhQRETrrwtsE01k&q=?q=place_id:ChIJ__9zBW63yhQRETrrwtsE01k&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0424899,
+        "longitude": 28.9871348
+    },
+    "plus_code": "2XRP+XV \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Harbiye",
+        "street": "Cumhuriyet Cd. No: 40",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34367",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6472522431376079377",
+    "data_id": "0x14cab76e0573ffff:0x59d304dbc2eb3a11",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=shinDHbNWON28bL3IDuIrA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=148.8857&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=shinDHbNWON28bL3IDuIrA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=148.8857&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

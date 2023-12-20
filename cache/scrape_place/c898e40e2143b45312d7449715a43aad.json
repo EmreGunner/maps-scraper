@@ -1,0 +1,190 @@
+{
+    "place_id": "ChIJlehI6cW5yhQRbrqULydqh84",
+    "name": "Kaplan Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+    "description": null,
+    "reviews": 2,
+    "competitors": [
+        {
+            "name": "Kaplan Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kaplan+Hukuk+B%C3%BCrosu/@40.9674893,29.0633012?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "DK HUKUK & DANI\u015eMANLIK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/DK+HUKUK+%26+DANI%C5%9EMANLIK+B%C3%9CROSU/@41.0710303,28.9785282?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "KAPLAN HUKUK ve DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/KAPLAN+HUKUK+ve+DANI%C5%9EMANLIK/@40.9947255,28.8787765?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Av. Do\u011fan Kaplan - Kaplan Avukatl\u0131k",
+            "link": "https://www.google.com/maps/search/Av.+Do%C4%9Fan+Kaplan+-+Kaplan+Avukatl%C4%B1k/@41.0283527,28.9719375?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "111154290715570635008",
+        "name": "Kaplan Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/111154290715570635008"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nVtIPH50c13ciqgxNYgMxw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=153.93036&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 4.5,
+    "workday_timing": "09:00\u201317:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": null,
+    "address": "Cafera\u011fa, Kaplan Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu, G\u00fcne\u015fli Bah\u00e7e Sok No:55, 34710 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJlehI6cW5yhQRbrqULydqh84",
+    "status": "Kapanmak \u00fczere \u22c5 17:30 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Per 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJlehI6cW5yhQRbrqULydqh84&q=?q=place_id:ChIJlehI6cW5yhQRbrqULydqh84&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9885145,
+        "longitude": 29.0238382
+    },
+    "plus_code": "X2QF+CG Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Cafera\u011fa",
+        "street": "G\u00fcne\u015fli Bah\u00e7e Sok No:55",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34710",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "14881980210203638382",
+    "data_id": "0x14cab9c5e948e895:0xce876a272f94ba6e",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nVtIPH50c13ciqgxNYgMxw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=153.93036&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nVtIPH50c13ciqgxNYgMxw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=153.93036&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Good",
+            "reviewer_name": "Tammam Alwafai",
+            "rating": 4,
+            "review_text": "Good",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-03-07T19:02:54.043000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 56,
+            "total_number_of_photos_by_reviewer": 28,
+            "reviewer_url": "https://www.google.com/maps/contrib/115512017652311179350/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIotSnpuU8QWwQ3wx8CTjqKq46vCGegeyPJ9jU54cLVAA=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": "\u0130yi",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "S\u00fcleyman Av\u015far",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-11-07T10:25:45.902000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 38,
+            "total_number_of_photos_by_reviewer": 94,
+            "reviewer_url": "https://www.google.com/maps/contrib/101852925673357564455/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKc2iMxINDHxBLhCmFntIcmpPq5t-Uu8Wf2GSxpRbuZ=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

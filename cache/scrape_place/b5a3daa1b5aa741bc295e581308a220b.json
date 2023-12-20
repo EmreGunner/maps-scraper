@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJYSyZKhW2yhQRpU9msi2W8Ew",
+    "name": "KESK\u0130N&KESK\u0130N Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Keskin Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Keskin+Hukuk+B%C3%BCrosu/@40.9331574,29.126391599999998?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 4.4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ekinoks Hukuk",
+            "link": "https://www.google.com/maps/search/Ekinoks+Hukuk/@41.0790138,29.0186705?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Han Law Office",
+            "link": "https://www.google.com/maps/search/Han+Law+Office/@41.0756448,29.0291615?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 3.4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "NK Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/NK+Avukatl%C4%B1k+B%C3%BCrosu/@41.0762371,29.0201632?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Uzun & Keskin Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Uzun+%26+Keskin+Hukuk+B%C3%BCrosu/@41.0771677,29.009325599999997?authuser=0&entry=ttu",
+            "reviews": 32,
+            "rating": 4.9,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.keskin-keskin.av.tr/",
+    "owner": {
+        "id": null,
+        "name": "KESK\u0130N&KESK\u0130N Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0peHhgPAY2fsTRl1Yq2xew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=166.71564&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 282 21 81",
+    "address": "Etiler, KESK\u0130N&KESK\u0130N Hukuk B\u00fcrosu, Nisbetiye Cd No:8, 34340 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJYSyZKhW2yhQRpU9msi2W8Ew",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJYSyZKhW2yhQRpU9msi2W8Ew&q=?q=place_id:ChIJYSyZKhW2yhQRpU9msi2W8Ew&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.076881,
+        "longitude": 29.02282
+    },
+    "plus_code": "32GF+Q4 Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Etiler",
+        "street": "Nisbetiye Cd No:8",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34340",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "5544096264303824805",
+    "data_id": "0x14cab6152a992c61:0x4cf0962db2664fa5",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0peHhgPAY2fsTRl1Yq2xew&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=166.71564&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0peHhgPAY2fsTRl1Yq2xew&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=166.71564&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

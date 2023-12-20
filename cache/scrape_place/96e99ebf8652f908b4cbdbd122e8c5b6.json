@@ -1,0 +1,167 @@
+{
+    "place_id": "ChIJAY1I9_jHyhQRJMkShVZ3mjc",
+    "name": "Av.Nihan YAVUZ Hukuk&Dan\u0131\u015fmanl\u0131k",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "G\u00fcneli Hukuk",
+            "link": "https://www.google.com/maps/search/G%C3%BCneli+Hukuk/@40.9926636,29.042654700000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "AGN Hukuk Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/AGN+Hukuk+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.996517,29.054442?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Kavak & Yavuz | Avukatl\u0131k ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Kavak+%26+Yavuz+%7C+Avukatl%C4%B1k+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.996511,29.05566?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Akka\u015f Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Akka%C5%9F+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.998371999999996,29.0496382?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Aksakal Hukuk Ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Aksakal+Hukuk+Ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9931087,29.030454000000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Av.Nihan YAVUZ Hukuk&Dan\u0131\u015fmanl\u0131k (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=n_lIFoStsN8u5zYz1SwTQQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=286.7726&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 546 08 84",
+    "address": "Hasanpa\u015fa, Av.Nihan YAVUZ Hukuk&Dan\u0131\u015fmanl\u0131k, Uzun\u00e7ay\u0131r Cd. No:63/3, 34722 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJAY1I9_jHyhQRJMkShVZ3mjc",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAY1I9_jHyhQRJMkShVZ3mjc&q=?q=place_id:ChIJAY1I9_jHyhQRJMkShVZ3mjc&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9986886,
+        "longitude": 29.0501087
+    },
+    "plus_code": "X3X2+F2 Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Hasanpa\u015fa",
+        "street": "Uzun\u00e7ay\u0131r Cd. No:63/3",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34722",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4006646031982971172",
+    "data_id": "0x14cac7f8f7488d01:0x379a77568512c924",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=n_lIFoStsN8u5zYz1SwTQQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=286.7726&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=n_lIFoStsN8u5zYz1SwTQQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=286.7726&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

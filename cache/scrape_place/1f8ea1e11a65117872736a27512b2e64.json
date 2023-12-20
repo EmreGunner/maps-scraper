@@ -1,0 +1,96 @@
+{
+    "place_id": "ChIJ0zJ9DG-4yhQRCm3h7L49WSQ",
+    "name": "Kurto\u011flu Tekstil",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Kurto\u011flu Giyim",
+            "link": "https://www.google.com/maps/search/Kurto%C4%9Flu+Giyim/@40.8795444,29.233625000000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Giyim ma\u011fazas\u0131"
+        },
+        {
+            "name": "Cotton Tekstil",
+            "link": "https://www.google.com/maps/search/Cotton+Tekstil/@40.991535,29.031394?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Giyim ma\u011fazas\u0131"
+        },
+        {
+            "name": "Kurto\u011flu Giyim Fuar\u0131",
+            "link": "https://www.google.com/maps/search/Kurto%C4%9Flu+Giyim+Fuar%C4%B1/@40.8962493,29.208179100000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Giyim ma\u011fazas\u0131"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Kurto\u011flu Tekstil (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vO6mn51GUMq980px9E7cug&cb_client=search.gws-prod.gps&w=408&h=240&yaw=36.760708&pitch=0&thumbfov=100",
+    "main_category": "Giyim ma\u011fazas\u0131",
+    "categories": [
+        "Giyim ma\u011fazas\u0131"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Osmana\u011fa, Kurto\u011flu Tekstil, \u00c7ilek Sk. No:31, 34714 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ0zJ9DG-4yhQRCm3h7L49WSQ",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ0zJ9DG-4yhQRCm3h7L49WSQ&q=?q=place_id:ChIJ0zJ9DG-4yhQRCm3h7L49WSQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.990496,
+        "longitude": 29.031036
+    },
+    "plus_code": "X2RJ+5C Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Osmana\u011fa",
+        "street": "\u00c7ilek Sk. No:31",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34714",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2619192548519931146",
+    "data_id": "0x14cab86f0c7d32d3:0x24593dbeece16d0a",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vO6mn51GUMq980px9E7cug&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=36.760708&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vO6mn51GUMq980px9E7cug&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=36.760708&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

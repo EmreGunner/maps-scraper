@@ -1,0 +1,112 @@
+{
+    "place_id": "ChIJq6rmvZ-3yhQRGxnkistuFOo",
+    "name": "L\u00fctfiye \u00d6z\u00e7elik Mutlu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Bahar Y\u0131ld\u0131z Hukuk",
+            "link": "https://www.google.com/maps/search/Bahar+Y%C4%B1ld%C4%B1z+Hukuk/@41.042887799999995,28.9982485?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Soysal Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Soysal+Hukuk+B%C3%BCrosu/@41.0423864,29.002877400000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6z\u00e7elik Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/%C3%96z%C3%A7elik+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.0632127,28.9761641?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 3.1,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Av. Hatice \u00d6zlem BAKIRCI",
+            "link": "https://www.google.com/maps/search/Av.+Hatice+%C3%96zlem+BAKIRCI/@41.048943099999995,28.996243999999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Soysal Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Soysal+Avukatl%C4%B1k+B%C3%BCrosu/@41.0862683,29.006404999999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "L\u00fctfiye \u00d6z\u00e7elik Mutlu (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0532 573 13 69",
+    "address": "Sinanpa\u015fa, L\u00fctfiye \u00d6z\u00e7elik Mutlu, S\u00fcleyman Seba Cd. No: 44, 34357 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJq6rmvZ-3yhQRGxnkistuFOo",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJq6rmvZ-3yhQRGxnkistuFOo&q=?q=place_id:ChIJq6rmvZ-3yhQRGxnkistuFOo&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.042480399999995,
+        "longitude": 29.001277299999998
+    },
+    "plus_code": "22R2+XG Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Sinanpa\u015fa",
+        "street": "S\u00fcleyman Seba Cd. No: 44",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34357",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16867228324896971035",
+    "data_id": "0x14cab79fbde6aaab:0xea146ecb8ae4191b",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

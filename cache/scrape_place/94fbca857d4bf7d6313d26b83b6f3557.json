@@ -1,0 +1,336 @@
+{
+    "place_id": "ChIJeYmN10S2yhQRlbmWNfFf5js",
+    "name": "Turkish Translation Office",
+    "description": null,
+    "reviews": 17,
+    "competitors": [
+        {
+            "name": "EDU \u00c7eviri - Terc\u00fcme Hizmetleri",
+            "link": "https://www.google.com/maps/search/EDU+%C3%87eviri+-+Terc%C3%BCme+Hizmetleri/@41.0712974,29.010803199999998?authuser=0&entry=ttu",
+            "reviews": 23,
+            "rating": 4.3,
+            "main_category": "\u00c7evirmen"
+        },
+        {
+            "name": "Turkish Translation & Attestation Services",
+            "link": "https://www.google.com/maps/search/Turkish+Translation+%26+Attestation+Services/@41.066995399999996,29.001391?authuser=0&entry=ttu",
+            "reviews": 11,
+            "rating": 5,
+            "main_category": "\u00c7evirmen"
+        },
+        {
+            "name": "Turkish Translation",
+            "link": "https://www.google.com/maps/search/Turkish+Translation/@41.077231999999995,29.013218?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "\u00c7evirmen"
+        },
+        {
+            "name": "Transistent",
+            "link": "https://www.google.com/maps/search/Transistent/@41.071327,29.010851000000002?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "\u00c7evirmen"
+        },
+        {
+            "name": "Alafranga Language Solutions FZE",
+            "link": "https://www.google.com/maps/search/Alafranga+Language+Solutions+FZE/@None,None?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 3,
+            "main_category": "\u00c7evirmen"
+        }
+    ],
+    "website": "http://www.turkishtranslationoffice.com/",
+    "owner": {
+        "id": "102530301859899304890",
+        "name": "Turkish Translation Office (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/102530301859899304890"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipONEN2zYH5rgJ22B1Hxu8fmBG87-nPegEdWInBT=w408-h544-k-no",
+    "main_category": "\u00c7evirmen",
+    "categories": [
+        "\u00c7evirmen"
+    ],
+    "rating": 3.8,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 280 86 36",
+    "address": "Turkish Translation Office, Kore \u015eehitleri Caddesi, Mithat Ulu \u00dcnl\u00fc Sk No: 17 Plaza 21, 34394 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJeYmN10S2yhQRlbmWNfFf5js",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 2,
+        "2": 1,
+        "3": 2,
+        "4": 5,
+        "5": 7
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJeYmN10S2yhQRlbmWNfFf5js&q=?q=place_id:ChIJeYmN10S2yhQRlbmWNfFf5js&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.071327,
+        "longitude": 29.010851
+    },
+    "plus_code": "32C6+G8 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Esentepe",
+        "street": "Kore \u015eehitleri Caddesi, Mithat Ulu \u00dcnl\u00fc Sk No: 17 Plaza 21",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34394",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4316242782472026517",
+    "data_id": "0x14cab644d78d8979:0x3be65ff13596b995",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipONEN2zYH5rgJ22B1Hxu8fmBG87-nPegEdWInBT=w224-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPrbEMPlYssUmsqlsdjuJKGyq0yxDC6Yahaa-f0=w550-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S1pzblQaJayFnVoJ2tO7qg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=265.98096&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "They are amazing and did wonderful job I recommend to everyone.",
+            "reviewer_name": "Falls Niagara",
+            "rating": 5,
+            "review_text": "They are amazing and did wonderful job I recommend to everyone.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-08-19T23:13:31.737000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104062682430082701427/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLL33262fp9QmuWHsrHp_MPMuwKV7ggXJutzEp1ps8u=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "Harikalar ve harika i\u015fler yapt\u0131lar, herkese tavsiye ediyorum.",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u062d\u0631\u0627\u0645\u064a\u0647 \u0646\u0635\u0627\u0628\u064a\u0646  is not even one star thief scam they do not speak any language they scam people over charge. they did scam me do not deal with them",
+            "reviewer_name": "\u202b\u0633 \u201d\u202aNoojoom\u202c\u200f\u201c \u0643\u0631\u064a\u0645\u202c\u200e",
+            "rating": 1,
+            "review_text": "\u062d\u0631\u0627\u0645\u064a\u0647 \u0646\u0635\u0627\u0628\u064a\u0646  is not even one star thief scam they do not speak any language they scam people over charge. they did scam me do not deal with them",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-08-13T02:22:55.880000",
+            "response_from_owner_text": "Thanks for your feedback. However, we couldn\u2019t find any information regarding your order on our records. Could you please provide us with your order details so that we can search for your request in our archives?\n\nWe are interested in knowing more about what actually went wrong and see if there\u2019s anything we could do to make it up! We are looking forward to hearing from you. Please feel free to contact us on info@turkishtranslationoffice.com.",
+            "response_from_owner_ago": "4 y\u0131l \u00f6nce",
+            "response_from_owner_date": "2019-09-02T15:59:54.635000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 10,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107196844205562242006/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWOGo4YGufvAVrE58eBnnUzpJw8LbHHYYpSW_3Aiu8BmR8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "\u062d\u0631\u0627\u0645\u064a\u0647 \u0646\u0635\u0627\u0628\u064a\u0646 bir y\u0131ld\u0131z h\u0131rs\u0131z doland\u0131r\u0131c\u0131l\u0131\u011f\u0131 bile de\u011fil, herhangi bir dil konu\u015fmuyorlar, insanlar\u0131 \u00fccret kar\u015f\u0131l\u0131\u011f\u0131nda doland\u0131r\u0131yorlar. beni doland\u0131rd\u0131lar onlarla u\u011fra\u015fma",
+            "response_from_owner_translated_text": "Geri bildiriminiz i\u00e7in te\u015fekk\u00fcrler. Ancak kay\u0131tlar\u0131m\u0131zda sipari\u015finizle ilgili herhangi bir bilgiye ula\u015famad\u0131k. Talebinizi ar\u015fivlerimizde bulabilmemiz i\u00e7in l\u00fctfen bize sipari\u015f ayr\u0131nt\u0131lar\u0131n\u0131z\u0131 iletir misiniz?\n\nGer\u00e7ekte neyin yanl\u0131\u015f gitti\u011fi hakk\u0131nda daha fazla bilgi edinmek ve bunu telafi etmek i\u00e7in yapabilece\u011fimiz bir \u015fey olup olmad\u0131\u011f\u0131n\u0131 g\u00f6rmek istiyoruz! Sizden haber almak i\u00e7in sab\u0131rs\u0131zlan\u0131yoruz. L\u00fctfen info@turkishtranslationoffice.com adresinden bizimle ileti\u015fime ge\u00e7mekten \u00e7ekinmeyin.",
+            "review_photos": []
+        },
+        {
+            "review_id": "High-quality professional translation services provider. Much recommended!",
+            "reviewer_name": "Karolina Pawelek-Krause",
+            "rating": 5,
+            "review_text": "High-quality professional translation services provider. Much recommended!",
+            "published_at": "8 y\u0131l \u00f6nce",
+            "published_at_date": "2015-04-24T13:40:38.110000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110709876472499635115/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKRX5EQpUenNBtdqabjtkjAZMQyYmyo3TnxFrw5qY_m=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "Y\u00fcksek kaliteli profesyonel \u00e7eviri hizmetleri sa\u011flay\u0131c\u0131s\u0131. \u00e7ok tavsiye!",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u0645\u0643\u062a\u0628 \u062a\u0631\u062c\u0645\u0629 \u0645\u0639\u062a\u0645\u062f \u060c \u0648\u0631\u0642\u062a\u064a\u0646 \u0628 150 \u0644\u064a\u0631\u0629 \u060c \u0645\u0643\u062a\u0628 \u0631\u0642\u0645 14",
+            "reviewer_name": "\u062e\u0627\u0644\u062f \u0627\u0644\u0647\u0628\u062f\u0627\u0646",
+            "rating": 4,
+            "review_text": "\u0645\u0643\u062a\u0628 \u062a\u0631\u062c\u0645\u0629 \u0645\u0639\u062a\u0645\u062f \u060c \u0648\u0631\u0642\u062a\u064a\u0646 \u0628 150 \u0644\u064a\u0631\u0629 \u060c \u0645\u0643\u062a\u0628 \u0631\u0642\u0645 14",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-02-27T09:19:45.646000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 21,
+            "total_number_of_photos_by_reviewer": 2113,
+            "reviewer_url": "https://www.google.com/maps/contrib/118083294589793413212/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXY1h3hznF7i3k4zdrzmc3lkHATCGyI-Um6HF5nOgChzVKm=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": "Yeminli terc\u00fcme b\u00fcrosu, iki evrak 150 lira, ofis no:14",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Very helpful and skiled office",
+            "reviewer_name": "bujasim y",
+            "rating": 4,
+            "review_text": "Very helpful and skiled office",
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-05-18T09:42:58.440000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 70,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/105609443926459833881/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXSVCKZ2QQjAZ9d1t5KucUZWYlKEoEWwecht76Gk_fDRDk=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": "\u00c7ok yard\u0131msever ve becerikli ofis",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Nice place with a little expensive",
+            "reviewer_name": "Umer Mubeen",
+            "rating": 4,
+            "review_text": "Nice place with a little expensive",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-02-29T12:48:37.250000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 139,
+            "total_number_of_photos_by_reviewer": 211,
+            "reviewer_url": "https://www.google.com/maps/contrib/117982099137846668919/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWcLQkR2lqh58UFcaFvezZqDPt69vwXs_olAINFudqeLw6t=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": "Biraz pahal\u0131 g\u00fczel bir yer",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Bad service",
+            "reviewer_name": "M Elhawary",
+            "rating": 2,
+            "review_text": "Bad service",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-12-11T20:14:53.103000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 126,
+            "total_number_of_photos_by_reviewer": 37,
+            "reviewer_url": "https://www.google.com/maps/contrib/103714693470814757293/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLM9zvoGF-yG5LbxQ-fsQ0_PE2-Y_xaYbKueEBF4SMM=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": "K\u00f6t\u00fc hizmet",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Bahar Bozkurt",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-09-02T09:43:39.949000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/108929724797184657236/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKICpKz4HP0Xj3Rkl22nyQOin-0qlkISDRgrU_oD0_X=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

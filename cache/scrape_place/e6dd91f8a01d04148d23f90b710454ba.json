@@ -1,0 +1,159 @@
+{
+    "place_id": "ChIJ-QEDNjVftRQRyT7tuh4Pgpg",
+    "name": "Av. Hilal Karay\u00fcn",
+    "description": null,
+    "reviews": 1,
+    "competitors": [],
+    "website": "http://www.karayunhukuk.com/",
+    "owner": {
+        "id": "107007106491230669895",
+        "name": "Av. Hilal Karay\u00fcn (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/107007106491230669895"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Zhwt-yGzaKdSNxkCjm_NFg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=187.86687&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201319:00",
+    "closed_on": "Open All Days",
+    "phone": "0537 020 36 61",
+    "address": "Av. Hilal Karay\u00fcn, Eresin Ya\u015fam Merkezi, CUMHUR\u0130YET MAHALLES\u0130, G\u00dcRPINAR YOLU CADDES\u0130 NO:10/3 A Blok, Kat:15 Daire:248Beykent, 34520 B\u00fcy\u00fck\u00e7ekmece/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ-QEDNjVftRQRyT7tuh4Pgpg",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 19:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ-QEDNjVftRQRyT7tuh4Pgpg&q=?q=place_id:ChIJ-QEDNjVftRQRyT7tuh4Pgpg&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.019172499999996,
+        "longitude": 28.629041599999997
+    },
+    "plus_code": "2J9H+MJ B\u00fcy\u00fck\u00e7ekmece, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Cumhuriyet",
+        "street": "Eresin Ya\u015fam Merkezi, CUMHUR\u0130YET MAHALLES\u0130, G\u00dcRPINAR YOLU CADDES\u0130 NO:10/3 A Blok, Kat:15 Daire:248Beykent",
+        "city": "B\u00fcy\u00fck\u00e7ekmece",
+        "postal_code": "34520",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10989362665396977353",
+    "data_id": "0x14b55f35360301f9:0x98820f1ebaed3ec9",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "from_the_business",
+            "name": "\u0130\u015fletme hakk\u0131nda",
+            "options": [
+                {
+                    "name": "Sahibi kad\u0131n oldu\u011funu belirtiyor",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun oturma d\u00fczeni",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Zhwt-yGzaKdSNxkCjm_NFg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=187.86687&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Zhwt-yGzaKdSNxkCjm_NFg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=187.86687&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Emre Karay\u00fcn",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "3 ay \u00f6nce",
+            "published_at_date": "2023-09-02T16:37:42.377000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105474569316058695942/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUXWL6pnvaZH1vrkizqQBZzNcYZCWe7OOt2iqCYq-uGjBE=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

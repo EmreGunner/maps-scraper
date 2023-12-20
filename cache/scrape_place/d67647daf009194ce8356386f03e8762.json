@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJ39Hj5gXHyhQRSs0WWZvl54M",
+    "name": "ATAM Altay Tahkim Arabuluculuk ve Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Av. \u0130smail Altay / Altay Tahkim ve Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Av.+%C4%B0smail+Altay+%2F+Altay+Tahkim+ve+Hukuk+B%C3%BCrosu/@40.9842035,29.0564024?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "TAB HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/TAB+HUKUK+B%C3%9CROSU/@40.97901040000001,29.0465155?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Tetik Hukuk Burosu",
+            "link": "https://www.google.com/maps/search/Tetik+Hukuk+Burosu/@40.9793179,29.0440797?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ATAM / Altay Tahkim Arabuluculuk Merkezi",
+            "link": "https://www.google.com/maps/search/ATAM+%2F+Altay+Tahkim+Arabuluculuk+Merkezi/@41.0218008,29.113711499999997?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 2.7,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "ATLI HUKUK & ARABULUCULUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/ATLI+HUKUK+%26+ARABULUCULUK+B%C3%9CROSU/@40.982921999999995,29.040572299999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "ATAM Altay Tahkim Arabuluculuk ve Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LHczKKd4d-XKUW7lTw3KHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=251.81696&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "ATAM Altay Tahkim Arabuluculuk ve Hukuk B\u00fcrosu, Fahrettin Kerim G\u00f6kay Cd No:138 Poyraz Apt Feneryolu D:K:9 D:17, Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ39Hj5gXHyhQRSs0WWZvl54M",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ39Hj5gXHyhQRSs0WWZvl54M&q=?q=place_id:ChIJ39Hj5gXHyhQRSs0WWZvl54M&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9842035,
+        "longitude": 29.0564024
+    },
+    "plus_code": "X3M4+MH Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Feneryolu",
+        "street": "Fahrettin Kerim G\u00f6kay Cd No:138 Poyraz Apt Feneryolu D:K:9 D:17",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "9504817993966079306",
+    "data_id": "0x14cac705e6e3d1df:0x83e7e59b5916cd4a",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LHczKKd4d-XKUW7lTw3KHw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=251.81696&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LHczKKd4d-XKUW7lTw3KHw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=251.81696&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

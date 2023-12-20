@@ -1,0 +1,170 @@
+{
+    "place_id": "ChIJ3y0eLtu3yhQR6z0wwzl43B8",
+    "name": "Karag\u00fcll\u00fc Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "Karag\u00fclle Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Karag%C3%BClle+Hukuk+B%C3%BCrosu/@41.0669091,28.998455199999995?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Legal Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Legal+Hukuk+B%C3%BCrosu/@41.0494694,28.9921627?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "G\u00fcliz U\u00e7ar Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%BCliz+U%C3%A7ar+Hukuk+B%C3%BCrosu/@41.0530557,28.990318499999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "G\u00fcrp\u0131nar Legal",
+            "link": "https://www.google.com/maps/search/G%C3%BCrp%C4%B1nar+Legal/@41.0507286,28.9980628?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 1,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Karag\u00fcll\u00fc Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNNHlJlgwN8o3M8o5Q-YW6y6XY2Ylo4pX2OyuwR=w408-h666-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": null,
+    "address": "Karag\u00fcll\u00fc Hukuk B\u00fcrosu, Harbiye, Te\u015fvikiye Cd. \u0130mren Apt, No:55, Daire:5, 34365 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ3y0eLtu3yhQR6z0wwzl43B8",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ3y0eLtu3yhQR6z0wwzl43B8&q=?q=place_id:ChIJ3y0eLtu3yhQR6z0wwzl43B8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0511522,
+        "longitude": 28.9919805
+    },
+    "plus_code": "3X2R+FQ \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Harbiye",
+        "street": "Harbiye, Te\u015fvikiye Cd. \u0130mren Apt, No:55, Daire:5",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34365",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2295842099535298027",
+    "data_id": "0x14cab7db2e1e2ddf:0x1fdc7839c3303deb",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNNHlJlgwN8o3M8o5Q-YW6y6XY2Ylo4pX2OyuwR=w224-h366-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pal-D0sO2Z54ZPk-dDsDdw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=213.19475&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Beg\u00fcm YARO\u011eLU",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "10 ay \u00f6nce",
+            "published_at_date": "2023-01-27T10:24:43.370000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 12,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/110149610199332061016/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ_Hv3Ocp04di_wTMNZR2Qh5pdYcR5LGwgaS7DSWnOC=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

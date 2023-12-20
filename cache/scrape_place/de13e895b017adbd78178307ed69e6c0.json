@@ -1,0 +1,121 @@
+{
+    "place_id": "ChIJg68z2QW3yhQRZoOxbXeLKQM",
+    "name": "Lex Hukuk",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "BATTAL HUKUK & DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/BATTAL+HUKUK+%26+DANI%C5%9EMANLIK/@41.078899899999996,29.0194856?authuser=0&entry=ttu",
+            "reviews": 20,
+            "rating": 2.6,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Co\u015fkun Hukuk",
+            "link": "https://www.google.com/maps/search/Co%C5%9Fkun+Hukuk/@41.0736266,29.016486999999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ekinoks Hukuk",
+            "link": "https://www.google.com/maps/search/Ekinoks+Hukuk/@41.0790138,29.0186705?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Mutluer Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Mutluer+Hukuk+B%C3%BCrosu/@41.075609,29.021356?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00c7elebiler | Hukuk Avukatl\u0131k & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/%C3%87elebiler+%7C+Hukuk+Avukatl%C4%B1k+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.077197,29.017897500000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.lexhukuk.com/",
+    "owner": {
+        "id": null,
+        "name": "Lex Hukuk (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z_L3oOaZwIHQ_OcCyEK8Vw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=211.55045&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 317 41 80",
+    "address": "Lex Hukuk, Levent mahallesi C\u00f6mert sokak YAPI KRED\u0130 PLAZA No : 1 C/40, 34398 Be\u015fikta\u015f",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJg68z2QW3yhQRZoOxbXeLKQM",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJg68z2QW3yhQRZoOxbXeLKQM&q=?q=place_id:ChIJg68z2QW3yhQRZoOxbXeLKQM&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0808362,
+        "longitude": 29.013109399999998
+    },
+    "plus_code": "32J7+86 Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Levent",
+        "street": "Levent mahallesi C\u00f6mert sokak YAPI KRED\u0130 PLAZA No : 1 C/40",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34398",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "227866601216639846",
+    "data_id": "0x14cab705d933af83:0x3298b776db18366",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z_L3oOaZwIHQ_OcCyEK8Vw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=211.55045&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z_L3oOaZwIHQ_OcCyEK8Vw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=211.55045&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

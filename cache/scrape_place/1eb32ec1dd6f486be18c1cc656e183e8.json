@@ -1,0 +1,96 @@
+{
+    "place_id": "ChIJu9SCgq-8yhQRv2J-h0G1_SE",
+    "name": "G\u00dcNY\u00dcZ\u00dc HUKUK B\u00dcROSU",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Ayg\u00fcn Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ayg%C3%BCn+Avukatl%C4%B1k+B%C3%BCrosu/@40.983504499999995,28.868599?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "G\u00dcNE\u015eL\u0130 & G\u00dcL\u015eEN LAW FIRM",
+            "link": "https://www.google.com/maps/search/G%C3%9CNE%C5%9EL%C4%B0+%26+G%C3%9CL%C5%9EEN+LAW+FIRM/@40.9855477,28.8721546?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "G\u00fcne\u015f Hukuk",
+            "link": "https://www.google.com/maps/search/G%C3%BCne%C5%9F+Hukuk/@40.988935399999995,28.871756?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": "http://gunyuzuhukuk.com/",
+    "owner": {
+        "id": null,
+        "name": "G\u00dcNY\u00dcZ\u00dc HUKUK B\u00dcROSU (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Tif6TZpudsf6JIoPd4BjTw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=86.92606&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 543 23 21",
+    "address": "G\u00dcNY\u00dcZ\u00dc HUKUK B\u00dcROSU, Zeytinlik Mah. Ray Sok. \u015eans Apt, 34140 Bak\u0131rk\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJu9SCgq-8yhQRv2J-h0G1_SE",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJu9SCgq-8yhQRv2J-h0G1_SE&q=?q=place_id:ChIJu9SCgq-8yhQRv2J-h0G1_SE&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.979746999999996,
+        "longitude": 28.870739999999998
+    },
+    "plus_code": null,
+    "detailed_address": {
+        "ward": "Zeytinlik",
+        "street": "Zeytinlik Mah. Ray Sok. \u015eans Apt",
+        "city": "Bak\u0131rk\u00f6y",
+        "postal_code": "34140",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2449313065410126527",
+    "data_id": "0x14cabcaf8282d4bb:0x21fdb541877e62bf",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Tif6TZpudsf6JIoPd4BjTw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=86.92606&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Tif6TZpudsf6JIoPd4BjTw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=86.92606&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

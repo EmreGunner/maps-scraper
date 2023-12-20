@@ -1,0 +1,217 @@
+{
+    "place_id": "ChIJaz8C3Qi3yhQR9DQDVaMOlgo",
+    "name": "\u00c7etinel Law Firm",
+    "description": null,
+    "reviews": 3,
+    "competitors": [
+        {
+            "name": "\u0130stanbul Legal",
+            "link": "https://www.google.com/maps/search/%C4%B0stanbul+Legal/@41.055703099999995,28.9871834?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00c7elik avukatl\u0131k",
+            "link": "https://www.google.com/maps/search/%C3%87elik+avukatl%C4%B1k/@41.049582099999995,28.992469999999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u00c7etin Partners Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%87etin+Partners+Hukuk+B%C3%BCrosu/@41.057415,28.987254999999994?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 3.8,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00c7etin & \u00c7etin Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%87etin+%26+%C3%87etin+Hukuk+B%C3%BCrosu/@41.067251399999996,28.994660999999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Cetin - Demir Law Firm",
+            "link": "https://www.google.com/maps/search/Cetin+-+Demir+Law+Firm/@41.059877,28.97806?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "https://www.ycetinel.av.tr/",
+    "owner": {
+        "id": "108320494180419595795",
+        "name": "\u00c7etinel Law Firm (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/108320494180419595795"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kSGrzLTylcIJKuZ7EuQQkw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=225.62836&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 4,
+    "workday_timing": "09:30\u201318:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 246 47 69",
+    "address": "Te\u015fvikiye, \u00c7etinel Law Firm, Poyracik Sk No:51, 34365 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJaz8C3Qi3yhQR9DQDVaMOlgo",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJaz8C3Qi3yhQR9DQDVaMOlgo&q=?q=place_id:ChIJaz8C3Qi3yhQR9DQDVaMOlgo&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.052848,
+        "longitude": 28.994895
+    },
+    "plus_code": "3X3V+4X \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Te\u015fvikiye",
+        "street": "Poyracik Sk No:51",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34365",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "762813281554609396",
+    "data_id": "0x14cab708dd023f6b:0xa960ea3550334f4",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kSGrzLTylcIJKuZ7EuQQkw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=225.62836&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kSGrzLTylcIJKuZ7EuQQkw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=225.62836&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:30\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "10 numara",
+            "reviewer_name": "Eksen mekanik",
+            "rating": 5,
+            "review_text": "10 numara",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-03-31T08:39:55.799000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 600,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102672246587319150428/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWwssc4TH4ZADQY0Xf1TX2W_FVQqX6RT3YAgzsS5KrNm7g=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "fahrettin iscan",
+            "rating": 2,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-03-10T15:16:18.441000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/105498617019703575483/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKww18iEwldnxwH8WLVMTPZvDxBhdAiKX4PLItPdk_4ZA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Birol Dikmen",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-08-06T09:19:09.405000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 40,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/117305369829501704850/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX7i43WzkjhSc9atQSFisN_vx38BmwBGHxOqNGqRW0POMA=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

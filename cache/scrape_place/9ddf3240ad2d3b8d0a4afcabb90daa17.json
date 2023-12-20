@@ -1,0 +1,349 @@
+{
+    "place_id": "ChIJKcGYjH6vyhQRQVlP4nK9oJI",
+    "name": "Tuna Global Lojistik Hizm. Ltd. \u015eti.",
+    "description": null,
+    "reviews": 8,
+    "competitors": [
+        {
+            "name": "\u0130STANBUL GLOBAL LOJ\u0130ST\u0130K DEPOLAMA SANAY\u0130 T\u0130CARET BA\u015eAK\u015eEH\u0130R",
+            "link": "https://www.google.com/maps/search/%C4%B0STANBUL+GLOBAL+LOJ%C4%B0ST%C4%B0K+DEPOLAMA+SANAY%C4%B0+T%C4%B0CARET+BA%C5%9EAK%C5%9EEH%C4%B0R/@41.0756665,28.7886524?authuser=0&entry=ttu",
+            "reviews": 23,
+            "rating": 4.7,
+            "main_category": "Kargo \u015eirketi"
+        },
+        {
+            "name": "G\u00fcnsel Global Lojistik",
+            "link": "https://www.google.com/maps/search/G%C3%BCnsel+Global+Lojistik/@41.0741199,28.8083082?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Nakliyat \u015eirketi"
+        },
+        {
+            "name": "Tuna Global Lojistik",
+            "link": "https://www.google.com/maps/search/Tuna+Global+Lojistik/@41.028172999999995,28.837508699999997?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 4.5,
+            "main_category": "Kargo \u015eirketi"
+        },
+        {
+            "name": "TUNA LOJ\u0130ST\u0130K",
+            "link": "https://www.google.com/maps/search/TUNA+LOJ%C4%B0ST%C4%B0K/@41.0651408,28.8323382?authuser=0&entry=ttu",
+            "reviews": 19,
+            "rating": 3.8,
+            "main_category": "Nakliye Hizmeti"
+        },
+        {
+            "name": "AIRTRANS LOJ\u0130ST\u0130K",
+            "link": "https://www.google.com/maps/search/AIRTRANS+LOJ%C4%B0ST%C4%B0K/@41.0706073,28.8090692?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 4,
+            "main_category": "Lojistik Hizmetleri"
+        }
+    ],
+    "website": "https://www.tunaglobal.net/",
+    "owner": {
+        "id": "101447262538190336591",
+        "name": "Tuna Global Lojistik Hizm. Ltd. \u015eti. (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/101447262538190336591"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNGEVAOn1zxPECA6jsztG0ZuYAe3LCL8w9WAIt_=w408-h408-k-no",
+    "main_category": "Lojistik Hizmetleri",
+    "categories": [
+        "Lojistik Hizmetleri",
+        "So\u011fuk Hava Deposu Tesisi",
+        "Nakliye Hizmeti",
+        "Ta\u015f\u0131ma ve depolama hizmeti",
+        "Depolama Tesisi"
+    ],
+    "rating": 4.4,
+    "workday_timing": "09:00\u201319:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0212) 438 60 38",
+    "address": "Ziya G\u00f6kalp, Tuna Global Lojistik Hizm. Ltd. \u015eti., Eski Turgut \u00d6zal Cd. no 31 c, 34490 \u0130kitelli Osb/Ba\u015fak\u015fehir/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJKcGYjH6vyhQRQVlP4nK9oJI",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 19:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 6
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJKcGYjH6vyhQRQVlP4nK9oJI&q=?q=place_id:ChIJKcGYjH6vyhQRQVlP4nK9oJI&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0804469,
+        "longitude": 28.8086952
+    },
+    "plus_code": "3RJ5+5F \u0130kitelli Osb, Ba\u015fak\u015fehir/\u0130stanbul",
+    "detailed_address": {
+        "ward": "Ziya G\u00f6kalp",
+        "street": "Eski Turgut \u00d6zal Cd. no 31 c",
+        "city": "\u0130kitelli Osb/Ba\u015fak\u015fehir",
+        "postal_code": "34490",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10565653026931956033",
+    "data_id": "0x14caaf7e8c98c129:0x92a0bd72e24f5941",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun oturma d\u00fczeni",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "\u00dcniseks tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNGEVAOn1zxPECA6jsztG0ZuYAe3LCL8w9WAIt_=w298-h298-k-no"
+        },
+        {
+            "about": "\u0130\u00e7",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMaIz_fgVp57SSDwjk9TXfAQgiwPI9w_G5UQU-A=w298-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GVqpdCjxPYcW1PWUs8SZyg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=274.42206&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201314:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Soz konusu lojistikse bu firmanin isi bu..",
+            "reviewer_name": "Ender ALTUNTA\u015e",
+            "rating": 5,
+            "review_text": "Soz konusu lojistikse bu firmanin isi bu..",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-03-10T18:18:42.886000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 87,
+            "total_number_of_photos_by_reviewer": 227,
+            "reviewer_url": "https://www.google.com/maps/contrib/118310904340434319097/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUR6W3xkTJag-QIzAqbwWERheh9SqVgjlYUNowXYuNJ7w=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "S\u00fcper",
+            "reviewer_name": "Sayfulla Saburov",
+            "rating": 5,
+            "review_text": "S\u00fcper",
+            "published_at": "10 ay \u00f6nce",
+            "published_at_date": "2023-02-17T18:22:47.438000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 53,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/100689510981537917341/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVJtUysK4Of_6T9hWD_MX-vGkuOw1hYCKM2rMZJ0z7MBhJl=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Dedike frigo ta\u015fimacilikta lider bir firma",
+            "reviewer_name": "Murat BARAN",
+            "rating": 5,
+            "review_text": "Dedike frigo ta\u015fimacilikta lider bir firma",
+            "published_at": "6 y\u0131l \u00f6nce",
+            "published_at_date": "2017-11-23T07:44:11.113000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 54,
+            "total_number_of_photos_by_reviewer": 60,
+            "reviewer_url": "https://www.google.com/maps/contrib/108317602876196426175/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVDhEQw4rDz9l-y9RJdKi9_DAlVWelfyCX2VBdmhN_Rkg=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": "Adanm\u0131\u015f buzdolab\u0131 ta\u015fimacilikta lider bir firma",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "TAFLAN",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-05-17T17:59:40.427000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 45,
+            "total_number_of_photos_by_reviewer": 30,
+            "reviewer_url": "https://www.google.com/maps/contrib/118134623602025570755/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXYX1wDndh-GrvLrh-QZAwPdmzqqtiDM66yoxSADHMM2g=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Yal\u00e7\u0131n Ek\u015fi",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-06-04T05:18:09.108000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 11,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/114545523834545542749/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUcsZlKL8DsyxrhtD4dHQCUTcTjjmh4kenpdWvcsm3XRXo=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Kenan Ye\u015filyurt",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-03-30T13:34:28.730000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 41,
+            "total_number_of_photos_by_reviewer": 8,
+            "reviewer_url": "https://www.google.com/maps/contrib/114193891337141983358/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUFWJH1G9WkHr_Uak99n5GhmgHxNO3abE9q8MsuSr1_ZeU=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Oktay \u00d6zdemir",
+            "rating": 4,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-04-23T19:33:38.987000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 9,
+            "reviewer_url": "https://www.google.com/maps/contrib/106908123084956972669/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI5ml9YRHaoVXssCiZ2w4XlGVD8mMNk_tSCV_AFtkt1=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Ercan Akca",
+            "rating": 1,
+            "review_text": null,
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-09-22T14:19:43.640000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114645899502479656594/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJmqycwGI8elmTe-esHQ2PtnFFT1S5WauILdrbjJ_c=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

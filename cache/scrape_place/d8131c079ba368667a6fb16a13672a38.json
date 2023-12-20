@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJl9CyrrS3yhQRWSwleTYWn0E",
+    "name": "G\u00fcrz G\u00fcnay Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "G\u00dcRZ Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%9CRZ+Hukuk+B%C3%BCrosu/@41.059915,28.986680500000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "B\u00fcy\u00fckkaya Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/B%C3%BCy%C3%BCkkaya+Hukuk+B%C3%BCrosu/@41.0598488,28.9869674?authuser=0&entry=ttu",
+            "reviews": 19,
+            "rating": 3.8,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ergun Yava\u015f Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ergun+Yava%C5%9F+Avukatl%C4%B1k+B%C3%BCrosu/@41.0605215,28.987779099999997?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "G\u0130SA Hukuk",
+            "link": "https://www.google.com/maps/search/G%C4%B0SA+Hukuk/@41.060733,28.987203?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "EG Hukuk ve Arabuluculuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/EG+Hukuk+ve+Arabuluculuk+B%C3%BCrosu/@41.058777,28.986099?authuser=0&entry=ttu",
+            "reviews": 27,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "G\u00fcrz G\u00fcnay Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Q5PG4fgEZF78MnYQYE8C-A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=316.50912&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "G\u00fcrz G\u00fcnay Hukuk B\u00fcrosu, Abide-i H\u00fcrriyet Cd No:113/5,\u015ei\u015flimerkez Mah, 34360 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJl9CyrrS3yhQRWSwleTYWn0E",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJl9CyrrS3yhQRWSwleTYWn0E&q=?q=place_id:ChIJl9CyrrS3yhQRWSwleTYWn0E&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0599527,
+        "longitude": 28.986683499999998
+    },
+    "plus_code": "3X5P+XM \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkez",
+        "street": "Abide-i H\u00fcrriyet Cd No:113/5,\u015ei\u015flimerkez Mah",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34360",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4728522556978834521",
+    "data_id": "0x14cab7b4aeb2d097:0x419f163679252c59",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Q5PG4fgEZF78MnYQYE8C-A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=316.50912&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Q5PG4fgEZF78MnYQYE8C-A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=316.50912&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

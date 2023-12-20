@@ -1,0 +1,206 @@
+{
+    "place_id": "ChIJgZbB-EDGyhQRqz_GOBnLyCM",
+    "name": "\u015eim\u015fek Market",
+    "description": null,
+    "reviews": 4,
+    "competitors": [
+        {
+            "name": "\u015eim\u015fekler Market",
+            "link": "https://www.google.com/maps/search/%C5%9Eim%C5%9Fekler+Market/@40.9767211,29.114757599999994?authuser=0&entry=ttu",
+            "reviews": 14,
+            "rating": 3.8,
+            "main_category": "Market"
+        },
+        {
+            "name": "\u015eim\u015fekler Hipermarket Merkez",
+            "link": "https://www.google.com/maps/search/%C5%9Eim%C5%9Fekler+Hipermarket+Merkez/@40.983615799999995,29.142971099999997?authuser=0&entry=ttu",
+            "reviews": 436,
+            "rating": 3.6,
+            "main_category": "S\u00fcpermarket"
+        },
+        {
+            "name": "\u015eim\u015fekler i\u00e7erenk\u00f6y",
+            "link": "https://www.google.com/maps/search/%C5%9Eim%C5%9Fekler+i%C3%A7erenk%C3%B6y/@40.974039399999995,29.113236?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": "Bakkal"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "\u015eim\u015fek Market (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ReMxn4cjfRWSfwMc0qe-NA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=220.4169&pitch=0&thumbfov=100",
+    "main_category": "Ma\u011faza",
+    "categories": [
+        "Ma\u011faza"
+    ],
+    "rating": 3.8,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "\u0130\u00e7erenk\u00f6y, \u015eim\u015fek Market, Emniyet Sk. No:72, 34752 Ata\u015fehir/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJgZbB-EDGyhQRqz_GOBnLyCM",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 1,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJgZbB-EDGyhQRqz_GOBnLyCM&authuser=0&hl=tr&gl=TR",
+    "coordinates": {
+        "latitude": 40.9738797,
+        "longitude": 29.1126753
+    },
+    "plus_code": "X4F7+H3 Ata\u015fehir, \u0130stanbul",
+    "detailed_address": {
+        "ward": "\u0130\u00e7erenk\u00f6y",
+        "street": "Emniyet Sk. No:72",
+        "city": "Ata\u015fehir",
+        "postal_code": "34752",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2578534095856746411",
+    "data_id": "0x14cac640f8c19681:0x23c8cb1938c63fab",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Adrese servis",
+                    "enabled": true
+                },
+                {
+                    "name": "Ma\u011faza i\u00e7inde al\u0131\u015fveri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Ayn\u0131 g\u00fcn teslimat",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "\u00d6deme",
+            "options": [
+                {
+                    "name": "Kredi kart\u0131",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ReMxn4cjfRWSfwMc0qe-NA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=220.4169&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ReMxn4cjfRWSfwMc0qe-NA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=220.4169&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Bildi\u011fimiz market, fazlas\u0131n\u0131 beklememek laz\u0131m.",
+            "reviewer_name": "Ertan Port",
+            "rating": 4,
+            "review_text": "Bildi\u011fimiz market, fazlas\u0131n\u0131 beklememek laz\u0131m.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-06-28T06:16:18.997000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 45,
+            "total_number_of_photos_by_reviewer": 111,
+            "reviewer_url": "https://www.google.com/maps/contrib/113848409567645980159/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW_P-SsT1XLFYH9obinGUyaKiRyZgrV1GZ7Tg89Upr3HA=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u0130n\u015fALLAH i\u00e7erenk\u00f6y\u00fcm\u00fcze u\u011furlu gelir",
+            "reviewer_name": "umut y\u0131lmaz",
+            "rating": 5,
+            "review_text": "\u0130n\u015fALLAH i\u00e7erenk\u00f6y\u00fcm\u00fcze u\u011furlu gelir",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-05-18T13:34:59.580000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107908732218695192227/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKUV3KuBUsZj2SAkLAd7Gm_zouZ-hIw2-BJsEKmjrMH=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Burak Ulusoy",
+            "rating": 3,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-09-04T20:28:24.031000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 76,
+            "total_number_of_photos_by_reviewer": 28,
+            "reviewer_url": "https://www.google.com/maps/contrib/103786039929750020067/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWjBAGwDwpMvx50tvdRww4s2tTX_GeIML5FnDR5Vf5b96c=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "\u015fahin Varol",
+            "rating": 3,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-07-13T03:39:04.507000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 215,
+            "reviewer_url": "https://www.google.com/maps/contrib/100203588781108770754/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVMtp1GA6OZsSen6Q_g3usspPNsX3fpijXESLeY-fIM5-Q=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

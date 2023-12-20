@@ -1,0 +1,133 @@
+{
+    "place_id": "ChIJMx-OUsS1yhQRgHiG1GpSYdQ",
+    "name": "DL Attorneys at Law",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "Guzeldere & Balkan Law Firm",
+            "link": "https://www.google.com/maps/search/Guzeldere+%26+Balkan+Law+Firm/@41.111503,29.024803700000003?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avk Law Office",
+            "link": "https://www.google.com/maps/search/Avk+Law+Office/@41.1102774,29.0243859?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Eryurekli Law Office",
+            "link": "https://www.google.com/maps/search/Eryurekli+Law+Office/@41.1126758,29.019619799999997?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "LB Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/LB+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.113636,29.021755600000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Lexel Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Lexel+Hukuk+B%C3%BCrosu/@41.0931518,28.871463199999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "DL Attorneys at Law (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Kurumsal Ofis",
+    "categories": [
+        "Kurumsal Ofis"
+    ],
+    "rating": 5,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 708 41 13",
+    "address": "Maslak, DL Attorneys at Law, Eski B\u00fcy\u00fckdere Cd. No:1, 34398 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJMx-OUsS1yhQRgHiG1GpSYdQ",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJMx-OUsS1yhQRgHiG1GpSYdQ&q=?q=place_id:ChIJMx-OUsS1yhQRgHiG1GpSYdQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.1079137,
+        "longitude": 29.014077999999998
+    },
+    "plus_code": "4257+5J \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Maslak",
+        "street": "Eski B\u00fcy\u00fckdere Cd. No:1",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34398",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "15303603627567249536",
+    "data_id": "0x14cab5c4528e1f33:0xd461526ad4867880",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Esin Kilyos",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-10-22T11:16:49.193000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 85,
+            "reviewer_url": "https://www.google.com/maps/contrib/111737987442491162012/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJyrzl7Io_KNRzNGp3RDVhwaP_wLGkQnNL8dhV3kUQL=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

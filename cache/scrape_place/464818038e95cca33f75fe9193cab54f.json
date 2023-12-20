@@ -1,0 +1,103 @@
+{
+    "place_id": "ChIJc7K-6aW8yhQRFSopHyr9A2g",
+    "name": "Av.Do\u011fukan Uysal \u2013 Avukatl\u0131k ve Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Uysal Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Uysal+Hukuk+B%C3%BCrosu/@41.008697,29.037391000000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Aksu Hukuk Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Aksu+Hukuk+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.982416799999996,28.872527499999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "AVUKAT & UZMAN ARABULUCU G\u00d6K\u00c7E CANDAN",
+            "link": "https://www.google.com/maps/search/AVUKAT+%26+UZMAN+ARABULUCU+G%C3%96K%C3%87E+CANDAN/@40.979400399999996,28.871013499999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Avukat Nesrinur G\u00fcndo\u011fdu",
+            "link": "https://www.google.com/maps/search/Avukat+Nesrinur+G%C3%BCndo%C4%9Fdu/@40.9866601,28.871458399999998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": "http://dogukanuysal.av.tr/",
+    "owner": {
+        "id": null,
+        "name": "Av.Do\u011fukan Uysal \u2013 Avukatl\u0131k ve Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QNbVPTtYyxGjVVF6we19FQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=43.420853&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0506 900 46 46",
+    "address": "Zuhuratbaba, Av.Do\u011fukan Uysal \u2013 Avukatl\u0131k ve Hukuk B\u00fcrosu, Gen\u00e7ler Cd No:18 D:3, 34147 Bak\u0131rk\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJc7K-6aW8yhQRFSopHyr9A2g",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJc7K-6aW8yhQRFSopHyr9A2g&q=?q=place_id:ChIJc7K-6aW8yhQRFSopHyr9A2g&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9807663,
+        "longitude": 28.8726769
+    },
+    "plus_code": "XVJF+83 Bak\u0131rk\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Zuhuratbaba",
+        "street": "Gen\u00e7ler Cd No:18 D:3",
+        "city": "Bak\u0131rk\u00f6y",
+        "postal_code": "34147",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "7495112562227882517",
+    "data_id": "0x14cabca5e9beb273:0x6803fd2a1f292a15",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QNbVPTtYyxGjVVF6we19FQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=43.420853&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QNbVPTtYyxGjVVF6we19FQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=43.420853&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

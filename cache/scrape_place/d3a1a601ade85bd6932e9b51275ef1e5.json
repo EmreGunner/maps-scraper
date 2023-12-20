@@ -1,0 +1,344 @@
+{
+    "place_id": "ChIJ-SAop9e3yhQRNF7Xq-1saY8",
+    "name": "Dr. Arslan Poliklini\u011fi | Buz Lazer Epilasyon | Botoks | B\u00f6lgesel Zay\u0131flama | Dudak Dolgusu",
+    "description": null,
+    "reviews": 39,
+    "competitors": [
+        {
+            "name": "Dr Arslan Hair",
+            "link": "https://www.google.com/maps/search/Dr+Arslan+Hair/@41.048086,28.993019?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Sa\u00e7 Transplantasyonu Klini\u011fi"
+        },
+        {
+            "name": "Dr. Mustafa Karata\u015f Klinik",
+            "link": "https://www.google.com/maps/search/Dr.+Mustafa+Karata%C5%9F+Klinik/@41.051211599999995,28.990503999999998?authuser=0&entry=ttu",
+            "reviews": 69,
+            "rating": 4.4,
+            "main_category": "Doktor"
+        },
+        {
+            "name": "\u00d6zel Ni\u015fanta\u015f\u0131 Poliklini\u011fi",
+            "link": "https://www.google.com/maps/search/%C3%96zel+Ni%C5%9Fanta%C5%9F%C4%B1+Poliklini%C4%9Fi/@41.0481518,28.9932499?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Sa\u00e7 Transplantasyonu Klini\u011fi"
+        },
+        {
+            "name": "Esteticderm Ni\u015fanta\u015f\u0131 Lazer Epilasyon - Laser Hair Removal",
+            "link": "https://www.google.com/maps/search/Esteticderm+Ni%C5%9Fanta%C5%9F%C4%B1+Lazer+Epilasyon+-+Laser+Hair+Removal/@41.0526429,28.9900496?authuser=0&entry=ttu",
+            "reviews": 642,
+            "rating": 4.8,
+            "main_category": "Lazer Epilasyon Hizmeti"
+        },
+        {
+            "name": "Op Dr H\u00fcseyin Arslan",
+            "link": "https://www.google.com/maps/search/Op+Dr+H%C3%BCseyin+Arslan/@41.052862,28.9900639?authuser=0&entry=ttu",
+            "reviews": 26,
+            "rating": 4.2,
+            "main_category": "Sa\u011fl\u0131k ve G\u00fczellik Merkezi"
+        }
+    ],
+    "website": "https://www.drarslanklinik.com/",
+    "owner": {
+        "id": "103125931078557060836",
+        "name": "Dr. Arslan Poliklini\u011fi | Buz Lazer Epilasyon | Botoks | B\u00f6lgesel Zay\u0131flama | Dudak Dolgusu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/103125931078557060836"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN2LyXe7VtEdbJdw7wANL4G39UXIg1l3yy17AH5=w426-h240-k-no",
+    "main_category": "Sa\u011fl\u0131k ve G\u00fczellik Merkezi",
+    "categories": [
+        "Sa\u011fl\u0131k ve G\u00fczellik Merkezi",
+        "Estetik Cerrahi Klini\u011fi"
+    ],
+    "rating": 4.6,
+    "workday_timing": "10:00\u201319:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0546 571 90 19",
+    "address": "Harbiye, Dr. Arslan Poliklini\u011fi | Buz Lazer Epilasyon | Botoks | B\u00f6lgesel Zay\u0131flama | Dudak Dolgusu, Abdi \u0130pek\u00e7i Cd. K\u0131z\u0131lkaya Apt No:59 Daire:6, 34367 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ-SAop9e3yhQRNF7Xq-1saY8",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 19:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 34
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ-SAop9e3yhQRNF7Xq-1saY8&q=?q=place_id:ChIJ-SAop9e3yhQRNF7Xq-1saY8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.048122299999996,
+        "longitude": 28.9932765
+    },
+    "plus_code": "2XXV+68 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Harbiye",
+        "street": "Abdi \u0130pek\u00e7i Cd. K\u0131z\u0131lkaya Apt No:59 Daire:6",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34367",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10333910588024380980",
+    "data_id": "0x14cab7d7a72820f9:0x8f696cedabd75e34",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Adrese servis",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "\u00d6deme",
+            "options": [
+                {
+                    "name": "Kredi kart\u0131",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN2LyXe7VtEdbJdw7wANL4G39UXIg1l3yy17AH5=w528-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPLd8YCE_tdzAq3ihfdf_Q1YpzsfPIC99Nvesyd=w224-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Q4XE9LAP6lCnjfKBpnnZLQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=98.16358&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "10:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "10:00\u201319:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "10:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "10:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "10:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "10:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Aysel Han\u0131m\u2019a bay\u0131l\u0131yorum. Cilt bak\u0131m\u0131na de\u011fil masaja gelir gibi geliyorum. G\u00fcler y\u00fcz\u00fc, samimiyeti, i\u015fini b\u00fcy\u00fck \u00f6zenle yap\u0131\u015f\u0131 ve daha nice \u00f6zelli\u011fi ile klini\u011fin olmazsa olmaz\u0131.\nKendisine bir kez de buradan te\u015fekk\u00fcr etmek isterim \ud83d\ude0a",
+            "reviewer_name": "Behiye Yi\u011fit",
+            "rating": 5,
+            "review_text": "Aysel Han\u0131m\u2019a bay\u0131l\u0131yorum. Cilt bak\u0131m\u0131na de\u011fil masaja gelir gibi geliyorum. G\u00fcler y\u00fcz\u00fc, samimiyeti, i\u015fini b\u00fcy\u00fck \u00f6zenle yap\u0131\u015f\u0131 ve daha nice \u00f6zelli\u011fi ile klini\u011fin olmazsa olmaz\u0131.\nKendisine bir kez de buradan te\u015fekk\u00fcr etmek isterim \ud83d\ude0a",
+            "published_at": "3 ay \u00f6nce",
+            "published_at_date": "2023-08-23T09:45:15.369000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/115020974006139320924/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWXG5dTM1GeU9ba8o35DE_RV95rUay7XGibXqhI05ZCtG4=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Bir \u015fey s\u00f6yleyim mi ? Aysel han\u0131m siz harikas\u0131n\u0131z. Cildim \u00e7ok ya\u011fl\u0131 ve siyah nokta ile doluydu, baz\u0131 b\u00f6lgelerde lekelerde mevcut.  \u015eu an parlak ve canl\u0131 bir tonda m\u00fckemmel duruyor. Profesyonel masaj\u0131, ilgisi i\u00e7in \u00e7ok te\u015fekk\u00fcr ediyorum. Her ay d\u00fczenli gelece\u011fim.",
+            "reviewer_name": "Elif G\u00fcle\u00e7",
+            "rating": 5,
+            "review_text": "Bir \u015fey s\u00f6yleyim mi ? Aysel han\u0131m siz harikas\u0131n\u0131z. Cildim \u00e7ok ya\u011fl\u0131 ve siyah nokta ile doluydu, baz\u0131 b\u00f6lgelerde lekelerde mevcut.  \u015eu an parlak ve canl\u0131 bir tonda m\u00fckemmel duruyor. Profesyonel masaj\u0131, ilgisi i\u00e7in \u00e7ok te\u015fekk\u00fcr ediyorum. Her ay d\u00fczenli gelece\u011fim.",
+            "published_at": "5 ay \u00f6nce",
+            "published_at_date": "2023-07-11T13:40:04.495000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112915080179131955786/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXAFuNf71TP4CFPL1gKkJ4KSu8cgIKoutZFpcfZEqS0v0c=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Aysel Han\u0131m tam i\u015fin ehli  Hydrafacial yapt\u0131rd\u0131m ve \u00e7ok memnun kaldim\ni\u015flem  temiz ve profesyonel.\nGitmenizi \u015fiddetle  burdan tavsiye.\nEdiyorum  Aysel han\u0131ma \u00e7ok t\u015fk ediyorum b\u00f6yle samimi cana yak\u0131n G\u00fclery\u00fcz l\u00fc biri oldu\u011fu i\u00e7in Dr aslan klini\u011fe \u00e7ok t\u015fk ediyorum b\u00f6yle elemanlar la \u00e7al\u0131\u015ft\u0131\u011fi i\u00e7in",
+            "reviewer_name": "Ali Kadem",
+            "rating": 5,
+            "review_text": "Aysel Han\u0131m tam i\u015fin ehli  Hydrafacial yapt\u0131rd\u0131m ve \u00e7ok memnun kaldim\ni\u015flem  temiz ve profesyonel.\nGitmenizi \u015fiddetle  burdan tavsiye.\nEdiyorum  Aysel han\u0131ma \u00e7ok t\u015fk ediyorum b\u00f6yle samimi cana yak\u0131n G\u00fclery\u00fcz l\u00fc biri oldu\u011fu i\u00e7in Dr aslan klini\u011fe \u00e7ok t\u015fk ediyorum b\u00f6yle elemanlar la \u00e7al\u0131\u015ft\u0131\u011fi i\u00e7in",
+            "published_at": "6 ay \u00f6nce",
+            "published_at_date": "2023-06-01T14:40:54.372000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109939848168930917807/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJlRdP-ItAPGbb7gerNHdWdkNhzgzJL5BO-eHrgWjWx=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Doktor Bedirhan Bey\u2019e ve Do\u011fa Han\u0131m\u2019a \u00e7ok te\u015fekk\u00fcr ederim, yapt\u0131klar\u0131 uygulamalar\u0131n sonu\u00e7lar\u0131ndan \u00e7ok memnun kald\u0131m. Herkese tavsiye ediyorum\u263a\ufe0f",
+            "reviewer_name": "\u00dclk\u00fchan Zeynep G\u00fcm\u00fc\u015f",
+            "rating": 5,
+            "review_text": "Doktor Bedirhan Bey\u2019e ve Do\u011fa Han\u0131m\u2019a \u00e7ok te\u015fekk\u00fcr ederim, yapt\u0131klar\u0131 uygulamalar\u0131n sonu\u00e7lar\u0131ndan \u00e7ok memnun kald\u0131m. Herkese tavsiye ediyorum\u263a\ufe0f",
+            "published_at": "4 ay \u00f6nce",
+            "published_at_date": "2023-07-26T11:00:12.195000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102408156667361041960/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocItsjfsPLQNIA3QHklb5s4URtSBqRyBwUaX5FswnnqA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Aysel Han\u0131ma cok cok Selam \u2661 Hydrafacial yapt\u0131rd\u0131m ve m\u00fckemmel \u00f6tesiydi.\nYapt\u0131g\u0131n\u0131z i\u015flem cok temiz ve profesyonel. Herkeze burdan tavsiye.\nKendimi bak\u0131mdan sonra cok iyi hissettim ve Mutlaka birdaha gelecegim.",
+            "reviewer_name": "\u00fc d",
+            "rating": 5,
+            "review_text": "Aysel Han\u0131ma cok cok Selam \u2661 Hydrafacial yapt\u0131rd\u0131m ve m\u00fckemmel \u00f6tesiydi.\nYapt\u0131g\u0131n\u0131z i\u015flem cok temiz ve profesyonel. Herkeze burdan tavsiye.\nKendimi bak\u0131mdan sonra cok iyi hissettim ve Mutlaka birdaha gelecegim.",
+            "published_at": "7 ay \u00f6nce",
+            "published_at_date": "2023-04-30T19:12:08.133000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/103857196989230280466/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIKDn8pX8-LnwpUMtyjp_YxpSVv2WVEVfPPjNdgudey=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Sa\u00e7 ektirdim ve hayat\u0131m de\u011fi\u015fti. Benim i\u00e7in \u00e7ok iyi bir deneyim oldu. T\u00fcm s\u00fcre\u00e7te beni bilgilendirdiniz ve her\u015fey s\u00f6yledi\u011finiz gibi ger\u00e7ekle\u015fti. Ayr\u0131ca klini\u011finize y\u00f6nlendirdi\u011fim dostlar\u0131m da \u00e7ok memnun kald\u0131lar. T\u00fcm Dr. Arslan klini\u011fi \u00e7al\u0131\u015fanlar\u0131na  \u00e7ok te\u015fekk\u00fcr ederim.",
+            "reviewer_name": "O\u011fuz Bayramo\u011flu",
+            "rating": 5,
+            "review_text": "Sa\u00e7 ektirdim ve hayat\u0131m de\u011fi\u015fti. Benim i\u00e7in \u00e7ok iyi bir deneyim oldu. T\u00fcm s\u00fcre\u00e7te beni bilgilendirdiniz ve her\u015fey s\u00f6yledi\u011finiz gibi ger\u00e7ekle\u015fti. Ayr\u0131ca klini\u011finize y\u00f6nlendirdi\u011fim dostlar\u0131m da \u00e7ok memnun kald\u0131lar. T\u00fcm Dr. Arslan klini\u011fi \u00e7al\u0131\u015fanlar\u0131na  \u00e7ok te\u015fekk\u00fcr ederim.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-12-20T10:58:01.172000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 6,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/111555809866777755128/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW4N1t2hUD0cscu_vnRVH5EjcicqjgkoW90cSPUJ0ha3LE=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNRLAQPlLTWEMcjp8o5BKMSsvLLQkviW1bPTMKz=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Ni\u015fanta\u015f\u0131\u2019na yak\u0131\u015f\u0131r bir yer diyebilirim.\nEpilasyon konusunda ekip ve ekipman olarak yeterli buldu\u011fum bu yeri g\u00f6z\u00fc kapal\u0131 tavsiye edebilirim",
+            "reviewer_name": "Zeki Do\u011fruyol",
+            "rating": 5,
+            "review_text": "Ni\u015fanta\u015f\u0131\u2019na yak\u0131\u015f\u0131r bir yer diyebilirim.\nEpilasyon konusunda ekip ve ekipman olarak yeterli buldu\u011fum bu yeri g\u00f6z\u00fc kapal\u0131 tavsiye edebilirim",
+            "published_at": "6 ay \u00f6nce",
+            "published_at_date": "2023-06-16T15:31:40.006000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116406605041416844002/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUuSnKwqNKVVWpCquw190o7e4mrLJ8RqFI-wM95bbd0uhs=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "G\u00f6z\u00fc kapal\u0131 gitti\u011fim poliklinik.Dr Bedirhan beye her i\u015flemi yapt\u0131rd\u0131m nerdeyse hi\u00e7bir sorun ya\u015famad\u0131m herkes ne i\u015flem yapt\u0131rd\u0131\u011f\u0131m\u0131 sordu.T\u00fcm arkada\u015flar\u0131m gitti.Aysel han\u0131m o benim can\u0131mmmm pozitif enerjik modumu inan\u0131lmaz y\u00fckselten biri\u2764\ufe0fYe\u015fim han\u0131m iyi ki var dedi\u011fim sizleri \u00e7ok seviyorum hep sizdeyim\ud83e\udd70\ud83e\udd70",
+            "reviewer_name": "Derin Seven",
+            "rating": 5,
+            "review_text": "G\u00f6z\u00fc kapal\u0131 gitti\u011fim poliklinik.Dr Bedirhan beye her i\u015flemi yapt\u0131rd\u0131m nerdeyse hi\u00e7bir sorun ya\u015famad\u0131m herkes ne i\u015flem yapt\u0131rd\u0131\u011f\u0131m\u0131 sordu.T\u00fcm arkada\u015flar\u0131m gitti.Aysel han\u0131m o benim can\u0131mmmm pozitif enerjik modumu inan\u0131lmaz y\u00fckselten biri\u2764\ufe0fYe\u015fim han\u0131m iyi ki var dedi\u011fim sizleri \u00e7ok seviyorum hep sizdeyim\ud83e\udd70\ud83e\udd70",
+            "published_at": "6 ay \u00f6nce",
+            "published_at_date": "2023-06-13T14:55:27.744000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101616712869397396366/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKuIb7XrNN8fSRs8xo4mxm4piwJSGWY9lP-aArVzjxB=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

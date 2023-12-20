@@ -1,0 +1,1739 @@
+{
+    "query": "web developers in bangalore",
+    "places": [
+        {
+            "place_id": "ChIJMdL7IRNrrjsRrmpk_jvYO88",
+            "name": "WebzPlot",
+            "description": null,
+            "reviews": 51,
+            "competitors": [
+                {
+                    "name": "Webgen",
+                    "link": "https://www.google.com/maps/search/Webgen/@12.919852299999999,77.6074941?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 37,
+                    "rating": 4.1,
+                    "main_category": "Web Sitesi Tasarimcisi"
+                },
+                {
+                    "name": "Vijanat- WordPress Web Development Company Bangalore",
+                    "link": "https://www.google.com/maps/search/Vijanat-+WordPress+Web+Development+Company+Bangalore/@12.905758500000001,77.5971187?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 153,
+                    "rating": 4.9,
+                    "main_category": "Web Sitesi Tasarimcisi"
+                },
+                {
+                    "name": "Vistas - Web Design Company in Bangalore, Web Development, SEO Services, Digital Marketing, eCommerce Website Developers",
+                    "link": "https://www.google.com/maps/search/Vistas+-+Web+Design+Company+in+Bangalore%2C+Web+Development%2C+SEO+Services%2C+Digital+Marketing%2C+eCommerce+Website+Developers/@12.941714099999999,77.6228144?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 115,
+                    "rating": 4.2,
+                    "main_category": "Web Sitesi Tasarimcisi"
+                },
+                {
+                    "name": "Zinavo - Web Design, Web Development Company in Bangalore, eCommerce Web Development, SEO Services, Digital Marketing Agency",
+                    "link": "https://www.google.com/maps/search/Zinavo+-+Web+Design%2C+Web+Development+Company+in+Bangalore%2C+eCommerce+Web+Development%2C+SEO+Services%2C+Digital+Marketing+Agency/@13.014429999999999,77.6480612?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 687,
+                    "rating": 4.6,
+                    "main_category": "Web Sitesi Tasarimcisi"
+                },
+                {
+                    "name": "Webshark Web Services - Best Website Design and E-commerce Development Company in Bangalore",
+                    "link": "https://www.google.com/maps/search/Webshark+Web+Services+-+Best+Website+Design+and+E-commerce+Development+Company+in+Bangalore/@12.906798100000001,77.57248120000001?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 101,
+                    "rating": 4.8,
+                    "main_category": "Web Sitesi Tasarimcisi"
+                }
+            ],
+            "website": "https://webzplot.com/",
+            "owner": {
+                "id": "104253765733503643545",
+                "name": "WebzPlot (Sahibi)",
+                "link": "https://www.google.com/maps/contrib/104253765733503643545"
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0DFjtu0cSVU5ijQ6ki_KtA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=234.6477&pitch=0&thumbfov=100",
+            "main_category": "Web Sitesi Tasarimcisi",
+            "categories": [
+                "Web Sitesi Tasarimcisi",
+                "Pazarlama Ajansi"
+            ],
+            "rating": 4.6,
+            "workday_timing": "09:00-21:00",
+            "closed_on": "Open All Days",
+            "phone": "+91 99723 18316",
+            "address": "WebzPlot, 13-14 1st Floor, Kothnur Main Rd, JP Nagar 7th Phase, Bengaluru, Karnataka 560062, Hindistan",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/WebzPlot/data=!4m7!3m6!1s0x3bae6b1321fbd231:0xcf3bd83bfe646aae!8m2!3d12.8826267!4d77.5832428!16s%2Fg%2F11h6m89klf!19sChIJMdL7IRNrrjsRrmpk_jvYO88?authuser=0&hl=tr&rclk=1",
+            "status": "Acik  Kapanis saati: 21:00",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 3,
+                "2": 1,
+                "3": 1,
+                "4": 3,
+                "5": 43
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJMdL7IRNrrjsRrmpk_jvYO88&q=WebzPlot&authuser=0&hl=tr&gl=IN",
+            "coordinates": {
+                "latitude": 12.8826267,
+                "longitude": 77.5832428
+            },
+            "plus_code": "VHMM+37 Bangalore, Karnataka, Hindistan",
+            "detailed_address": {
+                "ward": "Nrupathunga Nagar, JP Nagar 7th Phase, J. P. Nagar",
+                "street": "13-14 1st Floor, Kothnur Main Rd",
+                "city": "Bengaluru, Kothnur",
+                "postal_code": "560062",
+                "state": "Karnataka",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "14932766741659675310",
+            "data_id": "0x3bae6b1321fbd231:0xcf3bd83bfe646aae",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Hizmet secenekleri",
+                    "options": [
+                        {
+                            "name": "Online randevu",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Gercek mekanda hizmet",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "crowd",
+                    "name": "Kitle",
+                    "options": [
+                        {
+                            "name": "LGBTQ+ dostu",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "planning",
+                    "name": "Planlama",
+                    "options": [
+                        {
+                            "name": "Randevu gerekli",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0DFjtu0cSVU5ijQ6ki_KtA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=234.6477&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Sahibinin sectikleri",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipN19Tq-AyeJ1sqqlwNgSOTcKYDLMIF9RHdhu4_O=w298-h298-k-no"
+                },
+                {
+                    "about": "Street View ve 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0DFjtu0cSVU5ijQ6ki_KtA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=234.6477&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "09:00-21:00"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "09:00-21:00"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "09:00-21:00"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "09:00-21:00"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "09:00-21:00"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "09:00-21:00"
+                    ]
+                },
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "09:00-21:00"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "HANDS DOWN the best place in bangalore to get your e commerce website done. The entire team has been so friendly and corporative with me. I got their shopify website package for my clothing business and they delivered exactly what i wanted and more! Truly the easiest people to work with. Thank you team WebzPlot! More success to you!",
+                    "reviewer_name": "zahra admani",
+                    "rating": 5,
+                    "review_text": "HANDS DOWN the best place in bangalore to get your e commerce website done. The entire team has been so friendly and corporative with me. I got their shopify website package for my clothing business and they delivered exactly what i wanted and more! Truly the easiest people to work with. Thank you team WebzPlot! More success to you!",
+                    "published_at": "2 ay once",
+                    "published_at_date": "2023-09-08T12:27:33.996000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115218444939629857883/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJM86viUCFx35qK5S5JmwTDEqoP7Dh31Igdutv3j6KA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "E-ticaret web sitenizi tamamlamak icin bangalore'daki en iyi yer ELINIZDE. Tum ekip bana karsi cok arkadas canlisi ve isbirlikci davrandi. Giyim isim icin shopify web sitesi paketini aldim ve tam olarak istedigimi ve daha fazlasini sundular! Gercekten birlikte calismasi en kolay insanlar. Tesekkurler WebzPlot ekibi! Size daha fazla basari!",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Got my Website and Digital Marketing service from WebzPlot. They are very committed and work was delivered per the committed deadline wit. So far the best experience I've had with a reasonable cost. Thanks for working on our website and delivering beyond our expectations.",
+                    "reviewer_name": "Gouthami Mohan",
+                    "rating": 5,
+                    "review_text": "Got my Website and Digital Marketing service from WebzPlot. They are very committed and work was delivered per the committed deadline wit. So far the best experience I've had with a reasonable cost. Thanks for working on our website and delivering beyond our expectations.",
+                    "published_at": "3 ay once",
+                    "published_at_date": "2023-08-24T05:57:33.478000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 7,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106994086184386423593/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW9zXSmGgdTHJbhsgtufXCdDEZ7QtigKbpVoL8EmC-TGlo=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Web Sitesi ve Dijital Pazarlama hizmetimi WebzPlot'tan aldim. Cok kararlilar ve taahhut edilen son teslim tarihine gore is teslim edildi. Su ana kadar makul bir maliyetle yasadigim en iyi deneyim. Web sitemizde calistiginiz ve beklentilerimizin otesinde hizmet sundugunuz icin tesekkur ederiz.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I got a website done through webzplot for my clothing brand and I must say, their expertise and skill set was beyond my expectations. I got their shopify package and it was worth every penny. Totally recommended!!!",
+                    "reviewer_name": "farzina faiz",
+                    "rating": 5,
+                    "review_text": "I got a website done through webzplot for my clothing brand and I must say, their expertise and skill set was beyond my expectations. I got their shopify package and it was worth every penny. Totally recommended!!!",
+                    "published_at": "3 ay once",
+                    "published_at_date": "2023-08-25T15:17:59.367000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 27,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110544802159076678311/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLJu96fFBMX6KLmCPgyMqAMejbyMLc55rsg5taIb9So=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Giyim markam icin webzplot araciligiyla bir web sitesi yaptirdim ve soylemeliyim ki uzmanliklari ve becerileri beklentilerimin otesindeydi. Shopify paketlerini aldim ve her kurusa degdi. Tamamen tavsiye edilir!",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Team Webzplot just wrapped up my shopify website and have given an absolutely new look and feel to my brand and website. From logo to branding to giving me a fully responsive site, I'm truly over whelmed by the response ive been getting on my website and all credits goes to Webzplot team.",
+                    "reviewer_name": "Syed Atif",
+                    "rating": 5,
+                    "review_text": "Team Webzplot just wrapped up my shopify website and have given an absolutely new look and feel to my brand and website. From logo to branding to giving me a fully responsive site, I'm truly over whelmed by the response ive been getting on my website and all credits goes to Webzplot team.",
+                    "published_at": "3 ay once",
+                    "published_at_date": "2023-08-23T11:47:07.124000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102597871243949653118/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXTXkUuwi29AEiRNCEOLm_GEQsGHuCIoo6jq-_VrMFeCg=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Team Webzplot, shopify web sitemi yeni tamamladi ve markama ve web siteme tamamen yeni bir gorunum ve his kazandirdi. Logodan marka bilinci olusturmaya ve bana tamamen duyarli bir site sunmaya kadar, web siteme aldigim tepkilerden gercekten cok etkilendim ve tum kredi Webzplot ekibine gidiyor.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I recently had the pleasure of working with Webzplot, a top-tier website development agency that specializes in Shopify. From start to finish, my experience with them was nothing short of exceptional.",
+                    "reviewer_name": "Durgesh Patil",
+                    "rating": 5,
+                    "review_text": "I recently had the pleasure of working with Webzplot, a top-tier website development agency that specializes in Shopify. From start to finish, my experience with them was nothing short of exceptional.",
+                    "published_at": "3 ay once",
+                    "published_at_date": "2023-08-22T08:47:09.585000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106996263174732959952/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKUcuq4tX5R_aPkcJsXdjIaOXoQ-NLYXMpSyNVN0UZ4=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Yakin zamanda Shopify konusunda uzmanlasmis ust duzey bir web sitesi gelistirme ajansi olan Webzplot ile calismaktan buyuk keyif aldim. Basindan sonuna kadar onlarla olan deneyimim istisnai bir sey degildi.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Horrible service. We were a full-paying client. Extremely bad service and attention from the agency. We literally had to pull our hairs out before we got project delivered from them. horrible. Would never recommend.",
+                    "reviewer_name": "Ratnadeep Mukkirwar",
+                    "rating": 1,
+                    "review_text": "Horrible service. We were a full-paying client. Extremely bad service and attention from the agency. We literally had to pull our hairs out before we got project delivered from them. horrible. Would never recommend.",
+                    "published_at": "3 ay once",
+                    "published_at_date": "2023-08-21T21:05:22.648000",
+                    "response_from_owner_text": "Hi, we are extremely sorry about your unpleasant experience. We would like to make it up to you. Would you please connect with us so we can help solve this. \n\nThanks",
+                    "response_from_owner_ago": "3 ay once",
+                    "response_from_owner_date": "2023-08-21T22:33:01.164000",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115777338819941771808/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ-3-qi0tO15-sxKKaoosYoxUyKzibucBJ6d9M4URJg=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Korkunc hizmet. Tam maas alan bir musteriydik. Ajanstan son derece kotu hizmet ve dikkat. Onlardan proje teslim edilmeden once kelimenin tam anlamiyla saclarimizi yolmak zorunda kaldik. berbat. Asla tavsiye etmem.",
+                    "response_from_owner_translated_text": "Merhaba, yasadiginiz tatsiz deneyimden dolayi cok uzgunuz. Bunu telafi etmek isteriz. Bu sorunu cozmeye yardimci olabilmemiz icin lutfen bizimle iletisime gecer misiniz?\n\nTesekkurler",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I  highly recommend this place to everyone who wants to get your website done, the team was super helpful and also gave me great inputs to enhance the website.",
+                    "reviewer_name": "Nazia Faiz",
+                    "rating": 5,
+                    "review_text": "I  highly recommend this place to everyone who wants to get your website done, the team was super helpful and also gave me great inputs to enhance the website.",
+                    "published_at": "3 ay once",
+                    "published_at_date": "2023-08-22T08:44:39.177000",
+                    "response_from_owner_text": "Thanks, Nazia for taking the time to review. ",
+                    "response_from_owner_ago": "3 ay once",
+                    "response_from_owner_date": "2023-08-22T09:18:04.733000",
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114602396289586091711/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUOpekc4DZ-SAAN6s4eKPTkoQ0bryCLu_b9UkFAbUeJDZHx=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Burayi web sitenizi yaptirmak isteyen herkese siddetle tavsiye ediyorum, ekip cok yardimci oldu ve ayrica web sitesini gelistirmek icin bana harika girdiler verdi.",
+                    "response_from_owner_translated_text": "Incelemeye zaman ayirdiginiz icin tesekkurler Nazia.",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Best place to get your Shopify website. Loved the whole experience of working with them overall",
+                    "reviewer_name": "Mubeen Taj",
+                    "rating": 5,
+                    "review_text": "Best place to get your Shopify website. Loved the whole experience of working with them overall",
+                    "published_at": "3 ay once",
+                    "published_at_date": "2023-08-22T08:37:23.068000",
+                    "response_from_owner_text": "Thanks Mubeen Taj, It was great working with you on this. ",
+                    "response_from_owner_ago": "3 ay once",
+                    "response_from_owner_date": "2023-08-22T08:39:32.392000",
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107793380242245215760/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLw6hFN3bLnnQBs5VLHqvCEdYryHCct5Gan5wbIig7Z=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Shopify web sitenizi almak icin en iyi yer. Genel olarak onlarla calisma deneyimini cok sevdim",
+                    "response_from_owner_translated_text": "Tesekkurler Mubeen Taj, Bu konuda sizinle calismak harikaydi.",
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": true
+        },
+        {
+            "place_id": "ChIJDV1f8WcXrjsRKuZSrA-xfQg",
+            "name": "Optimize My Data",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "optimize digital india",
+                    "link": "https://www.google.com/maps/search/optimize+digital+india/@12.9305089,77.5830307?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Egitim Kurumu"
+                }
+            ],
+            "website": "https://www.optimizemydata.com/",
+            "owner": {
+                "id": "106540869895272613239",
+                "name": "Optimize My Data (Sahibi)",
+                "link": "https://www.google.com/maps/contrib/106540869895272613239"
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_aM3SVM8N9l7SAaOxF3rAA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=83.133965&pitch=0&thumbfov=100",
+            "main_category": "Yazilim Sirketi",
+            "categories": [
+                "Yazilim Sirketi"
+            ],
+            "rating": 5,
+            "workday_timing": "24 saat acik",
+            "closed_on": "Open All Days",
+            "phone": "+91 78920 64440",
+            "address": "Optimize My Data, 16, Gajanana, 8th Cross Rd, Swimming Pool Extension, Bengaluru, Karnataka 560003, Hindistan",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Optimize+My+Data/data=!4m7!3m6!1s0x3bae1767f15f5d0d:0x87db10fac52e62a!8m2!3d12.999321!4d77.5731864!16s%2Fg%2F11rv8_wmj1!19sChIJDV1f8WcXrjsRKuZSrA-xfQg?authuser=0&hl=tr&rclk=1",
+            "status": "24 saat acik",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJDV1f8WcXrjsRKuZSrA-xfQg&q=Optimize+My+Data&authuser=0&hl=tr&gl=IN",
+            "coordinates": {
+                "latitude": 12.999321,
+                "longitude": 77.5731864
+            },
+            "plus_code": "XHXF+P7 Bangalore, Karnataka, Hindistan",
+            "detailed_address": {
+                "ward": "Swimming Pool Extension, Yalappa Garden, Malleshwara",
+                "street": "16, Gajanana, 8th Cross Rd",
+                "city": "Bengaluru, Bangalore",
+                "postal_code": "560003",
+                "state": "Karnataka",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "611839805265995306",
+            "data_id": "0x3bae1767f15f5d0d:0x87db10fac52e62a",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [
+                {
+                    "link": "https://calendly.com/manjunathpadiyar-manja/15min",
+                    "source": "calendly.com"
+                }
+            ],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Hizmet secenekleri",
+                    "options": [
+                        {
+                            "name": "Online randevu",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Gercek mekanda hizmet",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_aM3SVM8N9l7SAaOxF3rAA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=83.133965&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Sahibinin sectikleri",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOCEvVa2vSOljNfbpACGjnP9SjtAkLDmrCIj3jc=w529-h298-k-no"
+                },
+                {
+                    "about": "Videolar",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOCEvVa2vSOljNfbpACGjnP9SjtAkLDmrCIj3jc=w529-h298-k-no"
+                },
+                {
+                    "about": "Street View ve 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_aM3SVM8N9l7SAaOxF3rAA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=83.133965&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "24 saat acik"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "24 saat acik"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "24 saat acik"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "24 saat acik"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "24 saat acik"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "24 saat acik"
+                    ]
+                },
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "24 saat acik"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": null,
+                    "reviewer_name": "Manu Gowda",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "bir yil once",
+                    "published_at_date": "2022-06-01T13:19:57.013000",
+                    "response_from_owner_text": "Thanks, Manu working with Colord has been a true pleasure for the team. I hope we mutually will travel a long way on this journey of success.",
+                    "response_from_owner_ago": "bir yil once",
+                    "response_from_owner_date": "2022-06-01T13:49:12.438000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101581419458832542853/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWPH7S0eASAABtkvdESv-LlRsG0yTYILEAgyqHS7-TACE4=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": "Tesekkurler, Manu'nun Colord'la calismasi ekip icin gercek bir zevkti. Umarim bu basari yolculugunda karsilikli olarak uzun bir yol kat ederiz.",
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": true
+        },
+        {
+            "place_id": "ChIJ8WlwPi8XrjsRoio8OS1brLw",
+            "name": "Zinavo - Web Design, Web Development Company in Bangalore, eCommerce Web Development, SEO Services, Digital Marketing Agency",
+            "description": null,
+            "reviews": 687,
+            "competitors": [
+                {
+                    "name": "SEODigitz | Web Design & Ecommerce Web Development, Google Ads, SEO Company Bangalore",
+                    "link": "https://www.google.com/maps/search/SEODigitz+%7C+Web+Design+%26+Ecommerce+Web+Development%2C+Google+Ads%2C+SEO+Company+Bangalore/@13.005080399999999,77.6628083?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 207,
+                    "rating": 5,
+                    "main_category": "Web Sitesi Tasarimcisi"
+                },
+                {
+                    "name": "Bangalore AdSolutions Website Designing Company | Logo Designing | Digital Marketing Agency",
+                    "link": "https://www.google.com/maps/search/Bangalore+AdSolutions+Website+Designing+Company+%7C+Logo+Designing+%7C+Digital+Marketing+Agency/@13.01296,77.6483761?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 27,
+                    "rating": 4.7,
+                    "main_category": "Web Sitesi Tasarimcisi"
+                },
+                {
+                    "name": "WebzPlot",
+                    "link": "https://www.google.com/maps/search/WebzPlot/@12.8826267,77.5832428?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 51,
+                    "rating": 4.6,
+                    "main_category": "Web Sitesi Tasarimcisi"
+                },
+                {
+                    "name": "SeekNEO - Web Development, eCommerce Web Development, SEO Services, Digital Marketing Agency",
+                    "link": "https://www.google.com/maps/search/SeekNEO+-+Web+Development%2C+eCommerce+Web+Development%2C+SEO+Services%2C+Digital+Marketing+Agency/@12.9863763,77.5473899?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 465,
+                    "rating": 4.8,
+                    "main_category": "Web Sitesi Tasarimcisi"
+                }
+            ],
+            "website": "https://www.zinavo.com/",
+            "owner": {
+                "id": "116607083819902816970",
+                "name": "Zinavo - Web Design, Web Development Company in Bangalore, eCommerce Web Development, SEO Services, Digital Marketing Agency (Sahibi)",
+                "link": "https://www.google.com/maps/contrib/116607083819902816970"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMjlMvH3ZjLau10dM6ZgMMoGU-FMWO6ez6aoYD8=w408-h272-k-no",
+            "main_category": "Web Sitesi Tasarimcisi",
+            "categories": [
+                "Web Sitesi Tasarimcisi",
+                "Internet Pazarlamaciligi Hizmeti",
+                "Yazilim Sirketi"
+            ],
+            "rating": 4.6,
+            "workday_timing": "09:00-22:00",
+            "closed_on": [
+                "Pazar"
+            ],
+            "phone": "+91 80 4153 1025",
+            "address": "Zinavo - Web Design, Web Development Company in Bangalore, eCommerce Web Development, SEO Services, Digital Marketing Agency, R.K.Plaza, # 31,2nd Floor, 2nd Cross Rd, Subbaiahnapalya, Banaswadi, Bengaluru, Karnataka 560043, Hindistan",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Zinavo+-+Web+Design,+Web+Development+Company+in+Bangalore,+eCommerce+Web+Development,+SEO+Services,+Digital+Marketing+Agency/data=!4m7!3m6!1s0x3bae172f3e7069f1:0xbcac5b2d393c2aa2!8m2!3d13.01443!4d77.6480612!16s%2Fg%2F11h0l3y9l!19sChIJ8WlwPi8XrjsRoio8OS1brLw?authuser=0&hl=tr&rclk=1",
+            "status": "Acik  Kapanis saati: 22:00",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 46,
+                "2": 6,
+                "3": 10,
+                "4": 34,
+                "5": 591
+            },
+            "featured_question": {
+                "question": "(Google tarafindan cevrilmistir) Odeme ag gecidi ile e-ticaret sitesi ve android uygulamasi yapmak istiyoruz\n\n(Orijinal)\nWe want to make  e-commerce website and android app  with payment gateway ",
+                "answer": "(Google tarafindan cevrilmistir) Bir e-ticaret uygulamasi ve web sitesi olusturmanin en iyi yolu WooCommerce kullanmaktir. WordPress, dunyadaki en populer icerik yonetim sistemlerinden biridir ve WooCommerce, WordPress icin en populer e-ticaret eklentilerinden biridir. WordPress acik kaynaklidir ve binlerce tema ve eklentiye sahiptir. WooCommerce, kurulumu en kolay e-Ticaret platformlarindan biridir. Basarili bir e-Ticaret isi baslatmak icin ihtiyaciniz olan tum ozelliklere sahiptir: satis, destek, urun sayfasi, odeme sayfasi, musteri panosu, stok yonetimi ve urun yonetimi.\n\n(Orijinal)\nThe best way to make an e-commerce app and website is to use Woocommerce. WordPress is one of the most popular content management systems in the world and Woocommerce is one of the most popular e-commerce plugins for WordPress. WordPress is open source and has thousands of themes and plugins available. Woocommerce is one of the easiest e-Commerce platforms to setup. It has all the features you need to start a successful e-Commerce business: sales, support, product page, checkout page, customer dashboard, stock management, and product management.",
+                "question_date": "2019-03-18T07:12:11",
+                "question_ago": "4 yil once",
+                "asked_by": {
+                    "name": "Pk Enterprises False ceiling services company",
+                    "link": "https://www.google.com/maps/contrib/113239020858793962623"
+                },
+                "answer_date": "2022-12-27T11:29:04",
+                "answer_ago": "11 ay once",
+                "answered_by": {
+                    "name": "Zinavo - Web Design, Web Development Company in Bangalore, eCommerce Web Development, SEO Services, Digital Marketing Agency (Sahibi)",
+                    "link": "https://www.google.com/maps/contrib/116607083819902816970"
+                }
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ8WlwPi8XrjsRoio8OS1brLw&q=Zinavo+-+Web+Design,+Web+Development+Company+in+Bangalore,+eCommerce+Web+Development,+SEO+Services,+Digital+Marketing+Agency&authuser=0&hl=tr&gl=IN",
+            "coordinates": {
+                "latitude": 13.014429999999999,
+                "longitude": 77.6480612
+            },
+            "plus_code": "2J7X+Q6 Bangalore, Karnataka, Hindistan",
+            "detailed_address": {
+                "ward": "HRBR Layout 1st Block, Balaji Layout, Subbaiahnapalya, Banaswadi",
+                "street": "R.K.Plaza, # 31,2nd Floor, 2nd Cross Rd",
+                "city": "Bengaluru, Bangalore",
+                "postal_code": "560043",
+                "state": "Karnataka",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "13595341624916585122",
+            "data_id": "0x3bae172f3e7069f1:0xbcac5b2d393c2aa2",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [
+                {
+                    "link": "https://www.zinavo.com/contact-us.html",
+                    "source": "zinavo.com"
+                }
+            ],
+            "about": [
+                {
+                    "id": "from_the_business",
+                    "name": "Isletme hakkinda",
+                    "options": [
+                        {
+                            "name": "Sahibi kadin oldugunu belirtiyor",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "service_options",
+                    "name": "Hizmet secenekleri",
+                    "options": [
+                        {
+                            "name": "Online randevu",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Gercek mekanda hizmet",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Erisilebilirlik",
+                    "options": [
+                        {
+                            "name": "Tekerlekli sandalyeye uygun giris",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Tekerlekli sandalyeye uygun oturma duzeni",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Tekerlekli sandalyeye uygun tuvalet",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "amenities",
+                    "name": "Sunulan olanaklar",
+                    "options": [
+                        {
+                            "name": "Uniseks tuvalet",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "crowd",
+                    "name": "Kitle",
+                    "options": [
+                        {
+                            "name": "LGBTQ+ dostu",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMjlMvH3ZjLau10dM6ZgMMoGU-FMWO6ez6aoYD8=w446-h298-k-no"
+                },
+                {
+                    "about": "En son",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOIutGtK7aEYZWPJicbQchyl8wY7Qk6CLLbOYb5=w298-h298-k-no"
+                },
+                {
+                    "about": "Videolar",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOl8sAvsqQfk2GXS0AmRuGLQqdw2ZiYPLzsCOOw=w529-h298-k-no"
+                },
+                {
+                    "about": "Grafik",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPMNRkRbFhcQ8WK0cISVNJn1N0PiWPjETGwHaoJ=w397-h298-k-no"
+                },
+                {
+                    "about": "Sahibinin sectikleri",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOwnMoJMdCphG9Hkry4yUlz9k1F_12gyRZ2l5YX=w298-h298-k-no"
+                },
+                {
+                    "about": "Street View ve 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FK_D_7cGDa6L7fIW2ed8_A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=74.5931&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "09:00-22:00"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "09:00-22:00"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "09:00-22:00"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "09:00-22:00"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "09:00-22:00"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "09:00-22:00"
+                    ]
+                },
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "Kapali"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Zinavo is one of the best web designers in Bangalore when it comes to quality work and value for money. Because I am not a technical person, it was difficult for me to understand the stuff, but they helped me a lot and elaborated on the technicalities. The enthusiasm of the group is greatly appreciated. I would like to thank Zinavo and the entire team for their efforts.",
+                    "reviewer_name": "Latha Ramesh",
+                    "rating": 5,
+                    "review_text": "Zinavo is one of the best web designers in Bangalore when it comes to quality work and value for money. Because I am not a technical person, it was difficult for me to understand the stuff, but they helped me a lot and elaborated on the technicalities. The enthusiasm of the group is greatly appreciated. I would like to thank Zinavo and the entire team for their efforts.",
+                    "published_at": "bir hafta once",
+                    "published_at_date": "2023-11-25T07:14:17.377000",
+                    "response_from_owner_text": "Thank you so much for your kind words, Latha! We are glad that you are pleased with our quality work and value for money. We appreciate your enthusiasm and are delighted that we were able to help you understand the technicalities. We are grateful for your support and look forward to working with you in the future.",
+                    "response_from_owner_ago": "bir hafta once",
+                    "response_from_owner_date": "2023-11-27T08:25:03.190000",
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102907510039412258051/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI2y5i3Yo-QBXM_cM_8jqLiwpAyafMAx-ARcOMbjHH_=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Zinavo, kaliteli is ve paranin karsiligini verme konusunda Bangalore'daki en iyi web tasarimcilarindan biridir. Teknik adam olmadigim icin konuyu anlamak benim icin zor oldu ama bana cok yardimci oldular ve teknik detaylari detaylandirdilar. Grubun coskusu buyuk begeni topladi. Zinavo'ya ve tum ekibe emeklerinden dolayi tesekkur ediyorum.",
+                    "response_from_owner_translated_text": "Nazik sozlerin icin cok tesekkur ederim Latha! Kaliteli isimizden ve paranizin karsiligini verdigimizden memnun kalmaniza sevindik. Ilginizi takdir ediyoruz ve teknik ayrintilari anlamaniza yardimci olabildigimiz icin mutluyuz. Desteginiz icin minnettariz ve gelecekte sizinle calismayi sabirsizlikla bekliyoruz.",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "We appreciate dedication, professionalism, and commitment. Zinavo team works smart and takes no time at all to understand our requirements and execute the design as per our wishes. One of the best web development companies we have worked with. highly recommended. Thanks to Zinavo",
+                    "reviewer_name": "Balamurugan Baskar",
+                    "rating": 5,
+                    "review_text": "We appreciate dedication, professionalism, and commitment. Zinavo team works smart and takes no time at all to understand our requirements and execute the design as per our wishes. One of the best web development companies we have worked with. highly recommended. Thanks to Zinavo",
+                    "published_at": "bir hafta once",
+                    "published_at_date": "2023-11-25T07:21:01.918000",
+                    "response_from_owner_text": "Thank you so much for your kind words, Baskar! We're so glad that you appreciated our dedication, professionalism, and commitment. We look forward to working with you again soon!",
+                    "response_from_owner_ago": "bir hafta once",
+                    "response_from_owner_date": "2023-11-27T08:23:49.396000",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102516249949073560492/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJzZUIOtgsry-hmGlsYJuLcAVc2woHMF4ybzIt9ZkqJ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Adanmisligi, profesyonelligi ve bagliligi takdir ediyoruz. Zinavo ekibi akillica calisiyor ve gereksinimlerimizi anlamak ve tasarimi isteklerimiz dogrultusunda gerceklestirmek icin hic zaman ayirmiyor. Birlikte calistigimiz en iyi web gelistirme sirketlerinden biri. siddetle tavsiye edilir. Zinavo'ya tesekkurler",
+                    "response_from_owner_translated_text": "Nazik sozlerin icin cok tesekkur ederim Basar! Bagliligimizi, profesyonelligimizi ve bagliligimizi takdir ettiginize cok sevindik. Yakinda sizinle tekrar calismayi sabirsizlikla bekliyoruz!",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "It was a pleasure working with Zinavo as my web design company recently! I have been extremely impressed with their professionalism, knowledge, and accommodating nature from the first call to the end of the project. Their website looks modern and is easy to navigate. They are so good at what they do that I would highly recommend them to anyone who needs a website designed. There is no doubt that Zinavo is the best web design company in Bangalore!",
+                    "reviewer_name": "Senthoor Pandi",
+                    "rating": 5,
+                    "review_text": "It was a pleasure working with Zinavo as my web design company recently! I have been extremely impressed with their professionalism, knowledge, and accommodating nature from the first call to the end of the project. Their website looks modern and is easy to navigate. They are so good at what they do that I would highly recommend them to anyone who needs a website designed. There is no doubt that Zinavo is the best web design company in Bangalore!",
+                    "published_at": "2 ay once",
+                    "published_at_date": "2023-09-11T15:30:57.379000",
+                    "response_from_owner_text": "Thank you for the kind words, Senthoor! We appreciate your positive review and are thrilled to hear that you were satisfied with our services. We look forward to working with you again in the future.",
+                    "response_from_owner_ago": "bir hafta once",
+                    "response_from_owner_date": "2023-11-23T12:21:02.832000",
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 4,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107265595758343104916/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXno8AyJ8vfdihZ3cLLh6w6U1TlSb1HgKNqSaK7WjGgdAI=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Son zamanlarda web tasarim sirketim olarak Zinavo ile calismak benim icin bir zevkti! Ilk cagridan projenin sonuna kadar profesyonelliklerinden, bilgilerinden ve yardimsever dogalarindan son derece etkilendim. Web siteleri modern gorunuyor ve gezinmesi kolay. Yaptiklari iste o kadar iyiler ki, web sitesi tasarimina ihtiyaci olan herkese siddetle tavsiye ediyorum. Zinavo'nun Bangalore'daki en iyi web tasarim sirketi olduguna suphe yok!",
+                    "response_from_owner_translated_text": "Nazik sozlerin icin tesekkur ederim Senthoor! Olumlu degerlendirmenizi takdir ediyoruz ve hizmetlerimizden memnun kaldiginizi duymaktan buyuk mutluluk duyuyoruz. Gelecekte sizinle tekrar calismayi sabirsizlikla bekliyoruz.",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "My experience with Zinavo was excellent. The website they created for my business met all my requirements and expectations. As well as providing excellent customer service throughout the process, they also made sure I was satisfied with the finished product. Anyone looking for a professional and creative web design company should consider them.",
+                    "reviewer_name": "Gr76 G",
+                    "rating": 5,
+                    "review_text": "My experience with Zinavo was excellent. The website they created for my business met all my requirements and expectations. As well as providing excellent customer service throughout the process, they also made sure I was satisfied with the finished product. Anyone looking for a professional and creative web design company should consider them.",
+                    "published_at": "2 ay once",
+                    "published_at_date": "2023-10-04T13:13:39.209000",
+                    "response_from_owner_text": "Thank you for your kind words, Gr76 G! We are so glad that you were pleased with the website we designed and the customer service you received. We look forward to helping more businesses create websites that meet their needs and expectations.",
+                    "response_from_owner_ago": "bir hafta once",
+                    "response_from_owner_date": "2023-11-23T12:41:28.363000",
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105134469792936569619/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIU1WDS39QouKHHKTueqPshLs78e7Uw00eRi3v9boJv=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Zinavo ile olan deneyimim mukemmeldi. Isletmem icin hazirladiklari web sitesi tum ihtiyac ve beklentilerimi karsiladi. Surec boyunca mukemmel musteri hizmeti saglamanin yani sira, nihai urunden memnun kalmami da sagladilar. Profesyonel ve yaratici bir web tasarim sirketi arayan herkes bunlari dusunmelidir.",
+                    "response_from_owner_translated_text": "Nazik sozleriniz icin tesekkur ederiz, Gr76 G! Tasarladigimiz web sitesinden ve aldiginiz musteri hizmetlerinden memnun kalmaniza cok sevindik. Daha fazla isletmenin ihtiyaclarini ve beklentilerini karsilayan web siteleri olusturmasina yardimci olmayi sabirsizlikla bekliyoruz.",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "The Zinavo team is the best place for all Website development needs for your business. They are highly professional and have a great work ethic. As we requested many changes for our website, they were always willing to make them necessary for a better customer experience. I am looking forward to working with your esteemed team shortly and highly recommend your service offerings to any customer. Thank you for everything you do.",
+                    "reviewer_name": "Loki 2005",
+                    "rating": 5,
+                    "review_text": "The Zinavo team is the best place for all Website development needs for your business. They are highly professional and have a great work ethic. As we requested many changes for our website, they were always willing to make them necessary for a better customer experience. I am looking forward to working with your esteemed team shortly and highly recommend your service offerings to any customer. Thank you for everything you do.",
+                    "published_at": "4 hafta once",
+                    "published_at_date": "2023-11-06T05:47:47.373000",
+                    "response_from_owner_text": "Thank you for your kind words, Loki! We are delighted to hear that you are pleased with our service and we look forward to working with you again soon.",
+                    "response_from_owner_ago": "bir hafta once",
+                    "response_from_owner_date": "2023-11-23T12:24:00.134000",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102732907499202077830/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJRlMAi4jhkRbnbmeIhJ_hUAlU2znU5gEDxvyBkPt6Y=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Zinavo ekibi, isletmenizin tum Web sitesi gelistirme ihtiyaclari icin en iyi yerdir. Son derece profesyoneller ve harika bir is ahlakina sahipler. Web sitemizde bircok degisiklik talep ettigimizde, daha iyi bir musteri deneyimi icin her zaman bunlari gerekli kilmaya istekliydiler. Degerli ekibinizle kisa sure icinde calismayi sabirsizlikla bekliyorum ve hizmet tekliflerinizi tum musterilere siddetle tavsiye ediyorum. Yaptigin hersey icin tesekkurler.",
+                    "response_from_owner_translated_text": "Nazik sozlerin icin tesekkur ederim Loki! Hizmetimizden memnun kaldiginizi duymak bizi cok mutlu etti ve en kisa zamanda sizinle tekrar calismayi sabirsizlikla bekliyoruz.",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I highly recommend this Web design and development company. The project was submitted on a certain date and time. The web design services provided by Zinavo were excellent. Our Zinavo team guided us with current trends and smart content ideas.",
+                    "reviewer_name": "VANAKAM DA MAPLA",
+                    "rating": 5,
+                    "review_text": "I highly recommend this Web design and development company. The project was submitted on a certain date and time. The web design services provided by Zinavo were excellent. Our Zinavo team guided us with current trends and smart content ideas.",
+                    "published_at": "bir hafta once",
+                    "published_at_date": "2023-11-25T07:17:59.309000",
+                    "response_from_owner_text": "Thank you for your kind words and 5 star rating! We are so glad that Zinavo was able to meet your expectations and provide you with excellent web design services. We appreciate your business and look forward to working with you again in the future.",
+                    "response_from_owner_ago": "bir hafta once",
+                    "response_from_owner_date": "2023-11-27T08:24:33.041000",
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115772122543954973269/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI0IR1mGlkBFcZyVpTKTn-rhUbNtBXudZc1wlghPzfy=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Bu Web tasarim ve gelistirme sirketini siddetle tavsiye ediyorum. Proje belirli bir tarih ve saatte teslim edildi. Zinavo'nun sagladigi web tasarim hizmetleri mukemmeldi. Zinavo ekibimiz guncel trendler ve akilli icerik fikirleriyle bize rehberlik etti.",
+                    "response_from_owner_translated_text": "Nazik sozleriniz ve 5 yildizli derecelendirmeniz icin tesekkur ederiz! Zinavo'nun beklentilerinizi karsilayabildigine ve size mukemmel web tasarim hizmetleri sunabildigine cok sevindik. Isletmenizi takdir ediyoruz ve gelecekte sizinle tekrar calismayi sabirsizlikla bekliyoruz.",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Our team selected Zinavo Technologies as our Web Design Company after one month of research and discussion. We now have the best website in the industry as a result of the decision we made. My sincere thanks go out to the Zinavo team.",
+                    "reviewer_name": "Balamurugan Baskar",
+                    "rating": 5,
+                    "review_text": "Our team selected Zinavo Technologies as our Web Design Company after one month of research and discussion. We now have the best website in the industry as a result of the decision we made. My sincere thanks go out to the Zinavo team.",
+                    "published_at": "bir hafta once",
+                    "published_at_date": "2023-11-25T07:22:34.944000",
+                    "response_from_owner_text": "Thank you so much, Balamurugan! We are so glad that you chose Zinavo Technologies as your web design company and that you are pleased with the results. We appreciate your kind review.",
+                    "response_from_owner_ago": "bir hafta once",
+                    "response_from_owner_date": "2023-11-27T08:22:47.738000",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106993459894958147371/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIcuoA6Cq_VpEiS--cJr5mjy6YEvODf31naUFynXZMr=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Ekibimiz bir aylik arastirma ve tartismanin ardindan Web Tasarim Sirketimiz olarak Zinavo Technologies'i secti. Aldigimiz karar sonucunda artik sektorun en iyi web sitesine sahibiz. Zinavo ekibine en icten tesekkurlerimi sunuyorum.",
+                    "response_from_owner_translated_text": "Cok tesekkur ederim Balamurugan! Web tasarim sirketiniz olarak Zinavo Technologies'i secmenize ve sonuclardan memnun kalmaniza cok sevindik. Nazik incelemenizi takdir ediyoruz.",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I had a great experience working with Zinavo. I received an excellent web design plan after they took the time to understand my business needs. Their advice has also helped me attract more customers to my website by making it more user-friendly and intuitive. Anyone looking for a reliable web design company in Bangalore should consider Zinavo!",
+                    "reviewer_name": "Ennavale Saran",
+                    "rating": 5,
+                    "review_text": "I had a great experience working with Zinavo. I received an excellent web design plan after they took the time to understand my business needs. Their advice has also helped me attract more customers to my website by making it more user-friendly and intuitive. Anyone looking for a reliable web design company in Bangalore should consider Zinavo!",
+                    "published_at": "2 ay once",
+                    "published_at_date": "2023-09-22T13:29:26.989000",
+                    "response_from_owner_text": "Thank you for your kind words, Saran! We are so glad to hear that you enjoyed working with us and are seeing the results of our efforts. We look forward to continuing to help you reach your business goals.",
+                    "response_from_owner_ago": "bir hafta once",
+                    "response_from_owner_date": "2023-11-23T12:46:57.552000",
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105947419200492382805/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVsoCyKCQD9yD2OuFp1Qbc-8EZuvLY812S92tr1De50Fz4=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Zinavo'yla calisirken harika bir deneyim yasadim. Is ihtiyaclarimi anlamaya zaman ayirdiktan sonra mukemmel bir web tasarim plani aldim. Onlarin tavsiyeleri ayrica web sitemi daha kullanici dostu ve sezgisel hale getirerek daha fazla musteri cekmeme yardimci oldu. Bangalore'da guvenilir bir web tasarim sirketi arayan herkes Zinavo'yu dusunmelidir!",
+                    "response_from_owner_translated_text": "Nazik sozlerin icin tesekkur ederim Saran! Bizimle calismaktan keyif aldiginizi ve cabalarimizin sonuclarini gordugunuzu duydugumuza cok sevindik. Is hedeflerinize ulasmaniza yardimci olmaya devam etmeyi sabirsizlikla bekliyoruz.",
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJQWbMS6wTrjsRUVo97n2K9Bs",
+            "name": "SeekNEO - Web Development, eCommerce Web Development, SEO Services, Digital Marketing Agency",
+            "description": null,
+            "reviews": 465,
+            "competitors": [
+                {
+                    "name": "GSearch | Website Designers Company in Bangalore, SEO, Logo, Ecommerce Development",
+                    "link": "https://www.google.com/maps/search/GSearch+%7C+Website+Designers+Company+in+Bangalore%2C+SEO%2C+Logo%2C+Ecommerce+Development/@12.9845423,77.5502528?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 126,
+                    "rating": 5,
+                    "main_category": "Web Sitesi Tasarimcisi"
+                },
+                {
+                    "name": "Webgen",
+                    "link": "https://www.google.com/maps/search/Webgen/@12.919852299999999,77.6074941?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 37,
+                    "rating": 4.1,
+                    "main_category": "Web Sitesi Tasarimcisi"
+                },
+                {
+                    "name": "Website Design Company in Bangalore | SEO Company in Bangalore",
+                    "link": "https://www.google.com/maps/search/Website+Design+Company+in+Bangalore+%7C+SEO+Company+in+Bangalore/@12.9982134,77.55840169999999?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 4,
+                    "rating": 5,
+                    "main_category": "Web Sitesi Tasarimcisi"
+                },
+                {
+                    "name": "EEZYY WEB",
+                    "link": "https://www.google.com/maps/search/EEZYY+WEB/@12.922264499999999,77.5860466?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 63,
+                    "rating": 4.8,
+                    "main_category": "Web Sitesi Tasarimcisi"
+                }
+            ],
+            "website": "https://www.seekneo.com/",
+            "owner": {
+                "id": "117148857706570628134",
+                "name": "SeekNEO - Web Development, eCommerce Web Development, SEO Services, Digital Marketing Agency (Sahibi)",
+                "link": "https://www.google.com/maps/contrib/117148857706570628134"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPTRrpUQ4bJIz7a6hGkpBgeV_D78WBoYBBfiltc=w408-h342-k-no",
+            "main_category": "Web Sitesi Tasarimcisi",
+            "categories": [
+                "Web Sitesi Tasarimcisi"
+            ],
+            "rating": 4.8,
+            "workday_timing": "09:30-21:30",
+            "closed_on": [
+                "Pazar"
+            ],
+            "phone": "+91 63646 15154",
+            "address": "SeekNEO - Web Development, eCommerce Web Development, SEO Services, Digital Marketing Agency, #286,Rajesh complex, 6th phase 1st stage, Rajaji Nagar Industrial Town, Bengaluru, Karnataka 560044, Hindistan",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/SeekNEO+-+Web+Development,+eCommerce+Web+Development,+SEO+Services,+Digital+Marketing+Agency/data=!4m7!3m6!1s0x3bae13ac4bcc6641:0x1bf48a7dee3d5a51!8m2!3d12.9863763!4d77.5473899!16s%2Fg%2F11g2338zrl!19sChIJQWbMS6wTrjsRUVo97n2K9Bs?authuser=0&hl=tr&rclk=1",
+            "status": "Acik  Kapanis saati: 21:30",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 12,
+                "2": 2,
+                "3": 3,
+                "4": 39,
+                "5": 409
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJQWbMS6wTrjsRUVo97n2K9Bs&q=SeekNEO+-+Web+Development,+eCommerce+Web+Development,+SEO+Services,+Digital+Marketing+Agency&authuser=0&hl=tr&gl=IN",
+            "coordinates": {
+                "latitude": 12.9863763,
+                "longitude": 77.5473899
+            },
+            "plus_code": "XGPW+HX Bangalore, Karnataka, Hindistan",
+            "detailed_address": {
+                "ward": "Mahaganapathi Nagar, 6th phase 1st stage, Rajaji Nagar Industrial Town, Rajajinagar",
+                "street": "#286,Rajesh complex",
+                "city": "Bengaluru, Bangalore",
+                "postal_code": "560044",
+                "state": "Karnataka",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "2014387206813997649",
+            "data_id": "0x3bae13ac4bcc6641:0x1bf48a7dee3d5a51",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [
+                {
+                    "link": "https://api.whatsapp.com/send/?phone=%2B916364615154&text&type=phone_number&app_absent=0",
+                    "source": "whatsapp.com"
+                }
+            ],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Hizmet secenekleri",
+                    "options": [
+                        {
+                            "name": "Online randevu",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Gercek mekanda hizmet",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Erisilebilirlik",
+                    "options": [
+                        {
+                            "name": "Tekerlekli sandalyeye uygun oturma duzeni",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Tekerlekli sandalyeye uygun park yeri",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Tekerlekli sandalyeye uygun tuvalet",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Tekerlekli sandalyeye uygun giris",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "amenities",
+                    "name": "Sunulan olanaklar",
+                    "options": [
+                        {
+                            "name": "Uniseks tuvalet",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "crowd",
+                    "name": "Kitle",
+                    "options": [
+                        {
+                            "name": "LGBTQ+ dostu",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "planning",
+                    "name": "Planlama",
+                    "options": [
+                        {
+                            "name": "Randevu gerekli",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPTRrpUQ4bJIz7a6hGkpBgeV_D78WBoYBBfiltc=w355-h298-k-no"
+                },
+                {
+                    "about": "Ic",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPTRrpUQ4bJIz7a6hGkpBgeV_D78WBoYBBfiltc=w355-h298-k-no"
+                },
+                {
+                    "about": "Sahibinin sectikleri",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNmLeE5VIBBzHP7K_JAVlHsgjFMDKKjIHFT6H6A=w224-h298-k-no"
+                },
+                {
+                    "about": "Street View ve 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hLKt8o3zCTVgviF2sEH_XA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=80.46319&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "09:30-21:30"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "09:30-21:30"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "09:30-21:30"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "09:30-21:30"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "09:30-21:30"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "09:30-21:30"
+                    ]
+                },
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "Kapali"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "We were looking for the best website design company in Bangalore, fortunately, we were here at SeekNEO. Their highly skilled and professional staff delivered us the web application we were looking forward to. In the process, they guided us on many aspects which we were not aware of. They gave importance to minute detailing, which is really inspiring. I especially thank the leadership and the entire team for delivering us the best product.",
+                    "reviewer_name": "Avinash Poojary",
+                    "rating": 4,
+                    "review_text": "We were looking for the best website design company in Bangalore, fortunately, we were here at SeekNEO. Their highly skilled and professional staff delivered us the web application we were looking forward to. In the process, they guided us on many aspects which we were not aware of. They gave importance to minute detailing, which is really inspiring. I especially thank the leadership and the entire team for delivering us the best product.",
+                    "published_at": "4 ay once",
+                    "published_at_date": "2023-08-04T05:53:33.525000",
+                    "response_from_owner_text": "Dear Avinash, we're thrilled to hear that you appreciate our team and found our leader to be always present. Thank you for trusting SeekNEO.",
+                    "response_from_owner_ago": "4 ay once",
+                    "response_from_owner_date": "2023-08-04T15:06:08.511000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104995159671631512746/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWt1HygMs8sO-e_J2aU7m1KCaaycU3zPqIw0J8mMFlPGHM=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Bangalore'deki en iyi web sitesi tasarim sirketini ariyorduk, neyse ki burada, SeekNEO'daydik. Son derece yetenekli ve profesyonel kadrolari, dort gozle bekledigimiz web uygulamasini bize teslim etti. Bu surecte farkinda olmadigimiz bircok konuda bize yol gosterdiler. Gercekten ilham verici olan kucuk detaylara onem verdiler. Bize en iyi urunu ulastirdiklari icin liderlige ve tum ekibe ozellikle tesekkur ederim.",
+                    "response_from_owner_translated_text": "Sevgili Avinash, ekibimizi takdir ettiginizi ve liderimizi her zaman yaninizda buldugunuzu duydugumuz icin cok heyecanliyiz. SeekNEO'ya guvendiginiz icin tesekkur ederiz.",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "They designed our company's website and did a good job. The company takes good care of customer requirements,they are accessible and all in all they are extremely customer friendly. I have had a very good experience with them  I am sure that other customers will have the same. I hope they are top web development company in Bangalore\nSpecial thanks to Mr.Manor who is Owner of this company.",
+                    "reviewer_name": "Ashok kanchan",
+                    "rating": 5,
+                    "review_text": "They designed our company's website and did a good job. The company takes good care of customer requirements,they are accessible and all in all they are extremely customer friendly. I have had a very good experience with them  I am sure that other customers will have the same. I hope they are top web development company in Bangalore\nSpecial thanks to Mr.Manor who is Owner of this company.",
+                    "published_at": "2 ay once",
+                    "published_at_date": "2023-09-20T18:23:09.122000",
+                    "response_from_owner_text": "Hello Ashok, Thanks for your review. We appreciate our relationship and trust you have on us. Our efforts will be always towards providing best experience and product.",
+                    "response_from_owner_ago": "bir ay once",
+                    "response_from_owner_date": "2023-10-07T03:40:29.103000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105007626315479995894/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXGC93GsZyn_oEkb544p0Wh9pAOJf5oSkLEQ5s3UGQwAmo=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Sirketimizin web sitesini tasarladilar ve iyi bir is cikardilar. Sirket, musteri gereksinimlerine iyi bakiyor, erisilebilir ve sonucta son derece musteri dostu. Onlarla cok iyi bir deneyim yasadim, diger musterilerin de ayni seyi yasayacagindan eminim. Umarim Bangalore'daki en iyi web gelistirme sirketidirler\nBu sirketin sahibi Bay Manor'a ozellikle tesekkur ederiz.",
+                    "response_from_owner_translated_text": "Merhaba Ashok, Incelemeniz icin tesekkur ederiz. Iliskimizi ve bize duydugunuz guveni takdir ediyoruz. Cabalarimiz her zaman en iyi deneyimi ve urunu saglamaya yonelik olacaktir.",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "We have a good working relationship with SeekNEO .We are very impressed by the designs their team came up with, they really put a lot of thought and energy into creating something custom that works and excites the end-user. I thank Mr. Ajay who truly listens and pays attention to our needs such as appearing high in search results, loading quickly on all devices, having intuitive navigation, and coming up with detailed, consistent design. Great Work Keep it up. I would recommend you all use Webomindapps Web Development Service for your business or personal website. Wish you all the best of success.",
+                    "reviewer_name": "Karthik HD",
+                    "rating": 5,
+                    "review_text": "We have a good working relationship with SeekNEO .We are very impressed by the designs their team came up with, they really put a lot of thought and energy into creating something custom that works and excites the end-user. I thank Mr. Ajay who truly listens and pays attention to our needs such as appearing high in search results, loading quickly on all devices, having intuitive navigation, and coming up with detailed, consistent design. Great Work Keep it up. I would recommend you all use Webomindapps Web Development Service for your business or personal website. Wish you all the best of success.",
+                    "published_at": "4 ay once",
+                    "published_at_date": "2023-08-04T07:11:32.383000",
+                    "response_from_owner_text": "Dear Karthik, we're thrilled to hear that you appreciate our team and found our leader to be always present. Thank you for trusting SeekNEO.",
+                    "response_from_owner_ago": "4 ay once",
+                    "response_from_owner_date": "2023-08-04T15:05:48.318000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104620093483221154812/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI8rphvGU_aGohC0pEhaJJ3AAaQNTK6hATa9KenAK2CoQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "SeekNEO ile iyi bir calisma iliskimiz var. Ekiplerinin ortaya koydugu tasarimlardan cok etkilendik, ise yarayan ve son kullaniciyi heyecanlandiran ozel bir sey yaratmak icin gercekten cok fazla dusunce ve enerji harcadilar. Arama sonuclarinda ust siralarda gorunmek, tum cihazlarda hizli bir sekilde yuklemek, sezgisel navigasyona sahip olmak ve ayrintili, tutarli bir tasarim ortaya cikarmak gibi ihtiyaclarimizi gercekten dinleyen ve dikkate alan Ajay Bey'e tesekkur ederim. Cok guzel, boyle devam et. Isiniz veya kisisel web siteniz icin Webomindapps Web Gelistirme Hizmetini kullanmanizi tavsiye ederim. Hepinize basarilar dilerim.",
+                    "response_from_owner_translated_text": "Sevgili Karthik, ekibimizi takdir ettiginizi ve liderimizi her zaman yaninizda buldugunuzu duymak bizi cok heyecanlandirdi. SeekNEO'ya guvendiginiz icin tesekkur ederiz.",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Working with SeekNeo was an exceptional experience. They transformed our online presence with a beautifully designed and user-friendly website. Their attention to detail and responsiveness exceeded our expectations. The website developer's expertise and creativity were truly remarkable. I highly recommend SeekNeo team for top-notch results !",
+                    "reviewer_name": "Prashanth M S",
+                    "rating": 5,
+                    "review_text": "Working with SeekNeo was an exceptional experience. They transformed our online presence with a beautifully designed and user-friendly website. Their attention to detail and responsiveness exceeded our expectations. The website developer's expertise and creativity were truly remarkable. I highly recommend SeekNeo team for top-notch results !",
+                    "published_at": "2 ay once",
+                    "published_at_date": "2023-10-05T05:23:59.655000",
+                    "response_from_owner_text": "Thank you!!!Glad to know that you are completely satisfied with our development team and the work is been delivered to you in time.Will surely look into the customer relationship and do the necessary changes if required.Once again thanks a lot for your valuable time.",
+                    "response_from_owner_ago": "bir ay once",
+                    "response_from_owner_date": "2023-10-07T03:39:33.918000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 128,
+                    "total_number_of_photos_by_reviewer": 79,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103812943747237132353/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUcR0JsUI_G-y46BF_Atfa0UV8FluafV9HybdvlPrigQsNo=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "SeekNeo ile calismak olaganustu bir deneyimdi. Guzel tasarlanmis ve kullanici dostu bir web sitesiyle cevrimici varligimizi donusturduler. Detaylara olan ilgileri ve yanit verme hizlari beklentilerimizi asti. Web sitesi gelistiricisinin uzmanligi ve yaraticiligi gercekten dikkat cekiciydi. Birinci sinif sonuclar icin SeekNeo ekibini siddetle tavsiye ediyorum!",
+                    "response_from_owner_translated_text": "Tesekkur ederiz!!!Gelistirme ekibimizden tamamen memnun kaldiginizi ve isin size zamaninda teslim edildigini bilmek bizi cok mutlu etti.Musteri iliskilerini mutlaka inceleyip gerekirse gerekli degisiklikleri yapacagiz.Ilginiz icin bir kez daha cok tesekkur ederiz. degerli zaman.",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "The team is very professional, responsive, and dynamic. I am from Sweden and reached out to SeekNEO for my eCommerce website development. The distance really did not matter as their interaction through virtual calls was productive to understand the requirements and deliver the same. Thanks to the SeekNEO team and I am opting for their team for my digital marketing services too.",
+                    "reviewer_name": "Lohith Gowda",
+                    "rating": 5,
+                    "review_text": "The team is very professional, responsive, and dynamic. I am from Sweden and reached out to SeekNEO for my eCommerce website development. The distance really did not matter as their interaction through virtual calls was productive to understand the requirements and deliver the same. Thanks to the SeekNEO team and I am opting for their team for my digital marketing services too.",
+                    "published_at": "3 ay once",
+                    "published_at_date": "2023-08-23T13:31:27.893000",
+                    "response_from_owner_text": "Hello Lohith, Thanks for your review. We appreciate our relationship and trust you have on us. Our efforts will be always towards providing best experience and product.",
+                    "response_from_owner_ago": "3 ay once",
+                    "response_from_owner_date": "2023-08-24T06:30:51.038000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107498077468738825621/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWkiPE2gZ5ztZnEw1Cp7Gu7yGDmO7SrBIbqShR0Ww7m5oU=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Ekip son derece profesyonel, duyarli ve dinamik. Isvec'liyim ve e-Ticaret web sitesi gelistirmem icin SeekNEO'ya ulastim. Sanal aramalar yoluyla etkilesimleri gereksinimleri anlamak ve aynisini sunmak acisindan verimli oldugundan mesafe gercekten onemli degildi. SeekNEO ekibine tesekkurler ve ben de dijital pazarlama hizmetlerim icin onlarin ekibini tercih ediyorum.",
+                    "response_from_owner_translated_text": "Merhaba Lohith, Incelemeniz icin tesekkurler. Iliskimizi ve bize duydugunuz guveni takdir ediyoruz. Cabalarimiz her zaman en iyi deneyimi ve urunu saglamaya yonelik olacaktir.",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "SeekNEO India is the best digital marketing firm in Bangalore. The team here has expert knowledge of their domain. They helped us redesign our website and our SEO ranking! We are very happy with the results and wish to recommend them to anyone looking for a trustworthy and efficient agency here.",
+                    "reviewer_name": "arpita shetty",
+                    "rating": 5,
+                    "review_text": "SeekNEO India is the best digital marketing firm in Bangalore. The team here has expert knowledge of their domain. They helped us redesign our website and our SEO ranking! We are very happy with the results and wish to recommend them to anyone looking for a trustworthy and efficient agency here.",
+                    "published_at": "3 ay once",
+                    "published_at_date": "2023-08-23T13:32:36.805000",
+                    "response_from_owner_text": "Thank you for your kind words, Arpita! We're thrilled to hear that our team exceeded your expectations and are pleased to assist with your digital presence and SEO.",
+                    "response_from_owner_ago": "3 ay once",
+                    "response_from_owner_date": "2023-08-24T06:30:08.567000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111175607548089250038/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjURS0d4zR0jE9iJ7HLUElMhYx8I1iBJSCRozJAvHw5sZF8=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "SeekNEO Hindistan, Bangalore'deki en iyi dijital pazarlama firmasidir. Buradaki ekip, kendi alanlariyla ilgili uzman bilgisine sahiptir. Web sitemizi ve SEO siralamamizi yeniden tasarlamamiza yardimci oldular! Sonuclardan cok memnunuz ve burada guvenilir ve verimli bir ajans arayan herkese tavsiye etmek istiyoruz.",
+                    "response_from_owner_translated_text": "Nazik sozlerin icin tesekkur ederim Arpita! Ekibimizin beklentilerinizi astigini ve dijital varliginiza ve SEO'nuza yardimci olmaktan mutluluk duydugunu duydugumuz icin cok heyecanliyiz.",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Their web development services are top notch. Everything from their customer service to the quality of their work was first class. My website is now running smoother than ever before and I couldn't be happier with my experience working with them. Highly recommend seeKNEO if you're looking for a reliable web development company",
+                    "reviewer_name": "G Creations",
+                    "rating": 4,
+                    "review_text": "Their web development services are top notch. Everything from their customer service to the quality of their work was first class. My website is now running smoother than ever before and I couldn't be happier with my experience working with them. Highly recommend seeKNEO if you're looking for a reliable web development company",
+                    "published_at": "3 ay once",
+                    "published_at_date": "2023-08-07T10:45:07.640000",
+                    "response_from_owner_text": "Thank you for you valuable comments!!!\n",
+                    "response_from_owner_ago": "3 ay once",
+                    "response_from_owner_date": "2023-08-24T06:36:08.750000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105671755110434911566/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL4nROWC5RWVUPMynrIrVgaDGU8XnW3uy911q6FHTJO=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Web gelistirme hizmetleri birinci siniftir. Musteri hizmetlerinden islerinin kalitesine kadar her sey birinci sinifti. Web sitem artik her zamankinden daha sorunsuz calisiyor ve onlarla calisma deneyimimden daha mutlu olamazdim. Guvenilir bir web gelistirme sirketi ariyorsaniz, kesinlikle SeeKNEO'yu tavsiye edin.",
+                    "response_from_owner_translated_text": "Degerli yorumlariniz icin tesekkur ederiz!!!\n",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "SeekNEO is well-known in Bangalore for its social media services. They fulfilled our needs very successfully and helped us get more contacts than we could imagine in such a short time! We are very happy with the way they handled the job at hand..",
+                    "reviewer_name": "abijith akshetty",
+                    "rating": 4,
+                    "review_text": "SeekNEO is well-known in Bangalore for its social media services. They fulfilled our needs very successfully and helped us get more contacts than we could imagine in such a short time! We are very happy with the way they handled the job at hand..",
+                    "published_at": "3 ay once",
+                    "published_at_date": "2023-08-07T11:31:31.781000",
+                    "response_from_owner_text": "Thank you so much for your valuable comments\nTeam SeekNEO",
+                    "response_from_owner_ago": "3 ay once",
+                    "response_from_owner_date": "2023-08-24T06:35:31.774000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 8,
+                    "total_number_of_photos_by_reviewer": 5,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104385699618120388796/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX93m-W1_rBr-enbRo5scSNyYNfAVo4UDDwgmdkU2pR7w=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "SeekNEO, Bangalor'da sosyal medya hizmetleriyle taninmaktadir. Ihtiyaclarimizi cok basarili bir sekilde karsiladilar ve bu kadar kisa surede hayal edebilecegimizden daha fazla baglanti kurmamiza yardimci oldular! Ellerindeki isi halletme bicimlerinden cok memnunuz..",
+                    "response_from_owner_translated_text": "Degerli yorumlariniz icin cok tesekkur ederiz\nTakim AramaNEO",
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJldXjtycVrjsRVcBF1rkF91k",
+            "name": "W3 Dream Solutions (Website Development Company in Bangalore)",
+            "description": null,
+            "reviews": 91,
+            "competitors": [
+                {
+                    "name": "Web Design Royale",
+                    "link": "https://www.google.com/maps/search/Web+Design+Royale/@12.973189,77.647582?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 55,
+                    "rating": 5,
+                    "main_category": "Web Sitesi Tasarimcisi"
+                },
+                {
+                    "name": "eORB Solutions - Best website Designer Company in Bangalore",
+                    "link": "https://www.google.com/maps/search/eORB+Solutions+-+Best+website+Designer+Company+in+Bangalore/@12.9970944,77.61408949999999?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 89,
+                    "rating": 4,
+                    "main_category": "Web Sitesi Tasarimcisi"
+                },
+                {
+                    "name": "Webgen",
+                    "link": "https://www.google.com/maps/search/Webgen/@12.919852299999999,77.6074941?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 37,
+                    "rating": 4.1,
+                    "main_category": "Web Sitesi Tasarimcisi"
+                },
+                {
+                    "name": "MARS WEB Solution",
+                    "link": "https://www.google.com/maps/search/MARS+WEB+Solution/@12.9186166,77.59345019999999?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 132,
+                    "rating": 4.8,
+                    "main_category": "Web Sitesi Tasarimcisi"
+                },
+                {
+                    "name": "TeNeEv - Website Development Company in Bangalore, Logo Designer in Bangalore, Online Marketing Company in Bangalore",
+                    "link": "https://www.google.com/maps/search/TeNeEv+-+Website+Development+Company+in+Bangalore%2C+Logo+Designer+in+Bangalore%2C+Online+Marketing+Company+in+Bangalore/@12.957162100000001,77.54364869999999?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 50,
+                    "rating": 4.8,
+                    "main_category": "Web Sitesi Tasarimcisi"
+                }
+            ],
+            "website": "https://www.w3dreamsolutions.com/",
+            "owner": {
+                "id": "109843859553610190196",
+                "name": "W3 Dream Solutions (Website Development Company in Bangalore) (Sahibi)",
+                "link": "https://www.google.com/maps/contrib/109843859553610190196"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMLoemIG5NmOOdw50qh8PdHp2NcfxmZ6A_Q5lsz=w408-h363-k-no",
+            "main_category": "Web Sitesi Tasarimcisi",
+            "categories": [
+                "Web Sitesi Tasarimcisi",
+                "Yazilim Sirketi"
+            ],
+            "rating": 4.8,
+            "workday_timing": "10:30-19:00",
+            "closed_on": [
+                "Pazar"
+            ],
+            "phone": "+91 89707 72011",
+            "address": "W3 Dream Solutions (Website Development Company in Bangalore), No. 1375 , 2nd Floor, Alpinism Building 13th Cross, Anjaneyaswamy Temple Rd JP Nagar, 1st Phase, Sarakki, Bengaluru, Karnataka 560078, Hindistan",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/W3+Dream+Solutions+%28Website+Development+Company+in+Bangalore%29/data=!4m7!3m6!1s0x3bae1527b7e3d595:0x59f705b9d645c055!8m2!3d12.9093808!4d77.5744618!16s%2Fg%2F11b6szqw5s!19sChIJldXjtycVrjsRVcBF1rkF91k?authuser=0&hl=tr&rclk=1",
+            "status": "Kapali  Acilis zamani: Car 10:30",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 3,
+                "2": 0,
+                "3": 1,
+                "4": 1,
+                "5": 86
+            },
+            "featured_question": {
+                "question": "(Google tarafindan cevrilmistir) Merhaba Ekip, Bangalore'da hizmet sunan bir web gelistirme sirketi ariyorum. beyler bu konuda yardimci olurmusunuz\nE-Ticaret web sitesi tasarimi ve gelistirme gereksinimim var.\n\n(Orijinal)\nHi Team, I'm in search for a web development company which offer their services in Bangalore. Do you guys help on this ? \nI've eCommerce website design and development requirement. ",
+                "answer": "(Google tarafindan cevrilmistir) Merhaba Amit, size daha fazla yardimci olabilmemiz icin lutfen bizimle iletisime gecin.\n\n(Orijinal)\nHi Amit, kindly contact us so we can help you further.",
+                "question_date": "2019-12-28T08:59:07",
+                "question_ago": "3 yil once",
+                "asked_by": {
+                    "name": "Amit Hussain",
+                    "link": "https://www.google.com/maps/contrib/110793805457464172824"
+                },
+                "answer_date": "2019-12-28T14:12:57",
+                "answer_ago": "3 yil once",
+                "answered_by": {
+                    "name": "W3 Dream Solutions (Website Development Company in Bangalore) (Sahibi)",
+                    "link": "https://www.google.com/maps/contrib/109843859553610190196"
+                }
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJldXjtycVrjsRVcBF1rkF91k&q=W3+Dream+Solutions+%28Website+Development+Company+in+Bangalore%29&authuser=0&hl=tr&gl=IN",
+            "coordinates": {
+                "latitude": 12.9093808,
+                "longitude": 77.5744618
+            },
+            "plus_code": "WH5F+QQ Bangalore, Karnataka, Hindistan",
+            "detailed_address": {
+                "ward": "SBI Colony, 1st Phase, Sarakki",
+                "street": "No. 1375 , 2nd Floor, Alpinism Building 13th Cross, Anjaneyaswamy Temple Rd JP Nagar",
+                "city": "Bengaluru, Bangalore",
+                "postal_code": "560078",
+                "state": "Karnataka",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "6482656484345102421",
+            "data_id": "0x3bae1527b7e3d595:0x59f705b9d645c055",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Hizmet secenekleri",
+                    "options": [
+                        {
+                            "name": "Online randevu",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Gercek mekanda hizmet",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Erisilebilirlik",
+                    "options": [
+                        {
+                            "name": "Tekerlekli sandalyeye uygun oturma duzeni",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Tekerlekli sandalyeye uygun tuvalet",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "amenities",
+                    "name": "Sunulan olanaklar",
+                    "options": [
+                        {
+                            "name": "Uniseks tuvalet",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "crowd",
+                    "name": "Kitle",
+                    "options": [
+                        {
+                            "name": "LGBTQ+ dostu",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "planning",
+                    "name": "Planlama",
+                    "options": [
+                        {
+                            "name": "Randevu gerekli",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMLoemIG5NmOOdw50qh8PdHp2NcfxmZ6A_Q5lsz=w334-h298-k-no"
+                },
+                {
+                    "about": "En son",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMLoemIG5NmOOdw50qh8PdHp2NcfxmZ6A_Q5lsz=w334-h298-k-no"
+                },
+                {
+                    "about": "Videolar",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPYB7aSt49J1nSWsA4OflI-XvRtOww2HjpqwWhk=w529-h298-k-no"
+                },
+                {
+                    "about": "Ic",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPEjdG7Ivn9AF0NnnSrWoiNNmMGw7J5Y6hWUw10=w529-h298-k-no"
+                },
+                {
+                    "about": "Sahibinin sectikleri",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPmWsQiKQCb81kuxhN361twENK85_S7_Ji_3bNK=w529-h298-k-no"
+                },
+                {
+                    "about": "Street View ve 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1ERd7uwgG0HgnxLcm0PriQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=28.248468&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "10:30-19:00"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "10:30-19:00"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "10:30-19:00"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "10:30-19:00"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "10:30-19:00"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "10:30-14:00"
+                    ]
+                },
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "Kapali"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "W3 Dream solutions is a perfect choice for website development, mobile app, ecommerce website & store. Dinesh sir have a good knowledge of SEO, coding, and business & project strategy . I am highly recommended to Dinesh sir and team.",
+                    "reviewer_name": "Shivani Mehta",
+                    "rating": 5,
+                    "review_text": "W3 Dream solutions is a perfect choice for website development, mobile app, ecommerce website & store. Dinesh sir have a good knowledge of SEO, coding, and business & project strategy . I am highly recommended to Dinesh sir and team.",
+                    "published_at": "5 ay once",
+                    "published_at_date": "2023-06-28T14:45:28.584000",
+                    "response_from_owner_text": "Thank you ma'am for your valuable review. ",
+                    "response_from_owner_ago": "5 ay once",
+                    "response_from_owner_date": "2023-06-29T06:45:56.499000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100901693443111944321/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJxFEy4NHZrNx3cXrtJysC9KWWTgIhONRXLQivGW5uR9A=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "W3 Dream cozumleri web sitesi gelistirme, mobil uygulama, e-ticaret web sitesi ve magaza icin mukemmel bir secimdir. Dinesh efendim, SEO, kodlama ve is ve proje stratejisi konularinda iyi bir bilgiye sahiptir. Dinesh efendime ve ekibine siddetle tavsiye edilirim.",
+                    "response_from_owner_translated_text": "Degerli yorumunuz icin tesekkur ederiz hanimefendi.",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "A great place to get your website developed and maintained. We were very happy with our website work. Mr.Dinesh is good at understanding customer requirements and provides the best and economical solutions.",
+                    "reviewer_name": "Prasad CS",
+                    "rating": 5,
+                    "review_text": "A great place to get your website developed and maintained. We were very happy with our website work. Mr.Dinesh is good at understanding customer requirements and provides the best and economical solutions.",
+                    "published_at": "4 ay once",
+                    "published_at_date": "2023-08-02T12:14:33.768000",
+                    "response_from_owner_text": "Thank you so much sir for your valuable comment and rating.",
+                    "response_from_owner_ago": "4 ay once",
+                    "response_from_owner_date": "2023-08-03T04:40:01.118000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 20,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117556298254152143800/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX4mbfe-bCKfMr0V4_KPulUwqpVSMkNkD1WmtDKRumssgM=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Web sitenizin gelistirilmesi ve bakiminin yapilmasi icin harika bir yer. Web sitemizin calismasindan cok memnun kaldik. Mr.Dinesh, musteri gereksinimlerini anlamakta iyidir ve en iyi ve ekonomik cozumleri sunar.",
+                    "response_from_owner_translated_text": "Degerli yorumunuz ve puanlamaniz icin cok tesekkur ederiz efendim.",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "The best company to develop your website and they have a right talents for software development projects as well. I definitely recommend this company.",
+                    "reviewer_name": "dhass ak",
+                    "rating": 5,
+                    "review_text": "The best company to develop your website and they have a right talents for software development projects as well. I definitely recommend this company.",
+                    "published_at": "2 ay once",
+                    "published_at_date": "2023-09-06T12:14:28.412000",
+                    "response_from_owner_text": "Thank you so much for your valuable review. ",
+                    "response_from_owner_ago": "2 ay once",
+                    "response_from_owner_date": "2023-09-08T06:46:54.800000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 60,
+                    "total_number_of_photos_by_reviewer": 6,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114518632535770219389/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVvvREZKZZar2HncO82Pr3l-oCicBQEy5ImwyAMkySIoA=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Web sitenizi gelistirmek icin en iyi sirket ve ayni zamanda yazilim gelistirme projeleri icin de dogru yeteneklere sahipler. Bu sirketi kesinlikle tavsiye ediyorum.",
+                    "response_from_owner_translated_text": "Degerli incelemeniz icin cok tesekkur ederiz.",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I had requirement for a booking website and mobile application development, so I was searching for a reputed web development company in Bangalore. I found W3 Dream Solutions in top ranking and contacted them. I asked for provide a quotation, but they asked to schedule a meeting and discussion in details to process for quotation and it was a good moment for me to understand all technical things for my project and took forward. Finally, they have demonstrated a nice portal after completion.",
+                    "reviewer_name": "Manjula Halagali",
+                    "rating": 5,
+                    "review_text": "I had requirement for a booking website and mobile application development, so I was searching for a reputed web development company in Bangalore. I found W3 Dream Solutions in top ranking and contacted them. I asked for provide a quotation, but they asked to schedule a meeting and discussion in details to process for quotation and it was a good moment for me to understand all technical things for my project and took forward. Finally, they have demonstrated a nice portal after completion.",
+                    "published_at": "bir yil once",
+                    "published_at_date": "2022-08-01T11:39:07.317000",
+                    "response_from_owner_text": "I really appreciate the opportunity to work with you. Thanks for your valuable time and review.",
+                    "response_from_owner_ago": "bir yil once",
+                    "response_from_owner_date": "2022-08-01T11:49:50.883000",
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 9,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101552632529854053231/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUE4U6zZF2bha8m9qk9A1lELQVU8uNizXWwE7aDa-nWSTg=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Bir rezervasyon web sitesine ve mobil uygulama gelistirmeye ihtiyacim vardi, bu yuzden Bangalore'da taninmis bir web gelistirme sirketi ariyordum. W3 Dream Solutions'i en ust siralarda buldum ve onlarla iletisime gectim. Bir teklif sunmayi istedim, ancak teklifin islenmesi icin ayrintili bir toplanti ve tartisma planlamak istediler ve bu benim icin projemle ilgili tum teknik seyleri anlamam icin iyi bir an oldu ve ilerlemeye devam ettim. Sonunda tamamlandiktan sonra guzel bir portal sergilediler.",
+                    "response_from_owner_translated_text": "Sizinle calisma firsatini gercekten takdir ediyorum. Degerli vaktiniz ve incelemeniz icin tesekkur ederiz.",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "We have been engaged with W3 Dream Solutions for past 3 years. Mr. Dinesh and his team helped us well from the beginning. I appreciate their work and support.",
+                    "reviewer_name": "naveen patil",
+                    "rating": 5,
+                    "review_text": "We have been engaged with W3 Dream Solutions for past 3 years. Mr. Dinesh and his team helped us well from the beginning. I appreciate their work and support.",
+                    "published_at": "bir yil once",
+                    "published_at_date": "2022-08-01T11:51:48.103000",
+                    "response_from_owner_text": "Thank you so much Naveen",
+                    "response_from_owner_ago": "bir yil once",
+                    "response_from_owner_date": "2022-08-01T11:54:11.761000",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 5,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100356655679676390383/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLLuJpmu9lCliuiy38AHySmG5GF6KgxLxBdjoZnqA48=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Son 3 yildir W3 Dream Solutions ile calisiyoruz. Bay Dinesh ve ekibi basindan beri bize cok yardimci oldular. Calismalarini ve desteklerini takdir ediyorum.",
+                    "response_from_owner_translated_text": "Cok tesekkur ederim Naveen",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I was searching for somebody to develop my web portal. I didn't know more about web designing company, so I found many companies on Internet and tried contacting them. Finally I called Dinesh Sir and engaged with his team for my dream project.They helped me from scratch to final deployment and my portal is up now. I appreciate the work and support provided till now and also expecting further support and maintenance.",
+                    "reviewer_name": "Shree Gehlot",
+                    "rating": 5,
+                    "review_text": "I was searching for somebody to develop my web portal. I didn't know more about web designing company, so I found many companies on Internet and tried contacting them. Finally I called Dinesh Sir and engaged with his team for my dream project.They helped me from scratch to final deployment and my portal is up now. I appreciate the work and support provided till now and also expecting further support and maintenance.",
+                    "published_at": "bir yil once",
+                    "published_at_date": "2022-03-20T07:52:28.744000",
+                    "response_from_owner_text": "Thank you very much. We are happy to support you.",
+                    "response_from_owner_ago": "bir yil once",
+                    "response_from_owner_date": "2022-03-20T14:45:35.714000",
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101310001304825772025/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWTYuhIoEeco30ymQ3vagw4kn9sAh5gGyXmzgi7hdRnAFI=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Web portalimi gelistirecek birini ariyordum. Web tasarim sirketi hakkinda daha fazla bilgim yoktu, bu yuzden internette bircok sirket buldum ve onlarla iletisime gecmeyi denedim. Sonunda Dinesh Efendi'yi aradim ve hayalimdeki proje icin ekibiyle gorustum. Sifirdan son dagitima kadar bana yardimci oldular ve portalim artik hazir. Su ana kadar saglanan calismalari ve destegi takdir ediyorum ve ayrica daha fazla destek ve bakim bekliyorum.",
+                    "response_from_owner_translated_text": "Cok tesekkur ederim. Sizi desteklemekten mutluluk duyuyoruz.",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "One of the best place in Bangalore for e-commerce website development.",
+                    "reviewer_name": "DG Mali",
+                    "rating": 5,
+                    "review_text": "One of the best place in Bangalore for e-commerce website development.",
+                    "published_at": "bir ay once",
+                    "published_at_date": "2023-10-29T07:58:04.705000",
+                    "response_from_owner_text": "Thank you so much for your valuable review",
+                    "response_from_owner_ago": "bir ay once",
+                    "response_from_owner_date": "2023-10-30T05:37:30.558000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112065834294320424055/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLaI-2tukoJjaWXQXd5pOA3q-uHdJaLTG1IRECS-MxN=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "E-ticaret web sitesi gelistirme icin Bangalore'daki en iyi yerlerden biri.",
+                    "response_from_owner_translated_text": "Degerli yorumunuz icin cok tesekkur ederiz",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Highly recommended!\n\nIf you are looking for a custom development website at a reasonable cost and great quality, Adwest Digital is the best in Bangalore. Go for it.",
+                    "reviewer_name": "Kiran Kumar",
+                    "rating": 5,
+                    "review_text": "Highly recommended!\n\nIf you are looking for a custom development website at a reasonable cost and great quality, Adwest Digital is the best in Bangalore. Go for it.",
+                    "published_at": "10 ay once",
+                    "published_at_date": "2023-01-29T14:27:18.628000",
+                    "response_from_owner_text": "Really appreciate.  Thank you so much for sharing your valuable review.    ",
+                    "response_from_owner_ago": "10 ay once",
+                    "response_from_owner_date": "2023-01-30T07:00:34.244000",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 33,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109152438468299893909/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWpvot1GJCRkO_EOSZbCNLTw6KG7wNZuo42f2U8-DATjmQ=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Siddetle tavsiye edilir!\n\nMakul bir maliyet ve mukemmel kalitede ozel bir gelistirme web sitesi ariyorsaniz Adwest Digital, Bangalore'daki en iyisidir. Goreyim seni.",
+                    "response_from_owner_translated_text": "Gercekten minnettarim. Degerli yorumunuzu paylastiginiz icin cok tesekkur ederiz.",
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

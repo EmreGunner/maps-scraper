@@ -1,0 +1,147 @@
+{
+    "place_id": "ChIJialiCX-3yhQRgRPZ5wshHuo",
+    "name": "Haniko\u011flu | Partners - Hukuk B\u00fcrosu | Law Office",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Yakut Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Yakut+Hukuk+B%C3%BCrosu/@41.0608011,28.988112500000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Kimiran Hukuk",
+            "link": "https://www.google.com/maps/search/Kimiran+Hukuk/@41.060337,28.988749199999994?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "\u015ei\u015fli Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C5%9Ei%C5%9Fli+Hukuk+B%C3%BCrosu/@41.0519369,28.985603899999997?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "HASEK\u0130 HUKUK&DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/HASEK%C4%B0+HUKUK%26DANI%C5%9EMANLIK/@41.0662149,28.9877144?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Hanegelio\u011flu Hukuk B\u00fcrosu- & Av. Sel\u00e7uk Hanegelio\u011flu",
+            "link": "https://www.google.com/maps/search/Hanegelio%C4%9Flu+Hukuk+B%C3%BCrosu-+%26+Av.+Sel%C3%A7uk+Hanegelio%C4%9Flu/@41.050681499999996,28.987305600000003?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 2.6,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://hanikoglu.com/",
+    "owner": {
+        "id": "118440340295604958286",
+        "name": "Haniko\u011flu | Partners - Hukuk B\u00fcrosu | Law Office (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/118440340295604958286"
+    },
+    "featured_image": null,
+    "main_category": "Hukuk Hizmetleri",
+    "categories": [
+        "Hukuk Hizmetleri"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201319:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 520 58 38",
+    "address": "19 May\u0131s, Haniko\u011flu | Partners - Hukuk B\u00fcrosu | Law Office, Halaskargazi Cd. No:226/22, 34360 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJialiCX-3yhQRgRPZ5wshHuo",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 19:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJialiCX-3yhQRgRPZ5wshHuo&q=?q=place_id:ChIJialiCX-3yhQRgRPZ5wshHuo&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.060874,
+        "longitude": 28.988058
+    },
+    "plus_code": "3X6Q+86 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "19 May\u0131s",
+        "street": "Halaskargazi Cd. No:226/22",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34360",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16869957589194576769",
+    "data_id": "0x14cab77f0962a989:0xea1e210be7d91381",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

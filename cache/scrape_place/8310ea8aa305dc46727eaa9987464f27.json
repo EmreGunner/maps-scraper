@@ -1,0 +1,217 @@
+{
+    "place_id": "ChIJo9arpOa2yhQRLrv9fvJN-d8",
+    "name": "Bosphorus Legal Partners",
+    "description": null,
+    "reviews": 3,
+    "competitors": [
+        {
+            "name": "Bosphorus Legal",
+            "link": "https://www.google.com/maps/search/Bosphorus+Legal/@41.1098341,29.0187024?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Legal \u0130stanbul Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Legal+%C4%B0stanbul+Hukuk+B%C3%BCrosu/@41.0354799,28.988184299999997?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Sarper & Boylu",
+            "link": "https://www.google.com/maps/search/Sarper+%26+Boylu/@41.0350743,28.9834104?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u015eerbet\u00e7i-Bozok Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C5%9Eerbet%C3%A7i-Bozok+Hukuk+B%C3%BCrosu/@41.037348,28.989435?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "PROF HUKUK B\u00dcROSU | PROF LAW OFFICE",
+            "link": "https://www.google.com/maps/search/PROF+HUKUK+B%C3%9CROSU+%7C+PROF+LAW+OFFICE/@41.035758699999995,28.981142499999997?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.bosphoruspartners.com/",
+    "owner": {
+        "id": "112766967637002830189",
+        "name": "Bosphorus Legal Partners (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/112766967637002830189"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPf8bSyM2EU-JBEv47DvmyyRaV0rIWe27FFUCkb=w408-h272-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 230 15 00",
+    "address": "Bosphorus Legal Partners, Kocatepe Mah. \u015eehit Muhtar Bey Cad. Cemali Apt. No: 22 Daire: 3, 34437 Beyo\u011flu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJo9arpOa2yhQRLrv9fvJN-d8",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJo9arpOa2yhQRLrv9fvJN-d8&authuser=0&hl=tr&gl=TR",
+    "coordinates": {
+        "latitude": 41.039195,
+        "longitude": 28.9843153
+    },
+    "plus_code": "2XQM+MP Beyo\u011flu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Kocatepe",
+        "street": "Kocatepe Mah. \u015eehit Muhtar Bey Cad. Cemali Apt. No: 22 Daire: 3",
+        "city": "Beyo\u011flu",
+        "postal_code": "34437",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16139016443566865198",
+    "data_id": "0x14cab6e6a4abd6a3:0xdff94df27efdbb2e",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPf8bSyM2EU-JBEv47DvmyyRaV0rIWe27FFUCkb=w447-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO41NOlbKnvKRQc56d-XcR4Me56ECb4k9lDJqDj=w397-h298-k-no"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "\u0130yim \u062c\u064a\u062f",
+            "reviewer_name": "\u0627\u064a\u0645\u0646 \u0627\u0644\u0645\u0635\u0637\u0641\u0649",
+            "rating": 5,
+            "review_text": "\u0130yim \u062c\u064a\u062f",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-04-29T17:43:38.111000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 90,
+            "total_number_of_photos_by_reviewer": 13,
+            "reviewer_url": "https://www.google.com/maps/contrib/111187225047749179101/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUexJPRJf_whk383Tt-DmNKeEXfBi3stg7t-JsFHfjBmw=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": "\u0130yim iyi",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Yasar Yenig\u00fcn",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-05-11T07:28:01.936000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 7,
+            "reviewer_url": "https://www.google.com/maps/contrib/100222837286964093923/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL8l-7jfvY0AuUixa2d-9nIkbSv77V5XeFKG03Xa3RN=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Burak Demirel",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-03-08T12:39:33.929000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112466547583851714433/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXBwrJY2494BnP3BwwWHjZyD97r3cc3XPFSzL_XtQ9akxE=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

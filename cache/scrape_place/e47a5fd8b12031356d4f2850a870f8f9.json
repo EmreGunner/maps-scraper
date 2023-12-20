@@ -1,0 +1,131 @@
+{
+    "place_id": "ChIJXS7nNKDHyhQRAF25ChW1D-8",
+    "name": "Kaya \u0130leti\u015fim",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Kaysar Ileti\u015fim",
+            "link": "https://www.google.com/maps/search/Kaysar+Ileti%C5%9Fim/@40.9930142,29.0260391?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Ma\u011faza"
+        },
+        {
+            "name": "Cep Telefonu Ekran De\u011fi\u015fimi Kad\u0131k\u00f6y - KAYA GSM",
+            "link": "https://www.google.com/maps/search/Cep+Telefonu+Ekran+De%C4%9Fi%C5%9Fimi+Kad%C4%B1k%C3%B6y+-+KAYA+GSM/@40.9943348,29.038099499999998?authuser=0&entry=ttu",
+            "reviews": 529,
+            "rating": 4.6,
+            "main_category": "Telefon Onar\u0131m Hizmeti"
+        },
+        {
+            "name": "Yari Ileti\u015fim",
+            "link": "https://www.google.com/maps/search/Yari+Ileti%C5%9Fim/@40.9929652,29.031595099999993?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Ma\u011faza"
+        },
+        {
+            "name": "Kaya \u0130leti\u015fim Telefon tamiri Fikirtepe G\u00f6ztepe",
+            "link": "https://www.google.com/maps/search/Kaya+%C4%B0leti%C5%9Fim+Telefon+tamiri+Fikirtepe+G%C3%B6ztepe/@40.9912679,29.0570019?authuser=0&entry=ttu",
+            "reviews": 68,
+            "rating": 4.9,
+            "main_category": "Cep telefonu ma\u011fazas\u0131"
+        },
+        {
+            "name": "KAYA \u0130LET\u0130\u015e\u0130M (ZEKER\u0130YA KAYA)",
+            "link": "https://www.google.com/maps/search/KAYA+%C4%B0LET%C4%B0%C5%9E%C4%B0M+%28ZEKER%C4%B0YA+KAYA%29/@40.9804234,29.1124933?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Cep telefonu ma\u011fazas\u0131"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Kaya \u0130leti\u015fim (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cLmOhiZxpUFNDDcHOYV9zw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=174.08948&pitch=0&thumbfov=100",
+    "main_category": "Ma\u011faza",
+    "categories": [
+        "Ma\u011faza"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Erenk\u00f6y, Kaya \u0130leti\u015fim, Abd\u00fcl Halik Renda Sk. NO:11, 34738 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJXS7nNKDHyhQRAF25ChW1D-8",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJXS7nNKDHyhQRAF25ChW1D-8&q=?q=place_id:ChIJXS7nNKDHyhQRAF25ChW1D-8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9712707,
+        "longitude": 29.0704939
+    },
+    "plus_code": "X3CC+G5 Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Erenk\u00f6y",
+        "street": "Abd\u00fcl Halik Renda Sk. NO:11",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34738",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "17226186201694297344",
+    "data_id": "0x14cac7a034e72e5d:0xef0fb5150ab95d00",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Ma\u011faza i\u00e7inde al\u0131\u015fveri\u015f",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "\u00d6deme",
+            "options": [
+                {
+                    "name": "Kredi kart\u0131",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cLmOhiZxpUFNDDcHOYV9zw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=174.08948&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cLmOhiZxpUFNDDcHOYV9zw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=174.08948&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

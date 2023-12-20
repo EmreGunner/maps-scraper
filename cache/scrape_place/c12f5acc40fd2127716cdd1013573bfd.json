@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJZ2HcoYmjyhQRLmJ9HeWdh-E",
+    "name": "Aydar Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "\u00c7AVU\u015eO\u011eLU HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/%C3%87AVU%C5%9EO%C4%9ELU+HUKUK+B%C3%9CROSU/@41.0058302,28.798214?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat-Arabulucu Ahmet R\u00fc\u015ft\u00fc ERDEM",
+            "link": "https://www.google.com/maps/search/Avukat-Arabulucu+Ahmet+R%C3%BC%C5%9Ft%C3%BC+ERDEM/@41.00552,28.798374700000004?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Av. Emrullah \u00dcK",
+            "link": "https://www.google.com/maps/search/Av.+Emrullah+%C3%9CK/@41.004996999999996,28.798022999999997?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Serkan Perincek",
+            "link": "https://www.google.com/maps/search/Avukat+Serkan+Perincek/@41.005212799999995,28.796715199999998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Altun Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Altun+Hukuk+B%C3%BCrosu/@41.0043035,28.797692700000002?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 4.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Aydar Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6x8mhWqX8LKNwgjDDVkk3Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=117.697716&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Kemalpa\u015fa, Aydar Hukuk B\u00fcrosu, \u00dcsk\u00fcp Sk. No: 5, 34295 K\u00fc\u00e7\u00fck\u00e7ekmece/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJZ2HcoYmjyhQRLmJ9HeWdh-E",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJZ2HcoYmjyhQRLmJ9HeWdh-E&q=?q=place_id:ChIJZ2HcoYmjyhQRLmJ9HeWdh-E&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.004677699999995,
+        "longitude": 28.797074199999997
+    },
+    "plus_code": "2Q3W+VR K\u00fc\u00e7\u00fck\u00e7ekmece, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Kemalpa\u015fa",
+        "street": "\u00dcsk\u00fcp Sk. No: 5",
+        "city": "K\u00fc\u00e7\u00fck\u00e7ekmece",
+        "postal_code": "34295",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16251131387757552174",
+    "data_id": "0x14caa389a1dc6167:0xe1879de51d7d622e",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6x8mhWqX8LKNwgjDDVkk3Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=117.697716&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6x8mhWqX8LKNwgjDDVkk3Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=117.697716&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

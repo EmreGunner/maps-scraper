@@ -1,0 +1,158 @@
+{
+    "place_id": "ChIJ5brl2J-3yhQR4jEeoyjEDG8",
+    "name": "Selvi Attorney Partnership",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Ertekin Avukatl\u0131k Ortakl\u0131\u011f\u0131",
+            "link": "https://www.google.com/maps/search/Ertekin+Avukatl%C4%B1k+Ortakl%C4%B1%C4%9F%C4%B1/@41.042494,29.001267499999994?authuser=0&entry=ttu",
+            "reviews": 10,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "SEZEKKAPLAN LAWYERS",
+            "link": "https://www.google.com/maps/search/SEZEKKAPLAN+LAWYERS/@41.043081,28.997588999999998?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "ECC",
+            "link": "https://www.google.com/maps/search/ECC/@41.0425672,29.0010272?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Kurtulu\u015f Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Kurtulu%C5%9F+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.046120200000004,29.007302600000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Startup Legalist | Giri\u015fimciler ve Yat\u0131r\u0131mc\u0131lar \u0130\u00e7in Hukuk Deste\u011fi",
+            "link": "https://www.google.com/maps/search/Startup+Legalist+%7C+Giri%C5%9Fimciler+ve+Yat%C4%B1r%C4%B1mc%C4%B1lar+%C4%B0%C3%A7in+Hukuk+Deste%C4%9Fi/@41.0562854,29.0170099?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://selvilegal.com/",
+    "owner": {
+        "id": "108503061116236139966",
+        "name": "Selvi Attorney Partnership (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/108503061116236139966"
+    },
+    "featured_image": null,
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 258 40 40",
+    "address": "Selvi Attorney Partnership, S\u00fcleyman Seba Caddesi, S\u0131raevler, B1 Blok, 34357 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ5brl2J-3yhQR4jEeoyjEDG8",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ5brl2J-3yhQR4jEeoyjEDG8&q=?q=place_id:ChIJ5brl2J-3yhQR4jEeoyjEDG8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0424468,
+        "longitude": 29.001153
+    },
+    "plus_code": "22R2+XF Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Vi\u015fnezade",
+        "street": "S\u00fcleyman Seba Caddesi, S\u0131raevler, B1 Blok",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34357",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "8001986316744929762",
+    "data_id": "0x14cab79fd8e5bae5:0x6f0cc428a31e31e2",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

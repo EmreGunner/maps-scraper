@@ -1,0 +1,239 @@
+{
+    "place_id": "ChIJ4aq4HQRftRQRbEtmANpGxr4",
+    "name": "Papatya Residence 1",
+    "description": null,
+    "reviews": 6,
+    "competitors": [
+        {
+            "name": "Papatya Residence 3",
+            "link": "https://www.google.com/maps/search/Papatya+Residence+3/@41.0199922,28.647832299999997?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 3.7,
+            "main_category": "Apartman"
+        },
+        {
+            "name": "Papatya Residence 2",
+            "link": "https://www.google.com/maps/search/Papatya+Residence+2/@41.0186248,28.6440115?authuser=0&entry=ttu",
+            "reviews": 17,
+            "rating": 3.9,
+            "main_category": "Apartman"
+        },
+        {
+            "name": "Papatya Residence 2 Site Y\u00f6netimi",
+            "link": "https://www.google.com/maps/search/Papatya+Residence+2+Site+Y%C3%B6netimi/@41.0185999,28.6438676?authuser=0&entry=ttu",
+            "reviews": 314,
+            "rating": 3.9,
+            "main_category": "Emlak B\u00fcrosu"
+        },
+        {
+            "name": "Turk House Real Estate - \u062a\u0631\u0643 \u0647\u0627\u0648\u0633",
+            "link": "https://www.google.com/maps/search/Turk+House+Real+Estate+-+%D8%AA%D8%B1%D9%83+%D9%87%D8%A7%D9%88%D8%B3/@41.015792600000005,28.6465981?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Emlak B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Papatya Residence 1 (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=teu_862lQIV5OqgfrITGrQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=26.694267&pitch=0&thumbfov=100",
+    "main_category": "Apartman Kompleksi",
+    "categories": [
+        "Apartman Kompleksi"
+    ],
+    "rating": 4.2,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Cumhuriyet, Papatya Residence 1, 1988. Sk No:4, 34515 Beylikd\u00fcz\u00fc Osb/Esenyurt/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ4aq4HQRftRQRbEtmANpGxr4",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 4
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ4aq4HQRftRQRbEtmANpGxr4&q=?q=place_id:ChIJ4aq4HQRftRQRbEtmANpGxr4&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0182706,
+        "longitude": 28.645999999999997
+    },
+    "plus_code": "2J9W+89 Beylikd\u00fcz\u00fc Osb, Beylikd\u00fcz\u00fc/\u0130stanbul",
+    "detailed_address": {
+        "ward": "Cumhuriyet",
+        "street": "1988. Sk No:4",
+        "city": "Beylikd\u00fcz\u00fc Osb/Esenyurt",
+        "postal_code": "34515",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "13746752814718536556",
+    "data_id": "0x14b55f041db8aae1:0xbec646da00664b6c",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun giri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=teu_862lQIV5OqgfrITGrQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=26.694267&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=teu_862lQIV5OqgfrITGrQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=26.694267&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Tavsiye ederim g\u00fczel",
+            "reviewer_name": "Rahman Ya\u015far",
+            "rating": 5,
+            "review_text": "Tavsiye ederim g\u00fczel",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-10-03T04:40:01.768000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 23,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/114595395002890225521/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKCijIo-Y-rXcBFH50RHD86nz6cqCUh3X8pWWw2SzEG=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Clean and in a nice area",
+            "reviewer_name": "Shahriar Chbdr",
+            "rating": 4,
+            "review_text": "Clean and in a nice area",
+            "published_at": "4 ay \u00f6nce",
+            "published_at_date": "2023-07-23T13:40:16.033000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 21,
+            "total_number_of_photos_by_reviewer": 26,
+            "reviewer_url": "https://www.google.com/maps/contrib/101000943358776756744/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXJg3xV12VHwrbJ-Ht2Hdn1LAzyBV2NIHjzPVQj9mZd85rf=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": "Temiz ve g\u00fczel bir b\u00f6lgede",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Slcg",
+            "reviewer_name": "Server Memet",
+            "rating": 1,
+            "review_text": "Slcg",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-10-02T10:28:55.351000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113143168225313649440/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXklFk9_SQ1Xmz8J6-giMD7NB3IO5RVjWt2li5yI79P3rg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Mansooreh Rashidifard",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "6 ay \u00f6nce",
+            "published_at_date": "2023-05-21T10:22:50.116000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/111085396971315984174/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKI-wLh9vuDGSenIm2E4OlrLP8zXT9RZiC62aREEVuE=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "\u0420\u043e\u0431\u0435\u0440\u0442 \u0417\u0438\u043d\u043d\u0430\u0442\u0443\u043b\u043b\u0438\u043d",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "6 ay \u00f6nce",
+            "published_at_date": "2023-05-28T15:23:47.911000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 70,
+            "total_number_of_photos_by_reviewer": 54,
+            "reviewer_url": "https://www.google.com/maps/contrib/102906055202502373627/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI1MdJqlZ3so8RCl9UjIwB17uZEuVhf7isYyZ2eKd4v=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "ppeppkata",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-10-08T17:42:14.122000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 84,
+            "reviewer_url": "https://www.google.com/maps/contrib/114236510712937679221/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUfOauB2W5_yusVYGrtFqCs_MLpoIxMDC-ACe3cdxodMoI5=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

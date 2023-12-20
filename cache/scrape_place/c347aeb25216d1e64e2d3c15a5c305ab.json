@@ -1,0 +1,372 @@
+{
+    "place_id": "ChIJNe85Uzu3yhQRP7FQ5BMKhrI",
+    "name": "\u00d6z Do\u011fan H\u0131rdavat San.Tic.Ltd.\u015eti",
+    "description": null,
+    "reviews": 9,
+    "competitors": [
+        {
+            "name": "Gedik H\u0131rdavat",
+            "link": "https://www.google.com/maps/search/Gedik+H%C4%B1rdavat/@41.061118,28.969857999999995?authuser=0&entry=ttu",
+            "reviews": 11,
+            "rating": 5,
+            "main_category": "Nalbur"
+        },
+        {
+            "name": "\u00d6znesa H\u0131rdavat Elektrik \u0130n\u015faat San. Ltd. \u015eti.",
+            "link": "https://www.google.com/maps/search/%C3%96znesa+H%C4%B1rdavat+Elektrik+%C4%B0n%C5%9Faat+San.+Ltd.+%C5%9Eti./@41.0608607,28.971012299999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Nalbur"
+        },
+        {
+            "name": "Y\u0131ld\u0131z Demir H\u0131rdavat",
+            "link": "https://www.google.com/maps/search/Y%C4%B1ld%C4%B1z+Demir+H%C4%B1rdavat/@41.060305299999996,28.971011500000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Nalbur"
+        },
+        {
+            "name": "Onur Makine H\u0131rdavat ve D\u0131\u015f Tic LTD.\u015eT\u0130.",
+            "link": "https://www.google.com/maps/search/Onur+Makine+H%C4%B1rdavat+ve+D%C4%B1%C5%9F+Tic+LTD.%C5%9ET%C4%B0./@41.061136399999995,28.970050099999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Nalbur"
+        },
+        {
+            "name": "Mitar H\u0131rdavat\u00e7\u0131l\u0131k",
+            "link": "https://www.google.com/maps/search/Mitar+H%C4%B1rdavat%C3%A7%C4%B1l%C4%B1k/@41.059951399999996,28.9697998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": "Nalbur"
+        }
+    ],
+    "website": "http://www.ozdoganhirdavat.com/",
+    "owner": {
+        "id": "111269744156617131584",
+        "name": "\u00d6z Do\u011fan H\u0131rdavat San.Tic.Ltd.\u015eti (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/111269744156617131584"
+    },
+    "featured_image": "//lh6.googleusercontent.com/KDxImqNmJsdbCXeP4XfR4hVj2IVtd7zxRYwsV_EvP3kEXp_rIBImQLOPI6phdXyD=w426-h240-k-no",
+    "main_category": "Nalbur",
+    "categories": [
+        "Nalbur",
+        "Toptanc\u0131"
+    ],
+    "rating": 2.8,
+    "workday_timing": "08:30\u201318:30",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0555 986 61 12",
+    "address": "H. R\u0131fat Pa\u015fa, \u00d6z Do\u011fan H\u0131rdavat San.Tic.Ltd.\u015eti, Perpa Ticaret Merkezi B Blok D:47, 34384 \u015ei\u015fli/\u0130stanbul - Avrupa",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJNe85Uzu3yhQRP7FQ5BMKhrI",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 4,
+        "2": 1,
+        "3": 0,
+        "4": 1,
+        "5": 3
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJNe85Uzu3yhQRP7FQ5BMKhrI&authuser=0&hl=tr&gl=TR",
+    "coordinates": {
+        "latitude": 41.061564399999995,
+        "longitude": 28.9709978
+    },
+    "plus_code": "3X6C+J9 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Halil R\u0131fat Pa\u015fa",
+        "street": "Perpa Ticaret Merkezi B Blok D:47",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34384",
+        "state": "\u0130stanbul - Avrupa",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12863980466181550399",
+    "data_id": "0x14cab73b5339ef35:0xb2860a13e450b13f",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Adrese servis",
+                    "enabled": true
+                },
+                {
+                    "name": "Ma\u011faza i\u00e7inde al\u0131\u015fveri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Ayn\u0131 g\u00fcn teslimat",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun giri\u015f",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "\u00d6deme",
+            "options": [
+                {
+                    "name": "Banka kart\u0131",
+                    "enabled": true
+                },
+                {
+                    "name": "Kredi kart\u0131",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM0ot4ofPPO8CzbJnD213lyhmPxQIL5ied9cYdP=w569-h298-k-no"
+        },
+        {
+            "about": "\u0130\u00e7",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNxSXo7bsL3mbTiTlJNiV9zyMQmi2FqT0tclrB6=w529-h298-k-no"
+        },
+        {
+            "about": "Videolar",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNxSXo7bsL3mbTiTlJNiV9zyMQmi2FqT0tclrB6=w529-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN8QJuFbqIYOazg30Xq0fyfgrL1q79mO-6XpZmC=w397-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qJOJnzefZXgclVcdfdKdNA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=200.23375&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "08:30\u201313:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Genelde toptan sat\u0131\u015f yapmakta\nT\u00fcrkiye ve ithalat\u0131 firmalar\u0131n alt bayi sat\u0131\u015f\u0131\nFikrimi soracak olur iseniz\nBu firman\u0131n Arge inivasyona Daha \u00e7ok ilgilenmeleri do\u011fru olur",
+            "reviewer_name": "Beta Fix (www.betafix.com.tr)",
+            "rating": 2,
+            "review_text": "Genelde toptan sat\u0131\u015f yapmakta\nT\u00fcrkiye ve ithalat\u0131 firmalar\u0131n alt bayi sat\u0131\u015f\u0131\nFikrimi soracak olur iseniz\nBu firman\u0131n Arge inivasyona Daha \u00e7ok ilgilenmeleri do\u011fru olur",
+            "published_at": "5 ay \u00f6nce",
+            "published_at_date": "2023-07-04T15:24:58.897000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 66,
+            "total_number_of_photos_by_reviewer": 63,
+            "reviewer_url": "https://www.google.com/maps/contrib/110107563945075518869/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUbn139i816e_syS9f-2gQMIisf4NW53ttiYjUt1qGcuhQ=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Epttavm \u00fczerinden \u00f6zdo\u011fan h\u0131rdavat firmas\u0131ndan sat\u0131n olmu\u015f oldu\u011fum 50 mt uzatma kablo daha ilk kullan\u0131m\u0131mda dumanlar c\u0131kararak eridi ve kullan\u0131lamaz hale geldi.Ben y\u0131kama i\u015fi yap\u0131yorum ve seyyar kabloya s\u00fcrekli ihtiyac\u0131m oluyor. Yedekte dursun diye ald\u0131m 3 ay sonra ilk kez denedim ve sonu\u00e7 rezillik. Kendilerine mail att\u0131m ve bana \u00fcr\u00fcn\u00fc 3 ay \u00f6nce ald\u0131\u011f\u0131n\u0131z i\u00e7in, kabloyu tam a\u00e7madan kulland\u0131\u011f\u0131n\u0131z i\u00e7in su\u00e7 sizde dediler.Kabloyu tam a\u00e7mak ne arkada\u015f, b\u00f6yle bir sa\u00e7mal\u0131k olabilirmi? sanki ilk kez kullan\u0131yorum.Kimbilir ka\u00e7 ki\u015fiyi b\u00f6yle ma\u011fdur ettiniz bu \u00fcr\u00fcn ile yaz\u0131klar olsun.",
+            "reviewer_name": "Enser Karakaya",
+            "rating": 1,
+            "review_text": "Epttavm \u00fczerinden \u00f6zdo\u011fan h\u0131rdavat firmas\u0131ndan sat\u0131n olmu\u015f oldu\u011fum 50 mt uzatma kablo daha ilk kullan\u0131m\u0131mda dumanlar c\u0131kararak eridi ve kullan\u0131lamaz hale geldi.Ben y\u0131kama i\u015fi yap\u0131yorum ve seyyar kabloya s\u00fcrekli ihtiyac\u0131m oluyor. Yedekte dursun diye ald\u0131m 3 ay sonra ilk kez denedim ve sonu\u00e7 rezillik. Kendilerine mail att\u0131m ve bana \u00fcr\u00fcn\u00fc 3 ay \u00f6nce ald\u0131\u011f\u0131n\u0131z i\u00e7in, kabloyu tam a\u00e7madan kulland\u0131\u011f\u0131n\u0131z i\u00e7in su\u00e7 sizde dediler.Kabloyu tam a\u00e7mak ne arkada\u015f, b\u00f6yle bir sa\u00e7mal\u0131k olabilirmi? sanki ilk kez kullan\u0131yorum.Kimbilir ka\u00e7 ki\u015fiyi b\u00f6yle ma\u011fdur ettiniz bu \u00fcr\u00fcn ile yaz\u0131klar olsun.",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-03-30T09:10:53.204000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 100,
+            "total_number_of_photos_by_reviewer": 12,
+            "reviewer_url": "https://www.google.com/maps/contrib/101623773228382279496/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUS4gtC5FRZecutIXVbkLw6OlEkFU9caz1D8Ick3pWs8BgV=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Cok d\u00fcr\u00fcst bir esnaf  alisveris yapdim guleryuzlu ve bana her konuda yardimci oldu  yine gidip malzeme alacagim     izet abiye te\u015fekk\u00fcr ediyorum",
+            "reviewer_name": "kemal g\u00fcler",
+            "rating": 5,
+            "review_text": "Cok d\u00fcr\u00fcst bir esnaf  alisveris yapdim guleryuzlu ve bana her konuda yardimci oldu  yine gidip malzeme alacagim     izet abiye te\u015fekk\u00fcr ediyorum",
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-03-23T18:26:42.644000",
+            "response_from_owner_text": "De\u011ferli yorumlar\u0131n\u0131z i\u00e7in te\u015fekk\u00fcr ederiz Kemal bey.",
+            "response_from_owner_ago": "5 y\u0131l \u00f6nce",
+            "response_from_owner_date": "2018-09-27T08:35:35.584000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105204848511010027432/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXbTYocV7QJ6di9_5sPDfSF2_KhTZEQ7vxSpWjxjokCP50=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "HIRDAVAT deyince akla gelen isim.",
+            "reviewer_name": "G\u00f6khan Dalk\u0131l\u0131\u00e7",
+            "rating": 5,
+            "review_text": "HIRDAVAT deyince akla gelen isim.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-10-13T13:10:18.811000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 245,
+            "total_number_of_photos_by_reviewer": 1038,
+            "reviewer_url": "https://www.google.com/maps/contrib/104252099767375672872/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWyW3dH2WIaSl7a1XNA2XU82nBp1cleneZLf_LwgYdY_v9Z=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Pi\u015fmanl\u0131k",
+            "reviewer_name": "YAL\u00c7IN KASIM",
+            "rating": 1,
+            "review_text": "Pi\u015fmanl\u0131k",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-06-28T14:34:58.169000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 169,
+            "total_number_of_photos_by_reviewer": 1158,
+            "reviewer_url": "https://www.google.com/maps/contrib/108434529246976205514/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXfe93TGSJPTLQ1PxxbYZKNGuCU7Dcc3HufOe1fQI0ZGBWT=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Tecr\u00fcbe var ama",
+            "reviewer_name": "Yavuz Suner",
+            "rating": 1,
+            "review_text": "Tecr\u00fcbe var ama",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-10-10T10:51:35.024000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104979731859312591241/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJq__Wky3bpqHBWna1AeZNPPSdAtaOCY14nLCw1qxGy=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Ayd\u0131n Merg\u00fcl",
+            "rating": 4,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-03-09T11:09:52.921000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 68,
+            "total_number_of_photos_by_reviewer": 667,
+            "reviewer_url": "https://www.google.com/maps/contrib/114418967475195133686/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVX0rfFTreUNwodphdS3BgEBWK6NMeefJyb8OEG8H-A4jxf=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Hasan Kolakan",
+            "rating": 1,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-10-05T08:11:09.877000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100591128578978894142/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLoJbETfx1ZzxYYhDqusA8Cj3yVnQbo2eBLl9ERZ2yV=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

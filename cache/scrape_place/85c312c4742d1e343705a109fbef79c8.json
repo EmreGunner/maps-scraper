@@ -1,0 +1,146 @@
+{
+    "place_id": "ChIJv-8j93DEyhQRKKgxLiBhhNU",
+    "name": "Av. Bahar Uysal",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "HASAN G\u00dcNE\u015e",
+            "link": "https://www.google.com/maps/search/HASAN+G%C3%9CNE%C5%9E/@40.9786307,28.7201223?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 2,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Bayraktar Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Bayraktar+Hukuk+B%C3%BCrosu/@40.9803603,28.7232045?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 4.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Baran Hukuk B\u00fcrosu-Avk.\u0130lhan BARAN",
+            "link": "https://www.google.com/maps/search/Baran+Hukuk+B%C3%BCrosu-Avk.%C4%B0lhan+BARAN/@40.9800701,28.722846799999996?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 2,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Arabuluculuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Arabuluculuk+B%C3%BCrosu/@40.9807515,28.7221703?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 4.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ali Efe Hukuk B\u00fcrosu Av. Ali Efe",
+            "link": "https://www.google.com/maps/search/Ali+Efe+Hukuk+B%C3%BCrosu+Av.+Ali+Efe/@40.9795753,28.722327899999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "https://av-bahar-uysal.business.site/",
+    "owner": {
+        "id": "111652615565655425073",
+        "name": "Av. Bahar Uysal (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/111652615565655425073"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMe_ZSJM-9uOquPXXmO68xuRnSljtPKpKqqnMUW=w426-h240-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": 5,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0544 574 56 48",
+    "address": "Denizk\u00f6\u015fkler, Av. Bahar Uysal, Dr. Sad\u0131k Ahmet Cd. Duygu Villalar\u0131 No:107/14, 34320 Avc\u0131lar/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJv-8j93DEyhQRKKgxLiBhhNU",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJv-8j93DEyhQRKKgxLiBhhNU&q=?q=place_id:ChIJv-8j93DEyhQRKKgxLiBhhNU&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9728412,
+        "longitude": 28.728955499999998
+    },
+    "plus_code": "XPFH+4H Avc\u0131lar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Denizk\u00f6\u015fkler",
+        "street": "Dr. Sad\u0131k Ahmet Cd. Duygu Villalar\u0131 No:107/14",
+        "city": "Avc\u0131lar",
+        "postal_code": "34320",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "15385529017846310952",
+    "data_id": "0x14cac470f723efbf:0xd58461202e31a828",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMe_ZSJM-9uOquPXXmO68xuRnSljtPKpKqqnMUW=w529-h298-k-no"
+        },
+        {
+            "about": "\u0130\u00e7",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNDVste9MWrjc7bWzLXmXdZnUPlH4y2faok-PbW=w397-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNSGmwxUtvfBZq8B_-LpwNuJE1lzMAzlryOi91s=w529-h298-k-no"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "ahmet albayrak",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-07-06T06:20:43.990000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113613810499931619792/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVpz_Bh732U2A_Pe5ztwT4peL82xW3ogX97LW1bK9av95w=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

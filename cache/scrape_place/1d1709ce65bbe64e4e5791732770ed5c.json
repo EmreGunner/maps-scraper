@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJV1icnGa4yhQRvJBUbtManOQ",
+    "name": "G\u00fclekli & G\u00fclekli Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Avukat Ye\u015fim G\u00fclekli",
+            "link": "https://www.google.com/maps/search/Avukat+Ye%C5%9Fim+G%C3%BClekli/@40.9870322,29.0282125?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "T\u00fcrkekul Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/T%C3%BCrkekul+Hukuk+B%C3%BCrosu/@40.9889869,29.0288453?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4.8,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Acar & Gencel Avukat Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Acar+%26+Gencel+Avukat+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@40.988417399999996,29.0285482?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Dinar Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Dinar+Hukuk+B%C3%BCrosu/@40.9895845,29.031929?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ulu\u00e7 & Kartal Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ulu%C3%A7+%26+Kartal+Hukuk+B%C3%BCrosu/@40.9872295,29.027914499999998?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "G\u00fclekli & G\u00fclekli Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh3.googleusercontent.com/vShttn4qn3CduXKcfGrugtWXlEZYKrVouV8xsFvAJk19rlMgvAOZ8CNmckOx2kr9Lg=w426-h240-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0216) 345 67 54",
+    "address": "Cafera\u011fa, G\u00fclekli & G\u00fclekli Hukuk B\u00fcrosu, Gen. As\u0131m G\u00fcnd\u00fcz Cd. No:70, 34710 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJV1icnGa4yhQRvJBUbtManOQ",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJV1icnGa4yhQRvJBUbtManOQ&q=?q=place_id:ChIJV1icnGa4yhQRvJBUbtManOQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9869729,
+        "longitude": 29.028186599999998
+    },
+    "plus_code": "X2PH+Q7 Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Cafera\u011fa",
+        "street": "Gen. As\u0131m G\u00fcnd\u00fcz Cd. No:70",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34710",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16473071032405889212",
+    "data_id": "0x14cab8669c9c5857:0xe49c1ad36e5490bc",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh3.googleusercontent.com/vShttn4qn3CduXKcfGrugtWXlEZYKrVouV8xsFvAJk19rlMgvAOZ8CNmckOx2kr9Lg=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zYQpALi41Be15byZhNYlTA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=313.02023&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJ0eewgtGwyhQRV7HFCdJf0xA",
+    "name": "MGH HUKUK B\u00dcROSU",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "H Karag\u00f6z Hukuk Burosu",
+            "link": "https://www.google.com/maps/search/H+Karag%C3%B6z+Hukuk+Burosu/@41.064526699999995,28.9713396?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "HG HUKUK B\u00dcROSU/LAW FIRM",
+            "link": "https://www.google.com/maps/search/HG+HUKUK+B%C3%9CROSU%2FLAW+FIRM/@41.079174699999996,29.009601900000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "MGC Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/MGC+Hukuk+B%C3%BCrosu/@41.0604009,28.9874626?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "MERGEN HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/MERGEN+HUKUK+B%C3%9CROSU/@41.0656548,28.995206600000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Hbm Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Hbm+Hukuk+B%C3%BCrosu/@41.0733824,28.9717117?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://mghhukuk.com/",
+    "owner": {
+        "id": null,
+        "name": "MGH HUKUK B\u00dcROSU (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Bys8KAPff89SpKgfphJaSg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=203.03839&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0532 389 38 34",
+    "address": "Emniyettepe, MGH HUKUK B\u00dcROSU, Mare\u015fal Fevzi \u00c7akmak Cd. No:4 Daire:3, 34060 Ey\u00fcpsultan/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ0eewgtGwyhQRV7HFCdJf0xA",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ0eewgtGwyhQRV7HFCdJf0xA&q=?q=place_id:ChIJ0eewgtGwyhQRV7HFCdJf0xA&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.070267099999995,
+        "longitude": 28.946343499999998
+    },
+    "plus_code": "3WCW+4G Ey\u00fcpsultan, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Emniyettepe",
+        "street": "Mare\u015fal Fevzi \u00c7akmak Cd. No:4 Daire:3",
+        "city": "Ey\u00fcpsultan",
+        "postal_code": "34060",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "1212418080404517207",
+    "data_id": "0x14cab0d182b0e7d1:0x10d35fd209c5b157",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Bys8KAPff89SpKgfphJaSg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=203.03839&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Bys8KAPff89SpKgfphJaSg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=203.03839&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

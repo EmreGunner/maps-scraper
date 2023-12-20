@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJS436JX64yhQRSk1bSUkuYLI",
+    "name": "Altunta\u015f Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Alt\u0131nta\u015f Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Alt%C4%B1nta%C5%9F+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.0676537,28.9851103?authuser=0&entry=ttu",
+            "reviews": 19,
+            "rating": 4.8,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "\u00c7ay\u0131r & Altunta\u015f Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%87ay%C4%B1r+%26+Altunta%C5%9F+Hukuk+B%C3%BCrosu/@41.068592599999995,29.0078784?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00c7ataltepe Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/%C3%87ataltepe+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9807975,29.087266499999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Alt\u0131nba\u015f Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Alt%C4%B1nba%C5%9F+Hukuk+B%C3%BCrosu/@41.0718367,29.0109541?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Alt\u0131nsoy Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Alt%C4%B1nsoy+Hukuk+B%C3%BCrosu/@40.9742521,29.046398099999998?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://altuntashukuk.com.tr/",
+    "owner": {
+        "id": null,
+        "name": "Altunta\u015f Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=53aG1bALJU6N--TMKN7iGQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=71.16367&pitch=0&thumbfov=100",
+    "main_category": "Kurumsal Ofis",
+    "categories": [
+        "Kurumsal Ofis"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0216) 418 56 31",
+    "address": "Fenerbah\u00e7e, Altunta\u015f Hukuk B\u00fcrosu, Fener Kalam\u0131\u015f Cd. No:39/6, 34726 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJS436JX64yhQRSk1bSUkuYLI",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJS436JX64yhQRSk1bSUkuYLI&q=?q=place_id:ChIJS436JX64yhQRSk1bSUkuYLI&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9771356,
+        "longitude": 29.0423193
+    },
+    "plus_code": "X2GR+VW Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Fenerbah\u00e7e",
+        "street": "Fener Kalam\u0131\u015f Cd. No:39/6",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34726",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12853324228813606218",
+    "data_id": "0x14cab87e25fa8d4b:0xb2602e49495b4d4a",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=53aG1bALJU6N--TMKN7iGQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=71.16367&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=53aG1bALJU6N--TMKN7iGQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=71.16367&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

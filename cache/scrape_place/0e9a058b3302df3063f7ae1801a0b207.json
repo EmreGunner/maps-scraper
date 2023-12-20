@@ -1,0 +1,185 @@
+{
+    "place_id": "ChIJJcFXsTHFyhQROwpvKpNq55A",
+    "name": "M-Y\u0131ld\u0131z Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Y\u0131ld\u0131z Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Y%C4%B1ld%C4%B1z+Hukuk+B%C3%BCrosu/@40.9111554,29.1807834?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "M&D Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/M%26D+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.911691,29.178688?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Av. Emine SANCAK KARAKU\u015e-Kartal Avukat-Bo\u015fanma ,Ceza Avukat\u0131, Kartal Kira Avukat\u0131,Kartal Miras Avukat\u0131, Kartal \u0130cra Avukat\u0131",
+            "link": "https://www.google.com/maps/search/Av.+Emine+SANCAK+KARAKU%C5%9E-Kartal+Avukat-Bo%C5%9Fanma+%2CCeza+Avukat%C4%B1%2C+Kartal+Kira+Avukat%C4%B1%2CKartal+Miras+Avukat%C4%B1%2C+Kartal+%C4%B0cra+Avukat%C4%B1/@40.911437,29.1778817?authuser=0&entry=ttu",
+            "reviews": 17,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "MS HUKUK B\u00dcROSU & ARABULUCULUK",
+            "link": "https://www.google.com/maps/search/MS+HUKUK+B%C3%9CROSU+%26+ARABULUCULUK/@40.910947799999995,29.1804508?authuser=0&entry=ttu",
+            "reviews": 60,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AV. B\u0130LAL YILDIZ",
+            "link": "https://www.google.com/maps/search/AV.+B%C4%B0LAL+YILDIZ/@40.912313100000006,29.1749291?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": "https://www.avmustafayildiz.com/",
+    "owner": {
+        "id": "109780162643777776414",
+        "name": "M-Y\u0131ld\u0131z Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/109780162643777776414"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XArgT5EXhLAMlgPOlf8tMQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=31.902954&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0542 818 99 16",
+    "address": "Cevizli, M-Y\u0131ld\u0131z Hukuk B\u00fcrosu, Bayraktar Sk. Nursanlar Kartal 2 Plaza No:9 Kat:9 Daire:60, 34862 Kartal/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJJcFXsTHFyhQROwpvKpNq55A",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJJcFXsTHFyhQROwpvKpNq55A&q=?q=place_id:ChIJJcFXsTHFyhQROwpvKpNq55A&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.911647599999995,
+        "longitude": 29.178740299999998
+    },
+    "plus_code": "W56H+MF Kartal, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Cevizli",
+        "street": "Bayraktar Sk. Nursanlar Kartal 2 Plaza No:9 Kat:9 Daire:60",
+        "city": "Kartal",
+        "postal_code": "34862",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10441431441386441275",
+    "data_id": "0x14cac531b157c125:0x90e76a932a6f0a3b",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XArgT5EXhLAMlgPOlf8tMQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=31.902954&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMymX-9jj-A6Nv-6rqHJPPmbnx7g1N-rrC22YmO=w384-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XArgT5EXhLAMlgPOlf8tMQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=31.902954&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

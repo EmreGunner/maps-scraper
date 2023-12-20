@@ -1,0 +1,214 @@
+{
+    "place_id": "ChIJ68TL1t22yhQR1TlW1rXzcAA",
+    "name": "Argun Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": 3,
+    "competitors": [
+        {
+            "name": "Ekrem Argunhan",
+            "link": "https://www.google.com/maps/search/Ekrem+Argunhan/@41.0798208,28.881363399999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": ""
+        },
+        {
+            "name": "Turkan Hukuk",
+            "link": "https://www.google.com/maps/search/Turkan+Hukuk/@40.9922118,28.874039300000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "G\u00fcrel Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%BCrel+Hukuk+B%C3%BCrosu/@41.0733323,28.980443200000003?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AKIN HUKUK AVUKATLIK & HUKUK\u0130 DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/AKIN+HUKUK+AVUKATLIK+%26+HUKUK%C4%B0+DANI%C5%9EMANLIK/@41.06885,28.977629?authuser=0&entry=ttu",
+            "reviews": 15,
+            "rating": 2.9,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "116432602623931518495",
+        "name": "Argun Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/116432602623931518495"
+    },
+    "featured_image": "//lh3.googleusercontent.com/hQCu4KWmd9oZYpmw9IQwD91x7Bskjr-lr-QePVFTRIH5_puckCvVjz7ABmQxovS_=w408-h441-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "08:00\u201317:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 931 10 24",
+    "address": "Merkez, Argun Hukuk B\u00fcrosu, Ka\u011f\u0131thane Cd. 14/8, 34406 K\u00e2\u011f\u0131thane/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ68TL1t22yhQR1TlW1rXzcAA",
+    "status": "Kapanmak \u00fczere \u22c5 17:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Per 08:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ68TL1t22yhQR1TlW1rXzcAA&q=?q=place_id:ChIJ68TL1t22yhQR1TlW1rXzcAA&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.074585,
+        "longitude": 28.972414999999998
+    },
+    "plus_code": "3XFC+RX K\u00e2\u011f\u0131thane, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkez",
+        "street": "Ka\u011f\u0131thane Cd. 14/8",
+        "city": "K\u00e2\u011f\u0131thane",
+        "postal_code": "34406",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "31793159702198741",
+    "data_id": "0x14cab6ddd6cbc4eb:0x70f3b5d65639d5",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh3.googleusercontent.com/hQCu4KWmd9oZYpmw9IQwD91x7Bskjr-lr-QePVFTRIH5_puckCvVjz7ABmQxovS_=w275-h298-k-no"
+        },
+        {
+            "about": "D\u0131\u015ftan g\u00f6r\u00fcn\u00fcm",
+            "link": "//lh3.googleusercontent.com/hQCu4KWmd9oZYpmw9IQwD91x7Bskjr-lr-QePVFTRIH5_puckCvVjz7ABmQxovS_=w275-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5XPcD4EFc-e60WA0RKHXyQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=197.0362&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Mesle\u011finde tecr\u00fcbeli, bilgi birikimi y\u00fcksek,ilgili ve g\u00fcvenilir bir avukat..",
+            "reviewer_name": "Murat Arslan",
+            "rating": 5,
+            "review_text": "Mesle\u011finde tecr\u00fcbeli, bilgi birikimi y\u00fcksek,ilgili ve g\u00fcvenilir bir avukat..",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-04-17T15:17:32.530000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114710625300603970207/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLVI2EFgb62CmgK_kT3LE5FI0zWixjo3DxkLo08guI3=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "S\u00fcper bi avukat adam\u0131 ipten ald\u0131. Allah raz\u0131 olsun.",
+            "reviewer_name": "E T I L I F E",
+            "rating": 5,
+            "review_text": "S\u00fcper bi avukat adam\u0131 ipten ald\u0131. Allah raz\u0131 olsun.",
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-03-02T10:55:18.696000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 41,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/103128296910166683556/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWvIA8UmLWyeGDHHIj1fXRakPxfPYASjRUr5osawHBso7M=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Ali Selman ELVER",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-03-01T07:17:49.203000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 12,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/106023381789990528877/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXJU73hynWo78Wf0ie53RptPtGHxgsTVH3bFx5wVngrharh=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

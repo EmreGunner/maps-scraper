@@ -1,0 +1,103 @@
+{
+    "place_id": "ChIJz3GDjk63yhQRWNGrKvUW21U",
+    "name": "Ertu\u011f Tekstil",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Ertu Tekstil",
+            "link": "https://www.google.com/maps/search/Ertu+Tekstil/@41.0808925,28.965439999999994?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": ""
+        },
+        {
+            "name": "Ertu\u011f \u0130\u015f Elbiseleri",
+            "link": "https://www.google.com/maps/search/Ertu%C4%9F+%C4%B0%C5%9F+Elbiseleri/@41.0227347,28.9706881?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Giyim ma\u011fazas\u0131"
+        },
+        {
+            "name": "Bilge Tekstil",
+            "link": "https://www.google.com/maps/search/Bilge+Tekstil/@41.04964950000001,28.9576039?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Toptanc\u0131"
+        },
+        {
+            "name": "Teksetap",
+            "link": "https://www.google.com/maps/search/Teksetap/@41.0412197,28.9564346?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": ""
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Ertu\u011f Tekstil (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5CNHRAX9ZngqRC_XJiTA9g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=51.5274&pitch=0&thumbfov=100",
+    "main_category": "Kurumsal Ofis",
+    "categories": [
+        "Kurumsal Ofis"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Piyalepa\u015fa, Ertu\u011f Tekstil, A\u00e7\u0131k Sk. No:11, 34440 Beyo\u011flu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJz3GDjk63yhQRWNGrKvUW21U",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJz3GDjk63yhQRWNGrKvUW21U&q=?q=place_id:ChIJz3GDjk63yhQRWNGrKvUW21U&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.048538099999995,
+        "longitude": 28.959759299999998
+    },
+    "plus_code": "2XX5+CW Beyo\u011flu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Piyalepa\u015fa",
+        "street": "A\u00e7\u0131k Sk. No:11",
+        "city": "Beyo\u011flu",
+        "postal_code": "34440",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6186563755362210136",
+    "data_id": "0x14cab74e8e8371cf:0x55db16f52aabd158",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5CNHRAX9ZngqRC_XJiTA9g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=51.5274&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5CNHRAX9ZngqRC_XJiTA9g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=51.5274&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

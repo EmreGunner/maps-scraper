@@ -1,0 +1,131 @@
+{
+    "place_id": "ChIJSVAZrfi2yhQRaARE-mUAHIg",
+    "name": "CIFTCI Law Firm",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "\u00c7ift\u00e7i Avukatl\u0131k Ortakl\u0131\u011f\u0131",
+            "link": "https://www.google.com/maps/search/%C3%87ift%C3%A7i+Avukatl%C4%B1k+Ortakl%C4%B1%C4%9F%C4%B1/@41.0780473,29.0105306?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "\u00c7ift\u00e7i Law Office",
+            "link": "https://www.google.com/maps/search/%C3%87ift%C3%A7i+Law+Office/@41.0712718,29.0109135?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Yegin Ciftci",
+            "link": "https://www.google.com/maps/search/Yegin+Ciftci/@41.061413200000004,28.9884953?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00c7ift\u00e7i & Y\u0131lmaz Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/%C3%87ift%C3%A7i+%26+Y%C4%B1lmaz+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.065850499999996,29.003591600000004?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Do\u011fan Karaku\u015f / Hukuk",
+            "link": "https://www.google.com/maps/search/Do%C4%9Fan+Karaku%C5%9F+%2F+Hukuk/@41.0660129,29.008393499999997?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "https://www.ciftcilaw.com.tr/en/location.html",
+    "owner": {
+        "id": null,
+        "name": "CIFTCI Law Firm (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QMyAcP5JG15p7kkRKMOwmg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=28.30516&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 339 00 02",
+    "address": "Esentepe, CIFTCI Law Firm, B\u00fcy\u00fckdere Cd. No:10, 34394 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJSVAZrfi2yhQRaARE-mUAHIg",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJSVAZrfi2yhQRaARE-mUAHIg&q=?q=place_id:ChIJSVAZrfi2yhQRaARE-mUAHIg&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0675965,
+        "longitude": 28.998865
+    },
+    "plus_code": "3X9X+2G \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Esentepe",
+        "street": "B\u00fcy\u00fckdere Cd. No:10",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34394",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "9807714526496556136",
+    "data_id": "0x14cab6f8ad195049:0x881c0065fa440468",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QMyAcP5JG15p7kkRKMOwmg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=28.30516&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QMyAcP5JG15p7kkRKMOwmg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=28.30516&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

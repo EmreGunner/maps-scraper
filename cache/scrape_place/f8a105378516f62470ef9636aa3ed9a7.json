@@ -1,0 +1,207 @@
+{
+    "place_id": "ChIJ95PEKC-3yhQRu3eA7tY5R1I",
+    "name": "AVUKAT SERKAN \u00c7EL\u0130K",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "Av. Serkan G\u00dcNEL",
+            "link": "https://www.google.com/maps/search/Av.+Serkan+G%C3%9CNEL/@41.036085,28.989193?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Celik Law Firm",
+            "link": "https://www.google.com/maps/search/Celik+Law+Firm/@41.0658179,28.9868093?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u00c7elik avukatl\u0131k",
+            "link": "https://www.google.com/maps/search/%C3%87elik+avukatl%C4%B1k/@41.049582099999995,28.992469999999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat K. \u00c7etin Kantek",
+            "link": "https://www.google.com/maps/search/Avukat+K.+%C3%87etin+Kantek/@41.0619356,28.9877643?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u00c7EL\u0130K HUKUK B\u00dcROSU Avukat Mehmet \u00c7EL\u0130K",
+            "link": "https://www.google.com/maps/search/%C3%87EL%C4%B0K+HUKUK+B%C3%9CROSU+Avukat+Mehmet+%C3%87EL%C4%B0K/@41.0580614,28.986726100000002?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "108242453081885255777",
+        "name": "AVUKAT SERKAN \u00c7EL\u0130K (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/108242453081885255777"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1o1AEAfjbny-hq446e1L1Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=85.05283&pitch=0&thumbfov=100",
+    "main_category": "Ceza Avukat\u0131",
+    "categories": [
+        "Ceza Avukat\u0131"
+    ],
+    "rating": 5,
+    "workday_timing": "07:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0553 602 61 09",
+    "address": "Merkez, AVUKAT SERKAN \u00c7EL\u0130K, \u0130skendero\u011flu Sk. No:42/8, 34403 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ95PEKC-3yhQRu3eA7tY5R1I",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ95PEKC-3yhQRu3eA7tY5R1I&q=?q=place_id:ChIJ95PEKC-3yhQRu3eA7tY5R1I&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.062509299999995,
+        "longitude": 28.985086
+    },
+    "plus_code": "3X7P+22 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkez",
+        "street": "\u0130skendero\u011flu Sk. No:42/8",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34403",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "5928771029743728571",
+    "data_id": "0x14cab72f28c493f7:0x524739d6ee8077bb",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "http://avukatserkancelik.com/?p=iletisim",
+            "source": "avukatserkancelik.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1o1AEAfjbny-hq446e1L1Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=85.05283&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1o1AEAfjbny-hq446e1L1Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=85.05283&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "07:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "07:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "07:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "07:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "07:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Erdem Akyol",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-12-02T06:10:06.028000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 26,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/107924140496425623972/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWTOeXBTBHehnaYUgd2HV-5RtTv7DgVwVkroFyFFA3mkA=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

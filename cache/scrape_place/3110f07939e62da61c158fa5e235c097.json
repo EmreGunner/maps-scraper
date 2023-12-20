@@ -1,0 +1,103 @@
+{
+    "place_id": "ChIJz9Jg-gm3yhQRoKhfyrZXIlU",
+    "name": "Siya Hukuk",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "And\u0131\u00e7 Avukatl\u0131k Ortakl\u0131\u011f\u0131",
+            "link": "https://www.google.com/maps/search/And%C4%B1%C3%A7+Avukatl%C4%B1k+Ortakl%C4%B1%C4%9F%C4%B1/@41.042896,28.9985829?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Ba\u011fz\u0131ba\u011fl\u0131 Erdem & \u015eahin Law Firm",
+            "link": "https://www.google.com/maps/search/Ba%C4%9Fz%C4%B1ba%C4%9Fl%C4%B1+Erdem+%26+%C5%9Eahin+Law+Firm/@41.0430825,28.998579999999997?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "A \u015e Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/A+%C5%9E+Hukuk+B%C3%BCrosu/@41.0433035,28.998040099999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Emircan Ya\u011fc\u0131",
+            "link": "https://www.google.com/maps/search/Avukat+Emircan+Ya%C4%9Fc%C4%B1/@41.0429362,28.998198600000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://siyahukuk.com/",
+    "owner": {
+        "id": null,
+        "name": "Siya Hukuk (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BkfSz86KUAoLc1z4TznVLA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=261.7389&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0539 547 75 01",
+    "address": "Muradiye, Siya Hukuk, Deryadil Soka\u011f\u0131 No: 47-49/2, 34357 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJz9Jg-gm3yhQRoKhfyrZXIlU",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJz9Jg-gm3yhQRoKhfyrZXIlU&q=?q=place_id:ChIJz9Jg-gm3yhQRoKhfyrZXIlU&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.049423,
+        "longitude": 28.99879
+    },
+    "plus_code": "2XXX+QG Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Muradiye",
+        "street": "Deryadil Soka\u011f\u0131 No: 47-49/2",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34357",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6134562085022967968",
+    "data_id": "0x14cab709fa60d2cf:0x552257b6ca5fa8a0",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BkfSz86KUAoLc1z4TznVLA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=261.7389&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BkfSz86KUAoLc1z4TznVLA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=261.7389&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,158 @@
+{
+    "place_id": "ChIJv24mbdiPKBUR95DSxq8bda8",
+    "name": "Ay\u015fe Nur Co\u015fkun Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Avukat Nuh Naci \u00d6ZKAN",
+            "link": "https://www.google.com/maps/search/Avukat+Nuh+Naci+%C3%96ZKAN/@36.9914194,35.330828499999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Hasan Ko\u00e7",
+            "link": "https://www.google.com/maps/search/Avukat+Hasan+Ko%C3%A7/@36.986793,35.332702999999995?authuser=0&entry=ttu",
+            "reviews": 16,
+            "rating": 4.8,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Av. Senem Hast\u00fcrk",
+            "link": "https://www.google.com/maps/search/Av.+Senem+Hast%C3%BCrk/@36.98916,35.326767?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Ali Kemal Co\u015fkun",
+            "link": "https://www.google.com/maps/search/Avukat+Ali+Kemal+Co%C5%9Fkun/@36.989776,35.32705?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "SALT HUKUK - ADANA",
+            "link": "https://www.google.com/maps/search/SALT+HUKUK+-+ADANA/@36.9885109,35.3253055?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.aysenurcoskun.av.tr/",
+    "owner": {
+        "id": "118193488875305767268",
+        "name": "Ay\u015fe Nur Co\u015fkun Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/118193488875305767268"
+    },
+    "featured_image": null,
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": "08:30\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0850 333 3348",
+    "address": "Ay\u015fe Nur Co\u015fkun Hukuk B\u00fcrosu, G\u00dcZELYALI MAH. 81052 SK. NO:14 SAF\u0130R APT. K:1, D:2, 01170 \u00c7ukurova",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJv24mbdiPKBUR95DSxq8bda8",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 08:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJv24mbdiPKBUR95DSxq8bda8&q=?q=place_id:ChIJv24mbdiPKBUR95DSxq8bda8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 37.0392375,
+        "longitude": 35.3175419
+    },
+    "plus_code": "28Q9+M2 \u00c7ukurova, Adana",
+    "detailed_address": {
+        "ward": "G\u00fczelyal\u0131",
+        "street": "G\u00dcZELYALI MAH. 81052 SK. NO:14 SAF\u0130R APT. K:1, D:2",
+        "city": "\u00c7ukurova",
+        "postal_code": "01170",
+        "state": "Adana",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12643041970681450743",
+    "data_id": "0x15288fd86d266ebf:0xaf751bafc6d290f7",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

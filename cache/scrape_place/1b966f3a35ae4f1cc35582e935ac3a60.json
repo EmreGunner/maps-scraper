@@ -1,0 +1,317 @@
+{
+    "place_id": "ChIJNewvDOC5yhQRYeMjxsszbao",
+    "name": "AKDLAW",
+    "description": null,
+    "reviews": 19,
+    "competitors": [
+        {
+            "name": "K&D Law Firm",
+            "link": "https://www.google.com/maps/search/K%26D+Law+Firm/@41.0339392,28.983476300000003?authuser=0&entry=ttu",
+            "reviews": 11,
+            "rating": 4.6,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Akbay\u0131r Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Akbay%C4%B1r+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.038138,28.984030299999997?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 1,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ada Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ada+Hukuk+B%C3%BCrosu/@41.0340686,28.980563300000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Kalfa Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kalfa+Hukuk+B%C3%BCrosu/@41.034587599999995,28.979705799999998?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Aksa\u00e7 Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Aksa%C3%A7+Hukuk+B%C3%BCrosu/@41.03648,28.989797000000003?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "110583331987111052006",
+        "name": "AKDLAW (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/110583331987111052006"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPS4afed24E8Ldpykc4v59NSDd7XMLtfo_bKLPK=w408-h725-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 4.1,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 660 42 79",
+    "address": "AKDLAW, Asmal\u0131 Mescit Mah. \u0130stiklal Cad. Korsan \u00c7\u0131kmaz\u0131 Akdeniz Apt. No: 2 Daire: 6, 34430 Beyo\u011flu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJNewvDOC5yhQRYeMjxsszbao",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 2,
+        "2": 0,
+        "3": 3,
+        "4": 4,
+        "5": 10
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJNewvDOC5yhQRYeMjxsszbao&q=?q=place_id:ChIJNewvDOC5yhQRYeMjxsszbao&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.031293999999995,
+        "longitude": 28.975648
+    },
+    "plus_code": "2XJG+G7 Beyo\u011flu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Asmal\u0131 Mescit",
+        "street": "Asmal\u0131 Mescit Mah. \u0130stiklal Cad. Korsan \u00c7\u0131kmaz\u0131 Akdeniz Apt. No: 2 Daire: 6",
+        "city": "Beyo\u011flu",
+        "postal_code": "34430",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12280528709204829025",
+    "data_id": "0x14cab9e00c2fec35:0xaa6d33cbc623e361",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPS4afed24E8Ldpykc4v59NSDd7XMLtfo_bKLPK=w224-h398-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7GZ0VWIUKZPCqFAAyy4Cow&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=3.0070362&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Yaz\u0131n a\u00e7\u0131k havada gece ge\u00e7 saatlere kadar eylence",
+            "reviewer_name": "FAZIL \u015eAH\u0130N",
+            "rating": 3,
+            "review_text": "Yaz\u0131n a\u00e7\u0131k havada gece ge\u00e7 saatlere kadar eylence",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-03-05T03:45:48.278000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 310,
+            "total_number_of_photos_by_reviewer": 17,
+            "reviewer_url": "https://www.google.com/maps/contrib/113812441679958803015/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJUlirvxvrHoa1eolvFPa21WELQy57paYCZUzIGKEu-=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u0130badrtinizi yap\u0131n ve gezin",
+            "reviewer_name": "Gezen biri Gezen biri",
+            "rating": 5,
+            "review_text": "\u0130badrtinizi yap\u0131n ve gezin",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-02-05T18:53:49.909000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 385,
+            "total_number_of_photos_by_reviewer": 53,
+            "reviewer_url": "https://www.google.com/maps/contrib/105211022136599808487/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU6PtUGeZuoOZFyk6bGn9DT678oNde7KmmVy8Ht3xJDGw=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Nostaljik",
+            "reviewer_name": "NURDO\u011eAN SARI",
+            "rating": 3,
+            "review_text": "Nostaljik",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-04-14T07:56:40.953000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 34,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105770984949345748757/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXK8bm-CC2FWA8XXBdmfOirCJL0jcoFyl6gPBizkwFfOkI=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Comida casera en este buffet, lo ocal parecido al Caf\u00e9 Jijon, Madrid, limpio y... Muy barato.",
+            "reviewer_name": "HARIKAHARIKA BISUTER\u00cdA",
+            "rating": 5,
+            "review_text": "Comida casera en este buffet, lo ocal parecido al Caf\u00e9 Jijon, Madrid, limpio y... Muy barato.",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-10-26T17:08:27.402000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 46,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/100645628771502628237/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWDyLlMm0g_t88Msc0QsMG3W3-vdKo_U0VkLR0L2OmF7SQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "Bu b\u00fcfede ev yap\u0131m\u0131 yiyecekler, Madrid'deki Caf\u00e9 Jijon'a benzeyen yerel, temiz ve... \u00c7ok ucuz.",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Milyonvip",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-10-04T21:42:23.700000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 16,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117923886535066385840/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVg2p3HenbI-Xppbps0g5TNDNns8teecEzooJ6Swqi9nX0=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "\u0418\u0440\u0438\u043d\u0430 \u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0430",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-06-14T03:12:06.470000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 61,
+            "total_number_of_photos_by_reviewer": 89,
+            "reviewer_url": "https://www.google.com/maps/contrib/107133153801617487310/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVffxEKg3b1_e1f-3CcKFCLLJMCZfKXDXYIxJSOeIyIDZ4=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Zehra Erul",
+            "rating": 4,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-02-13T11:37:49.430000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108357105463222553840/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUJRZiTnj0oof9fWJnyOTQExep2AtnOouyTtDk2QKVLdJD3=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Ahmet G\u00fclery\u00fcz",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-10-22T17:14:08.654000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 22,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/110264270734934275599/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWQ1CXHa6CWHyH4xV6wiaBomJdNVbCK9kNKW6wh9eSJVFk=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

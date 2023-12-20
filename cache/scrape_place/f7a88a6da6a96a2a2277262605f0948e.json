@@ -1,0 +1,166 @@
+{
+    "place_id": "ChIJ-Q1ZP9itQ40RNoY2nElOaSQ",
+    "name": "Mali M\u00fc\u015favir - Muhasebe - \u0130zzet YILMAZ",
+    "description": null,
+    "reviews": null,
+    "competitors": [],
+    "website": "http://www.izzetyilmaz.com.tr/",
+    "owner": {
+        "id": "100353073274360744931",
+        "name": "Mali M\u00fc\u015favir - Muhasebe - \u0130zzet YILMAZ (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/100353073274360744931"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOTNCIX4X-HSqEPmioC03eMfQJiGJGArRspjMhv=w408-h306-k-no",
+    "main_category": "Serbest Muhasebeci Mali M\u00fc\u015favir",
+    "categories": [
+        "Serbest Muhasebeci Mali M\u00fc\u015favir"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0543 332 66 20",
+    "address": "Mehmet Akif, Mali M\u00fc\u015favir - Muhasebe - \u0130zzet YILMAZ, Recep Ayan Cd. No:26, 34782 \u00c7ekmek\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ-Q1ZP9itQ40RNoY2nElOaSQ",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ-Q1ZP9itQ40RNoY2nElOaSQ&q=?q=place_id:ChIJ-Q1ZP9itQ40RNoY2nElOaSQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0166459,
+        "longitude": 29.1906012
+    },
+    "plus_code": "258R+M6 \u00c7ekmek\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Mehmet Akif",
+        "street": "Recep Ayan Cd. No:26",
+        "city": "\u00c7ekmek\u00f6y",
+        "postal_code": "34782",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2623714335980422710",
+    "data_id": "0x8d43add83f590df9:0x24694e499c368636",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun asans\u00f6r",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun oturma d\u00fczeni",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOTNCIX4X-HSqEPmioC03eMfQJiGJGArRspjMhv=w397-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNXaesavk-okbBV8GyugrUcM9bPPnICrU47zvUZ=w397-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AYbVgVgzq1SDxRstiGXd-A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=18.125378&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

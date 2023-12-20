@@ -1,0 +1,121 @@
+{
+    "place_id": "ChIJO2Jnl0DIyhQR8VbhKwB1Wrw",
+    "name": "Evneroz Kermen",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Kermen Avukatl\u0131k ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Kermen+Avukatl%C4%B1k+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.991791299999996,29.103042000000002?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Sezegen Hukuk",
+            "link": "https://www.google.com/maps/search/Sezegen+Hukuk/@41.0162693,29.0755636?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "AVUKAT ORHAN \u00c7A\u011eRI BEKAR HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/AVUKAT+ORHAN+%C3%87A%C4%9ERI+BEKAR+HUKUK+B%C3%9CROSU/@41.027688,29.080085000000004?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 3.4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "BENER",
+            "link": "https://www.google.com/maps/search/BENER/@41.0795497,29.011222999999998?authuser=0&entry=ttu",
+            "reviews": 22,
+            "rating": 4.6,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ravano\u011flu Hukuk & Dan\u0131\u015fmanl\u0131k & Arabuluculuk - Law Office&Mediation",
+            "link": "https://www.google.com/maps/search/Ravano%C4%9Flu+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k+%26+Arabuluculuk+-+Law+Office%26Mediation/@41.0264211,29.124924500000002?authuser=0&entry=ttu",
+            "reviews": 19,
+            "rating": 3.8,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "112192288390213394526",
+        "name": "Evneroz Kermen (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/112192288390213394526"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ul24eetsSQW2jDvRR451gA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=38.91176&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "K\u0131s\u0131kl\u0131, Evneroz Kermen, \u00c7aml\u0131ca Tepesi yl No:4, 34692 \u00dcsk\u00fcdar/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJO2Jnl0DIyhQR8VbhKwB1Wrw",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJO2Jnl0DIyhQR8VbhKwB1Wrw&q=?q=place_id:ChIJO2Jnl0DIyhQR8VbhKwB1Wrw&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0280499,
+        "longitude": 29.0700243
+    },
+    "plus_code": "23HC+62 \u00dcsk\u00fcdar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "K\u0131s\u0131kl\u0131",
+        "street": "\u00c7aml\u0131ca Tepesi yl No:4",
+        "city": "\u00dcsk\u00fcdar",
+        "postal_code": "34692",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "13572289070631048945",
+    "data_id": "0x14cac8409767623b:0xbc5a75002be156f1",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ul24eetsSQW2jDvRR451gA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=38.91176&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ul24eetsSQW2jDvRR451gA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=38.91176&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

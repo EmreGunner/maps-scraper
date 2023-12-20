@@ -1,0 +1,160 @@
+{
+    "place_id": "ChIJawCNDaS3yhQRk1KsbRksT1M",
+    "name": "DKND Law Firm / DKND Hukuk Burosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Dogan Hukuk Burosu",
+            "link": "https://www.google.com/maps/search/Dogan+Hukuk+Burosu/@41.075416499999996,29.0195037?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "D\u0130GESTA HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/D%C4%B0GESTA+HUKUK+B%C3%9CROSU/@41.061233,29.003131999999994?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Tomurcuk Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Tomurcuk+Hukuk+B%C3%BCrosu/@41.0661881,29.0049865?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Do\u011fan & Partners Law Office",
+            "link": "https://www.google.com/maps/search/Do%C4%9Fan+%26+Partners+Law+Office/@41.080740999999996,29.015712399999998?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Palta Attorneys At Law",
+            "link": "https://www.google.com/maps/search/Palta+Attorneys+At+Law/@41.066246,29.006405999999995?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://dkndlaw.com/",
+    "owner": {
+        "id": "100596322266401487306",
+        "name": "DKND Law Firm / DKND Hukuk Burosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/100596322266401487306"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=F2y66T_0IqOEv8STXSvLeg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=272.816&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 217 24 85",
+    "address": "Gayrettepe, DKND Law Firm / DKND Hukuk Burosu, Y\u0131ld\u0131z Posta Cd. No:44-A D:9, 34349 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJawCNDaS3yhQRk1KsbRksT1M",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJawCNDaS3yhQRk1KsbRksT1M&q=?q=place_id:ChIJawCNDaS3yhQRk1KsbRksT1M&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.064851,
+        "longitude": 29.0091774
+    },
+    "plus_code": "3275+WM Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Gayrettepe",
+        "street": "Y\u0131ld\u0131z Posta Cd. No:44-A D:9",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34349",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6003065316033974931",
+    "data_id": "0x14cab7a40d8d006b:0x534f2c196dac5293",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=F2y66T_0IqOEv8STXSvLeg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=272.816&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOmLDrXhrRD702JTj0HDyzWVsXR5NtnqMdOoOct=w298-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=F2y66T_0IqOEv8STXSvLeg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=272.816&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,167 @@
+{
+    "place_id": "ChIJRZgC6ZG5yhQRralsJLTwnQU",
+    "name": "G\u00f6ksel Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Kad\u0131k\u00f6y Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kad%C4%B1k%C3%B6y+Hukuk+B%C3%BCrosu/@40.9896344,29.0308541?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "G\u00dcZEL HUKUK Avukatl\u0131k ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/G%C3%9CZEL+HUKUK+Avukatl%C4%B1k+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9914953,29.029658100000002?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Kartal Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kartal+Hukuk+B%C3%BCrosu/@40.9831649,29.0234946?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Y\u0131lmazer Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Y%C4%B1lmazer+Hukuk+B%C3%BCrosu/@40.9893515,29.0280589?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 3.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Kapluhan Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kapluhan+Hukuk+B%C3%BCrosu/@40.989824999999996,29.0315612?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.aykutgoksel.av.tr/",
+    "owner": {
+        "id": "116396259083614459087",
+        "name": "G\u00f6ksel Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/116396259083614459087"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7fjQEVldqywdBV0fM90P4g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=139.18494&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0542 612 55 11",
+    "address": "G\u00f6ksel Hukuk B\u00fcrosu, Ku\u015fdili Cad. Pazaryolu Sok. Ekizo\u011flu \u0130\u015f Merkezi No:2 Kat:2 Daire:220 KADIK\u00d6Y, 34714 \u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJRZgC6ZG5yhQRralsJLTwnQU",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJRZgC6ZG5yhQRralsJLTwnQU&q=?q=place_id:ChIJRZgC6ZG5yhQRralsJLTwnQU&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.989238799999995,
+        "longitude": 29.0327783
+    },
+    "plus_code": "X2QM+M4 Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Osmana\u011fa",
+        "street": "Ku\u015fdili Cad. Pazaryolu Sok. Ekizo\u011flu \u0130\u015f Merkezi No:2 Kat:2 Daire:220 KADIK\u00d6Y",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34714",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "404744198029093293",
+    "data_id": "0x14cab991e9029845:0x59df0b4246ca9ad",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7fjQEVldqywdBV0fM90P4g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=139.18494&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7fjQEVldqywdBV0fM90P4g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=139.18494&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJ-WxP_Wy3yhQRXNUEhp0u-w8",
+    "name": "S\u00f6zer Law Office",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "S\u00d6ZER\u0130&TOPRAK HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/S%C3%96ZER%C4%B0%26TOPRAK+HUKUK+B%C3%9CROSU/@40.9797203,28.873072999999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "S\u00d6ZER HUKUK & DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/S%C3%96ZER+HUKUK+%26+DANI%C5%9EMANLIK/@40.9952592,28.884183599999997?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "SEOR Law Firm",
+            "link": "https://www.google.com/maps/search/SEOR+Law+Firm/@41.0494236,28.988097999999994?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Osman \u00d6zler",
+            "link": "https://www.google.com/maps/search/Osman+%C3%96zler/@41.050143,28.987343199999994?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Aslegal Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Aslegal+Hukuk+B%C3%BCrosu/@41.0453974,28.986290000000004?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://sozerhukuk.com/",
+    "owner": {
+        "id": null,
+        "name": "S\u00f6zer Law Office (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=55d0jKQQZgqQhSJREkGcIg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=344.12698&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "447506987755",
+    "address": "Harbiye, S\u00f6zer Law Office, \u00c7imen Sk. No: 107/10, 34373 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ-WxP_Wy3yhQRXNUEhp0u-w8",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ-WxP_Wy3yhQRXNUEhp0u-w8&q=?q=place_id:ChIJ-WxP_Wy3yhQRXNUEhp0u-w8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.046439199999995,
+        "longitude": 28.984823199999997
+    },
+    "plus_code": "2XWM+HW \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Harbiye",
+        "street": "\u00c7imen Sk. No: 107/10",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34373",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "1151565383816500572",
+    "data_id": "0x14cab76cfd4f6cf9:0xffb2e9d8604d55c",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=55d0jKQQZgqQhSJREkGcIg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=344.12698&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=55d0jKQQZgqQhSJREkGcIg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=344.12698&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

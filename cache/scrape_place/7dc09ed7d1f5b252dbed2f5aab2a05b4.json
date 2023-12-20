@@ -1,0 +1,340 @@
+{
+    "place_id": "ChIJRfdosgrdyhQRQnyJvqsZqAw",
+    "name": "Sevgi Terc\u00fcme - Pendik Terc\u00fcme B\u00fcrosu - Tuzla Terc\u00fcme B\u00fcrosu",
+    "description": null,
+    "reviews": 21,
+    "competitors": [
+        {
+            "name": "Ayd\u0131n Terc\u00fcme B\u00fcrosu-Pendik Terc\u00fcme B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ayd%C4%B1n+Terc%C3%BCme+B%C3%BCrosu-Pendik+Terc%C3%BCme+B%C3%BCrosu/@40.877800099999995,29.2353567?authuser=0&entry=ttu",
+            "reviews": 29,
+            "rating": 4.4,
+            "main_category": "\u00c7evirmen"
+        },
+        {
+            "name": "Ezgi Terc\u00fcme B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ezgi+Terc%C3%BCme+B%C3%BCrosu/@40.906092099999995,29.284433799999995?authuser=0&entry=ttu",
+            "reviews": 12,
+            "rating": 4.1,
+            "main_category": "\u00c7evirmen"
+        },
+        {
+            "name": "Pendik Terc\u00fcme",
+            "link": "https://www.google.com/maps/search/Pendik+Terc%C3%BCme/@40.877891999999996,29.235312?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "\u00c7evirmen"
+        },
+        {
+            "name": "Focus Terc\u00fcme B\u00fcrosu (Translation Office)",
+            "link": "https://www.google.com/maps/search/Focus+Terc%C3%BCme+B%C3%BCrosu+%28Translation+Office%29/@40.8775589,29.233507?authuser=0&entry=ttu",
+            "reviews": 33,
+            "rating": 4.7,
+            "main_category": "\u00c7evirmen"
+        },
+        {
+            "name": "\u0130DEAL TERC\u00dcME B\u00dcROSU (Translation Agency) - YEN\u0130\u015eEH\u0130R",
+            "link": "https://www.google.com/maps/search/%C4%B0DEAL+TERC%C3%9CME+B%C3%9CROSU+%28Translation+Agency%29+-+YEN%C4%B0%C5%9EEH%C4%B0R/@40.930387599999996,29.3051553?authuser=0&entry=ttu",
+            "reviews": 59,
+            "rating": 4.7,
+            "main_category": "\u00c7evirmen"
+        }
+    ],
+    "website": "http://sevgitercume.com/",
+    "owner": {
+        "id": "111661569849174704293",
+        "name": "Sevgi Terc\u00fcme - Pendik Terc\u00fcme B\u00fcrosu - Tuzla Terc\u00fcme B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/111661569849174704293"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=R-_UoDQJ1e67QOleYm_DZw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=281.07294&pitch=0&thumbfov=100",
+    "main_category": "\u00c7evirmen",
+    "categories": [
+        "\u00c7evirmen"
+    ],
+    "rating": 5,
+    "workday_timing": "08:30\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0552 887 21 84",
+    "address": "Fevzi \u00c7akmak, Sevgi Terc\u00fcme - Pendik Terc\u00fcme B\u00fcrosu - Tuzla Terc\u00fcme B\u00fcrosu, Mustafa Kemal Cd. no3/c, 34000 Pendik/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJRfdosgrdyhQRQnyJvqsZqAw",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 20
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJRfdosgrdyhQRQnyJvqsZqAw&q=?q=place_id:ChIJRfdosgrdyhQRQnyJvqsZqAw&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.8760374,
+        "longitude": 29.264568399999998
+    },
+    "plus_code": "V7G7+CR Pendik, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Fevzi \u00c7akmak",
+        "street": "Mustafa Kemal Cd. no3/c",
+        "city": "Pendik",
+        "postal_code": "34000",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "912007149969308738",
+    "data_id": "0x14cadd0ab268f745:0xca819abbe897c42",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                },
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=R-_UoDQJ1e67QOleYm_DZw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=281.07294&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "D\u0131\u015ftan g\u00f6r\u00fcn\u00fcm",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOjGWiD6djNdD7iaciHZtrmghn03yZYTw59pOEK=w224-h497-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOF9hjgr83fNyOlE-gMC5r8G9DE3rrZf5YCmuWy=w224-h497-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=R-_UoDQJ1e67QOleYm_DZw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=281.07294&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Uygun fiyat, h\u0131zl\u0131 hizmet. Memnun kald\u0131m.",
+            "reviewer_name": "Nihat K\u00f6ln (Nihatkoeln)",
+            "rating": 5,
+            "review_text": "Uygun fiyat, h\u0131zl\u0131 hizmet. Memnun kald\u0131m.",
+            "published_at": "3 ay \u00f6nce",
+            "published_at_date": "2023-09-05T15:10:00.538000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 86,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/116031058219020351944/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUpRFexPkfQLRTdOpeNgxGstbppRhzrgcxLroZG7EfdumM=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Sevgi Han\u0131m\u2019a ofislerinde verdikleri hizmetin kalitesinden, h\u0131z\u0131ndan ve kendisinin ilgisinden dolay\u0131 sonsuz te\u015fekk\u00fcrlerimi sunar\u0131m.",
+            "reviewer_name": "S",
+            "rating": 5,
+            "review_text": "Sevgi Han\u0131m\u2019a ofislerinde verdikleri hizmetin kalitesinden, h\u0131z\u0131ndan ve kendisinin ilgisinden dolay\u0131 sonsuz te\u015fekk\u00fcrlerimi sunar\u0131m.",
+            "published_at": "9 ay \u00f6nce",
+            "published_at_date": "2023-03-09T11:57:20.380000",
+            "response_from_owner_text": "De\u011ferli g\u00f6r\u00fc\u015fleriniz i\u00e7in te\u015fekk\u00fcr ederiz.",
+            "response_from_owner_ago": "7 ay \u00f6nce",
+            "response_from_owner_date": "2023-04-27T12:43:33.694000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 31,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/105567367989143537049/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWqaVEPF8-W0MUleQmy7p3sRm938zvRjzUCuwdvmicx8xY=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u00c7evirimizi temiz, h\u0131zl\u0131 ve pratik bir \u015fekilde yapt\u0131\u011f\u0131n\u0131z i\u00e7in minnettar\u0131m. \u00d6zellikle Sevgi han\u0131ma te\u015fekk\u00fcr ediyorum. Kendisi \u00e7ok nazik ve her konuda sorunuza cevap veriyor, derdinizi \u00e7\u00f6zmeye \u00e7al\u0131\u015f\u0131yor\ud83c\udf3c 10 numara 5 y\u0131ld\u0131z yer.",
+            "reviewer_name": "Semanur Loane",
+            "rating": 5,
+            "review_text": "\u00c7evirimizi temiz, h\u0131zl\u0131 ve pratik bir \u015fekilde yapt\u0131\u011f\u0131n\u0131z i\u00e7in minnettar\u0131m. \u00d6zellikle Sevgi han\u0131ma te\u015fekk\u00fcr ediyorum. Kendisi \u00e7ok nazik ve her konuda sorunuza cevap veriyor, derdinizi \u00e7\u00f6zmeye \u00e7al\u0131\u015f\u0131yor\ud83c\udf3c 10 numara 5 y\u0131ld\u0131z yer.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-06-22T20:04:51.969000",
+            "response_from_owner_text": "De\u011ferli g\u00f6r\u00fc\u015fleriniz i\u00e7in te\u015fekk\u00fcr ederiz.",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-06-22T20:23:37.446000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101076898949210620318/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUu1lQxm1kjF3NoY_G2WUhBFAPXSe2g7gf_qm3Fraptdw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Son derece kaliteli ve h\u0131zl\u0131 hizmet i\u00e7in \u00e7ok te\u015fekk\u00fcr ederim.\u00c7al\u0131\u015fan han\u0131m efendiye \u00f6zellikle te\u015fekk\u00fcr ederim.Sa\u00e7ma sapan yerlere gidip paran\u0131z\u0131 kapt\u0131rmay\u0131n",
+            "reviewer_name": "Ayd\u0131n Kavala",
+            "rating": 5,
+            "review_text": "Son derece kaliteli ve h\u0131zl\u0131 hizmet i\u00e7in \u00e7ok te\u015fekk\u00fcr ederim.\u00c7al\u0131\u015fan han\u0131m efendiye \u00f6zellikle te\u015fekk\u00fcr ederim.Sa\u00e7ma sapan yerlere gidip paran\u0131z\u0131 kapt\u0131rmay\u0131n",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-03-30T13:58:51.800000",
+            "response_from_owner_text": "De\u011ferli g\u00f6r\u00fc\u015fleriniz i\u00e7in te\u015fekk\u00fcr ederiz.",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-03-30T14:24:09.055000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/115289738182568019332/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVTIeODYaVjanrcbDDNrQfhfQTqHQkbUSIruC2NOi-bw44=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u0130\u015fini iyi bilen bir han\u0131mefendi gayet g\u00fcler y\u00fczl\u00fc ve ilgili g\u00fcvenilir",
+            "reviewer_name": "Refik K\u00fc\u00e7\u00fck",
+            "rating": 5,
+            "review_text": "\u0130\u015fini iyi bilen bir han\u0131mefendi gayet g\u00fcler y\u00fczl\u00fc ve ilgili g\u00fcvenilir",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-11-27T20:26:28.868000",
+            "response_from_owner_text": "De\u011ferli g\u00f6r\u00fc\u015fleriniz i\u00e7in te\u015fekk\u00fcr ederiz.",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-11-27T20:40:03.347000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 66,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/108102167108489812494/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUYI6FIxRQjDj4Uka7ZPww5PB_6zNHqcY4puhvyRm3qjr0=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Yard\u0131mc\u0131 olmak i\u00e7in verdi\u011finiz hizmet cok memnun etti. Te\u015fekk\u00fcr ederim.",
+            "reviewer_name": "Mustafa Unver",
+            "rating": 5,
+            "review_text": "Yard\u0131mc\u0131 olmak i\u00e7in verdi\u011finiz hizmet cok memnun etti. Te\u015fekk\u00fcr ederim.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-09-08T18:57:10.598000",
+            "response_from_owner_text": "De\u011ferli geri d\u00f6n\u00fc\u015fleriniz i\u00e7in te\u015fekk\u00fcr ederiz.",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-09-22T19:30:49.711000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 30,
+            "total_number_of_photos_by_reviewer": 11,
+            "reviewer_url": "https://www.google.com/maps/contrib/115186945524197607854/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVbb438HaICk5pz9yUTzYGpaPLXiGr4uZ-ZJ_pSzueSYfW-=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "G\u00fczel ve ilgili bir yer fiyatlar tart\u0131\u015f\u0131l\u0131r ama yer ufak d\u0131\u015far\u0131dan g\u00f6rmek biraz zor",
+            "reviewer_name": "Kadir ALGAN",
+            "rating": 4,
+            "review_text": "G\u00fczel ve ilgili bir yer fiyatlar tart\u0131\u015f\u0131l\u0131r ama yer ufak d\u0131\u015far\u0131dan g\u00f6rmek biraz zor",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-07-20T09:01:40.148000",
+            "response_from_owner_text": "De\u011ferli g\u00f6r\u00fc\u015fleriniz i\u00e7in te\u015fekk\u00fcr ederiz.",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-07-20T09:22:05.025000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 16,
+            "total_number_of_photos_by_reviewer": 11,
+            "reviewer_url": "https://www.google.com/maps/contrib/101405386499897039188/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU3Bcpk1-zZpkigmv9XmCaILw5wt5b7TOfjg7TNHfYIuc0=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Sevgi Terc\u00fcme tavsiye ederim m\u00fckemmel h\u0131zl\u0131 ve g\u00fcler y\u00fczl\u00fc arkada\u015flar \u00e7ok memnun kald\u0131m te\u015fekk\u00fcrler",
+            "reviewer_name": "Ayta\u00e7 K\u0131z\u0131l",
+            "rating": 5,
+            "review_text": "Sevgi Terc\u00fcme tavsiye ederim m\u00fckemmel h\u0131zl\u0131 ve g\u00fcler y\u00fczl\u00fc arkada\u015flar \u00e7ok memnun kald\u0131m te\u015fekk\u00fcrler",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-08-09T09:02:09.248000",
+            "response_from_owner_text": "De\u011ferli d\u00f6n\u00fc\u015fleriniz i\u00e7in te\u015fekk\u00fcr ederiz.",
+            "response_from_owner_ago": "2 y\u0131l \u00f6nce",
+            "response_from_owner_date": "2021-08-10T10:54:59.086000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102332523252420429501/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWQllAqMTDPAZBPHkXvWqKUVnzkJr85N6AgjqETsuBuCJI=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

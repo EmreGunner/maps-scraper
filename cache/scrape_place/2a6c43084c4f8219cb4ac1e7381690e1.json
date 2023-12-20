@@ -1,0 +1,197 @@
+{
+    "place_id": "ChIJ16kO4FzIyhQR8Byc352eZ14",
+    "name": "Marmara Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": 2,
+    "competitors": [
+        {
+            "name": "Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Hukuk+B%C3%BCrosu/@41.023525899999996,29.081988000000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Mir Hukuk | Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Mir+Hukuk+%7C+Hukuk+B%C3%BCrosu/@41.0242078,29.008912199999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Derya Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Derya+Hukuk+B%C3%BCrosu/@41.0238253,29.083276?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00c7amlica Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%87amlica+Hukuk+B%C3%BCrosu/@41.0219963,29.0700592?authuser=0&entry=ttu",
+            "reviews": 14,
+            "rating": 4.3,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Turan Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Turan+Hukuk+B%C3%BCrosu/@41.0085954,29.0456592?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Marmara Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh6.googleusercontent.com/V4Yef7VxbsQi1ccxROYfPO8LJCw4DyD_A6jA2yHF3jERClJNyIOvZqBp811gWtU=w426-h240-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 3,
+    "workday_timing": "10:00\u201319:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 316 32 10",
+    "address": "Bulgurlu, Marmara Hukuk B\u00fcrosu, Alemda\u011f Cd No:102, 34696 \u00dcsk\u00fcdar/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ16kO4FzIyhQR8Byc352eZ14",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 19:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ16kO4FzIyhQR8Byc352eZ14&q=?q=place_id:ChIJ16kO4FzIyhQR8Byc352eZ14&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0237611,
+        "longitude": 29.082380299999997
+    },
+    "plus_code": "23FJ+GX \u00dcsk\u00fcdar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Bulgurlu",
+        "street": "Alemda\u011f Cd No:102",
+        "city": "\u00dcsk\u00fcdar",
+        "postal_code": "34696",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6802580163065027824",
+    "data_id": "0x14cac85ce00ea9d7:0x5e679e9ddf9c1cf0",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh6.googleusercontent.com/V4Yef7VxbsQi1ccxROYfPO8LJCw4DyD_A6jA2yHF3jERClJNyIOvZqBp811gWtU=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pLjggA8NPYLvB9EoJ18YAQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=135.40427&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "10:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "10:00\u201319:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "10:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "10:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "10:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Mustafa Onur \u00d6ZCAN",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-05-07T16:06:51.482000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106748630923939396742/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKPig9RK0NNRHBZBcAU8GLpSeaVR0a6gOM7at1T-x4M=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "metin g\u00fcne\u015f",
+            "rating": 1,
+            "review_text": null,
+            "published_at": "6 ay \u00f6nce",
+            "published_at_date": "2023-06-17T07:59:15.519000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 30,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/103048567173153973146/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVc3Zrr1FePeXIUma7EH4xXbTCfoJOOK-vnqNU2xNzV_cM=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

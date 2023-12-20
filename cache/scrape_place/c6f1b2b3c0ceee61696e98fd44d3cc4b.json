@@ -1,0 +1,217 @@
+{
+    "place_id": "ChIJs_C2wg-3yhQRX3WNBCpXuuo",
+    "name": "\u0130stanbul Legal",
+    "description": null,
+    "reviews": 3,
+    "competitors": [
+        {
+            "name": "Legal Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Legal+Hukuk+B%C3%BCrosu/@41.0494694,28.9921627?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00c7etinel Law Firm",
+            "link": "https://www.google.com/maps/search/%C3%87etinel+Law+Firm/@41.052848,28.994895?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Legal \u0130stanbul Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Legal+%C4%B0stanbul+Hukuk+B%C3%BCrosu/@41.0354799,28.988184299999997?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "LAC\u0130VERT LEGAL AVUKATLIK VE HUKUK\u0130 DANI\u015eMANLIK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/LAC%C4%B0VERT+LEGAL+AVUKATLIK+VE+HUKUK%C4%B0+DANI%C5%9EMANLIK+B%C3%9CROSU/@41.052420999999995,28.971296000000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u0130stanbul Hukuk ve Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C4%B0stanbul+Hukuk+ve+Avukatl%C4%B1k+B%C3%BCrosu/@41.0526804,28.987627000000003?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        }
+    ],
+    "website": "http://istanbullegal.com/",
+    "owner": {
+        "id": null,
+        "name": "\u0130stanbul Legal (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u-c38-gv3LDVhS4cfkcD0A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=74.531364&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "08:30\u201319:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 247 99 07",
+    "address": "\u0130stanbul Legal, Halaskargazi Cad. Yenel Apt D:122 D:5 K:5, 34363 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJs_C2wg-3yhQRX3WNBCpXuuo",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 19:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJs_C2wg-3yhQRX3WNBCpXuuo&q=?q=place_id:ChIJs_C2wg-3yhQRX3WNBCpXuuo&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.055703099999995,
+        "longitude": 28.9871834
+    },
+    "plus_code": "3X4P+7V \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Me\u015frutiyet",
+        "street": "Halaskargazi Cad. Yenel Apt D:122 D:5 K:5",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34363",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16913927188519941471",
+    "data_id": "0x14cab70fc2b6f0b3:0xeaba572a048d755f",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u-c38-gv3LDVhS4cfkcD0A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=74.531364&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u-c38-gv3LDVhS4cfkcD0A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=74.531364&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201319:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201319:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:30\u201319:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201319:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201319:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "\u00c7i\u00e7ek Chelbea",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-11-16T09:35:38.368000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/105162179939957546893/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWaaGXOIXz7XkHqAHiKJU7sg60ffajNGr2OFHp5f6E16OA=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Talal Alzooz",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-07-16T23:10:10.480000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 142,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/102529383608250670290/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUwsCcssGDHyOJYx8k34L4UCFx8lzlns4Wtlk3DGw4I6lvW=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Muad Jabal",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-08-09T16:49:03.357000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 70,
+            "total_number_of_photos_by_reviewer": 30,
+            "reviewer_url": "https://www.google.com/maps/contrib/107873330931039014436/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXkYvtb30jpUd6iL0QiXb_Q3HZyrC3pDSxvtWsJT97j2fg=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

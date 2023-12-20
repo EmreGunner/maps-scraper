@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJddEuymCvyhQRp71R9XSXAr8",
+    "name": "GAP LAWFIRM",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "GAP Elmada\u011f Hukuk Ofisi (Law Firm)",
+            "link": "https://www.google.com/maps/search/GAP+Elmada%C4%9F+Hukuk+Ofisi+%28Law+Firm%29/@40.9857782,28.8317494?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 4.2,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AG PARTNERS LAW OFFICE",
+            "link": "https://www.google.com/maps/search/AG+PARTNERS+LAW+OFFICE/@40.992501399999995,28.8255376?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "GG Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/GG+Avukatl%C4%B1k+B%C3%BCrosu/@41.065108699999996,28.9942972?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AGC HUKUK B\u00dcROSU & LAW FIRM (Arabuluculuk Merkezi)",
+            "link": "https://www.google.com/maps/search/AGC+HUKUK+B%C3%9CROSU+%26+LAW+FIRM+%28Arabuluculuk+Merkezi%29/@41.0640752,28.808697900000002?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 4.4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "G&G HUKUK B\u00dcROSU (Av. Sefa GUVEN)",
+            "link": "https://www.google.com/maps/search/G%26G+HUKUK+B%C3%9CROSU+%28Av.+Sefa+GUVEN%29/@41.068222,29.002623999999997?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://gaphukuk.com/",
+    "owner": {
+        "id": "117140660921396610579",
+        "name": "GAP LAWFIRM (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/117140660921396610579"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TcC58410cue1A5VRL0VMrQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=44.58832&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 465 88 58",
+    "address": "GAP LAWFIRM, Istanbul World Trade Center A-1 Blok Suite: 67, 34149 Bak\u0131rk\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJddEuymCvyhQRp71R9XSXAr8",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJddEuymCvyhQRp71R9XSXAr8&q=?q=place_id:ChIJddEuymCvyhQRp71R9XSXAr8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0868409,
+        "longitude": 28.7913215
+    },
+    "plus_code": "3QPR+PG \u0130kitelli Osb, Ba\u015fak\u015fehir/\u0130stanbul",
+    "detailed_address": {
+        "ward": null,
+        "street": "Istanbul World Trade Center A-1 Blok Suite: 67",
+        "city": "\u0130kitelli Osb/Bak\u0131rk\u00f6y",
+        "postal_code": "34149",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "13763729939785432487",
+    "data_id": "0x14caaf60ca2ed175:0xbf029774f551bda7",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TcC58410cue1A5VRL0VMrQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=44.58832&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TcC58410cue1A5VRL0VMrQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=44.58832&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

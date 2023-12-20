@@ -1,0 +1,103 @@
+{
+    "place_id": "ChIJu3lF_hC3yhQR11m19cyBYWw",
+    "name": "Bmg Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Legal Studio",
+            "link": "https://www.google.com/maps/search/Legal+Studio/@41.0582993,28.980887400000004?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Saracoglu Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Saracoglu+Hukuk+B%C3%BCrosu/@41.0497349,28.987992899999995?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 4,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Nisan Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Nisan+Hukuk+B%C3%BCrosu/@41.052012000000005,28.990311400000003?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "MBG Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/MBG+Hukuk+B%C3%BCrosu/@41.0653027,28.986399600000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Bmg Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YVJTYCpeoaLld9IJicmKwQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.7681&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Cumhuriyet, Bmg Hukuk B\u00fcrosu, Arpa Suyu Sk. No:12, 34380 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJu3lF_hC3yhQR11m19cyBYWw",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJu3lF_hC3yhQR11m19cyBYWw&q=?q=place_id:ChIJu3lF_hC3yhQR11m19cyBYWw&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.055302,
+        "longitude": 28.984654
+    },
+    "plus_code": "3X4M+4V \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Cumhuriyet",
+        "street": "Arpa Suyu Sk. No:12",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34380",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "7809665946132765143",
+    "data_id": "0x14cab710fe4579bb:0x6c6181ccf5b559d7",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YVJTYCpeoaLld9IJicmKwQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=322.7681&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YVJTYCpeoaLld9IJicmKwQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=322.7681&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

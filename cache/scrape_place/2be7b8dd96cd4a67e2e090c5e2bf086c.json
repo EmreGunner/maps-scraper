@@ -1,0 +1,199 @@
+{
+    "place_id": "ChIJ-zdnKofJyhQRTivkhCA2yGc",
+    "name": "ESA Avukatl\u0131k B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "AVES Hukuk | Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/AVES+Hukuk+%7C+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9947246,29.100136099999997?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ESA Hukuk B\u00fcrosu | Avukat Ezgi Serin AKSU",
+            "link": "https://www.google.com/maps/search/ESA+Hukuk+B%C3%BCrosu+%7C+Avukat+Ezgi+Serin+AKSU/@41.079870299999996,29.0084612?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ek\u015fio\u011flu Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Ek%C5%9Fio%C4%9Flu+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.98054690000001,29.1128186?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "EYA Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/EYA+Hukuk+B%C3%BCrosu/@40.9847959,29.112740299999995?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "SE Legal",
+            "link": "https://www.google.com/maps/search/SE+Legal/@40.9938758,29.110555299999994?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        }
+    ],
+    "website": "https://esaavukatlik.com/",
+    "owner": {
+        "id": "116647260604096224563",
+        "name": "ESA Avukatl\u0131k B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/116647260604096224563"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO3i_V8ThkOUWUNcfCj7eY9jNWPJinnbp7i4fK6=w408-h272-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 256 57 97",
+    "address": "Barbaros, ESA Avukatl\u0131k B\u00fcrosu, Al Zambak Sok. Varyap Meridian A Blok No:2 D:6, 34746 Ata\u015fehir/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ-zdnKofJyhQRTivkhCA2yGc",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ-zdnKofJyhQRTivkhCA2yGc&q=?q=place_id:ChIJ-zdnKofJyhQRTivkhCA2yGc&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0006108,
+        "longitude": 29.1009311
+    },
+    "plus_code": "2422+69 Ata\u015fehir, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Barbaros",
+        "street": "Al Zambak Sok. Varyap Meridian A Blok No:2 D:6",
+        "city": "Ata\u015fehir",
+        "postal_code": "34746",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "7478286694545107790",
+    "data_id": "0x14cac9872a6737fb:0x67c8362084e42b4e",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "from_the_business",
+            "name": "\u0130\u015fletme hakk\u0131nda",
+            "options": [
+                {
+                    "name": "Sahibi kad\u0131n oldu\u011funu belirtiyor",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun oturma d\u00fczeni",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO3i_V8ThkOUWUNcfCj7eY9jNWPJinnbp7i4fK6=w447-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP8Zktpzm0ao1pgBdvXMzNLLkAZ9diuh1UJX4r3=w447-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=shlKEbLmKBbXd8wrkrxDMw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=140.2772&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

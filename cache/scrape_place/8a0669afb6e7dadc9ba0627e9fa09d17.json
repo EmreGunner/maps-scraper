@@ -1,0 +1,103 @@
+{
+    "place_id": "ChIJ3QX6wkG2yhQR24-8dtcbzNo",
+    "name": "Ud Hukuk ve Dani\u015fma Ofisi",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Uluk\u00f6kl\u00fc & Partners Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Uluk%C3%B6kl%C3%BC+%26+Partners+Hukuk+B%C3%BCrosu/@41.0805094,29.0151561?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 4.6,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ARTUS HUKUK B\u00dcROSU/LAW F\u0130RM",
+            "link": "https://www.google.com/maps/search/ARTUS+HUKUK+B%C3%9CROSU%2FLAW+F%C4%B0RM/@41.0752756,29.018424299999996?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00dcler Law",
+            "link": "https://www.google.com/maps/search/%C3%9Cler+Law/@41.079992,29.013738999999998?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Aydemir Hukuk&Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Aydemir+Hukuk%26Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.0748927,29.017069900000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://davatazminat.com/",
+    "owner": {
+        "id": null,
+        "name": "Ud Hukuk ve Dani\u015fma Ofisi (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DyKVvfYAZPREA1jGCcIHmQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=133.87782&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0501 209 30 01",
+    "address": "Ud Hukuk ve Dani\u015fma Ofisi, Nisbetiye Nispetiye Caddesi No : 28 D:14 A Blok, 34340 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ3QX6wkG2yhQR24-8dtcbzNo",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ3QX6wkG2yhQR24-8dtcbzNo&q=?q=place_id:ChIJ3QX6wkG2yhQR24-8dtcbzNo&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0753024,
+        "longitude": 29.0184891
+    },
+    "plus_code": "32G9+49 Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Nisbetiye",
+        "street": "Nisbetiye Nispetiye Caddesi No : 28 D:14 A Blok",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34340",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "15766007007741251547",
+    "data_id": "0x14cab641c2fa05dd:0xdacc1bd776bc8fdb",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DyKVvfYAZPREA1jGCcIHmQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=133.87782&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DyKVvfYAZPREA1jGCcIHmQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=133.87782&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

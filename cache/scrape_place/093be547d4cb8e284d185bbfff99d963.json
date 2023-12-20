@@ -1,0 +1,161 @@
+{
+    "place_id": "ChIJeeUPkom3yhQR2bH9lMknAI4",
+    "name": "Nur Patent",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "MESLEK PATENT",
+            "link": "https://www.google.com/maps/search/MESLEK+PATENT/@41.0225583,29.015680200000002?authuser=0&entry=ttu",
+            "reviews": 21,
+            "rating": 5,
+            "main_category": "Patent Ofisi"
+        },
+        {
+            "name": "USKUDAR PATENT",
+            "link": "https://www.google.com/maps/search/USKUDAR+PATENT/@41.0038579,29.0198061?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Ma\u011faza"
+        },
+        {
+            "name": "Patent Odas\u0131",
+            "link": "https://www.google.com/maps/search/Patent+Odas%C4%B1/@41.029910099999995,29.050083700000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Patent Ofisi"
+        },
+        {
+            "name": "Levent Patent",
+            "link": "https://www.google.com/maps/search/Levent+Patent/@41.036476,28.986196?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Patent Ofisi"
+        },
+        {
+            "name": "PATENT VE MARKA OF\u0130S\u0130",
+            "link": "https://www.google.com/maps/search/PATENT+VE+MARKA+OF%C4%B0S%C4%B0/@41.070350999999995,29.015904000000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Patent Ofisi"
+        }
+    ],
+    "website": "http://www.nurpatent.com.tr/",
+    "owner": {
+        "id": "106824404336050955530",
+        "name": "Nur Patent (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/106824404336050955530"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VE07wNO9n1YlFs2vbK6ujQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=116.53119&pitch=0&thumbfov=100",
+    "main_category": "Patent Ofisi",
+    "categories": [
+        "Patent Ofisi",
+        "Patent Avukat\u0131"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 343 20 80",
+    "address": "Nur Patent, Hakimiyeti Milliye Caddesi Emlak Kredi \u00c7ar\u015f\u0131s\u0131, Kat: 2 No: 127, 34672 \u00dcsk\u00fcdar",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJeeUPkom3yhQR2bH9lMknAI4",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJeeUPkom3yhQR2bH9lMknAI4&q=?q=place_id:ChIJeeUPkom3yhQR2bH9lMknAI4&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.022498,
+        "longitude": 29.016173799999997
+    },
+    "plus_code": "22C8+XF \u00dcsk\u00fcdar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Mimar Sinan",
+        "street": "Hakimiyeti Milliye Caddesi Emlak Kredi \u00c7ar\u015f\u0131s\u0131, Kat: 2 No: 127",
+        "city": "\u00dcsk\u00fcdar",
+        "postal_code": "34672",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10232222100127330777",
+    "data_id": "0x14cab789920fe579:0x8e0027c994fdb1d9",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VE07wNO9n1YlFs2vbK6ujQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=116.53119&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOqyexcfkELB_p0PELCm9AZzF_2suSgVcXYXViW=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VE07wNO9n1YlFs2vbK6ujQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=116.53119&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

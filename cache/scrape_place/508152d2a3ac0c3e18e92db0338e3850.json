@@ -1,0 +1,103 @@
+{
+    "place_id": "ChIJRYVDI9CxyhQRxK2_ExVSESY",
+    "name": "B. U. B STORE SATI\u015e OF\u0130S\u0130",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Bs Sanal Ma\u011fazac\u0131l\u0131k Ticaret Limited \u015eirketi",
+            "link": "https://www.google.com/maps/search/Bs+Sanal+Ma%C4%9Fazac%C4%B1l%C4%B1k+Ticaret+Limited+%C5%9Eirketi/@41.017007,28.96664?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": ""
+        },
+        {
+            "name": "Superbsisters",
+            "link": "https://www.google.com/maps/search/Superbsisters/@41.017170799999995,28.876587800000003?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Toptanc\u0131"
+        },
+        {
+            "name": "Bayba\u015f Su",
+            "link": "https://www.google.com/maps/search/Bayba%C5%9F+Su/@41.0556811,28.901818899999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "\u015ei\u015fe Suyu Tedarik\u00e7isi"
+        },
+        {
+            "name": "Oburr",
+            "link": "https://www.google.com/maps/search/Oburr/@41.056566499999995,28.903964799999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": ""
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "B. U. B STORE SATI\u015e OF\u0130S\u0130 (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3RULLdgMdA3I8DdRY5-mPA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=126.004364&pitch=0&thumbfov=100",
+    "main_category": "Kurumsal Ofis",
+    "categories": [
+        "Kurumsal Ofis"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Kartaltepe, B. U. B STORE SATI\u015e OF\u0130S\u0130, Fatih Cd. No:29 D:1, 34040 Bayrampa\u015fa/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJRYVDI9CxyhQRxK2_ExVSESY",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJRYVDI9CxyhQRxK2_ExVSESY&q=?q=place_id:ChIJRYVDI9CxyhQRxK2_ExVSESY&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.054445099999995,
+        "longitude": 28.9040318
+    },
+    "plus_code": "3W33+QJ Bayrampa\u015fa, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Kartaltepe",
+        "street": "Fatih Cd. No:29 D:1",
+        "city": "Bayrampa\u015fa",
+        "postal_code": "34040",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2743063898524462532",
+    "data_id": "0x14cab1d023438545:0x2611521513bfadc4",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3RULLdgMdA3I8DdRY5-mPA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=126.004364&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3RULLdgMdA3I8DdRY5-mPA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=126.004364&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

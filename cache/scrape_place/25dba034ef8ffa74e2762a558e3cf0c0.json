@@ -1,0 +1,131 @@
+{
+    "place_id": "ChIJd1nommi2yhQR-7JlAqL6gpY",
+    "name": "Aksakoglu Law Firm",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "AKS & PARTNERS HUKUK",
+            "link": "https://www.google.com/maps/search/AKS+%26+PARTNERS+HUKUK/@41.077556699999995,29.014945200000003?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Aksan Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Aksan+Hukuk+B%C3%BCrosu/@41.086021800000005,29.0124178?authuser=0&entry=ttu",
+            "reviews": 93,
+            "rating": 4.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Arslan Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Arslan+Hukuk+B%C3%BCrosu/@41.0800663,29.0178511?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 4.9,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Av. Faruk Aktay / Aktay Law Firm",
+            "link": "https://www.google.com/maps/search/Av.+Faruk+Aktay+%2F+Aktay+Law+Firm/@41.0804702,29.012312599999998?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Av. Aykut Alka\u00e7",
+            "link": "https://www.google.com/maps/search/Av.+Aykut+Alka%C3%A7/@41.086389,29.008360399999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Aksakoglu Law Firm (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=R8VCH9BGqWY4Ii8nWgHgfg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=27.455404&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 318 91 27",
+    "address": "Levent, Aksakoglu Law Firm, C\u00f6mert Sk No:1, 34330 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJd1nommi2yhQR-7JlAqL6gpY",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJd1nommi2yhQR-7JlAqL6gpY&q=?q=place_id:ChIJd1nommi2yhQR-7JlAqL6gpY&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.080870499999996,
+        "longitude": 29.0117276
+    },
+    "plus_code": "32J6+8M Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Levent",
+        "street": "C\u00f6mert Sk No:1",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34330",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10845506426393441019",
+    "data_id": "0x14cab6689ae85977:0x9682faa20265b2fb",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=R8VCH9BGqWY4Ii8nWgHgfg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=27.455404&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=R8VCH9BGqWY4Ii8nWgHgfg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=27.455404&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,167 @@
+{
+    "place_id": "ChIJz0cJqnq3yhQRn2Pc8rUD124",
+    "name": "Alan",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Realestate",
+            "link": "https://www.google.com/maps/search/Realestate/@41.0711697,28.9784202?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Emlak B\u00fcrosu"
+        },
+        {
+            "name": "Alan Grafik Dijital Ajans",
+            "link": "https://www.google.com/maps/search/Alan+Grafik+Dijital+Ajans/@41.0710408,28.9691925?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Reklam Ajans\u0131"
+        },
+        {
+            "name": "Investrade Portf\u00f6y Y\u00f6netimi A.\u015e.",
+            "link": "https://www.google.com/maps/search/Investrade+Portf%C3%B6y+Y%C3%B6netimi+A.%C5%9E./@41.0735112,28.9682729?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 4,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Alan Sigorta",
+            "link": "https://www.google.com/maps/search/Alan+Sigorta/@41.0784162,29.003459900000003?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Sigorta Acentesi"
+        },
+        {
+            "name": "Alan Yat\u0131r\u0131m Menkul De\u011ferler A.\u015e",
+            "link": "https://www.google.com/maps/search/Alan+Yat%C4%B1r%C4%B1m+Menkul+De%C4%9Ferler+A.%C5%9E/@41.0794409,29.019237399999998?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Yat\u0131r\u0131m Hizmetleri"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Alan (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh6.googleusercontent.com/njEVqVIO9IfRCIT9tqhT6uF1BfN11dMF5d4l-QHe86iglzm6wzydtiXvYV3CPBnCQQ=w408-h306-k-no",
+    "main_category": "Mali M\u00fc\u015favir",
+    "categories": [
+        "Mali M\u00fc\u015favir"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 244 09 66",
+    "address": "G\u00fcrsel, Alan, Premier Kampus, \u0130mrahor Cd. No:29 A Blok 128, 34437 K\u00e2\u011f\u0131thane/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJz0cJqnq3yhQRn2Pc8rUD124",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJz0cJqnq3yhQRn2Pc8rUD124&q=?q=place_id:ChIJz0cJqnq3yhQRn2Pc8rUD124&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0719893,
+        "longitude": 28.9665832
+    },
+    "plus_code": "3XC8+QJ K\u00e2\u011f\u0131thane, \u0130stanbul",
+    "detailed_address": {
+        "ward": "G\u00fcrsel",
+        "street": "Premier Kampus, \u0130mrahor Cd. No:29 A Blok 128",
+        "city": "K\u00e2\u011f\u0131thane",
+        "postal_code": "34437",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "7986856544163357599",
+    "data_id": "0x14cab77aaa0947cf:0x6ed703b5f2dc639f",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh6.googleusercontent.com/njEVqVIO9IfRCIT9tqhT6uF1BfN11dMF5d4l-QHe86iglzm6wzydtiXvYV3CPBnCQQ=w397-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2FeaxN-ZcIQR0YBdkgcjOA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=233.98628&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

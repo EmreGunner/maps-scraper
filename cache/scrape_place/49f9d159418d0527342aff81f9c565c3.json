@@ -1,0 +1,184 @@
+{
+    "place_id": "ChIJ7etZce7HyhQRZ8Reb-YE-eQ",
+    "name": "G\u00dcRAS HUKUK B\u00dcROSU & LAW FIRM",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Saga Law Firm",
+            "link": "https://www.google.com/maps/search/Saga+Law+Firm/@40.970168,29.100894?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "MGM Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/MGM+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.977519199999996,29.095956599999997?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ozkan \u2013 Law Firm",
+            "link": "https://www.google.com/maps/search/Ozkan+%E2%80%93+Law+Firm/@40.9791702,29.0781612?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Case Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Case+Hukuk+B%C3%BCrosu/@40.977520399999996,29.0962632?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u0130stanbul Kira Avukat\u0131 Arabulucu Uzl. Halis G\u00f6khan Giray - Ceza Av. Turgut Kamran Eren - Av. Ey\u00fcp Numan Eren Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C4%B0stanbul+Kira+Avukat%C4%B1+Arabulucu+Uzl.+Halis+G%C3%B6khan+Giray+-+Ceza+Av.+Turgut+Kamran+Eren+-+Av.+Ey%C3%BCp+Numan+Eren+Hukuk+B%C3%BCrosu/@40.9804116,29.0943345?authuser=0&entry=ttu",
+            "reviews": 24,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "105368687605450085243",
+        "name": "G\u00dcRAS HUKUK B\u00dcROSU & LAW FIRM (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/105368687605450085243"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPqGGyOPsS4-bVR4xYxlUQYq91L6iX9BKTSjfh9=w408-h306-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0216) 999 49 86",
+    "address": "G\u00dcRAS HUKUK B\u00dcROSU & LAW FIRM, 19 May\u0131s, \u0130n\u00f6n\u00fc Cad, No:72/7 Kad\u0131k\u00f6y, 34360 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ7etZce7HyhQRZ8Reb-YE-eQ",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ7etZce7HyhQRZ8Reb-YE-eQ&q=?q=place_id:ChIJ7etZce7HyhQRZ8Reb-YE-eQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.978283499999996,
+        "longitude": 29.0921338
+    },
+    "plus_code": "X3HR+8V Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "19 May\u0131s",
+        "street": "19 May\u0131s, \u0130n\u00f6n\u00fc Cad, No:72/7 Kad\u0131k\u00f6y",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34360",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16499224097605993575",
+    "data_id": "0x14cac7ee7159ebed:0xe4f904e66f5ec467",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPqGGyOPsS4-bVR4xYxlUQYq91L6iX9BKTSjfh9=w397-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPhCAfIYUL7u421xgP4phZJOZGppMK0VvwHAomz=w298-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K6SjUmB6ZhPJLB34gX0cAg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=196.95718&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

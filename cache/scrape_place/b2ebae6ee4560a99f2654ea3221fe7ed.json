@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJIxT_61W2yhQRjWXmybLMNs4",
+    "name": "DES Hukuk",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "D & S Hukuk / Law Firm",
+            "link": "https://www.google.com/maps/search/D+%26+S+Hukuk+%2F+Law+Firm/@41.065456999999995,29.0005484?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "DATA Hukuk",
+            "link": "https://www.google.com/maps/search/DATA+Hukuk/@41.0662281,29.001577599999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "BA\u0130C Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/BA%C4%B0C+Hukuk+B%C3%BCrosu/@41.06700000000001,29.002608?authuser=0&entry=ttu",
+            "reviews": 70,
+            "rating": 2.7,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "CIFTCI Law Firm",
+            "link": "https://www.google.com/maps/search/CIFTCI+Law+Firm/@41.0675965,28.998865?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Kardas Legal",
+            "link": "https://www.google.com/maps/search/Kardas+Legal/@41.064792,28.993601999999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://deshukuk.com/",
+    "owner": {
+        "id": null,
+        "name": "DES Hukuk (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xA2zpG-a9OmVexZn5kG9IQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=189.6532&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 803 70 00",
+    "address": "DES Hukuk, Fulya Mah. Buyukdere Cad. No:76 Floor:9, Flat:901 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJIxT_61W2yhQRjWXmybLMNs4",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJIxT_61W2yhQRjWXmybLMNs4&q=?q=place_id:ChIJIxT_61W2yhQRjWXmybLMNs4&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.066168999999995,
+        "longitude": 29.000534
+    },
+    "plus_code": "3282+F6 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Fulya",
+        "street": "Fulya Mah. Buyukdere Cad. No:76 Floor:9",
+        "city": "\u015ei\u015fli",
+        "postal_code": "Flat:901",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "14859289088819094925",
+    "data_id": "0x14cab655ebff1423:0xce36ccb2c9e6658d",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xA2zpG-a9OmVexZn5kG9IQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=189.6532&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xA2zpG-a9OmVexZn5kG9IQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=189.6532&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

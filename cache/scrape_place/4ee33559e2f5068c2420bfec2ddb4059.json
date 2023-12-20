@@ -1,0 +1,111 @@
+{
+    "place_id": "ChIJZwDwzlC2yhQRrlFhuG6l-eY",
+    "name": "MGC Immigration",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "MGC Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/MGC+Hukuk+B%C3%BCrosu/@41.0604009,28.9874626?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "MGC Legal | Law Firm in Istanbul, Turkey",
+            "link": "https://www.google.com/maps/search/MGC+Legal+%7C+Law+Firm+in+Istanbul%2C+Turkey/@41.0687389,29.0057108?authuser=0&entry=ttu",
+            "reviews": 117,
+            "rating": 4.9,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "EMIGRATION SERVICES of Turkey",
+            "link": "https://www.google.com/maps/search/EMIGRATION+SERVICES+of+Turkey/@41.0538246,28.9881215?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "G\u00f6\u00e7menlik Hukuku Avukat\u0131"
+        },
+        {
+            "name": "USC Dan\u0131\u015fmanl\u0131k A.\u015e",
+            "link": "https://www.google.com/maps/search/USC+Dan%C4%B1%C5%9Fmanl%C4%B1k+A.%C5%9E/@41.0784259,29.012168100000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "G\u00f6\u00e7menlik ve Yurtta\u015fl\u0131\u011fa Kabul Hizmetleri"
+        },
+        {
+            "name": "MCMG | Brand Culture",
+            "link": "https://www.google.com/maps/search/MCMG+%7C+Brand+Culture/@41.109772,29.0216414?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Kurumsal Ofis"
+        }
+    ],
+    "website": "http://www.mgcimmigration.com/%3Fpage_id%3D37",
+    "owner": {
+        "id": null,
+        "name": "MGC Immigration (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yTuTIqU5-KxKR4CyrzTlmw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=290.48563&pitch=0&thumbfov=100",
+    "main_category": "G\u00f6\u00e7menlik ve Yurtta\u015fl\u0131\u011fa Kabul Hizmetleri",
+    "categories": [
+        "G\u00f6\u00e7menlik ve Yurtta\u015fl\u0131\u011fa Kabul Hizmetleri",
+        "Hukuk Hizmetleri"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0850 333 8660",
+    "address": "Levent, MGC Immigration, B\u00fcy\u00fckdere Cd. No 127, 34394 Sar\u0131yer/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJZwDwzlC2yhQRrlFhuG6l-eY",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJZwDwzlC2yhQRrlFhuG6l-eY&q=?q=place_id:ChIJZwDwzlC2yhQRrlFhuG6l-eY&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0760618,
+        "longitude": 29.0126904
+    },
+    "plus_code": "32G7+C3 Sar\u0131yer, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Levent",
+        "street": "B\u00fcy\u00fckdere Cd. No 127",
+        "city": "Sar\u0131yer",
+        "postal_code": "34394",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16643515792882749870",
+    "data_id": "0x14cab650cef00067:0xe6f9a56eb86151ae",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yTuTIqU5-KxKR4CyrzTlmw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=290.48563&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yTuTIqU5-KxKR4CyrzTlmw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=290.48563&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

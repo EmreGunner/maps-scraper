@@ -1,0 +1,159 @@
+{
+    "place_id": "ChIJS9yGzIu3yhQRD2txeG18HBM",
+    "name": "Z&G Hukuk",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Z & G Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Z+%26+G+Hukuk+B%C3%BCrosu/@41.0535192,28.988424199999994?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "GG Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/GG+Avukatl%C4%B1k+B%C3%BCrosu/@41.065108699999996,28.9942972?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ege Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ege+Hukuk+B%C3%BCrosu/@41.066969799999995,28.9938961?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6ZG\u00dcN HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/%C3%96ZG%C3%9CN+HUKUK+B%C3%9CROSU/@41.0653866,28.986399600000002?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "GRG Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/GRG+Hukuk+B%C3%BCrosu/@41.0667787,28.9867943?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Z&G Hukuk (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMGPehBXexAlNwfrefY8we3yxUxktNbSgSPK9z0=w408-h272-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0212) 939 46 93",
+    "address": "\u0130zzetpa\u015fa, Z&G Hukuk, Yeni Yol Cd. No: 3, 34387 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJS9yGzIu3yhQRD2txeG18HBM",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJS9yGzIu3yhQRD2txeG18HBM&q=?q=place_id:ChIJS9yGzIu3yhQRD2txeG18HBM&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.067706699999995,
+        "longitude": 28.986188199999997
+    },
+    "plus_code": "3X9P+3F \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "\u0130zzetpa\u015fa",
+        "street": "Yeni Yol Cd. No: 3",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34387",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "1377112395682507535",
+    "data_id": "0x14cab78bcc86dc4b:0x131c7c6d78716b0f",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMGPehBXexAlNwfrefY8we3yxUxktNbSgSPK9z0=w447-h298-k-no"
+        },
+        {
+            "about": "\u0130\u00e7",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMGPehBXexAlNwfrefY8we3yxUxktNbSgSPK9z0=w447-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5K29NhPC87UyiXjmzxVPRw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=208.74004&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

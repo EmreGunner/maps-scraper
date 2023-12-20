@@ -1,0 +1,204 @@
+{
+    "place_id": "ChIJAVhtaGe2yhQRRKRBweQiwpQ",
+    "name": "Startup Legalist | Giri\u015fimciler ve Yat\u0131r\u0131mc\u0131lar \u0130\u00e7in Hukuk Deste\u011fi",
+    "description": null,
+    "reviews": 2,
+    "competitors": [
+        {
+            "name": "Unutulma Hakk\u0131 | Unutulmahakki.com",
+            "link": "https://www.google.com/maps/search/Unutulma+Hakk%C4%B1+%7C+Unutulmahakki.com/@41.0566008,29.016955600000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Startup Hukuku",
+            "link": "https://www.google.com/maps/search/Startup+Hukuku/@41.0363419,28.9788289?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 5,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Startup Legalist",
+            "link": "https://www.google.com/maps/search/Startup+Legalist/@41.057524699999995,28.977863499999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Selvi Attorney Partnership",
+            "link": "https://www.google.com/maps/search/Selvi+Attorney+Partnership/@41.0424468,29.001153000000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "G\u00fcler Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%BCler+Hukuk+B%C3%BCrosu/@41.062086300000004,29.011993399999998?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "https://startuplegalist.com/",
+    "owner": {
+        "id": "113759269463293320242",
+        "name": "Startup Legalist | Giri\u015fimciler ve Yat\u0131r\u0131mc\u0131lar \u0130\u00e7in Hukuk Deste\u011fi (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/113759269463293320242"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNicPYdc0_nSHAepFCLAg51EaJRyJQuBuFbtb1X=w408-h544-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 909 55 30",
+    "address": "Balmumcu, Startup Legalist | Giri\u015fimciler ve Yat\u0131r\u0131mc\u0131lar \u0130\u00e7in Hukuk Deste\u011fi, Delalzade Sk. No:3, 34349 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJAVhtaGe2yhQRRKRBweQiwpQ",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAVhtaGe2yhQRRKRBweQiwpQ&q=?q=place_id:ChIJAVhtaGe2yhQRRKRBweQiwpQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0562854,
+        "longitude": 29.017009899999998
+    },
+    "plus_code": "3248+GR Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Balmumcu",
+        "street": "Delalzade Sk. No:3",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34349",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10719168428985394244",
+    "data_id": "0x14cab667686d5801:0x94c222e4c141a444",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun giri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun oturma d\u00fczeni",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "\u00dcniseks tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNicPYdc0_nSHAepFCLAg51EaJRyJQuBuFbtb1X=w224-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zwyl4bnjJ7JU36TZLqRnkg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=96.7766&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Harikaa",
+            "reviewer_name": "global d\u00fcnya",
+            "rating": 5,
+            "review_text": "Harikaa",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-09-07T12:59:01.547000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110676168939178810012/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWV6a2DyjkvNB-r_4XVw8vn_uW3qTVsUnPWSlmmfGHq6Q=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "R\u0131dvan Er",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-09-04T14:23:09.719000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112897326245038291951/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXbfbsaoo_8hUBOdoDkJZWVFu8vvlrjUks7N40VSq-55A=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

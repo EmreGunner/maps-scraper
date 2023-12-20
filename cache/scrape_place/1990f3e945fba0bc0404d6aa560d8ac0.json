@@ -1,0 +1,257 @@
+{
+    "place_id": "ChIJtdJkKhS2yhQRuju4WxK1Kdw",
+    "name": "Han Law Office",
+    "description": null,
+    "reviews": 5,
+    "competitors": [
+        {
+            "name": "Han Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Han+Hukuk+B%C3%BCrosu/@41.0181329,29.1570084?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Han Hukuk & Dani\u015fmanlik",
+            "link": "https://www.google.com/maps/search/Han+Hukuk+%26+Dani%C5%9Fmanlik/@40.923337,29.1346753?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 2.3,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "NK Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/NK+Avukatl%C4%B1k+B%C3%BCrosu/@41.0762371,29.0201632?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "ENSAR HUKUK B\u00dcROSU | \u0130STANBUL AVUKATLIK OF\u0130S\u0130",
+            "link": "https://www.google.com/maps/search/ENSAR+HUKUK+B%C3%9CROSU+%7C+%C4%B0STANBUL+AVUKATLIK+OF%C4%B0S%C4%B0/@41.070368599999995,29.0159251?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "KHS HUKUK VE DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/KHS+HUKUK+VE+DANI%C5%9EMANLIK/@41.0742578,29.0185823?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.hanhukuk.com/",
+    "owner": {
+        "id": "111884683441553460468",
+        "name": "Han Law Office (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/111884683441553460468"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SZHZ9HjpV2Scpz9I6inp5A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=128.25931&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 3.4,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 263 73 60",
+    "address": "K\u00fclt\u00fcr, Han Law Office, Esra Sk. D:7, 34340 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJtdJkKhS2yhQRuju4WxK1Kdw",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJtdJkKhS2yhQRuju4WxK1Kdw&q=?q=place_id:ChIJtdJkKhS2yhQRuju4WxK1Kdw&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0756448,
+        "longitude": 29.029161499999997
+    },
+    "plus_code": "32GH+7M Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "K\u00fclt\u00fcr",
+        "street": "Esra Sk. D:7",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34340",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "15864410252842122170",
+    "data_id": "0x14cab6142a64d2b5:0xdc29b5125bb83bba",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SZHZ9HjpV2Scpz9I6inp5A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=128.25931&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SZHZ9HjpV2Scpz9I6inp5A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=128.25931&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "1 tane dava var. \u0130nan\u0131lmaz kolayd\u0131. Kaybettiler. Herkes kazan\u0131rs\u0131n diyordu. Ger\u00e7ekten inan\u0131lmaz.",
+            "reviewer_name": "velocity tool",
+            "rating": 1,
+            "review_text": "1 tane dava var. \u0130nan\u0131lmaz kolayd\u0131. Kaybettiler. Herkes kazan\u0131rs\u0131n diyordu. Ger\u00e7ekten inan\u0131lmaz.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-10-15T21:16:07.054000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106158235304080313096/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKXi8v-OiVoct-JNA__lcOqDxPgT1BgSX1eBuje61yW=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "They went above and beyond to make sure the quality of their deliverables was always met. Thanks to their diligent work.",
+            "reviewer_name": "Erdinc Eroglu",
+            "rating": 5,
+            "review_text": "They went above and beyond to make sure the quality of their deliverables was always met. Thanks to their diligent work.",
+            "published_at": "11 ay \u00f6nce",
+            "published_at_date": "2023-01-13T10:00:08.523000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109606982364622242117/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXUkuO7MfmrmWsF6fWozqLYH3C_1Upy1qbPh8OVWvqRyHk=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "Teslimatlar\u0131n\u0131n kalitesinin her zaman kar\u015f\u0131land\u0131\u011f\u0131ndan emin olmak i\u00e7in yukar\u0131da ve \u00f6teye gittiler. \u00d6zenli \u00e7al\u0131\u015fmalar\u0131 sayesinde.",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "S\u0130NAN KAPLAN",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-05-27T17:35:59.692000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/109058211137287952181/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX0oo4AlBXlTeYC5fYeVYYfjtQEVoveDegKx4C33uvAbIY=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Bora Cokelez",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-03-11T09:39:53.335000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/100892082995562930024/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL2TvVc0V0Xf3Azv5DbsSz0aSDcsEDE79KdcZcERewV2g=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Ali Uyan\u0131k",
+            "rating": 1,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-08-01T00:05:59.585000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109449925651784021819/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWu_I3V92Z67RxFMaq79iN6V3I058sZO7swU25K7L-H7jTG=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

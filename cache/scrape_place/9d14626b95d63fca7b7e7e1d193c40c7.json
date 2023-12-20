@@ -1,0 +1,337 @@
+{
+    "place_id": "ChIJ8U4C4t5P0xQRBiyHLqOsgZ4",
+    "name": "Kara Avukatl\u0131k Hukuk B\u00fcrosu - Ankara Bo\u015fanma Ve Ceza Avukat\u0131",
+    "description": null,
+    "reviews": 55,
+    "competitors": [],
+    "website": "https://karaavukatlikmalidanismanlik.com/",
+    "owner": {
+        "id": "100614109208855643680",
+        "name": "Kara Avukatl\u0131k Hukuk B\u00fcrosu - Ankara Bo\u015fanma Ve Ceza Avukat\u0131 (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/100614109208855643680"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOyeWUHbvwcvlA4yMdTybSM7WITM6X0erzpkbKZ=w408-h725-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu",
+        "Avukat",
+        "Ceza Avukat\u0131",
+        "Bo\u015fanma Avukat\u0131",
+        "Bo\u015fanma Hizmeti",
+        "\u0130\u015f Hukuku Avukat\u0131",
+        "\u0130cra Hizmetleri"
+    ],
+    "rating": 5,
+    "workday_timing": "08:00\u201320:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0554 114 66 72",
+    "address": "Korkutreis, Kara Avukatl\u0131k Hukuk B\u00fcrosu - Ankara Bo\u015fanma Ve Ceza Avukat\u0131, Strazburg Cd. No:25/8, 06430 \u00c7ankaya/Ankara",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ8U4C4t5P0xQRBiyHLqOsgZ4",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 20:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 55
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ8U4C4t5P0xQRBiyHLqOsgZ4&q=?q=place_id:ChIJ8U4C4t5P0xQRBiyHLqOsgZ4&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 39.9278214,
+        "longitude": 32.8522065
+    },
+    "plus_code": "WVH2+4V \u00c7ankaya, Ankara",
+    "detailed_address": {
+        "ward": "Korkutreis",
+        "street": "Strazburg Cd. No:25/8",
+        "city": "\u00c7ankaya",
+        "postal_code": "06430",
+        "state": "Ankara",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "11421599946848545798",
+    "data_id": "0x14d34fdee2024ef1:0x9e81aca32e872c06",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun oturma d\u00fczeni",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOyeWUHbvwcvlA4yMdTybSM7WITM6X0erzpkbKZ=w224-h398-k-no"
+        },
+        {
+            "about": "En son",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOyeWUHbvwcvlA4yMdTybSM7WITM6X0erzpkbKZ=w224-h398-k-no"
+        },
+        {
+            "about": "Videolar",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOyeWUHbvwcvlA4yMdTybSM7WITM6X0erzpkbKZ=w224-h398-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMsULaVUp7nUAGAHzaIZi07rCJqqcDZFju6TD77=w526-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xipymOu5tymg8cTORFp6Dw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=160.83047&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201320:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201320:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201320:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201320:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201320:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "08:00\u201320:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Ankara da bo\u015fanma avukat\u0131 olarak yapt\u0131\u011f\u0131m onca ara\u015ft\u0131rman\u0131n her bir dakikas\u0131na de\u011fdi. Benim bo\u015fanma avukat\u0131 aray\u0131\u015f\u0131mda en \u00f6nemli k\u0131stas\u0131m \u015feffafl\u0131k ve samimiyetti. Beklentilerimi sonuna kadar kar\u015f\u0131layan Kara Hukuka buradan da te\u015fekk\u00fcr etmek istedim. Bo\u015fanma avukat\u0131 ar\u0131yorsan\u0131z tavsiye ederim. Pi\u015fman olmazs\u0131n\u0131z..",
+            "reviewer_name": "Ak\u0131n \u0130deci",
+            "rating": 5,
+            "review_text": "Ankara da bo\u015fanma avukat\u0131 olarak yapt\u0131\u011f\u0131m onca ara\u015ft\u0131rman\u0131n her bir dakikas\u0131na de\u011fdi. Benim bo\u015fanma avukat\u0131 aray\u0131\u015f\u0131mda en \u00f6nemli k\u0131stas\u0131m \u015feffafl\u0131k ve samimiyetti. Beklentilerimi sonuna kadar kar\u015f\u0131layan Kara Hukuka buradan da te\u015fekk\u00fcr etmek istedim. Bo\u015fanma avukat\u0131 ar\u0131yorsan\u0131z tavsiye ederim. Pi\u015fman olmazs\u0131n\u0131z..",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-10-11T07:44:33.961000",
+            "response_from_owner_text": "Te\u015fekk\u00fcrler ak\u0131n bey",
+            "response_from_owner_ago": "2 ay \u00f6nce",
+            "response_from_owner_date": "2023-10-11T08:42:19.645000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109345345717779691220/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW_wsrRNngONViKkpjdMuIaDS4E1cyuOUyBjBt8M-l6ST8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Bo\u015fanma gibi hassas bir s\u00fcrecin i\u00e7indeyken kar\u015f\u0131ma \u00e7\u0131kt\u0131klar\u0131 i\u00e7in \u00e7ok mutluyum. Bu s\u00fcre\u00e7te hep yan\u0131mda olup , \u00e7ok ilgilendikleri i\u00e7in ne kadar te\u015fekk\u00fcr etsem az. Avukat Beg\u00fcm Han\u0131ma , her zaman ula\u015f\u0131labilir oldu\u011fu i\u00e7in , her konuda destek oldu\u011fu i\u00e7in te\u015fekk\u00fcr ederim. Her konuda \u00e7ok iyi bir avukat",
+            "reviewer_name": "melis kocaman",
+            "rating": 5,
+            "review_text": "Bo\u015fanma gibi hassas bir s\u00fcrecin i\u00e7indeyken kar\u015f\u0131ma \u00e7\u0131kt\u0131klar\u0131 i\u00e7in \u00e7ok mutluyum. Bu s\u00fcre\u00e7te hep yan\u0131mda olup , \u00e7ok ilgilendikleri i\u00e7in ne kadar te\u015fekk\u00fcr etsem az. Avukat Beg\u00fcm Han\u0131ma , her zaman ula\u015f\u0131labilir oldu\u011fu i\u00e7in , her konuda destek oldu\u011fu i\u00e7in te\u015fekk\u00fcr ederim. Her konuda \u00e7ok iyi bir avukat",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-10-10T20:53:34.090000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101221181809751852363/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI8dQ7Y-EXnvhHy18r9tgPmQxgg17VyDRP6bIxzjV-8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Uzun s\u00fcredir \u00e7\u00f6z\u00fcm bekleyen miras davam\u0131z\u0131 son derece profesyonel ve insanca yakla\u015f\u0131m\u0131 ile hi\u00e7 bir taraf\u0131 \u00fczmeden, k\u0131sa s\u00fcrede olumlu bir \u015fekilde sonu\u00e7land\u0131ran Beg\u00fcm Han\u0131ma sonsuz te\u015fekk\u00fcrler. Kendilerini her t\u00fcrl\u00fc hukuk ve mali dan\u0131\u015fmanl\u0131k konular\u0131nda i\u00e7tenlikle tavsiye ederim.",
+            "reviewer_name": "Hikmet Osborne",
+            "rating": 5,
+            "review_text": "Uzun s\u00fcredir \u00e7\u00f6z\u00fcm bekleyen miras davam\u0131z\u0131 son derece profesyonel ve insanca yakla\u015f\u0131m\u0131 ile hi\u00e7 bir taraf\u0131 \u00fczmeden, k\u0131sa s\u00fcrede olumlu bir \u015fekilde sonu\u00e7land\u0131ran Beg\u00fcm Han\u0131ma sonsuz te\u015fekk\u00fcrler. Kendilerini her t\u00fcrl\u00fc hukuk ve mali dan\u0131\u015fmanl\u0131k konular\u0131nda i\u00e7tenlikle tavsiye ederim.",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-10-11T21:27:56.564000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/104018971423240595489/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKqVue5zBuHxWlxAqMY5-EfKH_xyql2Y74B6bl6_kYi=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u0130nternetten en iyi Bo\u015fanma avukat\u0131 diye ara\u015ft\u0131rma yapt\u0131k , bir ka\u00e7 yerle g\u00f6r\u00fc\u015ft\u00fck ancak tatmin edici cevaplar alamad\u0131k. Beg\u00fcm han\u0131ma sonsuz g\u00fcvenebilirsiniz olduk\u00e7a tecr\u00fcbeli, anlay\u0131\u015fl\u0131 ve bilgili bir avukat. \u00c7ok memnun kald\u0131k\ud83d\ude4f\ud83c\udffb\u2764\ufe0f",
+            "reviewer_name": "S\u0131la Ta\u011fmat",
+            "rating": 5,
+            "review_text": "\u0130nternetten en iyi Bo\u015fanma avukat\u0131 diye ara\u015ft\u0131rma yapt\u0131k , bir ka\u00e7 yerle g\u00f6r\u00fc\u015ft\u00fck ancak tatmin edici cevaplar alamad\u0131k. Beg\u00fcm han\u0131ma sonsuz g\u00fcvenebilirsiniz olduk\u00e7a tecr\u00fcbeli, anlay\u0131\u015fl\u0131 ve bilgili bir avukat. \u00c7ok memnun kald\u0131k\ud83d\ude4f\ud83c\udffb\u2764\ufe0f",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-10-09T19:21:26.707000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107593955280930831581/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJLQV7u3469TWIA-9BAnEFRSWph6bRWLew2Hhi9s82kVfo=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Ba\u015fta sadece hukuki alanlarda dan\u0131\u015fmanl\u0131k hizmeti almak i\u00e7in ba\u015fvurdu\u011fumuz bir b\u00fcroydu bizim i\u00e7in Kara Avukatl\u0131k Hukuk B\u00fcrosu. Sonralar\u0131 ilgi alakalar\u0131 ve ger\u00e7ek anlamda i\u015flerine olan sayg\u0131lar\u0131n\u0131 g\u00f6rd\u00fc\u011f\u00fcm\u00fczden dolay\u0131 farkl\u0131 alanlarda da ihtiya\u00e7lar\u0131m\u0131z do\u011frultusunda hizmet vermeye ba\u015flad\u0131lar. Hala daha da vermeye devam etmekteler. Hem hukuki anlamda hem dan\u0131\u015fmanl\u0131k anlam\u0131nda hem de en \u00f6nemlisi insanl\u0131k anlam\u0131nda \u00f6nemli de\u011ferlere sahipler. Dan\u0131\u015fmanl\u0131k konusunda veya icra dosyalar\u0131n\u0131z\u0131n takibi konusunda bo\u015fanma davalar\u0131 konusunda k\u0131sacas\u0131 akl\u0131n\u0131za gelebilecek hemen hemen her alanda hizmet alabilece\u011finiz bir b\u00fcro.",
+            "reviewer_name": "Ferhat SA\u011eLAM",
+            "rating": 5,
+            "review_text": "Ba\u015fta sadece hukuki alanlarda dan\u0131\u015fmanl\u0131k hizmeti almak i\u00e7in ba\u015fvurdu\u011fumuz bir b\u00fcroydu bizim i\u00e7in Kara Avukatl\u0131k Hukuk B\u00fcrosu. Sonralar\u0131 ilgi alakalar\u0131 ve ger\u00e7ek anlamda i\u015flerine olan sayg\u0131lar\u0131n\u0131 g\u00f6rd\u00fc\u011f\u00fcm\u00fczden dolay\u0131 farkl\u0131 alanlarda da ihtiya\u00e7lar\u0131m\u0131z do\u011frultusunda hizmet vermeye ba\u015flad\u0131lar. Hala daha da vermeye devam etmekteler. Hem hukuki anlamda hem dan\u0131\u015fmanl\u0131k anlam\u0131nda hem de en \u00f6nemlisi insanl\u0131k anlam\u0131nda \u00f6nemli de\u011ferlere sahipler. Dan\u0131\u015fmanl\u0131k konusunda veya icra dosyalar\u0131n\u0131z\u0131n takibi konusunda bo\u015fanma davalar\u0131 konusunda k\u0131sacas\u0131 akl\u0131n\u0131za gelebilecek hemen hemen her alanda hizmet alabilece\u011finiz bir b\u00fcro.",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-10-11T07:10:24.295000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116434568808917826730/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUgVDMxTQ1vEsN7uf9Te8BRS4EaO7ihbegk_oIVMC_QPLU=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Bo\u015fanma davam bug\u00fcn bitti. Bu s\u00fcre\u00e7 boyunca ihtiyac\u0131m olan deste\u011fi fazlas\u0131yla sa\u011flad\u0131. 30 bin lira tazminat teklif eden e\u015fimden 110 bin lira tazminat ald\u0131k. S\u00fcre\u00e7 boyunca hakk\u0131m\u0131 sonuna kadar savundukar. Te\u015fekk\u00fcrler. Y\u00fcz y\u00fcze bir kez g\u00f6r\u00fc\u015ft\u00fckten sonra g\u00fcven konusunda akl\u0131n\u0131zda hi\u00e7bir soru i\u015fareti kalmayacakt\u0131r. Herkese tavsiye ederim.",
+            "reviewer_name": "Bu\u011fra Arazay",
+            "rating": 5,
+            "review_text": "Bo\u015fanma davam bug\u00fcn bitti. Bu s\u00fcre\u00e7 boyunca ihtiyac\u0131m olan deste\u011fi fazlas\u0131yla sa\u011flad\u0131. 30 bin lira tazminat teklif eden e\u015fimden 110 bin lira tazminat ald\u0131k. S\u00fcre\u00e7 boyunca hakk\u0131m\u0131 sonuna kadar savundukar. Te\u015fekk\u00fcrler. Y\u00fcz y\u00fcze bir kez g\u00f6r\u00fc\u015ft\u00fckten sonra g\u00fcven konusunda akl\u0131n\u0131zda hi\u00e7bir soru i\u015fareti kalmayacakt\u0131r. Herkese tavsiye ederim.",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-10-11T09:23:49.518000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107129487542777777031/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX3XpS-1vaAG3nRgQg7TP-VEK1er_Qf7FspyJLbBR2wpw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Her \u015feyden \u00f6nce kesinlikle ko\u015fulsuz g\u00fcvenebilece\u011finiz bir avukat. Velayet davam\u0131z i\u00e7in ne kadar avukata gitsek hepsinin a\u011fz\u0131ndan bu i\u015f zor c\u00fcmlesini duydum buna ra\u011fmen \u015fu davay\u0131 a\u00e7al\u0131m bu davay\u0131 a\u00e7al\u0131m diye diye param\u0131z\u0131 yediler daha da ma\u011fdur olduk. Bu avukatsa her \u015feyden \u00f6nce psikolojik olarak da destek oldu bize g\u00fcvenimizi bo\u015fa \u00e7\u0131karmad\u0131 k\u0131sa zamanda herkesin yok dedi\u011fi i\u015fi halletti annem sonunda \u00e7ocuklar\u0131na kavu\u015ftu hakk\u0131n\u0131 \u00f6deyemeyiz",
+            "reviewer_name": "Yusuf Atl\u0131",
+            "rating": 5,
+            "review_text": "Her \u015feyden \u00f6nce kesinlikle ko\u015fulsuz g\u00fcvenebilece\u011finiz bir avukat. Velayet davam\u0131z i\u00e7in ne kadar avukata gitsek hepsinin a\u011fz\u0131ndan bu i\u015f zor c\u00fcmlesini duydum buna ra\u011fmen \u015fu davay\u0131 a\u00e7al\u0131m bu davay\u0131 a\u00e7al\u0131m diye diye param\u0131z\u0131 yediler daha da ma\u011fdur olduk. Bu avukatsa her \u015feyden \u00f6nce psikolojik olarak da destek oldu bize g\u00fcvenimizi bo\u015fa \u00e7\u0131karmad\u0131 k\u0131sa zamanda herkesin yok dedi\u011fi i\u015fi halletti annem sonunda \u00e7ocuklar\u0131na kavu\u015ftu hakk\u0131n\u0131 \u00f6deyemeyiz",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-10-10T08:08:23.504000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116851863241345836581/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKXipDLPhUGJZyOQ2c5B4o-3B3Ao36j4Hb0VbhZJvmb=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Bo\u015fanma s\u00fcreci karma\u015f\u0131k ve stresli bir s\u00fcre\u00e7 olabilir, ancak bu hukuk b\u00fcrosuyla bu s\u00fcreci y\u00f6netmek konusunda ola\u011fan\u00fcst\u00fcyd\u00fc. Hukuki konulardaki derin bilgisi sayesinde, herhangi bir sorunla ba\u015fa \u00e7\u0131kmak i\u00e7in haz\u0131rl\u0131kl\u0131yd\u0131. Ayr\u0131ca, m\u00fcvekkillerine kar\u015f\u0131 sonsuz bir empati g\u00f6steriyor ve onlar\u0131 rahatlat\u0131yor. Kendilerine minnettar\u0131m ve tavsiye ederim.",
+            "reviewer_name": "Yns Krk",
+            "rating": 5,
+            "review_text": "Bo\u015fanma s\u00fcreci karma\u015f\u0131k ve stresli bir s\u00fcre\u00e7 olabilir, ancak bu hukuk b\u00fcrosuyla bu s\u00fcreci y\u00f6netmek konusunda ola\u011fan\u00fcst\u00fcyd\u00fc. Hukuki konulardaki derin bilgisi sayesinde, herhangi bir sorunla ba\u015fa \u00e7\u0131kmak i\u00e7in haz\u0131rl\u0131kl\u0131yd\u0131. Ayr\u0131ca, m\u00fcvekkillerine kar\u015f\u0131 sonsuz bir empati g\u00f6steriyor ve onlar\u0131 rahatlat\u0131yor. Kendilerine minnettar\u0131m ve tavsiye ederim.",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-10-09T14:39:14.409000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 11,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104586356495300003386/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocISQlRBc3skVs_7RZpyPDus8fPh-ckoJrzrAPNnrSCf=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

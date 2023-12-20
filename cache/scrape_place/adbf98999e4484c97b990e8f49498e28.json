@@ -1,0 +1,198 @@
+{
+    "place_id": "ChIJDVBDmFG2yhQRiO0HzyeDptU",
+    "name": "CCAO LAW",
+    "description": null,
+    "reviews": 2,
+    "competitors": [
+        {
+            "name": "\u00d6zel Ve \u00d6zel Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%96zel+Ve+%C3%96zel+Avukatl%C4%B1k+B%C3%BCrosu/@41.0703239,29.013875999999996?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 4.2,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Akol Law",
+            "link": "https://www.google.com/maps/search/Akol+Law/@41.0780473,29.0105306?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 4.3,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "\u00d6z\u00e7ak\u0131c\u0131 Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%96z%C3%A7ak%C4%B1c%C4%B1+Hukuk+B%C3%BCrosu/@41.067390599999996,28.996211600000002?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 4.2,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ko\u00e7 Attorneys at Law",
+            "link": "https://www.google.com/maps/search/Ko%C3%A7+Attorneys+at+Law/@41.0679087,29.009197799999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Karaahmeto\u011flu Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Karaahmeto%C4%9Flu+Hukuk+B%C3%BCrosu/@41.0674606,29.0117524?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 2.6,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://ccaolaw.com/",
+    "owner": {
+        "id": "105444367807071602173",
+        "name": "CCAO LAW (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/105444367807071602173"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8aJbDEWfErXKB2aER869PQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=42.28536&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu",
+        "Avukat"
+    ],
+    "rating": 3,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 349 50 00",
+    "address": "Esentepe, CCAO LAW, Cerrahogullari Is Merkezi, Y\u0131ld\u0131z Posta Cd. No:17 K:3, 34394 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJDVBDmFG2yhQRiO0HzyeDptU",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJDVBDmFG2yhQRiO0HzyeDptU&q=?q=place_id:ChIJDVBDmFG2yhQRiO0HzyeDptU&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0657772,
+        "longitude": 29.0087665
+    },
+    "plus_code": "3285+8G \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Esentepe",
+        "street": "Cerrahogullari Is Merkezi, Y\u0131ld\u0131z Posta Cd. No:17 K:3",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34394",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "15395136583212985736",
+    "data_id": "0x14cab6519843500d:0xd5a68327cf07ed88",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8aJbDEWfErXKB2aER869PQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=42.28536&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8aJbDEWfErXKB2aER869PQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=42.28536&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "SABAHATTIN ENES CAN KIRBAC",
+            "rating": 1,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-08-09T20:34:46.199000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116078210562550181641/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXLbc-4Kake-waYY5gdiSwmeGlXSq-OVxdzXxi3Acwy3dk=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Bar\u0131\u015f D\u00dcNDAR",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-09-16T16:10:38.822000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110923003902382760934/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKpE3wtLoP26wPt4rDObmTFT1cHZ_-sjT5hzG117tL7=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

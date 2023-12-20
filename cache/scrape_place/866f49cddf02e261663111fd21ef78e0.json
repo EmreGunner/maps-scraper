@@ -1,0 +1,145 @@
+{
+    "place_id": "ChIJSYO5PXy4yhQRRG9DfQ191Zg",
+    "name": "AR-AL \u0130N\u015eAAT",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "ARS \u0130N\u015eAAT",
+            "link": "https://www.google.com/maps/search/ARS+%C4%B0N%C5%9EAAT/@40.9808553,29.054513499999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "\u0130n\u015faat \u015eirketi"
+        },
+        {
+            "name": "Ared Yap\u0131",
+            "link": "https://www.google.com/maps/search/Ared+Yap%C4%B1/@40.9810847,29.0412299?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Apartman"
+        },
+        {
+            "name": "ER\u0130L \u0130N\u015eAAT",
+            "link": "https://www.google.com/maps/search/ER%C4%B0L+%C4%B0N%C5%9EAAT/@40.979256799999995,29.048344699999994?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "\u0130n\u015faat \u015eirketi"
+        }
+    ],
+    "website": "http://www.ar-al.com/",
+    "owner": {
+        "id": "112870864275053596440",
+        "name": "AR-AL \u0130N\u015eAAT (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/112870864275053596440"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ouBl_K_YuFLvZzmE6LiXzg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=325.3116&pitch=0&thumbfov=100",
+    "main_category": "\u015eirket Yerle\u015fkesi",
+    "categories": [
+        "\u015eirket Yerle\u015fkesi"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0541 803 05 30",
+    "address": "Fenerbah\u00e7e, AR-AL \u0130N\u015eAAT, Sadberk Sk. No:8, 34726 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJSYO5PXy4yhQRRG9DfQ191Zg",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJSYO5PXy4yhQRRG9DfQ191Zg&q=?q=place_id:ChIJSYO5PXy4yhQRRG9DfQ191Zg&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.981052999999996,
+        "longitude": 29.039064
+    },
+    "plus_code": "X2JQ+CJ Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Fenerbah\u00e7e",
+        "street": "Sadberk Sk. No:8",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34726",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "11012845960694034244",
+    "data_id": "0x14cab87c3db98349:0x98d57d0d7d436f44",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ouBl_K_YuFLvZzmE6LiXzg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=325.3116&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP3Cm5equWx4cE0p6xzITlijR5ibvpiRgIpEvWT=w428-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ouBl_K_YuFLvZzmE6LiXzg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=325.3116&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

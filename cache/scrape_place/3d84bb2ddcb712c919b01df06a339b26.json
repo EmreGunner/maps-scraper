@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJVVVRsoKlyhQRqwV1i4pJ3kI",
+    "name": "Aninda Kargo",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "DO\u011eAN KARGO TA\u015eIMACILIK",
+            "link": "https://www.google.com/maps/search/DO%C4%9EAN+KARGO+TA%C5%9EIMACILIK/@41.0859655,28.790348700000003?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Lojistik Hizmetleri"
+        },
+        {
+            "name": "IAN Shipping",
+            "link": "https://www.google.com/maps/search/IAN+Shipping/@41.1036254,28.7918504?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Kargo \u015eirketi"
+        },
+        {
+            "name": "Bedirhan Lojistik",
+            "link": "https://www.google.com/maps/search/Bedirhan+Lojistik/@41.084644999999995,28.799262?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 4.7,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Anatolia Legal And Logistics",
+            "link": "https://www.google.com/maps/search/Anatolia+Legal+And+Logistics/@41.070903099999995,28.810001200000002?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Asil Kargo",
+            "link": "https://www.google.com/maps/search/Asil+Kargo/@41.0709121,28.8096327?authuser=0&entry=ttu",
+            "reviews": 116,
+            "rating": 2,
+            "main_category": "Kargo \u015eirketi"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Aninda Kargo (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oR_SLSWA7acu0XRiS5AigQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=52.904522&pitch=0&thumbfov=100",
+    "main_category": "Kurye Hizmeti",
+    "categories": [
+        "Kurye Hizmeti"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Aninda Kargo, ikitelli OSB mah. Milas cad. no:7 i\u00e7 kap\u0131 no:51, Ba\u015fak\u015fehir/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJVVVRsoKlyhQRqwV1i4pJ3kI",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJVVVRsoKlyhQRqwV1i4pJ3kI&q=?q=place_id:ChIJVVVRsoKlyhQRqwV1i4pJ3kI&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0677704,
+        "longitude": 28.812179699999998
+    },
+    "plus_code": "3R96+4V Ba\u015fak\u015fehir, \u0130stanbul",
+    "detailed_address": {
+        "ward": null,
+        "street": "ikitelli OSB mah. Milas cad. no:7 i\u00e7 kap\u0131 no:51",
+        "city": "\u0130kitelli Osb/Ba\u015fak\u015fehir",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4818369510727026091",
+    "data_id": "0x14caa582b2515555:0x42de498a8b7505ab",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oR_SLSWA7acu0XRiS5AigQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=52.904522&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oR_SLSWA7acu0XRiS5AigQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=52.904522&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,310 @@
+{
+    "place_id": "ChIJoTdzfIJP0xQR87uAoNlxxlg",
+    "name": "\u0130dea Hukukb\u00fcrosu",
+    "description": null,
+    "reviews": 16,
+    "competitors": [
+        {
+            "name": "\u0130de Avukatl\u0131k ve Arabuluculuk",
+            "link": "https://www.google.com/maps/search/%C4%B0de+Avukatl%C4%B1k+ve+Arabuluculuk/@39.885253299999995,32.8693194?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Fides Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Fides+Hukuk+B%C3%BCrosu/@39.8916584,32.8540594?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u0130da Avukatl\u0131k Ofisi",
+            "link": "https://www.google.com/maps/search/%C4%B0da+Avukatl%C4%B1k+Ofisi/@39.8870061,32.8589631?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Aksoy Hukuk",
+            "link": "https://www.google.com/maps/search/Aksoy+Hukuk/@39.8932425,32.856318699999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "114505813621450059583",
+        "name": "\u0130dea Hukukb\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/114505813621450059583"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mluxGyFJ-PX_m35_JGsVjA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=299.92038&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 3.4,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0312) 467 61 50",
+    "address": "Aziziye Mah., \u0130dea Hukukb\u00fcrosu, Cinnah Cad. & K\u0131rkp\u0131nar Sok. 10/18, 06690 \u00c7ankaya/Ankara",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJoTdzfIJP0xQR87uAoNlxxlg",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 5,
+        "2": 0,
+        "3": 1,
+        "4": 3,
+        "5": 7
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJoTdzfIJP0xQR87uAoNlxxlg&q=?q=place_id:ChIJoTdzfIJP0xQR87uAoNlxxlg&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 39.8916214,
+        "longitude": 32.8540184
+    },
+    "plus_code": "VVR3+JJ \u00c7ankaya, Ankara",
+    "detailed_address": {
+        "ward": "Aziziye Mah.",
+        "street": "Cinnah Cad. & K\u0131rkp\u0131nar Sok. 10/18",
+        "city": "\u00c7ankaya",
+        "postal_code": "06690",
+        "state": "Ankara",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6396925500241001459",
+    "data_id": "0x14d34f827c7337a1:0x58c671d9a080bbf3",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mluxGyFJ-PX_m35_JGsVjA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=299.92038&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mluxGyFJ-PX_m35_JGsVjA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=299.92038&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "\u0130nsanlar\u0131 icra ile k\u00f6\u015feye s\u0131k\u0131\u015ft\u0131r\u0131p insanlar\u0131n \u00e7aresizliginden faydalanan bir hukuk b\u00fcrosu. En ba\u015fta 19 bin TL olan borcuma d\u00fcnya kadar vek\u00e2let \u00fccreti koyup borcu 29 bin TL ye \u00e7\u0131kart\u0131p. Elinize toplu para ge\u00e7ince \u00f6dersiniz size indirim yapar\u0131z deyip.. Sonra da siz bir senedir \u00f6d\u00fcyorsunuz deyip yan \u00e7izen bir hukuk b\u00fcrosu. Ayr\u0131ca bir senede 17 bin TL \u00f6demi\u015fim onu s\u00f6yleyince avukat ge\u00e7inen kad\u0131n bana k\u00fcstah\u00e7a benim borcumumu \u00f6d\u00fcyorsun diyor. Bana mesaj at\u0131p faiz indirimden faydalan\u0131n diye mesaj at\u0131p aray\u0131nca bu sizi kapsamiyor diye dalga ge\u00e7iyorlar. En son siz kapat\u0131n borcunuzu bakar\u0131z indirime diyen bu avukat ge\u00e7inen kad\u0131n sonra ben size \u00f6yle bir \u015fey demedim diyor. Sizleri en yak\u0131n zamanda baroya \u015fikayet edece\u011fim. Bir de bana s\u0131k\u0131lmadan \u00f6demeyi bize de\u011fil icra dairesine g\u00f6nderiyorsunuz oraya kesiliyor demez mi. Bugunden tezi yok icra dairesinden de b\u00fct\u00fcn bu faiz \u00f6demelerini \u00e7\u0131kart\u0131p gerekirse bu hukuk b\u00fcrosunu nu baroya \u015fikayet edip gerekirse icra mahkemesine dava acacag\u0131m ve insanlar\u0131 b\u00f6yle ma\u011fdur etmek ne demekmi\u015f bakaca\u011f\u0131z.",
+            "reviewer_name": "Eren Erdener",
+            "rating": 1,
+            "review_text": "\u0130nsanlar\u0131 icra ile k\u00f6\u015feye s\u0131k\u0131\u015ft\u0131r\u0131p insanlar\u0131n \u00e7aresizliginden faydalanan bir hukuk b\u00fcrosu. En ba\u015fta 19 bin TL olan borcuma d\u00fcnya kadar vek\u00e2let \u00fccreti koyup borcu 29 bin TL ye \u00e7\u0131kart\u0131p. Elinize toplu para ge\u00e7ince \u00f6dersiniz size indirim yapar\u0131z deyip.. Sonra da siz bir senedir \u00f6d\u00fcyorsunuz deyip yan \u00e7izen bir hukuk b\u00fcrosu. Ayr\u0131ca bir senede 17 bin TL \u00f6demi\u015fim onu s\u00f6yleyince avukat ge\u00e7inen kad\u0131n bana k\u00fcstah\u00e7a benim borcumumu \u00f6d\u00fcyorsun diyor. Bana mesaj at\u0131p faiz indirimden faydalan\u0131n diye mesaj at\u0131p aray\u0131nca bu sizi kapsamiyor diye dalga ge\u00e7iyorlar. En son siz kapat\u0131n borcunuzu bakar\u0131z indirime diyen bu avukat ge\u00e7inen kad\u0131n sonra ben size \u00f6yle bir \u015fey demedim diyor. Sizleri en yak\u0131n zamanda baroya \u015fikayet edece\u011fim. Bir de bana s\u0131k\u0131lmadan \u00f6demeyi bize de\u011fil icra dairesine g\u00f6nderiyorsunuz oraya kesiliyor demez mi. Bugunden tezi yok icra dairesinden de b\u00fct\u00fcn bu faiz \u00f6demelerini \u00e7\u0131kart\u0131p gerekirse bu hukuk b\u00fcrosunu nu baroya \u015fikayet edip gerekirse icra mahkemesine dava acacag\u0131m ve insanlar\u0131 b\u00f6yle ma\u011fdur etmek ne demekmi\u015f bakaca\u011f\u0131z.",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-10-04T21:25:45.622000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110188654578125850821/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLtLtjngbiocFBivDxYKvqppG8WLwFY-kGMmnqqF6Ke=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Verdigi hi\u00e7 bir sozde durmayan ,dosyan\u0131n en ba\u015f\u0131nda size pe\u015fin \u00f6demede yard\u0131mc\u0131 olur deyip.odedigin bor\u00e7lar h\u00e2l\u00e2 yerinde say\u0131p sonra yok har\u00e7lar artt\u0131 ,yok vergiler y\u00fckseldi diyen bir b\u00fcro.maasina ve arazine haciz getiren ve sonra da burnundan k\u0131l ald\u0131rmayan ve s\u00f6z\u00fcnde durmayan b\u00fcro . Avukat olan Zeynep denen ki\u015finin bana telefonda uslupsuzca benin borcumu mu \u00f6d\u00fcyorsun diyecek kadar hadsizce  konu\u015fmas\u0131 .size art\u0131k iyi niyetim bitmi\u015ftir size art\u0131k zerre \u00f6deme yapmayaca\u011f\u0131m.bir sene boyunca 17 bin TL para odemisim.ana para borcu 29 iken kald\u0131 ki,ger\u00e7ek borcum 18 bin TL iken hukuk b\u00fcrosu bunun \u00fczerine d\u00fcnyada emsali g\u00f6r\u00fclmemi\u015f Bir bi\u00e7imde 9 bin TL vek\u00e2let \u00fccreti koymu\u015ftu.17 bin TL odemisim ve ve gene borcum 21 bin TL g\u00f6r\u00fcn\u00fcyor.neyin faizi \u00e7ok merak ettim.icra dairesi ve ve idea hukuk b\u00fcrosu anlasilan size bu bu bor\u00e7 \u00f6demekle bitmeyecek ve sizlerle bundan sonra hukuk \u00f6n\u00fcnde hesaplasacagiz .",
+            "reviewer_name": "Eren Erdener",
+            "rating": 1,
+            "review_text": "Verdigi hi\u00e7 bir sozde durmayan ,dosyan\u0131n en ba\u015f\u0131nda size pe\u015fin \u00f6demede yard\u0131mc\u0131 olur deyip.odedigin bor\u00e7lar h\u00e2l\u00e2 yerinde say\u0131p sonra yok har\u00e7lar artt\u0131 ,yok vergiler y\u00fckseldi diyen bir b\u00fcro.maasina ve arazine haciz getiren ve sonra da burnundan k\u0131l ald\u0131rmayan ve s\u00f6z\u00fcnde durmayan b\u00fcro . Avukat olan Zeynep denen ki\u015finin bana telefonda uslupsuzca benin borcumu mu \u00f6d\u00fcyorsun diyecek kadar hadsizce  konu\u015fmas\u0131 .size art\u0131k iyi niyetim bitmi\u015ftir size art\u0131k zerre \u00f6deme yapmayaca\u011f\u0131m.bir sene boyunca 17 bin TL para odemisim.ana para borcu 29 iken kald\u0131 ki,ger\u00e7ek borcum 18 bin TL iken hukuk b\u00fcrosu bunun \u00fczerine d\u00fcnyada emsali g\u00f6r\u00fclmemi\u015f Bir bi\u00e7imde 9 bin TL vek\u00e2let \u00fccreti koymu\u015ftu.17 bin TL odemisim ve ve gene borcum 21 bin TL g\u00f6r\u00fcn\u00fcyor.neyin faizi \u00e7ok merak ettim.icra dairesi ve ve idea hukuk b\u00fcrosu anlasilan size bu bu bor\u00e7 \u00f6demekle bitmeyecek ve sizlerle bundan sonra hukuk \u00f6n\u00fcnde hesaplasacagiz .",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-10-04T14:50:55.349000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107229201389405887578/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLUqFW6vGy6oMT7brOqRpMMYbOmDHmfOnayvxhwlGoN=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Takipteki 3 kurusluk borc icin araciniza haciz koyan, borcu kapatinca da zerre umrunda olmadan dosya kapatmak icin bile ugrasmayan, sizi icraya kendiniz gideceksiniz kapatacaksiniz diyen luzumsuz bir buro. \u0130crada katiplerin i\u015fleri yapilmiyormus :) e takibi nasi actiniz ? Araca hacizi nasil koydunuz peki ?",
+            "reviewer_name": "Ercument Altuncu",
+            "rating": 1,
+            "review_text": "Takipteki 3 kurusluk borc icin araciniza haciz koyan, borcu kapatinca da zerre umrunda olmadan dosya kapatmak icin bile ugrasmayan, sizi icraya kendiniz gideceksiniz kapatacaksiniz diyen luzumsuz bir buro. \u0130crada katiplerin i\u015fleri yapilmiyormus :) e takibi nasi actiniz ? Araca hacizi nasil koydunuz peki ?",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-10-13T15:03:32.935000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 374,
+            "total_number_of_photos_by_reviewer": 136,
+            "reviewer_url": "https://www.google.com/maps/contrib/104592495882718118595/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVrv6WKY6BB6qiIpkFaLgQkaxP2foGTZcyRJlkRmkTX5Kg=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Ellerindeki n\u00fcfus veritaban\u0131 eski olan tacizci hukuk b\u00fcrolar\u0131ndan birisi. Tehdit edece\u011finiz adam\u0131 b\u00f6yle deneme yan\u0131lma ile bulmay\u0131n \u00e7ok amat\u00f6r g\u00f6z\u00fck\u00fcyor.",
+            "reviewer_name": "Metehan U\u011furlu",
+            "rating": 1,
+            "review_text": "Ellerindeki n\u00fcfus veritaban\u0131 eski olan tacizci hukuk b\u00fcrolar\u0131ndan birisi. Tehdit edece\u011finiz adam\u0131 b\u00f6yle deneme yan\u0131lma ile bulmay\u0131n \u00e7ok amat\u00f6r g\u00f6z\u00fck\u00fcyor.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-10-26T05:16:30.293000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113076557986147820429/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUEff2Vy1UZP6eZtRU0BoNarsFz-Caj4WqmYu63vpImDg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Kendi i\u015fim dolay\u0131s\u0131yla gittim ve \u00e7ok memnun kald\u0131m. profesyonel \u00e7al\u0131\u015fma ekipleri mevcut",
+            "reviewer_name": "Mevlut Demirhan",
+            "rating": 4,
+            "review_text": "Kendi i\u015fim dolay\u0131s\u0131yla gittim ve \u00e7ok memnun kald\u0131m. profesyonel \u00e7al\u0131\u015fma ekipleri mevcut",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-04-09T18:01:28.783000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 235,
+            "total_number_of_photos_by_reviewer": 16,
+            "reviewer_url": "https://www.google.com/maps/contrib/102052027654781177626/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXBzXu2PKi71fIf5o_zwczVOoUJKmq_SdO9Kbf5-hAWBZE=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Gayet m\u00fc\u015fteri memnuniyeti bir yer",
+            "reviewer_name": "mustafa malko\u00e7",
+            "rating": 4,
+            "review_text": "Gayet m\u00fc\u015fteri memnuniyeti bir yer",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-02-14T22:08:50.702000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 789,
+            "total_number_of_photos_by_reviewer": 211,
+            "reviewer_url": "https://www.google.com/maps/contrib/103087488762182686905/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWxNpiMOC3u7JCp0VzxmC0UMK2jcBnNgIyE1ZBDNTG-DlE=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Ercan Durgun",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-09-11T11:50:18.455000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 64,
+            "reviewer_url": "https://www.google.com/maps/contrib/110162129288781178730/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJSgN6hVPFlV2ChCZjFkPEibeDMx0iqpF5BvoYFr54=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "ahmet ayd\u0131n",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-09-01T07:26:33.746000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/115753324418921760142/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL7wYY34VtAmGDSk5yKHzWWbH6_OlRXd8wps6rNh_gD=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

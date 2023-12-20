@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJKe_nrFa2yhQRLrsXm6VyoHM",
+    "name": "Tomurcuk Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Tercang\u00f6k Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Tercang%C3%B6k+Hukuk+B%C3%BCrosu/@41.06709,29.002955999999998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "DKND Law Firm / DKND Hukuk Burosu",
+            "link": "https://www.google.com/maps/search/DKND+Law+Firm+%2F+DKND+Hukuk+Burosu/@41.064851,29.009177399999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ak\u00fcnal Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ak%C3%BCnal+Hukuk+B%C3%BCrosu/@41.0654579,29.005861799999998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Eng\u00fczel Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Eng%C3%BCzel+Hukuk+B%C3%BCrosu/@41.0639709,29.0048575?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Top\u00e7u Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Top%C3%A7u+Hukuk+B%C3%BCrosu/@41.0663762,29.004436400000003?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 4.1,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.tomurcuk.av.tr/",
+    "owner": {
+        "id": "104346506243540576896",
+        "name": "Tomurcuk Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/104346506243540576896"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QNUFtG4kOA50NhLY2TdkFw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=193.75192&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 274 77 74",
+    "address": "Tomurcuk Hukuk B\u00fcrosu, Y\u0131ld\u0131z Posta Cad. Emel Apt. No:14 K:6 D:606 Gayrettepe, 34349 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJKe_nrFa2yhQRLrsXm6VyoHM",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJKe_nrFa2yhQRLrsXm6VyoHM&q=?q=place_id:ChIJKe_nrFa2yhQRLrsXm6VyoHM&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0661881,
+        "longitude": 29.004986499999998
+    },
+    "plus_code": "3283+FX Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Gayrettepe",
+        "street": "Y\u0131ld\u0131z Posta Cad. Emel Apt. No:14 K:6 D:606 Gayrettepe",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34349",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "8331785366232611630",
+    "data_id": "0x14cab656ace7ef29:0x73a072a59b17bb2e",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QNUFtG4kOA50NhLY2TdkFw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=193.75192&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QNUFtG4kOA50NhLY2TdkFw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=193.75192&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

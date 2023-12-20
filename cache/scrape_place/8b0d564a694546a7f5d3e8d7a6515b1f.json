@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJzxLlz1a2yhQRhxb__-DHjhk",
+    "name": "Ate\u015fci Hukuk",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Ali\u015fan & \u00c7ift\u00e7i Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Ali%C5%9Fan+%26+%C3%87ift%C3%A7i+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.0684417,28.985640300000004?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ate\u015f Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Ate%C5%9F+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.066959000000004,28.995654?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "A\u00c7I HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/A%C3%87I+HUKUK+B%C3%9CROSU/@41.053629,28.987064000000004?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 3.8,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "\u0130ste&\u0130ste Avukatl\u0131k B\u00fcrosu-Iste&Iste Law Firm",
+            "link": "https://www.google.com/maps/search/%C4%B0ste%26%C4%B0ste+Avukatl%C4%B1k+B%C3%BCrosu-Iste%26Iste+Law+Firm/@41.058572399999996,28.985304599999996?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "atem hukuk",
+            "link": "https://www.google.com/maps/search/atem+hukuk/@41.0586036,28.987198099999997?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Ate\u015fci Hukuk (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CrUGticz20NDLjCZXQq3gg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.19614&pitch=0&thumbfov=100",
+    "main_category": "Hukuk Hizmetleri",
+    "categories": [
+        "Hukuk Hizmetleri"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0530 456 68 00",
+    "address": "19 May\u0131s, Ate\u015fci Hukuk, B\u00fcy\u00fckdere Cd. No:119, 34381 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJzxLlz1a2yhQRhxb__-DHjhk",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJzxLlz1a2yhQRhxb__-DHjhk&q=?q=place_id:ChIJzxLlz1a2yhQRhxb__-DHjhk&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0604817,
+        "longitude": 28.987423999999997
+    },
+    "plus_code": "3X6P+5X \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "19 May\u0131s",
+        "street": "B\u00fcy\u00fckdere Cd. No:119",
+        "city": "\u015ei\u015fli",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "1841629066822620807",
+    "data_id": "0x14cab656cfe512cf:0x198ec7e0ffff1687",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CrUGticz20NDLjCZXQq3gg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=322.19614&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CrUGticz20NDLjCZXQq3gg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=322.19614&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

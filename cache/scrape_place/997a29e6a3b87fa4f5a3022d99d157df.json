@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJ0__0j0S2yhQRY1thEsucLFg",
+    "name": "G\u00fcn + Partners Patent",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "G\u00fcn Dani\u015fmanlik Hizmetleri Limited \u015eirketi",
+            "link": "https://www.google.com/maps/search/G%C3%BCn+Dani%C5%9Fmanlik+Hizmetleri+Limited+%C5%9Eirketi/@41.072204,29.013339?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": ""
+        },
+        {
+            "name": "G\u00fcn + Partners Law Firm",
+            "link": "https://www.google.com/maps/search/G%C3%BCn+%2B+Partners+Law+Firm/@41.072204,29.013339?authuser=0&entry=ttu",
+            "reviews": 38,
+            "rating": 4.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Kurtulus & Partners",
+            "link": "https://www.google.com/maps/search/Kurtulus+%26+Partners/@None,None?authuser=0&entry=ttu",
+            "reviews": 21,
+            "rating": 2.7,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Muhtaranlar Attorney Partnership",
+            "link": "https://www.google.com/maps/search/Muhtaranlar+Attorney+Partnership/@41.0723388,29.012167899999994?authuser=0&entry=ttu",
+            "reviews": 10,
+            "rating": 4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Demir & Partners Law Office",
+            "link": "https://www.google.com/maps/search/Demir+%26+Partners+Law+Office/@41.070268299999995,29.013742099999998?authuser=0&entry=ttu",
+            "reviews": 10,
+            "rating": 4.8,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://gun-ip.com/",
+    "owner": {
+        "id": null,
+        "name": "G\u00fcn + Partners Patent (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yW3Cl9Q9x7fkuf-5nj48iA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=218.8112&pitch=0&thumbfov=100",
+    "main_category": "Kurumsal Ofis",
+    "categories": [
+        "Kurumsal Ofis"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 354 00 00",
+    "address": "Esentepe, G\u00fcn + Partners Patent, G\u00fcn + Partners, Kore \u015eehitleri Cd. No:17, 34394 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ0__0j0S2yhQRY1thEsucLFg",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ0__0j0S2yhQRY1thEsucLFg&q=?q=place_id:ChIJ0__0j0S2yhQRY1thEsucLFg&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.072204,
+        "longitude": 29.013339
+    },
+    "plus_code": "32C7+V8 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Esentepe",
+        "street": "G\u00fcn + Partners, Kore \u015eehitleri Cd. No:17",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34394",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6353625570313591651",
+    "data_id": "0x14cab6448ff4ffd3:0x582c9ccb12615b63",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yW3Cl9Q9x7fkuf-5nj48iA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=218.8112&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yW3Cl9Q9x7fkuf-5nj48iA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=218.8112&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

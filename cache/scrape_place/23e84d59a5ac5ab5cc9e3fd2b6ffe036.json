@@ -1,0 +1,166 @@
+{
+    "place_id": "ChIJW7Sae2W3yhQR_Kj_0w5tJz0",
+    "name": "Tufan Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": 2,
+    "competitors": [
+        {
+            "name": "Kalfa Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kalfa+Hukuk+B%C3%BCrosu/@41.034587599999995,28.979705799999998?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Do\u011fan Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Do%C4%9Fan+Hukuk+B%C3%BCrosu/@41.0400574,28.9852062?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ni\u015fanc\u0131 Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ni%C5%9Fanc%C4%B1+Hukuk+B%C3%BCrosu/@41.029381,28.973527?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ABC HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/ABC+HUKUK+B%C3%9CROSU/@41.044194399999995,28.986238499999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Kaya Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kaya+Hukuk+B%C3%BCrosu/@41.0355767,28.9881469?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.tufanhukuk.com/",
+    "owner": {
+        "id": "105586107701268064876",
+        "name": "Tufan Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/105586107701268064876"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gEjdzaxUZp_0GdDJ1Z6bLg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=313.9387&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 235 21 24",
+    "address": "Kocatepe, Tufan Hukuk B\u00fcrosu, Cumhuriyet Cd. No:1, 34437 Beyo\u011flu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJW7Sae2W3yhQR_Kj_0w5tJz0",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJW7Sae2W3yhQR_Kj_0w5tJz0&q=?q=place_id:ChIJW7Sae2W3yhQR_Kj_0w5tJz0&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0382807,
+        "longitude": 28.985337299999998
+    },
+    "plus_code": "2XQP+84 Beyo\u011flu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Kocatepe",
+        "street": "Cumhuriyet Cd. No:1",
+        "city": "Beyo\u011flu",
+        "postal_code": "34437",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4406610670859036924",
+    "data_id": "0x14cab7657b9ab45b:0x3d276d0ed3ffa8fc",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gEjdzaxUZp_0GdDJ1Z6bLg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=313.9387&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gEjdzaxUZp_0GdDJ1Z6bLg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=313.9387&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "EMRE AY",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-02-17T19:53:28.484000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 43,
+            "reviewer_url": "https://www.google.com/maps/contrib/100187355858463596649/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWsjo5yZs6JNKFFoRTzM3yl6EQ-dcC_bx3HIiWFYn3ML8A=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Mine Bekiroglu",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-11-28T14:45:50.204000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104378820100125629171/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI4MPinbv7ZxiKNl7jVHAVdcW_FGRByOsGczPlQxZdE=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

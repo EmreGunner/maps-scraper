@@ -1,0 +1,166 @@
+{
+    "place_id": "ChIJPzB49aK3yhQRF2xDS22bqtI",
+    "name": "Avukat Y\u00fccel G\u00f6kta\u015f",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Y\u00fccel Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Y%C3%BCcel+Hukuk+B%C3%BCrosu/@41.0676194,29.0111179?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Y\u00fccel Hukuk Ofisi / Law Firm",
+            "link": "https://www.google.com/maps/search/Y%C3%BCcel+Hukuk+Ofisi+%2F+Law+Firm/@41.052084699999995,28.9563923?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Av. Burcu G\u00f6kta\u015f Hukuk&Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Av.+Burcu+G%C3%B6kta%C5%9F+Hukuk%26Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.053218099999995,28.9880437?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "G\u00f6kta\u015f Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%B6kta%C5%9F+Hukuk+B%C3%BCrosu/@41.0007652,29.0490019?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Av. Sabahattin Y\u00dcCEL",
+            "link": "https://www.google.com/maps/search/Av.+Sabahattin+Y%C3%9CCEL/@41.071765899999995,28.980443?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 3.8,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Avukat Y\u00fccel G\u00f6kta\u015f (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh6.googleusercontent.com/ww1llV1GinJWgzRgHJp__y3dNH6bGTdeWNcmlg7T2g9XmSGB3aDfqh8_qD3YJ9Gd=w426-h240-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:30",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0212) 236 80 80",
+    "address": "Y\u0131ld\u0131z, Avukat Y\u00fccel G\u00f6kta\u015f, Serencebey Yokusu 12 A, 34349 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJPzB49aK3yhQRF2xDS22bqtI",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJPzB49aK3yhQRF2xDS22bqtI&q=?q=place_id:ChIJPzB49aK3yhQRF2xDS22bqtI&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.043058599999995,
+        "longitude": 29.0083462
+    },
+    "plus_code": "22V5+68 Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Y\u0131ld\u0131z",
+        "street": "Serencebey Yokusu 12 A",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34349",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "15180116387722128407",
+    "data_id": "0x14cab7a2f578303f:0xd2aa9b6d4b436c17",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh6.googleusercontent.com/ww1llV1GinJWgzRgHJp__y3dNH6bGTdeWNcmlg7T2g9XmSGB3aDfqh8_qD3YJ9Gd=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0JqlZ0Rgt0jwSfo5xqLZ5g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=90.06256&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,114 @@
+{
+    "place_id": "ChIJBy845qS8yhQRcFAnM0363SQ",
+    "name": "Ahmet Kaya Serbest Muhasebeci Mali M\u00fc\u015favir",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "SMMM AHMET \u015eALLI",
+            "link": "https://www.google.com/maps/search/SMMM+AHMET+%C5%9EALLI/@40.9784387,28.876076100000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Mali M\u00fc\u015favir"
+        },
+        {
+            "name": "Onay Yeminli Mali M\u00fc\u015favirlik B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Onay+Yeminli+Mali+M%C3%BC%C5%9Favirlik+B%C3%BCrosu/@40.995821,28.869647499999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Muhasebeci"
+        },
+        {
+            "name": "Muhasebe B\u00fcrosu | Mali M\u00fc\u015favir Koray \u015eevik | Bak\u0131rk\u00f6y Serbest Muhasebeci Mali M\u00fc\u015favir",
+            "link": "https://www.google.com/maps/search/Muhasebe+B%C3%BCrosu+%7C+Mali+M%C3%BC%C5%9Favir+Koray+%C5%9Eevik+%7C+Bak%C4%B1rk%C3%B6y+Serbest+Muhasebeci+Mali+M%C3%BC%C5%9Favir/@40.9797442,28.8731854?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Serbest Muhasebeci Mali M\u00fc\u015favir"
+        },
+        {
+            "name": "A Kenan K\u0131r",
+            "link": "https://www.google.com/maps/search/A+Kenan+K%C4%B1r/@40.9824823,28.87278?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Mali M\u00fc\u015favir"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Ahmet Kaya Serbest Muhasebeci Mali M\u00fc\u015favir (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh6.googleusercontent.com/Sy3reZ8USGDH3QDQBD8GYXqKmvkB1teKi802Yc49R2Zaj9rKR1Tji1IYLuJvO2kt=w426-h240-k-no",
+    "main_category": "Serbest Muhasebeci Mali M\u00fc\u015favir",
+    "categories": [
+        "Serbest Muhasebeci Mali M\u00fc\u015favir"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 571 21 39",
+    "address": "Cevizlik, Ahmet Kaya Serbest Muhasebeci Mali M\u00fc\u015favir, 34142 Bak\u0131rk\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJBy845qS8yhQRcFAnM0363SQ",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJBy845qS8yhQRcFAnM0363SQ&q=?q=place_id:ChIJBy845qS8yhQRcFAnM0363SQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.977644999999995,
+        "longitude": 28.874890299999997
+    },
+    "plus_code": "XVHF+3X Bak\u0131rk\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Cevizlik",
+        "street": null,
+        "city": "Bak\u0131rk\u00f6y",
+        "postal_code": "34142",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2656554564696100976",
+    "data_id": "0x14cabca4e6382f07:0x24ddfa4d33275070",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh6.googleusercontent.com/Sy3reZ8USGDH3QDQBD8GYXqKmvkB1teKi802Yc49R2Zaj9rKR1Tji1IYLuJvO2kt=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mnkMSaiwo0kSZmZymLlUeQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=9.760433&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJR4fwtQS3yhQRdW15nv-5rZw",
+    "name": "Ba\u015fo\u011flu&B\u00fclb\u00fcl Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Bsb Legal Avukatl\u0131k Ortakl\u0131\u011f\u0131",
+            "link": "https://www.google.com/maps/search/Bsb+Legal+Avukatl%C4%B1k+Ortakl%C4%B1%C4%9F%C4%B1/@41.0535272,28.991156999999998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Dila Uzer B\u00fclb\u00fcl",
+            "link": "https://www.google.com/maps/search/Avukat+Dila+Uzer+B%C3%BClb%C3%BCl/@41.043217299999995,28.9861557?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u00d6ks\u00fczo\u011flu Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%96ks%C3%BCzo%C4%9Flu+Hukuk+B%C3%BCrosu/@41.0628295,28.9878759?authuser=0&entry=ttu",
+            "reviews": 13,
+            "rating": 4.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Legal Studio",
+            "link": "https://www.google.com/maps/search/Legal+Studio/@41.0582993,28.980887400000004?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ak\u00e7ada\u011f Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ak%C3%A7ada%C4%9F+Hukuk+B%C3%BCrosu/@41.054353899999995,28.987344000000004?authuser=0&entry=ttu",
+            "reviews": 29,
+            "rating": 4.6,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://basoglubulbul.com/",
+    "owner": {
+        "id": null,
+        "name": "Ba\u015fo\u011flu&B\u00fclb\u00fcl Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_nHwBu-yPfDCD0XriSY1tw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=215.26874&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 231 18 20",
+    "address": "Ba\u015fo\u011flu&B\u00fclb\u00fcl Hukuk B\u00fcrosu, Halaskargazi cad. No:170 Kent Sitesi B/Blok K:3 D:3, \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJR4fwtQS3yhQRdW15nv-5rZw",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJR4fwtQS3yhQRdW15nv-5rZw&q=?q=place_id:ChIJR4fwtQS3yhQRdW15nv-5rZw&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.060068699999995,
+        "longitude": 28.9881109
+    },
+    "plus_code": "3X6Q+26 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "19 May\u0131s",
+        "street": "Halaskargazi cad. No:170 Kent Sitesi B/Blok K:3 D:3",
+        "city": "\u015ei\u015fli",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "11289884348414258549",
+    "data_id": "0x14cab704b5f08747:0x9cadb9ff9e796d75",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_nHwBu-yPfDCD0XriSY1tw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=215.26874&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_nHwBu-yPfDCD0XriSY1tw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=215.26874&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

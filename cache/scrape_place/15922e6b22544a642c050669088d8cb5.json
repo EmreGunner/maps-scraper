@@ -1,0 +1,190 @@
+{
+    "place_id": "ChIJf1JzixhhBQcRozCrcLaVj3w",
+    "name": "\u00c7EL\u0130K Hukuk & Dan\u0131\u015fmanl\u0131k",
+    "description": null,
+    "reviews": 2,
+    "competitors": [],
+    "website": "https://celikhd.com/",
+    "owner": {
+        "id": "105551365225288913692",
+        "name": "\u00c7EL\u0130K Hukuk & Dan\u0131\u015fmanl\u0131k (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/105551365225288913692"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XUv4RwCqwP3p9MhXj-vcBQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=150.37085&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "08:30\u201317:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 823 01 65",
+    "address": "\u00c7a\u011flayan, \u00c7EL\u0130K Hukuk & Dan\u0131\u015fmanl\u0131k, Park Cd Park \u0130\u015f Merkezi No:10/A Kat: 4 D: 407, 34403 K\u00e2\u011f\u0131thane/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJf1JzixhhBQcRozCrcLaVj3w",
+    "status": "Kapal\u0131 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 08:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJf1JzixhhBQcRozCrcLaVj3w&q=?q=place_id:ChIJf1JzixhhBQcRozCrcLaVj3w&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.073222099999995,
+        "longitude": 28.9813793
+    },
+    "plus_code": "3XFJ+7H K\u00e2\u011f\u0131thane, \u0130stanbul",
+    "detailed_address": {
+        "ward": "\u00c7a\u011flayan",
+        "street": "Park Cd Park \u0130\u015f Merkezi No:10/A Kat: 4 D: 407",
+        "city": "K\u00e2\u011f\u0131thane",
+        "postal_code": "34403",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "8975557193179541667",
+    "data_id": "0x70561188b73527f:0x7c8f95b670ab30a3",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XUv4RwCqwP3p9MhXj-vcBQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=150.37085&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN3-Dx8E59iScGFIa2OzUIwAwZQBFGKGSaw-KVU=w756-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XUv4RwCqwP3p9MhXj-vcBQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=150.37085&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "\u0130\u015finin ehli bir avukat.",
+            "reviewer_name": "Ali Sefa",
+            "rating": 5,
+            "review_text": "\u0130\u015finin ehli bir avukat.",
+            "published_at": "bir ay \u00f6nce",
+            "published_at_date": "2023-10-26T10:22:46.751000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/103431334037348555376/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKkjZ-Po6AdUuR21J5cypOC_Db8lhWzHPmCerD4HSQgEg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Guanin TR",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-10-01T19:02:44.566000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106998186173878167983/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKAujjDtk73LUVHuGakztPJzVmR3OyhxSIqF7C9PaPv=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

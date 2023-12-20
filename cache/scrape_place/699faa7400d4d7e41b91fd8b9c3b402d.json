@@ -1,0 +1,160 @@
+{
+    "place_id": "ChIJk5QPLqO5yhQR0vvPBu80Z7M",
+    "name": "Hayat Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [],
+    "website": "http://www.hayathukuk.com/",
+    "owner": {
+        "id": "117277567367363320270",
+        "name": "Hayat Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/117277567367363320270"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=E_qisf8iKuKXB_D5bRodNg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=261.4531&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat",
+        "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0533 313 23 13",
+    "address": "Hayat Hukuk B\u00fcrosu, Kemanke\u015f Mah Halilpa\u015fa Sokak Sermethan N:4, K:5 B\u00fcroN:35, 34425 Beyo\u011flu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJk5QPLqO5yhQR0vvPBu80Z7M",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJk5QPLqO5yhQR0vvPBu80Z7M&q=?q=place_id:ChIJk5QPLqO5yhQR0vvPBu80Z7M&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0221137,
+        "longitude": 28.9754555
+    },
+    "plus_code": "2XCG+R5 Beyo\u011flu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Kemanke\u015f Karamustafa Pa\u015fa",
+        "street": "Kemanke\u015f Mah Halilpa\u015fa Sokak Sermethan N:4, K:5 B\u00fcroN:35",
+        "city": "Beyo\u011flu",
+        "postal_code": "34425",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12927359456606419922",
+    "data_id": "0x14cab9a32e0f9493:0xb36734ef06cffbd2",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                },
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=E_qisf8iKuKXB_D5bRodNg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=261.4531&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMoueGw7pjDuOicnAwF0BCy2Mkdy4FgIJ8jbT0l=w298-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=E_qisf8iKuKXB_D5bRodNg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=261.4531&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

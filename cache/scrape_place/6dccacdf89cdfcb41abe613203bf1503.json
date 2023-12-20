@@ -1,0 +1,191 @@
+{
+    "place_id": "ChIJ9zEpAmS3yhQRFFmqqzqCEPQ",
+    "name": "Av. Mehmet Nuri Aytekin",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "Aytekin Hukuk B\u00fcrosu | Avukat Mert Aytekin",
+            "link": "https://www.google.com/maps/search/Aytekin+Hukuk+B%C3%BCrosu+%7C+Avukat+Mert+Aytekin/@41.0338874,28.991673199999997?authuser=0&entry=ttu",
+            "reviews": 21,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Nuri Var",
+            "link": "https://www.google.com/maps/search/Avukat+Nuri+Var/@40.9890956,28.903684599999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "G\u00fcrsoy Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%BCrsoy+Hukuk+B%C3%BCrosu/@40.9958374,28.871855399999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Y\u0131ld\u0131r\u0131m&Partners Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Y%C4%B1ld%C4%B1r%C4%B1m%26Partners+Hukuk+B%C3%BCrosu/@41.0298297,28.9748363?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat A.Hayati Alper",
+            "link": "https://www.google.com/maps/search/Avukat+A.Hayati+Alper/@41.0341138,28.9767827?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Av. Mehmet Nuri Aytekin (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh5.googleusercontent.com/nTGysYh9dQ1ySffx7tCNqWeLCOR6PYlXHG_xfXeTCXQY1lifGK0XvV-w5eUzgZcA4A=w426-h240-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0212) 358 62 17",
+    "address": "\u015eehit Muhtar, Av. Mehmet Nuri Aytekin, \u0130stiklal Cd. No:57, 34425 Beyo\u011flu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ9zEpAmS3yhQRFFmqqzqCEPQ",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ9zEpAmS3yhQRFFmqqzqCEPQ&q=?q=place_id:ChIJ9zEpAmS3yhQRFFmqqzqCEPQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.035358599999995,
+        "longitude": 28.982124
+    },
+    "plus_code": "2XPJ+4R Beyo\u011flu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "\u015eehit Muhtar",
+        "street": "\u0130stiklal Cd. No:57",
+        "city": "Beyo\u011flu",
+        "postal_code": "34425",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "17586699733381568788",
+    "data_id": "0x14cab764022931f7:0xf410823aabaa5914",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh5.googleusercontent.com/nTGysYh9dQ1ySffx7tCNqWeLCOR6PYlXHG_xfXeTCXQY1lifGK0XvV-w5eUzgZcA4A=w529-h298-k-no"
+        },
+        {
+            "about": "D\u0131\u015ftan g\u00f6r\u00fcn\u00fcm",
+            "link": "//lh5.googleusercontent.com/nTGysYh9dQ1ySffx7tCNqWeLCOR6PYlXHG_xfXeTCXQY1lifGK0XvV-w5eUzgZcA4A=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rJq5ae9mcLzc865IfpH8kQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=149.4273&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Behlul Alt\u0131n\u0131\u015f\u0131k",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "9 ay \u00f6nce",
+            "published_at_date": "2023-03-15T15:44:35.257000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112943620340347670804/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUZgFXezjl4zCko_CV9bHKHsKVgTumoqUpcpPFNNxEvxKo=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,103 @@
+{
+    "place_id": "ChIJ35aJbRHayhQRHqy_lbMw6ss",
+    "name": "G\u00f6kta\u015f Avukatl\u0131k Ofisi Ve Dan\u0131\u015fmanl\u0131k",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Y\u00fcksel & Y\u00fcksel Avukatl\u0131k ve Arabuluculuk Ofisi",
+            "link": "https://www.google.com/maps/search/Y%C3%BCksel+%26+Y%C3%BCksel+Avukatl%C4%B1k+ve+Arabuluculuk+Ofisi/@40.918284299999996,29.303375900000002?authuser=0&entry=ttu",
+            "reviews": 31,
+            "rating": 4.9,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6ZKAN HUKUK ARABULUCULUK Av Arb AL\u0130 YA\u015eAR \u00d6ZKAN",
+            "link": "https://www.google.com/maps/search/%C3%96ZKAN+HUKUK+ARABULUCULUK+Av+Arb+AL%C4%B0+YA%C5%9EAR+%C3%96ZKAN/@40.9279394,29.311092499999997?authuser=0&entry=ttu",
+            "reviews": 13,
+            "rating": 4.8,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "G\u00f6kta\u015f Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%B6kta%C5%9F+Hukuk+B%C3%BCrosu/@41.0007652,29.0490019?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "HACI\u00d6MERO\u011eLU HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/HACI%C3%96MERO%C4%9ELU+HUKUK+B%C3%9CROSU/@40.927169,29.3093006?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "G\u00f6kta\u015f Avukatl\u0131k Ofisi Ve Dan\u0131\u015fmanl\u0131k (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7kxeBzmRfTSuNV7hu6MMBw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=233.36562&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Yeni\u015fehir, G\u00f6kta\u015f Avukatl\u0131k Ofisi Ve Dan\u0131\u015fmanl\u0131k, Osmanl\u0131 Blv. No:5 D:11Aeropark Kat D:39, 34912 Pendik/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ35aJbRHayhQRHqy_lbMw6ss",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ35aJbRHayhQRHqy_lbMw6ss&q=?q=place_id:ChIJ35aJbRHayhQRHqy_lbMw6ss&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9280422,
+        "longitude": 29.308776499999997
+    },
+    "plus_code": "W8H5+6G Pendik, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Yeni\u015fehir",
+        "street": "Osmanl\u0131 Blv. No:5 D:11Aeropark Kat D:39",
+        "city": "Pendik",
+        "postal_code": "34912",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "14693610282119310366",
+    "data_id": "0x14cada116d8996df:0xcbea30b395bfac1e",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7kxeBzmRfTSuNV7hu6MMBw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=233.36562&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7kxeBzmRfTSuNV7hu6MMBw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=233.36562&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

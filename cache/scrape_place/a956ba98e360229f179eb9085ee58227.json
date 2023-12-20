@@ -1,0 +1,149 @@
+{
+    "place_id": "ChIJW7fVO4GlyhQRL-2nM760qSE",
+    "name": "Karasan",
+    "description": null,
+    "reviews": 2,
+    "competitors": [
+        {
+            "name": "Karasan Fren Balatalar\u0131",
+            "link": "https://www.google.com/maps/search/Karasan+Fren+Balatalar%C4%B1/@41.0745213,28.8097826?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Ara\u00e7 Bak\u0131m ve Onar\u0131m\u0131"
+        },
+        {
+            "name": "Kayasan",
+            "link": "https://www.google.com/maps/search/Kayasan/@41.0738858,28.804552599999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": ""
+        },
+        {
+            "name": "Karao\u011flu T\u0131caret",
+            "link": "https://www.google.com/maps/search/Karao%C4%9Flu+T%C4%B1caret/@41.0868459,28.795903?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 5,
+            "main_category": "Ma\u011faza"
+        },
+        {
+            "name": "Akorsan",
+            "link": "https://www.google.com/maps/search/Akorsan/@41.071601199999996,28.804670500000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "\u00dcretici"
+        },
+        {
+            "name": "Kar San",
+            "link": "https://www.google.com/maps/search/Kar+San/@41.0686087,28.793639799999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": ""
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Karasan (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pYe43s23ZKDZIklmNs3hOg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=47.719788&pitch=0&thumbfov=100",
+    "main_category": null,
+    "categories": null,
+    "rating": 5,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Ziya G\u00f6kalp, Karasan, Dolapdere Sanayi Sitesi, 34490 \u0130kitelli Osb/Ba\u015fak\u015fehir/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJW7fVO4GlyhQRL-2nM760qSE",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJW7fVO4GlyhQRL-2nM760qSE&q=?q=place_id:ChIJW7fVO4GlyhQRL-2nM760qSE&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.074776199999995,
+        "longitude": 28.808194999999998
+    },
+    "plus_code": "3RF5+W7 \u0130kitelli Osb, Ba\u015fak\u015fehir/\u0130stanbul",
+    "detailed_address": {
+        "ward": "Ziya G\u00f6kalp",
+        "street": "Dolapdere Sanayi Sitesi",
+        "city": "\u0130kitelli Osb/Ba\u015fak\u015fehir",
+        "postal_code": "34490",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2425668603319151919",
+    "data_id": "0x14caa5813bd5b75b:0x21a9b4be33a7ed2f",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pYe43s23ZKDZIklmNs3hOg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=47.719788&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pYe43s23ZKDZIklmNs3hOg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=47.719788&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "\u00dcst\u00fcn kaliteli sat\u0131\u015f dukkani",
+            "reviewer_name": "Abdulkadir G\u00fcndo\u011fdu",
+            "rating": 5,
+            "review_text": "\u00dcst\u00fcn kaliteli sat\u0131\u015f dukkani",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-10-08T06:06:43.968000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106610524744775273104/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUR6APyPb67mq8QHY8kYkZXP_lCy9H-vtE-YyLE_Z6KG2M=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "A.K G\u00fcltekin",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-12-06T12:18:33.204000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 85,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/113644427188305243136/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWPForXJ2CISLUNLusezRDjnzVnwFUsFCxS4SbCOBfUCxE=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

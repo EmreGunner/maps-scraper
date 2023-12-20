@@ -1,0 +1,182 @@
+{
+    "place_id": "ChIJLf-jfzPCJRUR4k0bpyBeSQc",
+    "name": "AV. NAZLI \u015eAH\u0130N HUKUK VE DANI\u015eMANLIK B\u00dcROSU",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Av. An\u0131l ARSLAN Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Av.+An%C4%B1l+ARSLAN+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@36.2242598,36.127999200000005?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Mahmut \u015eahin",
+            "link": "https://www.google.com/maps/search/Avukat+Mahmut+%C5%9Eahin/@36.2118842,36.1541025?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 2,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Nevzat \u015eahino\u011fullar\u0131",
+            "link": "https://www.google.com/maps/search/Avukat+Nevzat+%C5%9Eahino%C4%9Fullar%C4%B1/@36.0823228,35.95084320000001?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 4,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Fevzi Randa",
+            "link": "https://www.google.com/maps/search/Avukat+Fevzi+Randa/@36.2266061,36.131214799999995?authuser=0&entry=ttu",
+            "reviews": 10,
+            "rating": 4.6,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat \u015eahin Kavuko\u011flu",
+            "link": "https://www.google.com/maps/search/Avukat+%C5%9Eahin+Kavuko%C4%9Flu/@36.221289,36.162088?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": "https://av-nazl-sahin-hukuk-ve-dansmanlk-burosu.business.site/",
+    "owner": {
+        "id": "112684755306548750353",
+        "name": "AV. NAZLI \u015eAH\u0130N HUKUK VE DANI\u015eMANLIK B\u00dcROSU (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/112684755306548750353"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=14_4uA_DeP82hMM553HzqQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=220.26862&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu",
+        "Avukatl\u0131k Dan\u0131\u015fma Hizmeti",
+        "Hukuk Hizmetleri"
+    ],
+    "rating": null,
+    "workday_timing": "08:30\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0505 893 28 42",
+    "address": "AV. NAZLI \u015eAH\u0130N HUKUK VE DANI\u015eMANLIK B\u00dcROSU, Akasya Mah. 170. Sk. No:1 Kat:2 Daire No: 203 (A Plaza, 31000 Antakya/Hatay",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJLf-jfzPCJRUR4k0bpyBeSQc",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 08:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJLf-jfzPCJRUR4k0bpyBeSQc&q=?q=place_id:ChIJLf-jfzPCJRUR4k0bpyBeSQc&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.2242452,
+        "longitude": 36.1280067
+    },
+    "plus_code": "64FH+M6 Antakya, Hatay",
+    "detailed_address": {
+        "ward": "Akasya",
+        "street": "Akasya Mah. 170. Sk. No:1 Kat:2 Daire No: 203 (A Plaza",
+        "city": "Antakya",
+        "postal_code": "31000",
+        "state": "Hatay",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "525054325900922338",
+    "data_id": "0x1525c2337fa3ff2d:0x7495e20a71b4de2",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=14_4uA_DeP82hMM553HzqQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=220.26862&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=14_4uA_DeP82hMM553HzqQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=220.26862&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

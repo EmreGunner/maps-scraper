@@ -1,0 +1,156 @@
+{
+    "place_id": "ChIJkZun7Hq3yhQRhmP91Yn24_M",
+    "name": "Bircanoglu Law Firm",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "PROF HUKUK B\u00dcROSU | PROF LAW OFFICE",
+            "link": "https://www.google.com/maps/search/PROF+HUKUK+B%C3%9CROSU+%7C+PROF+LAW+OFFICE/@41.035758699999995,28.981142499999997?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Beyo\u011flu Hukuk B\u00fcrosu | Law Office",
+            "link": "https://www.google.com/maps/search/Beyo%C4%9Flu+Hukuk+B%C3%BCrosu+%7C+Law+Office/@41.0387044,28.9852642?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Ni\u015fanc\u0131 Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ni%C5%9Fanc%C4%B1+Hukuk+B%C3%BCrosu/@41.029381,28.973527?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "SEZG\u0130NHUKUK",
+            "link": "https://www.google.com/maps/search/SEZG%C4%B0NHUKUK/@41.036282,28.989466000000004?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u0130\u00e7tem Legal Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C4%B0%C3%A7tem+Legal+Hukuk+B%C3%BCrosu/@41.036592999999996,28.989970999999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.bircanoglu.com/",
+    "owner": {
+        "id": "113934878100634294387",
+        "name": "Bircanoglu Law Firm (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/113934878100634294387"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=E0NpgfVXADChl_Ll4OxpMA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=358.55853&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 292 09 52",
+    "address": "G\u00fcm\u00fc\u015fsuyu, Bircanoglu Law Firm, \u0130n\u00f6n\u00fc Cd. No:53, 34437 Beyo\u011flu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJkZun7Hq3yhQRhmP91Yn24_M",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJkZun7Hq3yhQRhmP91Yn24_M&q=?q=place_id:ChIJkZun7Hq3yhQRhmP91Yn24_M&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.036415999999996,
+        "longitude": 28.989653299999997
+    },
+    "plus_code": "2XPQ+HV Beyo\u011flu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "G\u00fcm\u00fc\u015fsuyu",
+        "street": "\u0130n\u00f6n\u00fc Cd. No:53",
+        "city": "Beyo\u011flu",
+        "postal_code": "34437",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "17574161242790912902",
+    "data_id": "0x14cab77aeca79b91:0xf3e3f689d5fd6386",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=E0NpgfVXADChl_Ll4OxpMA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=358.55853&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=E0NpgfVXADChl_Ll4OxpMA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=358.55853&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

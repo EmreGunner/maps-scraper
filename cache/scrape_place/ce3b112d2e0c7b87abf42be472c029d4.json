@@ -1,0 +1,941 @@
+{
+    "place_id": "ChIJrXhK8t6lyhQR6G3Gcu7NBHA",
+    "name": "Bak\u0131rk\u00f6y 61. Noterli\u011fi",
+    "description": null,
+    "reviews": 20,
+    "competitors": [
+        {
+            "name": "Bak\u0131rk\u00f6y 36. Noterli\u011fi",
+            "link": "https://www.google.com/maps/search/Bak%C4%B1rk%C3%B6y+36.+Noterli%C4%9Fi/@41.0342816,28.832991300000003?authuser=0&entry=ttu",
+            "reviews": 26,
+            "rating": 3.7,
+            "main_category": "Noter"
+        },
+        {
+            "name": "Bak\u0131rk\u00f6y 47. Noterli\u011fi",
+            "link": "https://www.google.com/maps/search/Bak%C4%B1rk%C3%B6y+47.+Noterli%C4%9Fi/@41.045577099999996,28.829161199999998?authuser=0&entry=ttu",
+            "reviews": 35,
+            "rating": 3,
+            "main_category": "Noter"
+        },
+        {
+            "name": "Ba\u011fc\u0131lar Bak\u0131rk\u00f6y 64. Noterli\u011fi-",
+            "link": "https://www.google.com/maps/search/Ba%C4%9Fc%C4%B1lar+Bak%C4%B1rk%C3%B6y+64.+Noterli%C4%9Fi-/@41.056093,28.846651?authuser=0&entry=ttu",
+            "reviews": 40,
+            "rating": 5,
+            "main_category": "Noter"
+        },
+        {
+            "name": "Bak\u0131rk\u00f6y 26. Noterli\u011fi",
+            "link": "https://www.google.com/maps/search/Bak%C4%B1rk%C3%B6y+26.+Noterli%C4%9Fi/@41.033646399999995,28.8146712?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 4.5,
+            "main_category": "Noter"
+        },
+        {
+            "name": "BAKIRK\u00d6Y 66. NOTERL\u0130\u011e\u0130",
+            "link": "https://www.google.com/maps/search/BAKIRK%C3%96Y+66.+NOTERL%C4%B0%C4%9E%C4%B0/@41.0630826,28.845116?authuser=0&entry=ttu",
+            "reviews": 36,
+            "rating": 5,
+            "main_category": "Noter"
+        }
+    ],
+    "website": "https://61noter.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+    "owner": {
+        "id": "117500545525091536113",
+        "name": "Bak\u0131rk\u00f6y 61. Noterli\u011fi (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/117500545525091536113"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPhmprofGm8DCeI5J0q1KYYe2cEJKne0SinyHhK=w408-h288-k-no",
+    "main_category": "Noter",
+    "categories": [
+        "Noter",
+        "\u00c7evirmen"
+    ],
+    "rating": 5,
+    "workday_timing": "08:30\u201317:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 474 86 00",
+    "address": "Kaz\u0131m Karabekir Mah, Bak\u0131rk\u00f6y 61. Noterli\u011fi, Hoca Ahmet Yesevi Cd. No 117/1, 34200 Ba\u011fc\u0131lar/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJrXhK8t6lyhQR6G3Gcu7NBHA",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 17:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 20
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJrXhK8t6lyhQR6G3Gcu7NBHA&q=?q=place_id:ChIJrXhK8t6lyhQR6G3Gcu7NBHA&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.031076999999996,
+        "longitude": 28.842513999999998
+    },
+    "plus_code": "2RJV+C2 Ba\u011fc\u0131lar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Kaz\u0131m Karabekir Mah",
+        "street": "Hoca Ahmet Yesevi Cd. No 117/1",
+        "city": "Ba\u011fc\u0131lar",
+        "postal_code": "34200",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "8071802856166288872",
+    "data_id": "0x14caa5def24a78ad:0x7004cdee72c66de8",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "http://wa.me/902124748600",
+            "source": "wa.me"
+        }
+    ],
+    "about": [
+        {
+            "id": "from_the_business",
+            "name": "\u0130\u015fletme hakk\u0131nda",
+            "options": [
+                {
+                    "name": "Sahibi kad\u0131n oldu\u011funu belirtiyor",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                },
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun giri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPhmprofGm8DCeI5J0q1KYYe2cEJKne0SinyHhK=w421-h298-k-no"
+        },
+        {
+            "about": "D\u0131\u015ftan g\u00f6r\u00fcn\u00fcm",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOAEkM0vtVJSLvj-1N4gfvrpb0EX6XQA2oLo9uO=w397-h298-k-no"
+        },
+        {
+            "about": "\u0130\u00e7",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPEmFzoH8Z50322MTeZYnB-4iX-6-3_nHURBu45=w397-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOuVQtg5miJQBwQ3AzjUbd_G-lo3CTGpnW6gkzV=w224-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qmWlWF0XeI-xLGNkhi4u0A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=129.6909&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201317:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201317:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201317:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201317:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201317:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": [
+        {
+            "hour_of_day": 14,
+            "average_popularity": 81.6,
+            "time_label": "14:00"
+        },
+        {
+            "hour_of_day": 15,
+            "average_popularity": 80.2,
+            "time_label": "15:00"
+        },
+        {
+            "hour_of_day": 13,
+            "average_popularity": 71.0,
+            "time_label": "13:00"
+        }
+    ],
+    "popular_times": {
+        "Monday": [
+            {
+                "hour_of_day": 6,
+                "time_label": "06:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 7,
+                "time_label": "07:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 8,
+                "time_label": "08:00",
+                "popularity_percentage": 28,
+                "popularity_description": "Genellikle \u00e7ok yo\u011fun de\u011fil"
+            },
+            {
+                "hour_of_day": 9,
+                "time_label": "09:00",
+                "popularity_percentage": 48,
+                "popularity_description": "Genellikle \u00e7ok yo\u011fun de\u011fil"
+            },
+            {
+                "hour_of_day": 10,
+                "time_label": "10:00",
+                "popularity_percentage": 59,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 11,
+                "time_label": "11:00",
+                "popularity_percentage": 59,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 12,
+                "time_label": "12:00",
+                "popularity_percentage": 59,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 13,
+                "time_label": "13:00",
+                "popularity_percentage": 67,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 14,
+                "time_label": "14:00",
+                "popularity_percentage": 80,
+                "popularity_description": "Genellikle en yo\u011fun zaman\u0131"
+            },
+            {
+                "hour_of_day": 15,
+                "time_label": "15:00",
+                "popularity_percentage": 83,
+                "popularity_description": "Genellikle en yo\u011fun zaman\u0131"
+            },
+            {
+                "hour_of_day": 16,
+                "time_label": "16:00",
+                "popularity_percentage": 76,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 17,
+                "time_label": "17:00",
+                "popularity_percentage": 49,
+                "popularity_description": "Genellikle \u00e7ok yo\u011fun de\u011fil"
+            },
+            {
+                "hour_of_day": 18,
+                "time_label": "18:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 19,
+                "time_label": "19:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 20,
+                "time_label": "20:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 21,
+                "time_label": "21:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 22,
+                "time_label": "22:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 23,
+                "time_label": "23:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            }
+        ],
+        "Tuesday": [
+            {
+                "hour_of_day": 6,
+                "time_label": "06:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 7,
+                "time_label": "07:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 8,
+                "time_label": "08:00",
+                "popularity_percentage": 15,
+                "popularity_description": "Genellikle yo\u011fun de\u011fil"
+            },
+            {
+                "hour_of_day": 9,
+                "time_label": "09:00",
+                "popularity_percentage": 36,
+                "popularity_description": "Genellikle \u00e7ok yo\u011fun de\u011fil"
+            },
+            {
+                "hour_of_day": 10,
+                "time_label": "10:00",
+                "popularity_percentage": 49,
+                "popularity_description": "Genellikle \u00e7ok yo\u011fun de\u011fil"
+            },
+            {
+                "hour_of_day": 11,
+                "time_label": "11:00",
+                "popularity_percentage": 53,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 12,
+                "time_label": "12:00",
+                "popularity_percentage": 58,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 13,
+                "time_label": "13:00",
+                "popularity_percentage": 70,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 14,
+                "time_label": "14:00",
+                "popularity_percentage": 80,
+                "popularity_description": "Genellikle en yo\u011fun zaman\u0131"
+            },
+            {
+                "hour_of_day": 15,
+                "time_label": "15:00",
+                "popularity_percentage": 76,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 16,
+                "time_label": "16:00",
+                "popularity_percentage": 62,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 17,
+                "time_label": "17:00",
+                "popularity_percentage": 36,
+                "popularity_description": "Genellikle \u00e7ok yo\u011fun de\u011fil"
+            },
+            {
+                "hour_of_day": 18,
+                "time_label": "18:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 19,
+                "time_label": "19:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 20,
+                "time_label": "20:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 21,
+                "time_label": "21:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 22,
+                "time_label": "22:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 23,
+                "time_label": "23:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            }
+        ],
+        "Wednesday": [
+            {
+                "hour_of_day": 6,
+                "time_label": "06:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 7,
+                "time_label": "07:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 8,
+                "time_label": "08:00",
+                "popularity_percentage": 9,
+                "popularity_description": "Genellikle yo\u011fun de\u011fil"
+            },
+            {
+                "hour_of_day": 9,
+                "time_label": "09:00",
+                "popularity_percentage": 25,
+                "popularity_description": "Genellikle \u00e7ok yo\u011fun de\u011fil"
+            },
+            {
+                "hour_of_day": 10,
+                "time_label": "10:00",
+                "popularity_percentage": 44,
+                "popularity_description": "Genellikle \u00e7ok yo\u011fun de\u011fil"
+            },
+            {
+                "hour_of_day": 11,
+                "time_label": "11:00",
+                "popularity_percentage": 59,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 12,
+                "time_label": "12:00",
+                "popularity_percentage": 63,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 13,
+                "time_label": "13:00",
+                "popularity_percentage": 77,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 14,
+                "time_label": "14:00",
+                "popularity_percentage": 80,
+                "popularity_description": "Genellikle en yo\u011fun zaman\u0131"
+            },
+            {
+                "hour_of_day": 15,
+                "time_label": "15:00",
+                "popularity_percentage": 76,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 16,
+                "time_label": "16:00",
+                "popularity_percentage": 54,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 17,
+                "time_label": "17:00",
+                "popularity_percentage": 35,
+                "popularity_description": "Genellikle \u00e7ok yo\u011fun de\u011fil"
+            },
+            {
+                "hour_of_day": 18,
+                "time_label": "18:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 19,
+                "time_label": "19:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 20,
+                "time_label": "20:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 21,
+                "time_label": "21:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 22,
+                "time_label": "22:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 23,
+                "time_label": "23:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            }
+        ],
+        "Thursday": [
+            {
+                "hour_of_day": 6,
+                "time_label": "06:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 7,
+                "time_label": "07:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 8,
+                "time_label": "08:00",
+                "popularity_percentage": 22,
+                "popularity_description": "Genellikle \u00e7ok yo\u011fun de\u011fil"
+            },
+            {
+                "hour_of_day": 9,
+                "time_label": "09:00",
+                "popularity_percentage": 41,
+                "popularity_description": "Genellikle \u00e7ok yo\u011fun de\u011fil"
+            },
+            {
+                "hour_of_day": 10,
+                "time_label": "10:00",
+                "popularity_percentage": 54,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 11,
+                "time_label": "11:00",
+                "popularity_percentage": 61,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 12,
+                "time_label": "12:00",
+                "popularity_percentage": 64,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 13,
+                "time_label": "13:00",
+                "popularity_percentage": 70,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 14,
+                "time_label": "14:00",
+                "popularity_percentage": 74,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 15,
+                "time_label": "15:00",
+                "popularity_percentage": 66,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 16,
+                "time_label": "16:00",
+                "popularity_percentage": 53,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 17,
+                "time_label": "17:00",
+                "popularity_percentage": 33,
+                "popularity_description": "Genellikle \u00e7ok yo\u011fun de\u011fil"
+            },
+            {
+                "hour_of_day": 18,
+                "time_label": "18:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 19,
+                "time_label": "19:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 20,
+                "time_label": "20:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 21,
+                "time_label": "21:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 22,
+                "time_label": "22:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 23,
+                "time_label": "23:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            }
+        ],
+        "Friday": [
+            {
+                "hour_of_day": 6,
+                "time_label": "06:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 7,
+                "time_label": "07:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 8,
+                "time_label": "08:00",
+                "popularity_percentage": 20,
+                "popularity_description": "Genellikle \u00e7ok yo\u011fun de\u011fil"
+            },
+            {
+                "hour_of_day": 9,
+                "time_label": "09:00",
+                "popularity_percentage": 45,
+                "popularity_description": "Genellikle \u00e7ok yo\u011fun de\u011fil"
+            },
+            {
+                "hour_of_day": 10,
+                "time_label": "10:00",
+                "popularity_percentage": 64,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 11,
+                "time_label": "11:00",
+                "popularity_percentage": 70,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 12,
+                "time_label": "12:00",
+                "popularity_percentage": 64,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 13,
+                "time_label": "13:00",
+                "popularity_percentage": 71,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 14,
+                "time_label": "14:00",
+                "popularity_percentage": 94,
+                "popularity_description": "Genellikle en yo\u011fun zaman\u0131"
+            },
+            {
+                "hour_of_day": 15,
+                "time_label": "15:00",
+                "popularity_percentage": 100,
+                "popularity_description": "Genellikle en yo\u011fun zaman\u0131"
+            },
+            {
+                "hour_of_day": 16,
+                "time_label": "16:00",
+                "popularity_percentage": 79,
+                "popularity_description": "Genellikle biraz yo\u011fun"
+            },
+            {
+                "hour_of_day": 17,
+                "time_label": "17:00",
+                "popularity_percentage": 44,
+                "popularity_description": "Genellikle \u00e7ok yo\u011fun de\u011fil"
+            },
+            {
+                "hour_of_day": 18,
+                "time_label": "18:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 19,
+                "time_label": "19:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 20,
+                "time_label": "20:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 21,
+                "time_label": "21:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 22,
+                "time_label": "22:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            },
+            {
+                "hour_of_day": 23,
+                "time_label": "23:00",
+                "popularity_percentage": 0,
+                "popularity_description": "Idle"
+            }
+        ]
+    },
+    "featured_reviews": [
+        {
+            "review_id": "NEVAL HANIM NURAY HANIMIN OZVERILI CALISMASI TAKDIRE SAAYANDIR ELLERINE SAGLIK",
+            "reviewer_name": "murat etik",
+            "rating": 5,
+            "review_text": "NEVAL HANIM NURAY HANIMIN OZVERILI CALISMASI TAKDIRE SAAYANDIR ELLERINE SAGLIK",
+            "published_at": "bir hafta \u00f6nce",
+            "published_at_date": "2023-12-07T11:40:18.696000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 10,
+            "reviewer_url": "https://www.google.com/maps/contrib/100150939142688270804/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU7OlhdmonEvKWXRPC9gWKIf7xo1mUh0ZpZ9aHmouv5TOs=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u00c7ok kaliteli bir ortam. Cok tesekkur ederiz herseyle m\u00fckemmel bir ilgi ve alaka var.. b\u00fct\u00fcn sorular\u0131m\u0131z yan\u0131tlan\u0131yor yard\u0131mc\u0131 olunuyor kibar cal\u0131\u015fanlar\u0131 ile gercekten g\u00fczel bir ortam tekrar tesekk\u00fcr ederiz \u00f6zellikle ay\u015feg\u00fcl han\u0131ma \ud83e\udd70",
+            "reviewer_name": "song\u00fcl yak\u0131c\u0131",
+            "rating": 5,
+            "review_text": "\u00c7ok kaliteli bir ortam. Cok tesekkur ederiz herseyle m\u00fckemmel bir ilgi ve alaka var.. b\u00fct\u00fcn sorular\u0131m\u0131z yan\u0131tlan\u0131yor yard\u0131mc\u0131 olunuyor kibar cal\u0131\u015fanlar\u0131 ile gercekten g\u00fczel bir ortam tekrar tesekk\u00fcr ederiz \u00f6zellikle ay\u015feg\u00fcl han\u0131ma \ud83e\udd70",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-06-07T11:27:07.940000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101665715848840736967/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLY8U44B1i4kHQfWqNmeRMH34whjzUsDaKtT1XzF_Ft=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "G\u00fclery\u00fczl\u00fc ve samimi bir ortam var her\u015fey \u00e7\u00f6z\u00fcm odakl\u0131 ilgi ve alakas\u0131ndan \u00f6t\u00fcr\u00fc Noter bey ; Nihat Paksoy , Ay\u015feg\u00fcl han\u0131m , Sibel Han\u0131m Ve Y\u0131lmaz Beye \u00e7ok te\u015fekk\u00fcrler.",
+            "reviewer_name": "Eren Erdogan",
+            "rating": 5,
+            "review_text": "G\u00fclery\u00fczl\u00fc ve samimi bir ortam var her\u015fey \u00e7\u00f6z\u00fcm odakl\u0131 ilgi ve alakas\u0131ndan \u00f6t\u00fcr\u00fc Noter bey ; Nihat Paksoy , Ay\u015feg\u00fcl han\u0131m , Sibel Han\u0131m Ve Y\u0131lmaz Beye \u00e7ok te\u015fekk\u00fcrler.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-06-07T17:36:54.559000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114090923566909398383/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXWu6v6Pbd9JXPuZYNk2Q8ZJ8PaEy-h9ZPpBJX9hQ7toJg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u00d6ncelikle Nihat bey'e b\u00f6yle ilgili alakal\u0131 ve g\u00fclery\u00fczl\u00fc b\u00eer ek\u00eep kurdu\u011fu i\u00e7in te\u015fekk\u00fcrler , Sibel Han\u0131m Ay\u015feg\u00fcl Han\u0131m ve Y\u0131lmaz Beye ilgi ve alakalarindan \u00f6t\u00fcr\u00fc \u00e7ok te\u015fekk\u00fcrler.",
+            "reviewer_name": "\u015eiyar \u00c7avdar",
+            "rating": 5,
+            "review_text": "\u00d6ncelikle Nihat bey'e b\u00f6yle ilgili alakal\u0131 ve g\u00fclery\u00fczl\u00fc b\u00eer ek\u00eep kurdu\u011fu i\u00e7in te\u015fekk\u00fcrler , Sibel Han\u0131m Ay\u015feg\u00fcl Han\u0131m ve Y\u0131lmaz Beye ilgi ve alakalarindan \u00f6t\u00fcr\u00fc \u00e7ok te\u015fekk\u00fcrler.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-06-07T17:52:36.837000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106820383530535431688/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIWtzYhAkIGWzfzBcr_vwW6i1zWheJjZ-HaOXJLgKwL=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "H\u0131zl\u0131 ve \u00e7ok ilgililer. Ger\u00e7ek anlamda ilgileniyorlar, ne yapmak istedi\u011finizi tam anlay\u0131p ona g\u00f6re i\u015flem yap\u0131yorlar.",
+            "reviewer_name": "Tolga Pehlivan",
+            "rating": 5,
+            "review_text": "H\u0131zl\u0131 ve \u00e7ok ilgililer. Ger\u00e7ek anlamda ilgileniyorlar, ne yapmak istedi\u011finizi tam anlay\u0131p ona g\u00f6re i\u015flem yap\u0131yorlar.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-05-17T09:32:08.942000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107120697770370844321/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVwBA3QvkAJcjPSU7xOOj-SoR_j-9a7dO2I7ja3PuYZRhA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u00c7ok ilgililer, t\u00fcm \u00e7al\u0131\u015fanlar kibar ve g\u00fcler y\u00fczl\u00fcler , \u00e7\u00f6zemeyecekleri i\u015flem yok tavsiye ederim",
+            "reviewer_name": "Volkan Sevahil",
+            "rating": 5,
+            "review_text": "\u00c7ok ilgililer, t\u00fcm \u00e7al\u0131\u015fanlar kibar ve g\u00fcler y\u00fczl\u00fcler , \u00e7\u00f6zemeyecekleri i\u015flem yok tavsiye ederim",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-06-07T11:34:50.651000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/115816268577581532254/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJoacuuBM3OwB5CtJAn_qkyrx7hLEne_Esy4Re9tgq3=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u00c7ok ilgililer, tavsiye ederim.",
+            "reviewer_name": "Alper Percin",
+            "rating": 5,
+            "review_text": "\u00c7ok ilgililer, tavsiye ederim.",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-10-16T11:32:43.521000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111742742231971353306/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXxbSwy-56teUHjlKGUCIkdE90HH7JMRaAKglcJxtFC89I=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "The service here was exceptional. I can say only good things about them, from the sincerity of the employees to their generosity and kindness. I would definitely come here even if I'm living far away. I thank all the people that helped me especially Mr. Okan and Mr. Nihat Paksoy. May Allah bless all of you.",
+            "reviewer_name": "4lem",
+            "rating": 5,
+            "review_text": "The service here was exceptional. I can say only good things about them, from the sincerity of the employees to their generosity and kindness. I would definitely come here even if I'm living far away. I thank all the people that helped me especially Mr. Okan and Mr. Nihat Paksoy. May Allah bless all of you.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-09-15T14:55:19.640000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/109123825283401708611/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX4QZcDpRII0ObWxK5rUyXNCnpnf4IZ09aGkM2bykImAOM=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "Buradaki servis ola\u011fan\u00fcst\u00fcyd\u00fc. \u00c7al\u0131\u015fanlar\u0131n samimiyetinden, c\u00f6mertli\u011fine ve nezaketine kadar haklar\u0131nda ancak iyi \u015feyler s\u00f6yleyebilirim. Uzakta ya\u015fasam bile mutlaka buraya gelirdim. Ba\u015fta Say\u0131n Okan ve Say\u0131n Nihat Paksoy olmak \u00fczere bana yard\u0131mc\u0131 olan herkese te\u015fekk\u00fcr ediyorum. Allah hepinizden raz\u0131 olsun.",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

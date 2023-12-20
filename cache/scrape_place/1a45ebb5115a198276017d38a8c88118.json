@@ -1,0 +1,111 @@
+{
+    "place_id": "ChIJfS16foe5yhQRk96NPUnT20E",
+    "name": "A.K.A Hukuk ve Dan\u0131\u015fmanl\u0131k",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "AKA Legal Partners",
+            "link": "https://www.google.com/maps/search/AKA+Legal+Partners/@41.02436840000001,29.0384774?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AKA Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/AKA+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.8977107,29.1953429?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ak Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ak+Hukuk+B%C3%BCrosu/@41.0567432,28.977789299999994?authuser=0&entry=ttu",
+            "reviews": 12,
+            "rating": 3.6,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "akka Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/akka+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.070516,28.982539?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Ak \u00d6z Hukuk",
+            "link": "https://www.google.com/maps/search/Ak+%C3%96z+Hukuk/@40.99175,29.117949000000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "A.K.A Hukuk ve Dan\u0131\u015fmanl\u0131k (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nebc6GsT81kfylKT7HydKg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=149.60117&pitch=0&thumbfov=100",
+    "main_category": "Hukuk Hizmetleri",
+    "categories": [
+        "Hukuk Hizmetleri",
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Cafera\u011fa, A.K.A Hukuk ve Dan\u0131\u015fmanl\u0131k, Miralay Naz\u0131m Sk. No:23, 34710 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJfS16foe5yhQRk96NPUnT20E",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJfS16foe5yhQRk96NPUnT20E&q=?q=place_id:ChIJfS16foe5yhQRk96NPUnT20E&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9876636,
+        "longitude": 29.0279036
+    },
+    "plus_code": "X2QH+35 Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Cafera\u011fa",
+        "street": "Miralay Naz\u0131m Sk. No:23",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34710",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4745618943883730579",
+    "data_id": "0x14cab9877e7a2d7d:0x41dbd3493d8dde93",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nebc6GsT81kfylKT7HydKg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=149.60117&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nebc6GsT81kfylKT7HydKg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=149.60117&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,101 @@
+{
+    "place_id": "ChIJ9acObXy2yhQRlf_P8L7IBtA",
+    "name": "ASHA PARTNERS",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "ALIYEVA I AYDOGAN Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/ALIYEVA+I+AYDOGAN+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.0918693,29.003069399999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Karahan",
+            "link": "https://www.google.com/maps/search/Karahan/@41.0725133,28.979393800000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Aba Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Aba+Hukuk+B%C3%BCrosu/@41.0704948,29.0148151?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukatl\u0131k b\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Avukatl%C4%B1k+b%C3%BCrosu/@41.0735812,28.981482399999997?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 4,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "ARYA HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/ARYA+HUKUK+B%C3%9CROSU/@41.076885399999995,28.9745784?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        }
+    ],
+    "website": "http://asha-partners.com/",
+    "owner": {
+        "id": null,
+        "name": "ASHA PARTNERS (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0546 510 36 90",
+    "address": "Sultan Selim, ASHA PARTNERS, Eski B\u00fcy\u00fckdere Cd. No: 61/2, 34415 K\u00e2\u011f\u0131thane/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ9acObXy2yhQRlf_P8L7IBtA",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ9acObXy2yhQRlf_P8L7IBtA&q=?q=place_id:ChIJ9acObXy2yhQRlf_P8L7IBtA&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0924748,
+        "longitude": 29.0044148
+    },
+    "plus_code": "32R3+XQ K\u00e2\u011f\u0131thane, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Sultan Selim",
+        "street": "Eski B\u00fcy\u00fckdere Cd. No: 61/2",
+        "city": "K\u00e2\u011f\u0131thane",
+        "postal_code": "34415",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "14989889132158779285",
+    "data_id": "0x14cab67c6d0ea7f5:0xd006c8bef0cfff95",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJy3mixC23yhQR8fALrGKMx8Y",
+    "name": "HERG\u00dcL KIR HUKUK",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "G\u00fcrhan Hukuk",
+            "link": "https://www.google.com/maps/search/G%C3%BCrhan+Hukuk/@41.0712847,28.977044199999998?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 3.9,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Hakg\u00fcder Hukuk & Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Hakg%C3%BCder+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@41.0658154,28.9963611?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 4.7,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Kubra Oktay Law Office",
+            "link": "https://www.google.com/maps/search/Kubra+Oktay+Law+Office/@41.071850999999995,28.976608000000002?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Erdem K\u0131r",
+            "link": "https://www.google.com/maps/search/Erdem+K%C4%B1r/@41.072752699999995,28.9868632?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "GES HUKUK",
+            "link": "https://www.google.com/maps/search/GES+HUKUK/@41.0725188,28.979409499999996?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 1,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "HERG\u00dcL KIR HUKUK (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=m8PpdszF91X_ZP55mTzeXA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=149.80888&pitch=0&thumbfov=100",
+    "main_category": "Kurumsal Ofis",
+    "categories": [
+        "Kurumsal Ofis"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "G\u00fcrsel, HERG\u00dcL KIR HUKUK, Aynur Sk. No:10, 34400 K\u00e2\u011f\u0131thane/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJy3mixC23yhQR8fALrGKMx8Y",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJy3mixC23yhQR8fALrGKMx8Y&q=?q=place_id:ChIJy3mixC23yhQR8fALrGKMx8Y&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.07186,
+        "longitude": 28.976433999999998
+    },
+    "plus_code": "3XCG+PH K\u00e2\u011f\u0131thane, \u0130stanbul",
+    "detailed_address": {
+        "ward": "G\u00fcrsel",
+        "street": "Aynur Sk. No:10",
+        "city": "K\u00e2\u011f\u0131thane",
+        "postal_code": "34400",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "14323571495296299249",
+    "data_id": "0x14cab72dc4a279cb:0xc6c78c62ac0bf0f1",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=m8PpdszF91X_ZP55mTzeXA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=149.80888&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=m8PpdszF91X_ZP55mTzeXA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=149.80888&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

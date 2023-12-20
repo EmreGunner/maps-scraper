@@ -1,0 +1,185 @@
+{
+    "place_id": "ChIJO28bcDyxyhQRAtmHayIfnDM",
+    "name": "Avukat \u00d6mer Kaplan",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "AVUKAT MERVE AK |\u0130\u015f\u00e7i Avukat\u0131 - Miras Hukuku Avukat\u0131 - Bo\u015fanma Avukat\u0131 -Gayrimenkul avukat\u0131- Vergi hukuku avukat\u0131",
+            "link": "https://www.google.com/maps/search/AVUKAT+MERVE+AK+%7C%C4%B0%C5%9F%C3%A7i+Avukat%C4%B1+-+Miras+Hukuku+Avukat%C4%B1+-+Bo%C5%9Fanma+Avukat%C4%B1+-Gayrimenkul+avukat%C4%B1-+Vergi+hukuku+avukat%C4%B1/@40.9926506,28.8420208?authuser=0&entry=ttu",
+            "reviews": 50,
+            "rating": 4.7,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Kaplan Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kaplan+Hukuk+B%C3%BCrosu/@41.0314336,28.827131899999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Kaplan Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kaplan+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@40.9885145,29.0238382?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 4.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Abdullah KAPLAN",
+            "link": "https://www.google.com/maps/search/Avukat+Abdullah+KAPLAN/@40.993097399999996,28.8829193?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "KAPLAN HUKUK ve DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/KAPLAN+HUKUK+ve+DANI%C5%9EMANLIK/@40.9947255,28.8787765?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "115179293669679992891",
+        "name": "Avukat \u00d6mer Kaplan (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/115179293669679992891"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4uk91C3xQwlUWSHMFm5yaw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=69.906&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201317:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0539 512 12 65",
+    "address": "Oru\u00e7reis, Avukat \u00d6mer Kaplan, Giyimkent \u0130\u015f Merkezi, Vadi Cd. No:170 Kat:5 Ofis:401, 34235 Esenler/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJO28bcDyxyhQRAtmHayIfnDM",
+    "status": "Kapanmak \u00fczere \u22c5 17:30 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJO28bcDyxyhQRAtmHayIfnDM&q=?q=place_id:ChIJO28bcDyxyhQRAtmHayIfnDM&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.071790899999996,
+        "longitude": 28.8721449
+    },
+    "plus_code": "3VCC+PV Esenler, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Oru\u00e7reis",
+        "street": "Giyimkent \u0130\u015f Merkezi, Vadi Cd. No:170 Kat:5 Ofis:401",
+        "city": "Esenler",
+        "postal_code": "34235",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "3718881624994601218",
+    "data_id": "0x14cab13c701b6f3b:0x339c1f226b87d902",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4uk91C3xQwlUWSHMFm5yaw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=69.906&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOR6yOQcDjUJVLPKYnN-tqqczsedO9sBRTWSAhC=w477-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4uk91C3xQwlUWSHMFm5yaw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=69.906&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

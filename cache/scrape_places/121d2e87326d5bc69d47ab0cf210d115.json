@@ -1,0 +1,1051 @@
+{
+    "query": "law firms near G\u00fcng\u00f6ren, Istanbul",
+    "places": [
+        {
+            "place_id": "ChIJ6a1ou6q7yhQRRLMVxkP50lw",
+            "name": "Topo Hukuk Burosu",
+            "description": null,
+            "reviews": 76,
+            "competitors": [
+                {
+                    "name": "Dogan Hukuk Burosu",
+                    "link": "https://www.google.com/maps/search/Do%C4%9Fan+Hukuk+B%C3%BCrosu/@41.0128554,28.9084625?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 4,
+                    "rating": 4.8,
+                    "main_category": "Avukat"
+                },
+                {
+                    "name": "Topo Law Firm",
+                    "link": "https://www.google.com/maps/search/Topo+Law+Firm/@41.0424899,28.987134800000003?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Avukat"
+                },
+                {
+                    "name": "Anadolu Hukuk Burosu",
+                    "link": "https://www.google.com/maps/search/Anadolu+Hukuk+B%C3%BCrosu/@41.0136378,28.902683699999997?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Hukuk Burosu"
+                },
+                {
+                    "name": "TOPCU OKUR Avukatlik Burosu",
+                    "link": "https://www.google.com/maps/search/TOPCU+OKUR+Avukatl%C4%B1k+B%C3%BCrosu/@41.007820699999996,28.8954142?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 3,
+                    "rating": 5,
+                    "main_category": "Hukuk Burosu"
+                },
+                {
+                    "name": "Usta Hukuk Burosu",
+                    "link": "https://www.google.com/maps/search/Usta+Hukuk+B%C3%BCrosu/@41.013131699999995,28.908667700000002?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Kurumsal Ofis"
+                }
+            ],
+            "website": "https://www.topo.av.tr/",
+            "owner": {
+                "id": "109131922077930842775",
+                "name": "Topo Hukuk Burosu (Sahibi)",
+                "link": "https://www.google.com/maps/contrib/109131922077930842775"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMEcelgtU1x4ocCoS00-ijDdJaoc3COcvetpAs2=w432-h240-k-no",
+            "main_category": "Hukuk Burosu",
+            "categories": [
+                "Hukuk Burosu",
+                "Avukatlik Danisma Hizmeti",
+                "Ceza Avukati",
+                "Bosanma Avukati",
+                "Aile Hukuku Avukati",
+                "Gocmenlik Hukuku Avukati",
+                "Avukat",
+                "Vergi Hukuku Avukati",
+                "Dava Avukati"
+            ],
+            "rating": 4.5,
+            "workday_timing": "09:00-18:00",
+            "closed_on": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "phone": "(0212) 679 32 53",
+            "address": "Topo Hukuk Burosu, Maltepe mah. Eski Cirpici Yolu Sok No: 3B NEF 12 Plaza D:104, 34010 Zeytinburnu/Istanbul",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Topo+Hukuk+B%C3%BCrosu/data=!4m7!3m6!1s0x14cabbaabb68ade9:0x5cd2f943c615b344!8m2!3d41.0115147!4d28.8997823!16s%2Fg%2F11bx5r319j!19sChIJ6a1ou6q7yhQRRLMVxkP50lw?authuser=0&hl=tr&rclk=1",
+            "status": "Kapali  Acilis saati: 09:00",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 7,
+                "2": 0,
+                "3": 1,
+                "4": 6,
+                "5": 62
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ6a1ou6q7yhQRRLMVxkP50lw&q=Topo+Hukuk+B%C3%BCrosu&authuser=0&hl=tr&gl=TR",
+            "coordinates": {
+                "latitude": 41.0115147,
+                "longitude": 28.8997823
+            },
+            "plus_code": "2V6X+JW Zeytinburnu, Istanbul",
+            "detailed_address": {
+                "ward": "Maltepe",
+                "street": "Maltepe mah. Eski Cirpici Yolu Sok No: 3B NEF 12 Plaza D:104",
+                "city": "Zeytinburnu",
+                "postal_code": "34010",
+                "state": "Istanbul",
+                "country_code": "TR"
+            },
+            "time_zone": "Europe/Istanbul",
+            "cid": "6688682466080043844",
+            "data_id": "0x14cabbaabb68ade9:0x5cd2f943c615b344",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [
+                {
+                    "link": "https://www.topo.av.tr/iletisim-2/",
+                    "source": "topo.av.tr"
+                }
+            ],
+            "about": [
+                {
+                    "id": "from_the_business",
+                    "name": "Isletme hakkinda",
+                    "options": [
+                        {
+                            "name": "Sahibi kadin oldugunu belirtiyor",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "service_options",
+                    "name": "Hizmet secenekleri",
+                    "options": [
+                        {
+                            "name": "Online randevu",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Gercek mekanda hizmet",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Erisilebilirlik",
+                    "options": [
+                        {
+                            "name": "Tekerlekli sandalyeye uygun giris",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Tekerlekli sandalyeye uygun oturma duzeni",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Tekerlekli sandalyeye uygun park yeri",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Tekerlekli sandalyeye uygun tuvalet",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "planning",
+                    "name": "Planlama",
+                    "options": [
+                        {
+                            "name": "Randevu gerekli",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMEcelgtU1x4ocCoS00-ijDdJaoc3COcvetpAs2=w536-h298-k-no"
+                },
+                {
+                    "about": "Ic",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNvOq9XiAsZHlrhNII1HLDZ5iz7NvpU_y6wj7eO=w224-h298-k-no"
+                },
+                {
+                    "about": "Sahibinin sectikleri",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipO4-TX3bap8t5VZr2jdbg9SJD4Dav1kAqY0JG-j=w224-h298-k-no"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "09:00-18:00"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "09:00-18:00"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "09:00-18:00"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "09:00-18:00"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "09:00-18:00"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "Kapali"
+                    ]
+                },
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "Kapali"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "yaklasik 1 ay once bu sirketle irtibatim oldu gercekten cok guvenilir ve islerini cok iyi yapiyorlar.tum calisanlara tesekkur ederim.Herkese tavsiye ediyorum bir kac kisiyi yonlendirdim ayni olumlu geri donusleri onlardanda aldim demekki dogru bir firmayla calismisim.",
+                    "reviewer_name": "Orhun Topkaya",
+                    "rating": 5,
+                    "review_text": "yaklasik 1 ay once bu sirketle irtibatim oldu gercekten cok guvenilir ve islerini cok iyi yapiyorlar.tum calisanlara tesekkur ederim.Herkese tavsiye ediyorum bir kac kisiyi yonlendirdim ayni olumlu geri donusleri onlardanda aldim demekki dogru bir firmayla calismisim.",
+                    "published_at": "5 ay once",
+                    "published_at_date": "2023-06-11T14:35:37.661000",
+                    "response_from_owner_text": "Degerli yorumunuz icin tesekkur ederiz.",
+                    "response_from_owner_ago": "5 ay once",
+                    "response_from_owner_date": "2023-06-11T14:56:58.021000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104930366370585194880/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJY7Qz-5ZpL-dU3YmJcsCW4Nx6bV_6HN9tBZWn9_pjv=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Yakin zamanda bu sirketle iletisime gectim, benimle hizli bir sekilde iletisime gectiler ve davayi kazanmama yardimci oldular! Tavsiye ederim",
+                    "reviewer_name": "SAD_MUSIC",
+                    "rating": 5,
+                    "review_text": "Yakin zamanda bu sirketle iletisime gectim, benimle hizli bir sekilde iletisime gectiler ve davayi kazanmama yardimci oldular! Tavsiye ederim",
+                    "published_at": "5 ay once",
+                    "published_at_date": "2023-06-08T20:03:04.206000",
+                    "response_from_owner_text": "Degerli yorumunuz icin tesekkur ederiz.",
+                    "response_from_owner_ago": "5 ay once",
+                    "response_from_owner_date": "2023-06-08T20:14:00.670000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 5,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100721450956454039055/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXBBlrXP07wK2-qzLK78oBH819tj0Z9tC1T5yHwAQmaEno=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Isini layikiyla yerine getiren bir firma . Basarilarin devamini dilerim .kolay gelsin ",
+                    "reviewer_name": "sevda sekercioglu",
+                    "rating": 4,
+                    "review_text": "Isini layikiyla yerine getiren bir firma . Basarilarin devamini dilerim .kolay gelsin ",
+                    "published_at": "4 ay once",
+                    "published_at_date": "2023-08-06T06:44:29.554000",
+                    "response_from_owner_text": "Yorumunuz icin tesekkur ederiz.",
+                    "response_from_owner_ago": "4 ay once",
+                    "response_from_owner_date": "2023-08-06T06:55:39.258000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118207996751817115367/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW7jIzr0WANtg340vw1mHMTVS1UrRkUxQn9pOqEq5Bxnw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "islerini gercekten hakkiyla yapan bir isletme. sorunlarima hizli bir sekilde cozum bulduk cok memnun kaldim her sey icin tesekkurler",
+                    "reviewer_name": "Esma Essiz",
+                    "rating": 5,
+                    "review_text": "islerini gercekten hakkiyla yapan bir isletme. sorunlarima hizli bir sekilde cozum bulduk cok memnun kaldim her sey icin tesekkurler",
+                    "published_at": "6 ay once",
+                    "published_at_date": "2023-05-31T01:12:27.631000",
+                    "response_from_owner_text": "Degerli yorumunuz icin tesekkurler.",
+                    "response_from_owner_ago": "6 ay once",
+                    "response_from_owner_date": "2023-05-31T03:26:52.141000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111727838704871396164/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIg-lD6wdQ1NfOzFNNkCHnMxBIXk4NqP_R7kM7RsQll=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "isinizi hakkinizla yaptiginiz icin cok tesekkur ederim gercekten mukemmel bi hizmet sunuyorsunuz cok memnun kaldim",
+                    "reviewer_name": "Enes Sari",
+                    "rating": 5,
+                    "review_text": "isinizi hakkinizla yaptiginiz icin cok tesekkur ederim gercekten mukemmel bi hizmet sunuyorsunuz cok memnun kaldim",
+                    "published_at": "6 ay once",
+                    "published_at_date": "2023-06-07T13:28:33.006000",
+                    "response_from_owner_text": "Degerli yorumunuz icin tesekkur ederiz.",
+                    "response_from_owner_ago": "6 ay once",
+                    "response_from_owner_date": "2023-06-07T13:51:00.043000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101844766416559214343/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI6axM3NLSjficBKBODbwRngHEO52sgzAcYnbnPG1EJ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Topo Hukuk Burosu karsilastigim sorunlarin cozumunde bana samimi ivedi bir sekilde yardimci oldular. Kendilerine tesekkur ediyorum.",
+                    "reviewer_name": "Mahmud Ali Kum",
+                    "rating": 5,
+                    "review_text": "Topo Hukuk Burosu karsilastigim sorunlarin cozumunde bana samimi ivedi bir sekilde yardimci oldular. Kendilerine tesekkur ediyorum.",
+                    "published_at": "8 ay once",
+                    "published_at_date": "2023-03-30T10:17:30.888000",
+                    "response_from_owner_text": "Tesekkurler",
+                    "response_from_owner_ago": "6 ay once",
+                    "response_from_owner_date": "2023-05-26T07:16:50.483000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100486035594613099553/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKBoww4H6NGRCg_SKL8dvrv6LsIZ0KhxqG9OUTEfIZP=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "dosyama cok emek verdiler hersey icin tesekkurler\ndevam ediniz bu guzel hizmete",
+                    "reviewer_name": "Yasemin Mehmet EGE",
+                    "rating": 5,
+                    "review_text": "dosyama cok emek verdiler hersey icin tesekkurler\ndevam ediniz bu guzel hizmete",
+                    "published_at": "6 ay once",
+                    "published_at_date": "2023-05-26T06:44:56.627000",
+                    "response_from_owner_text": "Degerli yorumunuz icin tesekkur ederiz.",
+                    "response_from_owner_ago": "6 ay once",
+                    "response_from_owner_date": "2023-05-26T07:16:28.715000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107157713090787898540/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWh8zDKpUgp0ahETGXCNg4e8tvdG7nA_qFcKfiSJc5Lw5Q=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Masak hesabima el koydu ne yapacagimi bilemedim. Arastirma yaparken bi kac kisiyi ve topo hukuk burosunu buldum\nfakat hic birine guvenmedim. topo hukukta benimle ilgilenen hanfendi her asamayi detaylica anlatti cok gec guvendim ama iyiki guvenmisim.\nColuk cocugumun riskini geri aldik. Allah razi olsun",
+                    "reviewer_name": "bahar aysun temel",
+                    "rating": 5,
+                    "review_text": "Masak hesabima el koydu ne yapacagimi bilemedim. Arastirma yaparken bi kac kisiyi ve topo hukuk burosunu buldum\nfakat hic birine guvenmedim. topo hukukta benimle ilgilenen hanfendi her asamayi detaylica anlatti cok gec guvendim ama iyiki guvenmisim.\nColuk cocugumun riskini geri aldik. Allah razi olsun",
+                    "published_at": "2 yil once",
+                    "published_at_date": "2021-01-10T15:38:17.390000",
+                    "response_from_owner_text": "Merhaba Bahar Hanim,\n\nBanka hesaplarina haksiz konulan blokelerin kaldirilmasi mumkun. Bu bilincin artmasina katkida bulundugunuz icin tesekkur ederiz.",
+                    "response_from_owner_ago": "2 yil once",
+                    "response_from_owner_date": "2021-03-18T21:34:23.609000",
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108817780563149226346/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI6c8tjYRETFcD0ZLiODFdeyK1X94-8dDCFCI1z5pna=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ-U3vYVe7yhQRrBypnk9dVu4",
+            "name": "Yildirim Hukuk - Avukatlik & Danismanlik",
+            "description": null,
+            "reviews": 20,
+            "competitors": [
+                {
+                    "name": "YILDIRIM HUKUK BUROSU /Av.Engin YILDIRIM&Av.Gulderen Z. KAVAK YILDIRIM",
+                    "link": "https://www.google.com/maps/search/YILDIRIM+HUKUK+B%C3%9CROSU+%2FAv.Engin+YILDIRIM%26Av.G%C3%BClderen+Z.+KAVAK+YILDIRIM/@41.01360330000001,28.909204499999998?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 9,
+                    "rating": 3.2,
+                    "main_category": "Hukuk Burosu"
+                },
+                {
+                    "name": "Yildirim Hukuk ve Danismanlik",
+                    "link": "https://www.google.com/maps/search/Y%C4%B1ld%C4%B1r%C4%B1m+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.0106106,28.8996568?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Hukuk Burosu"
+                },
+                {
+                    "name": "Yildirim Hukuk Burosu",
+                    "link": "https://www.google.com/maps/search/Y%C4%B1ld%C4%B1r%C4%B1m+Hukuk+B%C3%BCrosu/@40.9946964,28.8772107?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 5,
+                    "rating": 3.2,
+                    "main_category": "Avukat"
+                },
+                {
+                    "name": "YILDIRIM HUKUK BUROSU",
+                    "link": "https://www.google.com/maps/search/YILDIRIM+HUKUK+B%C3%9CROSU/@41.0187941,28.9109935?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 2,
+                    "rating": 3,
+                    "main_category": "Hukuk Burosu"
+                },
+                {
+                    "name": "Yildirim Hukuk Burosu",
+                    "link": "https://www.google.com/maps/search/Yildirim+Hukuk+B%C3%BCrosu/@40.988986,28.872013?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Hukuk Burosu"
+                }
+            ],
+            "website": "http://yildirimhukuk.net/",
+            "owner": {
+                "id": "106669572874789682349",
+                "name": "Yildirim Hukuk - Avukatlik & Danismanlik (Sahibi)",
+                "link": "https://www.google.com/maps/contrib/106669572874789682349"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMs27t6D0LrKhAcCqwf34jqF5K8GpIhHp3XEedW=w408-h272-k-no",
+            "main_category": "Hukuk Burosu",
+            "categories": [
+                "Hukuk Burosu"
+            ],
+            "rating": 4.4,
+            "workday_timing": "09:00-18:00",
+            "closed_on": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "phone": "(0212) 466 34 20",
+            "address": "Yildirim Hukuk - Avukatlik & Danismanlik, Tozkoparan Mahallesi General Ali Riza Gurcan Caddesi Metropol Is Merkezi Is Merkezi, Merter, No:31 D:41, 34173 Gungoren/Istanbul",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Y%C4%B1ld%C4%B1r%C4%B1m+Hukuk+-+Avukatl%C4%B1k+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/data=!4m7!3m6!1s0x14cabb5761ef4df9:0xee565d4f9ea91cac!8m2!3d41.0089983!4d28.8962747!16s%2Fg%2F11cly66b21!19sChIJ-U3vYVe7yhQRrBypnk9dVu4?authuser=0&hl=tr&rclk=1",
+            "status": "Kapali  Acilis saati: 09:00",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 3,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 17
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ-U3vYVe7yhQRrBypnk9dVu4&q=Y%C4%B1ld%C4%B1r%C4%B1m+Hukuk+-+Avukatl%C4%B1k+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k&authuser=0&hl=tr&gl=TR",
+            "coordinates": {
+                "latitude": 41.008998299999995,
+                "longitude": 28.8962747
+            },
+            "plus_code": "2V5W+HG Gungoren, Istanbul",
+            "detailed_address": {
+                "ward": "Tozkoparan",
+                "street": "Tozkoparan Mahallesi General Ali Riza Gurcan Caddesi Metropol Is Merkezi Is Merkezi, Merter, No:31 D:41",
+                "city": "Gungoren",
+                "postal_code": "34173",
+                "state": "Istanbul",
+                "country_code": "TR"
+            },
+            "time_zone": "Europe/Istanbul",
+            "cid": "17174016825569647788",
+            "data_id": "0x14cabb5761ef4df9:0xee565d4f9ea91cac",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMs27t6D0LrKhAcCqwf34jqF5K8GpIhHp3XEedW=w447-h298-k-no"
+                },
+                {
+                    "about": "Sahibinin sectikleri",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMtwIEoVQLQ0986emOnRI_cdhnsZW3KmzdaOfki=w447-h298-k-no"
+                },
+                {
+                    "about": "Street View ve 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fegj1lGBGD_ouwDsM5eAsA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=291.35834&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "09:00-18:00"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "09:00-18:00"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "09:00-18:00"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "09:00-18:00"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "09:00-18:00"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "Kapali"
+                    ]
+                },
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "Kapali"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Dolandiricilar grub,500$ dolandirildim,adi Erdi Eskioglu olan biri tarafindan..Multecileri bile dolandiriyorlar...Paranizi aldiktan sonra sizi engellerler ve avukat olduklari icin bir sey yapamazsiniz.",
+                    "reviewer_name": "Ahmad Almoallem",
+                    "rating": 1,
+                    "review_text": "Dolandiricilar grub,500$ dolandirildim,adi Erdi Eskioglu olan biri tarafindan..Multecileri bile dolandiriyorlar...Paranizi aldiktan sonra sizi engellerler ve avukat olduklari icin bir sey yapamazsiniz.",
+                    "published_at": "3 hafta once",
+                    "published_at_date": "2023-11-15T08:24:39.075000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108896623291673945720/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWFeg12sPwoM_4hYmzpheVyMZWWUj75Sc8CSzk0BGg3NUc=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Surekli rahatsiz edip duruyorsunuz ozellikle devrim hanim borclu ben degilim ister annem olsun ister babam olsun gidip lutfen onlari arayin ya da gonderin nereye gonderiyorsunuz icrayi insanlari bunaltmaktsn vazgecin yoksa sikayet edecegim yeter srtik",
+                    "reviewer_name": "borte ozgen",
+                    "rating": 1,
+                    "review_text": "Surekli rahatsiz edip duruyorsunuz ozellikle devrim hanim borclu ben degilim ister annem olsun ister babam olsun gidip lutfen onlari arayin ya da gonderin nereye gonderiyorsunuz icrayi insanlari bunaltmaktsn vazgecin yoksa sikayet edecegim yeter srtik",
+                    "published_at": "10 ay once",
+                    "published_at_date": "2023-01-19T11:13:43.539000",
+                    "response_from_owner_text": "Merhabalar Sayin Borte Ozgen, ekibimizde Devrim isimli biri calismamistir. Bu nedenle sizinle iletisime gecen kisilerin buromuz ile ilgi ve alakasi bulunmamaktadir. Lutfen sizleri arayarak veya mesaj gondererek icra takibi, uzlastirma gibi kurumlar adi altinda para isteyenlere itibar etmeyiniz. Ayrica Istanbul'da faaliyetlerine devam eden birden fazla Yildirim Hukuk Burosu bulunmaktadir, bundan dolayi da karisiklik olmasi ihtimal dahilindedir. Iyi gunler.\n Yildirim Hukuk Avukatlik & Danismanlik.",
+                    "response_from_owner_ago": "9 ay once",
+                    "response_from_owner_date": "2023-03-07T12:13:25.569000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110075070249706323882/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXtQQvELt8yIFsj7UmvmY5g9n167pmUH_Xm_L-qVjCpnw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Profesyonel,acik fikirli,islerini oldukca ozenli ve titizlikle yapan bir avukat ekibi mevcut.\nOzverili ve duzenli calisiyorlar. Iyi karsilanip isin olurunu olmazini net anlayarak gorusmeden ayrilirsiniz. Aldirdiklari ulusal ve uluslararasi yeni kararlar emsal nitelikte. Gunumuz hukuk sisteminde cok onemli bir yerdeler.",
+                    "reviewer_name": "ilknur kavak",
+                    "rating": 5,
+                    "review_text": "Profesyonel,acik fikirli,islerini oldukca ozenli ve titizlikle yapan bir avukat ekibi mevcut.\nOzverili ve duzenli calisiyorlar. Iyi karsilanip isin olurunu olmazini net anlayarak gorusmeden ayrilirsiniz. Aldirdiklari ulusal ve uluslararasi yeni kararlar emsal nitelikte. Gunumuz hukuk sisteminde cok onemli bir yerdeler.",
+                    "published_at": "4 yil once",
+                    "published_at_date": "2019-06-10T17:59:44.640000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 110,
+                    "total_number_of_photos_by_reviewer": 33,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106162318188684802980/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIKS62cuqLMMTurrblK3JHe8mTIHMQStobXL2frjRfm=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Tek kelime ile hepsi muhtesem  .Herzaman Tesekkuru hakediyorsunuz yildirim hukuk.",
+                    "reviewer_name": "korhan cem uzguner",
+                    "rating": 5,
+                    "review_text": "Tek kelime ile hepsi muhtesem  .Herzaman Tesekkuru hakediyorsunuz yildirim hukuk.",
+                    "published_at": "bir yil once",
+                    "published_at_date": "2022-01-15T15:36:32.328000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 26,
+                    "total_number_of_photos_by_reviewer": 189,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115741936220156944173/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXb9GVU26VOmnMQ77EOfAlX4GPMfcwhXj2RK34NhhZOY3I=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Islerinde uzman kadrosu ile muthis insanlar..",
+                    "reviewer_name": "Safa INIK",
+                    "rating": 5,
+                    "review_text": "Islerinde uzman kadrosu ile muthis insanlar..",
+                    "published_at": "10 ay once",
+                    "published_at_date": "2023-01-13T14:22:04.408000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 75,
+                    "total_number_of_photos_by_reviewer": 25,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115837078214878037871/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXuFxTGcIh1h7L-7DGTjDmSa6fF0Jgl6hMoULwLza2h_lw=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Burak Bey, ilginiz icin tesekkurler",
+                    "reviewer_name": "Nihat Premium",
+                    "rating": 5,
+                    "review_text": "Burak Bey, ilginiz icin tesekkurler",
+                    "published_at": "2 yil once",
+                    "published_at_date": "2021-09-15T08:25:50.946000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108804409979611424185/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLqnKD2W3dq9OUyKptdYT1DHRYPv2S3cnCjT0PEDmve=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Dunyanin en iyi hukuk burosu..",
+                    "reviewer_name": "burak atalay",
+                    "rating": 5,
+                    "review_text": "Dunyanin en iyi hukuk burosu..",
+                    "published_at": "bir yil once",
+                    "published_at_date": "2022-08-14T23:29:32.739000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114397672203737793313/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIhoZifWGAMhJ3d69jfpmVHTM6W6KEBAwZNQt-ZcrLH=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Tum ekip harika ",
+                    "reviewer_name": "Fatma",
+                    "rating": 5,
+                    "review_text": "Tum ekip harika ",
+                    "published_at": "11 ay once",
+                    "published_at_date": "2022-12-10T07:43:31.558000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 5,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105574790767584868066/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLOotM8YHU3g3mVa4Tm5DHC-X2M-xncxiYegBDUs2wP=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ-U-Hkg-7yhQRwi49BVvDlR0",
+            "name": "TOPCU OKUR Avukatlik Burosu",
+            "description": null,
+            "reviews": 3,
+            "competitors": [
+                {
+                    "name": "EKIN HUKUK VE DANISMANLIK BUROSU Avukat Ozan Ekin",
+                    "link": "https://www.google.com/maps/search/EK%C4%B0N+HUKUK+VE+DANI%C5%9EMANLIK+B%C3%9CROSU+Avukat+Ozan+Ekin/@41.0077889,28.893125?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 9,
+                    "rating": 5,
+                    "main_category": "Avukat"
+                },
+                {
+                    "name": "Dogan Hukuk & Danismanlik",
+                    "link": "https://www.google.com/maps/search/Do%C4%9Fan+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.009029399999996,28.8931576?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 9,
+                    "rating": 3.6,
+                    "main_category": "Hukuk Burosu"
+                },
+                {
+                    "name": "Unal Hukuk ve Danismanlik Burosu - Av. Emrullah UNAL",
+                    "link": "https://www.google.com/maps/search/%C3%9Cnal+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu+-+Av.+Emrullah+%C3%9CNAL/@41.0042284,28.8898678?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 5,
+                    "rating": 5,
+                    "main_category": "Hukuk Burosu"
+                },
+                {
+                    "name": "Kahraman & Partners Hukuk ve Danismanlik",
+                    "link": "https://www.google.com/maps/search/Kahraman+%26+Partners+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.00901090000001,28.896318399999995?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 4,
+                    "rating": 5,
+                    "main_category": "Avukat"
+                }
+            ],
+            "website": "https://topcu-okur-hukuk-burosu.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+            "owner": {
+                "id": "115889524536945322652",
+                "name": "TOPCU OKUR Avukatlik Burosu (Sahibi)",
+                "link": "https://www.google.com/maps/contrib/115889524536945322652"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM6t9XshmH3FOBuUTOpiR_xjQloqYILUj5DVhx7=w408-h544-k-no",
+            "main_category": "Hukuk Burosu",
+            "categories": [
+                "Hukuk Burosu",
+                "Avukatlik Danisma Hizmeti"
+            ],
+            "rating": 5,
+            "workday_timing": "09:00-18:00",
+            "closed_on": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "phone": "(0212) 939 39 45",
+            "address": "Abdurrahman Gurman Mahallesi, TOPCU OKUR Avukatlik Burosu, Merter Platform Suites, General Ali Riza Gurcan Cd. No:27, 34164 Gungoren/Istanbul",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/TOPCU+OKUR+Avukatl%C4%B1k+B%C3%BCrosu/data=!4m7!3m6!1s0x14cabb0f92874ff9:0x1d95c35b053d2ec2!8m2!3d41.0078207!4d28.8954142!16s%2Fg%2F11gw35b_lw!19sChIJ-U-Hkg-7yhQRwi49BVvDlR0?authuser=0&hl=tr&rclk=1",
+            "status": "Kapali  Acilis saati: 09:00",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 3
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ-U-Hkg-7yhQRwi49BVvDlR0&q=TOPCU+OKUR+Avukatl%C4%B1k+B%C3%BCrosu&authuser=0&hl=tr&gl=TR",
+            "coordinates": {
+                "latitude": 41.007820699999996,
+                "longitude": 28.895414199999998
+            },
+            "plus_code": "2V5W+45 Gungoren, Istanbul",
+            "detailed_address": {
+                "ward": "Abdurrahman Gurman Mahallesi",
+                "street": "Merter Platform Suites, General Ali Riza Gurcan Cd. No:27",
+                "city": "Gungoren",
+                "postal_code": "34164",
+                "state": "Istanbul",
+                "country_code": "TR"
+            },
+            "time_zone": "Europe/Istanbul",
+            "cid": "2131824794327133890",
+            "data_id": "0x14cabb0f92874ff9:0x1d95c35b053d2ec2",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipM6t9XshmH3FOBuUTOpiR_xjQloqYILUj5DVhx7=w224-h298-k-no"
+                },
+                {
+                    "about": "Street View ve 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QO0ZAICAWkUGqwYTc1kdug&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=329.79785&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "09:00-18:00"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "09:00-18:00"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "09:00-18:00"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "09:00-18:00"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "09:00-18:00"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "Kapali"
+                    ]
+                },
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "Kapali"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Bir hukuk burosundan daha fazlasi :)",
+                    "reviewer_name": "Zeynep Merve Kocar Tokmak",
+                    "rating": 5,
+                    "review_text": "Bir hukuk burosundan daha fazlasi :)",
+                    "published_at": "4 yil once",
+                    "published_at_date": "2019-03-05T19:58:45.485000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 112,
+                    "total_number_of_photos_by_reviewer": 184,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107913301713199271185/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWC5fNtm0vKrREYelFv5ykprg3WXunf1u82wp69u5W0vFM=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipM6t9XshmH3FOBuUTOpiR_xjQloqYILUj5DVhx7=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMcVd5oh5wSCkCnd8OhlQGld0GVFG5tDpu6rak2=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Selahattin yaygun",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "2 yil once",
+                    "published_at_date": "2021-02-07T13:31:02.469000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101744360410457027675/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVKP1-01_eVOrZ0gg1tfFsqKagLY7aHHvFGNm0K6PmgOw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Nazli Bina",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "3 yil once",
+                    "published_at_date": "2020-08-03T10:13:32.783000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111668022571319464739/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV7usd9KGhWkFDDRjorzb3GBnhucVZyiT9HAEkjANwmUTc=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJjUFi4jK7yhQRgeq4zOeWqng",
+            "name": "Jurist Law Office",
+            "description": null,
+            "reviews": null,
+            "competitors": [],
+            "website": "http://jurist.com.tr/",
+            "owner": {
+                "id": "110827177996729632108",
+                "name": "Jurist Law Office (Sahibi)",
+                "link": "https://www.google.com/maps/contrib/110827177996729632108"
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fegj1lGBGD_ouwDsM5eAsA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=289.446&pitch=0&thumbfov=100",
+            "main_category": "Hukuk Burosu",
+            "categories": [
+                "Hukuk Burosu"
+            ],
+            "rating": null,
+            "workday_timing": "09:00-17:00",
+            "closed_on": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "phone": "(0212) 664 92 53",
+            "address": "Tozkoparan, Jurist Law Office, Metropol center, General Ali Riza Gurcan Cd. No:31 K:13 D:53, 34110 Gungoren/Istanbul",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jurist+Law+Office/data=!4m7!3m6!1s0x14cabb32e262418d:0x78aa96e7ccb8ea81!8m2!3d41.0089988!4d28.8962236!16s%2Fg%2F11ssdtnfdm!19sChIJjUFi4jK7yhQRgeq4zOeWqng?authuser=0&hl=tr&rclk=1",
+            "status": "Kapali  Acilis saati: 09:00",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJjUFi4jK7yhQRgeq4zOeWqng&q=Jurist+Law+Office&authuser=0&hl=tr&gl=TR",
+            "coordinates": {
+                "latitude": 41.0089988,
+                "longitude": 28.8962236
+            },
+            "plus_code": "2V5W+HF Gungoren, Istanbul",
+            "detailed_address": {
+                "ward": "Tozkoparan",
+                "street": "Metropol center, General Ali Riza Gurcan Cd. No:31 K:13 D:53",
+                "city": "Gungoren",
+                "postal_code": "34110",
+                "state": "Istanbul",
+                "country_code": "TR"
+            },
+            "time_zone": "Europe/Istanbul",
+            "cid": "8694927952908446337",
+            "data_id": "0x14cabb32e262418d:0x78aa96e7ccb8ea81",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fegj1lGBGD_ouwDsM5eAsA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=289.446&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View ve 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fegj1lGBGD_ouwDsM5eAsA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=289.446&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "09:00-17:00"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "09:00-17:00"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "09:00-17:00"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "09:00-17:00"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "09:00-17:00"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "Kapali"
+                    ]
+                },
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "Kapali"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        }
+    ]
+}

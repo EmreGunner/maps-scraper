@@ -1,0 +1,231 @@
+{
+    "place_id": "ChIJzbcAqcOjyhQR86ffSvBVgq0",
+    "name": "Erya \u015eehircilik \u0130n\u015faat",
+    "description": null,
+    "reviews": 2,
+    "competitors": [
+        {
+            "name": "Archa Mimarl\u0131k Tasar\u0131m",
+            "link": "https://www.google.com/maps/search/Archa+Mimarl%C4%B1k+Tasar%C4%B1m/@40.991996199999996,28.835100699999998?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "\u0130n\u015faat \u015eirketi"
+        },
+        {
+            "name": "Redart in\u015faat Mimarl\u0131k Yat\u0131r\u0131m A.\u015e.",
+            "link": "https://www.google.com/maps/search/Redart+in%C5%9Faat+Mimarl%C4%B1k+Yat%C4%B1r%C4%B1m+A.%C5%9E./@40.991813,28.833808800000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Mimar"
+        },
+        {
+            "name": "Vera Mimarl\u0131k & \u0130n\u015faat",
+            "link": "https://www.google.com/maps/search/Vera+Mimarl%C4%B1k+%26+%C4%B0n%C5%9Faat/@40.991228899999996,28.8331442?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 5,
+            "main_category": "\u0130n\u015faat Firmas\u0131"
+        },
+        {
+            "name": "Royiva Architecture",
+            "link": "https://www.google.com/maps/search/Royiva+Architecture/@40.991879600000004,28.834209899999994?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 5,
+            "main_category": "Mimarl\u0131k Firmas\u0131"
+        },
+        {
+            "name": "Aterya Law Office",
+            "link": "https://www.google.com/maps/search/Aterya+Law+Office/@40.9923776,28.8263515?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        }
+    ],
+    "website": "http://www.eryasehircilik.com/",
+    "owner": {
+        "id": "101708179808754725523",
+        "name": "Erya \u015eehircilik \u0130n\u015faat (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/101708179808754725523"
+    },
+    "featured_image": "//lh4.googleusercontent.com/18dsWhOmkQr3B1REXRSzDWebB371fxHGlavyCS4ANoKRIRCtSQVoUCMT1jPRtgw=w426-h240-k-no",
+    "main_category": "Genel \u0130n\u015faat \u0130\u015fleri Firmas\u0131",
+    "categories": [
+        "Genel \u0130n\u015faat \u0130\u015fleri Firmas\u0131"
+    ],
+    "rating": 3,
+    "workday_timing": "09:00\u201317:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 892 52 47",
+    "address": "Erya \u015eehircilik \u0130n\u015faat, Atak\u00f6y 7-8-9-10 K\u0131s\u0131m Mahallesi \u00c7oban\u00e7e\u015fme E-5 Yan Yol Caddesi No:16/1 A Blok 116 Selenium Retro 9, 34158 Bak\u0131rk\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJzbcAqcOjyhQR86ffSvBVgq0",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 17:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJzbcAqcOjyhQR86ffSvBVgq0&q=?q=place_id:ChIJzbcAqcOjyhQR86ffSvBVgq0&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9919365,
+        "longitude": 28.833202699999998
+    },
+    "plus_code": "XRRM+Q7 Bak\u0131rk\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Atak\u00f6y 7-8-9-10",
+        "street": "Atak\u00f6y 7-8-9-10 K\u0131s\u0131m Mahallesi \u00c7oban\u00e7e\u015fme E-5 Yan Yol Caddesi No:16/1 A Blok 116 Selenium Retro 9",
+        "city": "Bak\u0131rk\u00f6y",
+        "postal_code": "34158",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12502650006070601715",
+    "data_id": "0x14caa3c3a900b7cd:0xad8255f04adfa7f3",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "http://www.eryasehircilik.com/",
+            "source": "eryasehircilik.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online tahmini \u00fccret",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh4.googleusercontent.com/18dsWhOmkQr3B1REXRSzDWebB371fxHGlavyCS4ANoKRIRCtSQVoUCMT1jPRtgw=w529-h298-k-no"
+        },
+        {
+            "about": "D\u0131\u015ftan g\u00f6r\u00fcn\u00fcm",
+            "link": "//lh5.googleusercontent.com/V2u6ydss6-QD7q9IevEO7vlM33cdzPBbVIhuM3DHsX74ce30IdgggKUP28LJsqKPVw=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YKyeSDsRBqY-5i-il5hi9A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=181.7701&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Erya dan ald\u0131\u011f\u0131n\u0131z ev temelinden \u00e7\u00fcr\u00fcyor olabilir dikkat!!!",
+            "reviewer_name": "yeliz eren",
+            "rating": 1,
+            "review_text": "Erya dan ald\u0131\u011f\u0131n\u0131z ev temelinden \u00e7\u00fcr\u00fcyor olabilir dikkat!!!",
+            "published_at": "6 y\u0131l \u00f6nce",
+            "published_at_date": "2017-07-22T16:15:25.772000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/117213451351793881201/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXXjBIXN4jnq6jjF6yD1K8WLjIOEkdIKRxRGT8VLQsLK7Qs=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "te\u015fekk\u00fcrler ERYA \u015eEH\u0130RC\u0130L\u0130K",
+            "reviewer_name": "halil ibrahim erismis",
+            "rating": 5,
+            "review_text": "te\u015fekk\u00fcrler ERYA \u015eEH\u0130RC\u0130L\u0130K",
+            "published_at": "6 y\u0131l \u00f6nce",
+            "published_at_date": "2017-12-15T15:51:49.811000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/103223379185122342934/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVY9o0LtO7_bBkzzvX8wnP9PuZEChN3Lcb1FICURuUPzQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

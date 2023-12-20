@@ -1,0 +1,149 @@
+{
+    "place_id": "ChIJucyVs1y7yhQRihtIMmbPm6c",
+    "name": "Ece Hukuk B\u00fcrosu - Av.Erdal Ece",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "G\u00f6kmen Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%B6kmen+Hukuk+B%C3%BCrosu/@40.9945735,28.8793735?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "EKA Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/EKA+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.994818699999996,28.877434400000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ERDEM HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/ERDEM+HUKUK+B%C3%9CROSU/@40.9956441,28.871767000000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ERDAL NUHBASA LAW AND CONSULTANCY FIRM",
+            "link": "https://www.google.com/maps/search/ERDAL+NUHBASA+LAW+AND+CONSULTANCY+FIRM/@40.9955812,28.8739732?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "113730543061616816290",
+        "name": "Ece Hukuk B\u00fcrosu - Av.Erdal Ece (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/113730543061616816290"
+    },
+    "featured_image": "//lh6.googleusercontent.com/SGjQJL6fy0W_ORG7cByNz2UdjnhjK4UTyKnQxhykvhTGts0tnEBVXRjY5SNPM4r8=w426-h240-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0532 285 88 64",
+    "address": "Ece Hukuk B\u00fcrosu - Av.Erdal Ece, Osmaniye Mah \u0130ncirli \u00c7\u0131kmaz\u0131 Sok. No:5, Ert\u00fcrkler sit No:3 b.blok d, 34146 Bak\u0131rk\u00f6y",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJucyVs1y7yhQRihtIMmbPm6c",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJucyVs1y7yhQRihtIMmbPm6c&q=?q=place_id:ChIJucyVs1y7yhQRihtIMmbPm6c&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9945799,
+        "longitude": 28.879644499999998
+    },
+    "plus_code": "XVVH+RV Bak\u0131rk\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Osmaniye",
+        "street": "Osmaniye Mah \u0130ncirli \u00c7\u0131kmaz\u0131 Sok. No:5, Ert\u00fcrkler sit No:3 b.blok d",
+        "city": "Bak\u0131rk\u00f6y",
+        "postal_code": "34146",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12077474863561317258",
+    "data_id": "0x14cabb5cb395ccb9:0xa79bcf6632481b8a",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh6.googleusercontent.com/SGjQJL6fy0W_ORG7cByNz2UdjnhjK4UTyKnQxhykvhTGts0tnEBVXRjY5SNPM4r8=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UsKJ8CteFpFigcRuSGbl5Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=63.548843&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

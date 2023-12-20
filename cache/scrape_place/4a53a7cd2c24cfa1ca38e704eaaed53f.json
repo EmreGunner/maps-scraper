@@ -1,0 +1,101 @@
+{
+    "place_id": "ChIJ6zYG32-3yhQR92vyAQm3TnA",
+    "name": "Mustafa Ayvaz Avukatlik B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Av. Sezer Kara",
+            "link": "https://www.google.com/maps/search/Av.+Sezer+Kara/@41.062069,29.011900999999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "PBA Hukuk",
+            "link": "https://www.google.com/maps/search/PBA+Hukuk/@41.061291499999996,29.012292499999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "MERGA HUKUK & DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/MERGA+HUKUK+%26+DANI%C5%9EMANLIK/@41.067718,29.003054?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "MNA HUKUK",
+            "link": "https://www.google.com/maps/search/MNA+HUKUK/@41.0682048,29.001407200000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "G\u00fcler Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%BCler+Hukuk+B%C3%BCrosu/@41.062086300000004,29.011993399999998?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "https://mayvazburosu.com/",
+    "owner": {
+        "id": "106322376097105606863",
+        "name": "Mustafa Ayvaz Avukatlik B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/106322376097105606863"
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0545 141 97 59",
+    "address": "Balmumcu, Mustafa Ayvaz Avukatlik B\u00fcrosu, No:78/15, Barbaros Blv., 34349 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ6zYG32-3yhQR92vyAQm3TnA",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ6zYG32-3yhQR92vyAQm3TnA&q=?q=place_id:ChIJ6zYG32-3yhQR92vyAQm3TnA&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0621955,
+        "longitude": 29.0117168
+    },
+    "plus_code": "3266+VM Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Balmumcu",
+        "street": "No:78/15, Barbaros Blv.",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34349",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "8092606829746613239",
+    "data_id": "0x14cab76fdf0636eb:0x704eb70901f26bf7",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,114 @@
+{
+    "place_id": "ChIJHVHwWIm3yhQR871_a58Jsyo",
+    "name": "Avukat \u015eaban Orhan",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Avukat Yasemin Varo\u011flu",
+            "link": "https://www.google.com/maps/search/Avukat+Yasemin+Varo%C4%9Flu/@41.0441224,29.04454?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u015eahin Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/%C5%9Eahin+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.0238654,29.022180199999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "B\u0130LAL YAVUZ AVUKATLIK OF\u0130S\u0130",
+            "link": "https://www.google.com/maps/search/B%C4%B0LAL+YAVUZ+AVUKATLIK+OF%C4%B0S%C4%B0/@41.0257638,29.016672699999994?authuser=0&entry=ttu",
+            "reviews": 77,
+            "rating": 3.2,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Arabulucu Serhat \u015eAH\u0130N",
+            "link": "https://www.google.com/maps/search/Avukat+Arabulucu+Serhat+%C5%9EAH%C4%B0N/@41.0240787,29.0824232?authuser=0&entry=ttu",
+            "reviews": 54,
+            "rating": 5,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Avukat \u015eaban Orhan (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh3.googleusercontent.com/pnwfjuGR2qyEyuKurhnxu1LEhIYWhe9PzplyI72oZw17qMIu1GAImpfpWsTV3A6j6g=w426-h240-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0216) 334 05 80",
+    "address": "Mimar Sinan Mah., Avukat \u015eaban Orhan, Selami Ali Efendi Cad., 34672 \u00dcsk\u00fcdar/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJHVHwWIm3yhQR871_a58Jsyo",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJHVHwWIm3yhQR871_a58Jsyo&q=?q=place_id:ChIJHVHwWIm3yhQR871_a58Jsyo&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0247898,
+        "longitude": 29.016769099999998
+    },
+    "plus_code": "22F8+WP \u00dcsk\u00fcdar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Mimar Sinan Mah.",
+        "street": "Selami Ali Efendi Cad.",
+        "city": "\u00dcsk\u00fcdar",
+        "postal_code": "34672",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "3076813550732164595",
+    "data_id": "0x14cab78958f0511d:0x2ab3099f6b7fbdf3",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh3.googleusercontent.com/pnwfjuGR2qyEyuKurhnxu1LEhIYWhe9PzplyI72oZw17qMIu1GAImpfpWsTV3A6j6g=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZnndZM-LPJxvcYHB2847yA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=0.3058425&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

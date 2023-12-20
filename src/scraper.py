@@ -8,6 +8,10 @@ from .reviews_scraper import GoogleMapsAPIScraper
 from time import sleep, time
 from botasaurus.utils import retry_if_is_error
 from selenium.common.exceptions import  StaleElementReferenceException
+import logging 
+
+# Configure logging
+logging.basicConfig(filename='api_logs.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def process_reviews(reviews, convert_to_english):
     processed_reviews = []
@@ -97,12 +101,19 @@ def set_cookies(ck):
     max_retry=5,
     # retry_wait=30, {ADD}
     # request_interval=0.2, {ADD}
-
 )
 def scrape_place(requests: AntiDetectRequests, link):
         cookies = get_cookies()
+         # URL Validation Check
+        if not link or not link.startswith("http"):
+            logging.error(f"Invalid URL: {link}")
+            return None
         try:
             html =  requests.get(link,cookies=cookies,).text
+            if ';window.APP_INITIALIZATION_STATE=' not in html:
+                # Handle the case when the separator is not found in the HTML
+                logging.error(f"Separator not found in HTML for link: {link}")
+                return None
             # Splitting HTML to get the part after 'window.APP_INITIALIZATION_STATE='
             initialization_state_part = html.split(';window.APP_INITIALIZATION_STATE=')[1]
 
@@ -117,15 +128,22 @@ def scrape_place(requests: AntiDetectRequests, link):
             cleaned = data
             
             return cleaned  
-        except:
-            sleep(63)
-            raise
+        except Exception as e:
+            logging.error(f"Error scraping place: {e}")
+            return None
 
 def merge_sponsored_links(places, sponsored_links):
+       # Check if places is None
+    if places is None:
+        logging.error("No places found or an error occurred.")
+        return []
+    updated_places = []
     for place in places:
+        if place is None:
+            continue  # Skip if the place is None
         place['is_spending_on_ads'] = place['link'] in sponsored_links
-
-    return places
+        updated_places.append(place)
+    return updated_places
 
 @browser(
     block_images=True,

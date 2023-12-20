@@ -1,0 +1,147 @@
+{
+    "place_id": "ChIJW-yO1WijyhQRuE6mqjvc8CM",
+    "name": "Uzun Law Office",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "G\u00f6kkaya Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%B6kkaya+Hukuk+B%C3%BCrosu/@40.985727000000004,28.8306968?authuser=0&entry=ttu",
+            "reviews": 18,
+            "rating": 3.7,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "G\u00fclg\u00fcn Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%BClg%C3%BCn+Hukuk+B%C3%BCrosu/@40.987299,28.8315298?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Sistemli Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Sistemli+Hukuk+B%C3%BCrosu/@40.987147,28.833436?authuser=0&entry=ttu",
+            "reviews": 29,
+            "rating": 4.9,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Uzun Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Uzun+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@41.0130225,28.9071201?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Elit Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Elit+Hukuk+B%C3%BCrosu/@40.987288,28.8317728?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://uzunlaw.com/",
+    "owner": {
+        "id": "106736942037848893383",
+        "name": "Uzun Law Office (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/106736942037848893383"
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201317:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 465 38 38",
+    "address": "Ye\u015filk\u00f6y, Uzun Law Office, Ye\u015filk\u00f6y Mahallesi \u0130stanbul D\u00fcnya Ticaret Merkezi B1 Blok, Kat 11, 34149 Bak\u0131rk\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJW-yO1WijyhQRuE6mqjvc8CM",
+    "status": "Kapal\u0131 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJW-yO1WijyhQRuE6mqjvc8CM&q=?q=place_id:ChIJW-yO1WijyhQRuE6mqjvc8CM&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9860344,
+        "longitude": 28.8307927
+    },
+    "plus_code": "XRPJ+C8 Bak\u0131rk\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Ye\u015filk\u00f6y",
+        "street": "Ye\u015filk\u00f6y Mahallesi \u0130stanbul D\u00fcnya Ticaret Merkezi B1 Blok, Kat 11",
+        "city": "Bak\u0131rk\u00f6y",
+        "postal_code": "34149",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2589811934562242232",
+    "data_id": "0x14caa368d58eec5b:0x23f0dc3baaa64eb8",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

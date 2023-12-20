@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJD0pmu8G1yhQR40WU0GAtl0Y",
+    "name": "Arslano\u011flu Cans\u0131z Law Firm",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "CAN AVUKATLIK B\u00dcROSU LEGAL ADVISORY&LAW FIRM",
+            "link": "https://www.google.com/maps/search/CAN+AVUKATLIK+B%C3%9CROSU+LEGAL+ADVISORY%26LAW+FIRM/@41.108736199999996,29.018633599999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Aslan & Partners",
+            "link": "https://www.google.com/maps/search/Aslan+%26+Partners/@41.115600199999996,29.0120235?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "I\u015f\u0131k&Partners Law Firm",
+            "link": "https://www.google.com/maps/search/I%C5%9F%C4%B1k%26Partners+Law+Firm/@41.112412,29.019664000000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Kasapo\u011flu Legal",
+            "link": "https://www.google.com/maps/search/Kasapo%C4%9Flu+Legal/@41.109973499999995,28.9931871?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Konkordato Uzman\u0131",
+            "link": "https://www.google.com/maps/search/Konkordato+Uzman%C4%B1/@41.1085725,29.018642499999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Arslano\u011flu Cans\u0131z Law Firm (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pW8bleIqYTTshGtQ4m_N6A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=174.29475&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 403 95 70",
+    "address": "Arslano\u011flu Cans\u0131z Law Firm, Dereboyu Cad. Meydan Sok. Veko Giz No:85, 34396 Sar\u0131yer/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJD0pmu8G1yhQR40WU0GAtl0Y",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJD0pmu8G1yhQR40WU0GAtl0Y&q=?q=place_id:ChIJD0pmu8G1yhQR40WU0GAtl0Y&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.1092827,
+        "longitude": 29.0206371
+    },
+    "plus_code": "425C+P7 Sar\u0131yer, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Maslak",
+        "street": "Dereboyu Cad. Meydan Sok. Veko Giz No:85",
+        "city": "Sar\u0131yer",
+        "postal_code": "34396",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "5086584197977753059",
+    "data_id": "0x14cab5c1bb664a0f:0x46972d60d09445e3",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pW8bleIqYTTshGtQ4m_N6A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=174.29475&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pW8bleIqYTTshGtQ4m_N6A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=174.29475&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

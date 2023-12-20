@@ -1,0 +1,340 @@
+{
+    "place_id": "ChIJMxNS4sS1yhQRpFkyX6Jy0NU",
+    "name": "BA\u015eALAN PATENT & TRADE MARK SINA\u0130 M\u00dcLK\u0130YET H\u0130ZMETLER\u0130 M\u00dc\u015eAV\u0130RL\u0130K LTD.\u015eT\u0130",
+    "description": null,
+    "reviews": 35,
+    "competitors": [
+        {
+            "name": "BA\u015eALAN DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/BA%C5%9EALAN+DANI%C5%9EMANLIK/@41.071458,28.9673286?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 3.6,
+            "main_category": "Dan\u0131\u015fman"
+        },
+        {
+            "name": "Ba\u015falan Hukuk",
+            "link": "https://www.google.com/maps/search/Ba%C5%9Falan+Hukuk/@41.071535499999996,28.9672474?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 3.7,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Levent Patent",
+            "link": "https://www.google.com/maps/search/Levent+Patent/@41.036476,28.986196?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Patent Ofisi"
+        },
+        {
+            "name": "Bera Patent",
+            "link": "https://www.google.com/maps/search/Bera+Patent/@41.0774644,28.981728599999997?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Patent Ofisi"
+        },
+        {
+            "name": "Sa\u011flam Patent",
+            "link": "https://www.google.com/maps/search/Sa%C4%9Flam+Patent/@41.0402383,28.9923321?authuser=0&entry=ttu",
+            "reviews": 52,
+            "rating": 5,
+            "main_category": "Patent Ofisi"
+        }
+    ],
+    "website": "http://www.basalanpatent.com.tr/",
+    "owner": {
+        "id": "112025825872707863938",
+        "name": "BA\u015eALAN PATENT & TRADE MARK SINA\u0130 M\u00dcLK\u0130YET H\u0130ZMETLER\u0130 M\u00dc\u015eAV\u0130RL\u0130K LTD.\u015eT\u0130 (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/112025825872707863938"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPrdHuZGjUvI_GHzVsLXJlOSGsRGv6KFHpJ1PnM=w408-h510-k-no",
+    "main_category": "Patent Ofisi",
+    "categories": [
+        "Patent Ofisi"
+    ],
+    "rating": 4.4,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 290 62 72",
+    "address": "G\u00fcrsel, BA\u015eALAN PATENT & TRADE MARK SINA\u0130 M\u00dcLK\u0130YET H\u0130ZMETLER\u0130 M\u00dc\u015eAV\u0130RL\u0130K LTD.\u015eT\u0130, PREM\u0130ER KAMP\u00dcS OF\u0130S, \u0130mrahor Cd. No: 29 / A, 34400 K\u00e2\u011f\u0131thane/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJMxNS4sS1yhQRpFkyX6Jy0NU",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 5,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 30
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJMxNS4sS1yhQRpFkyX6Jy0NU&q=?q=place_id:ChIJMxNS4sS1yhQRpFkyX6Jy0NU&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.071535499999996,
+        "longitude": 28.967247399999998
+    },
+    "plus_code": "3XC8+JV K\u00e2\u011f\u0131thane, \u0130stanbul",
+    "detailed_address": {
+        "ward": "G\u00fcrsel",
+        "street": "PREM\u0130ER KAMP\u00dcS OF\u0130S, \u0130mrahor Cd. No: 29 / A",
+        "city": "K\u00e2\u011f\u0131thane",
+        "postal_code": "34400",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "15406940366941870500",
+    "data_id": "0x14cab5c4e2521333:0xd5d072a25f3259a4",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun giri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPrdHuZGjUvI_GHzVsLXJlOSGsRGv6KFHpJ1PnM=w238-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPYPy-2fFwA4DVME8h4-CoQ_fhB-4Qkr8_tGIcE=w298-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2FeaxN-ZcIQR0YBdkgcjOA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=137.12636&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Emek s\u00f6m\u00fcr\u00fcs\u00fcn\u00fc daha yeni mezunken ya\u015fad\u0131\u011f\u0131m yer. Sadece 1 ay  \u00e7al\u0131\u015fmama ra\u011fmen \u00e7ok k\u00f6t\u00fc bir deneyim oldu \u015fimdiki akl\u0131m olsa 1 saat dahi \u00e7al\u0131\u015fmazd\u0131m. Patronlar\u0131n s\u00f6m\u00fcr\u00fcs\u00fc bir yandan patron yanc\u0131s\u0131 \u00e7al\u0131\u015fanlar bir yandan d\u00fc\u015f\u00fcn\u00fcn ki ilk i\u015f deneyiminiz ve bir densiz gelip size f\u0131r\u00e7a at\u0131p a\u015fa\u011f\u0131lama hakk\u0131 buluyor kendinde. Umar\u0131m sosyalizm geldi\u011finde her \u015feyi de\u011fi\u015ftirece\u011fiz ve bu d\u00fczen de\u011fi\u015fecek.",
+            "reviewer_name": "\u0130rem G\u00f6\u00e7er",
+            "rating": 1,
+            "review_text": "Emek s\u00f6m\u00fcr\u00fcs\u00fcn\u00fc daha yeni mezunken ya\u015fad\u0131\u011f\u0131m yer. Sadece 1 ay  \u00e7al\u0131\u015fmama ra\u011fmen \u00e7ok k\u00f6t\u00fc bir deneyim oldu \u015fimdiki akl\u0131m olsa 1 saat dahi \u00e7al\u0131\u015fmazd\u0131m. Patronlar\u0131n s\u00f6m\u00fcr\u00fcs\u00fc bir yandan patron yanc\u0131s\u0131 \u00e7al\u0131\u015fanlar bir yandan d\u00fc\u015f\u00fcn\u00fcn ki ilk i\u015f deneyiminiz ve bir densiz gelip size f\u0131r\u00e7a at\u0131p a\u015fa\u011f\u0131lama hakk\u0131 buluyor kendinde. Umar\u0131m sosyalizm geldi\u011finde her \u015feyi de\u011fi\u015ftirece\u011fiz ve bu d\u00fczen de\u011fi\u015fecek.",
+            "published_at": "3 hafta \u00f6nce",
+            "published_at_date": "2023-11-29T09:05:44.128000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111503257578509047390/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJfWj4NX4ebhKNs95dOaiG7Cpr5jymgK8jV2eNr8Q3y=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Bu \u015firket ne \u00fczerine tam olarak \u00fcniversite yeni mezunlar\u0131 kabul ediyolarm\u0131 ne gibi deneyim tecr\u00fcbe istiyolar",
+            "reviewer_name": "Nur \u00d6z\u00e7alkap",
+            "rating": 1,
+            "review_text": "Bu \u015firket ne \u00fczerine tam olarak \u00fcniversite yeni mezunlar\u0131 kabul ediyolarm\u0131 ne gibi deneyim tecr\u00fcbe istiyolar",
+            "published_at": "2 hafta \u00f6nce",
+            "published_at_date": "2023-11-30T19:14:22.835000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101428909885463116185/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIFXEnw8cAFBB-SLSFM8LvgKdOKZuH_WACv6U3ZilBJ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "H\u0131zl\u0131 ve t\u00fcm i\u015flemleri \u00f6zenle takip ediliyor... Marka ve Alan ad\u0131 ile i\u015flemlerim h\u0131zl\u0131ca yap\u0131ld\u0131. Teknik destek i\u00e7in Abdullah bey'e ayr\u0131ca te\u015fekk\u00fcr ederimm",
+            "reviewer_name": "mery",
+            "rating": 5,
+            "review_text": "H\u0131zl\u0131 ve t\u00fcm i\u015flemleri \u00f6zenle takip ediliyor... Marka ve Alan ad\u0131 ile i\u015flemlerim h\u0131zl\u0131ca yap\u0131ld\u0131. Teknik destek i\u00e7in Abdullah bey'e ayr\u0131ca te\u015fekk\u00fcr ederimm",
+            "published_at": "6 ay \u00f6nce",
+            "published_at_date": "2023-05-20T16:44:07.733000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116284162135138905588/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJmhZ-kZ3lQOcwmLsvwtpGPAi_jOxwsOVvoGL-CSQg3tA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u0130\u015f hayat\u0131m\u0131n travmas\u0131n\u0131 ya\u015fad\u0131\u011f\u0131m \u015firket.  \u0130nsani olarak hi\u00e7bir yakla\u015f\u0131m, vicdan k\u0131r\u0131nt\u0131s\u0131 g\u00f6remezsiniz. Umar\u0131m hi\u00e7 kimsenin yolu buraya d\u00fc\u015fmez. Etik olarak yazabileceklerimin \u00f6zeti bu kadar.",
+            "reviewer_name": "g\u00fcl\u015fah g\u00fcler\u00f6z",
+            "rating": 1,
+            "review_text": "\u0130\u015f hayat\u0131m\u0131n travmas\u0131n\u0131 ya\u015fad\u0131\u011f\u0131m \u015firket.  \u0130nsani olarak hi\u00e7bir yakla\u015f\u0131m, vicdan k\u0131r\u0131nt\u0131s\u0131 g\u00f6remezsiniz. Umar\u0131m hi\u00e7 kimsenin yolu buraya d\u00fc\u015fmez. Etik olarak yazabileceklerimin \u00f6zeti bu kadar.",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-06-06T12:03:15.043000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 8,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107330806590759358256/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUNBuuYaDaFEkc3Z5i846C1K87BaxAHJi211iAOMZwxxg=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Patent ve Marka Dan\u0131\u015fmanl\u0131\u011f\u0131 konusunda uzman, deneyimli marka ve patent sorumlular\u0131 ve avukat kadrosu ile m\u00fcvekkilerinin Fikri S\u0131nai Haklar ile ilgili ihtiya\u00e7lar\u0131n\u0131 sonuna kadar kar\u015f\u0131layan Ba\u015falan Patent, ayr\u0131ca Balat ve Ka\u011f\u0131thane'de kurmu\u015f olduklar\u0131 Kamera M\u00fczesi ile de sanata destek vermektedir.",
+            "reviewer_name": "Berna Bekaroglu",
+            "rating": 5,
+            "review_text": "Patent ve Marka Dan\u0131\u015fmanl\u0131\u011f\u0131 konusunda uzman, deneyimli marka ve patent sorumlular\u0131 ve avukat kadrosu ile m\u00fcvekkilerinin Fikri S\u0131nai Haklar ile ilgili ihtiya\u00e7lar\u0131n\u0131 sonuna kadar kar\u015f\u0131layan Ba\u015falan Patent, ayr\u0131ca Balat ve Ka\u011f\u0131thane'de kurmu\u015f olduklar\u0131 Kamera M\u00fczesi ile de sanata destek vermektedir.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-02-18T06:43:14.808000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 11,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/114306993891603949463/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU0pTVW-fj0vQ0Sb1cRfZiTYmvCNhBGF_M9B9X3YJYr-Q=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "1 hafta \u00e7al\u0131\u015f\u0131p da 1 sene travmas\u0131n\u0131 atlatamad\u0131\u011f\u0131m \u015firket.. Ad\u0131n\u0131 duydu\u011fumda hala t\u00fcylerim \u00fcrperir.. \u00c7al\u0131\u015fana sayg\u0131n\u0131n hi\u00e7 olmad\u0131\u011f\u0131 bir kurum.. Umar\u0131m kimsenin yolu d\u00fc\u015fmez",
+            "reviewer_name": "Yaren Yaren",
+            "rating": 1,
+            "review_text": "1 hafta \u00e7al\u0131\u015f\u0131p da 1 sene travmas\u0131n\u0131 atlatamad\u0131\u011f\u0131m \u015firket.. Ad\u0131n\u0131 duydu\u011fumda hala t\u00fcylerim \u00fcrperir.. \u00c7al\u0131\u015fana sayg\u0131n\u0131n hi\u00e7 olmad\u0131\u011f\u0131 bir kurum.. Umar\u0131m kimsenin yolu d\u00fc\u015fmez",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-05-26T05:41:38.629000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 9,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114865864858867917591/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJE5CiFlyRwbt5zvCFakAnAOYmeXi4XDdzxOe_YcLc4=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "1.5 y\u0131ll\u0131k is hayatimda en guzel deneyimleri edindi\u011fim profesyonel is hayat\u0131n\u0131n gereklerini yerine getiren T\u00fcrkiye'in en \u00f6nc\u00fc patent firmas\u0131d\u0131r.",
+            "reviewer_name": "Ali Bozta\u015f",
+            "rating": 5,
+            "review_text": "1.5 y\u0131ll\u0131k is hayatimda en guzel deneyimleri edindi\u011fim profesyonel is hayat\u0131n\u0131n gereklerini yerine getiren T\u00fcrkiye'in en \u00f6nc\u00fc patent firmas\u0131d\u0131r.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-02-17T06:29:52.746000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105799338777227785224/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXQLf5vaY2sbNvtWD8Uvg6qszlaI93V6scbJysTUGaltQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "G\u00fczel e\u011fitici e\u011flenceli ve insanlara de\u011fer veren bir sirket.",
+            "reviewer_name": "Muhammed efe",
+            "rating": 5,
+            "review_text": "G\u00fczel e\u011fitici e\u011flenceli ve insanlara de\u011fer veren bir sirket.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-02-18T06:54:47.466000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101709368593390587716/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW2k8xMADJmbs187eCvDQXJ_bo4Jz3iLrEx-jFhdIoIEcU=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

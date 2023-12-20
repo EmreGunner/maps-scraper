@@ -1,0 +1,149 @@
+{
+    "place_id": "ChIJ_4q96SG3yhQROj2AA7u5VwA",
+    "name": "G\u00fc\u00e7l\u00fc Law Firm",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "G\u00fc\u00e7l\u00fc Hukuk",
+            "link": "https://www.google.com/maps/search/G%C3%BC%C3%A7l%C3%BC+Hukuk/@41.0678084,28.989164700000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "G\u00f6nenli Partners",
+            "link": "https://www.google.com/maps/search/G%C3%B6nenli+Partners/@41.083810799999995,29.0147754?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 4.2,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6zden & G\u00fc\u00e7l\u00fc Hukuk Legal",
+            "link": "https://www.google.com/maps/search/%C3%96zden+%26+G%C3%BC%C3%A7l%C3%BC+Hukuk+Legal/@41.052196599999995,28.991108999999998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Koclu Law Firm",
+            "link": "https://www.google.com/maps/search/Koclu+Law+Firm/@41.0773923,29.016860599999998?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.guclu.com/",
+    "owner": {
+        "id": "100224203777941074829",
+        "name": "G\u00fc\u00e7l\u00fc Law Firm (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/100224203777941074829"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vUyWUC_5OnqvY0R4BMBmoQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=258.9038&pitch=0&thumbfov=100",
+    "main_category": "Hukuk Hizmetleri",
+    "categories": [
+        "Hukuk Hizmetleri"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201321:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 284 24 47",
+    "address": "G\u00fc\u00e7l\u00fc Law Firm, Levent Mahallesi, Meltem Sokak, \u0130\u015f Bankas\u0131 Kuleleri, Kule 2, 34330 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ_4q96SG3yhQROj2AA7u5VwA",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 21:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ_4q96SG3yhQROj2AA7u5VwA&q=?q=place_id:ChIJ_4q96SG3yhQROj2AA7u5VwA&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.082659899999996,
+        "longitude": 29.0121675
+    },
+    "plus_code": "32M6+3V Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Levent",
+        "street": "Levent Mahallesi, Meltem Sokak, \u0130\u015f Bankas\u0131 Kuleleri, Kule 2",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34330",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "24692535842585914",
+    "data_id": "0x14cab721e9bd8aff:0x57b9bb03803d3a",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vUyWUC_5OnqvY0R4BMBmoQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=258.9038&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vUyWUC_5OnqvY0R4BMBmoQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=258.9038&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201321:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201321:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201321:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201321:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201321:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJLY-9JOPJyhQR7OF_SdLblD4",
+    "name": "Albayrak Legal",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Albayraklar Hukuk Av.Nuray Albayrak",
+            "link": "https://www.google.com/maps/search/Albayraklar+Hukuk+Av.Nuray+Albayrak/@41.0701913,29.013404?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 4.2,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ALBAYRAK ARSLAN Law Firm / Hukuk Burusu",
+            "link": "https://www.google.com/maps/search/ALBAYRAK+ARSLAN+Law+Firm+%2F+Hukuk+Burusu/@41.08006170000001,29.017816399999997?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 1.7,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ALBAYRAK HUKUK",
+            "link": "https://www.google.com/maps/search/ALBAYRAK+HUKUK/@40.986292999999996,29.086852999999998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ALBAYRAK HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/ALBAYRAK+HUKUK+B%C3%9CROSU/@40.9100829,29.198219499999997?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Albayraklar Hukuk B\u00dcRosu",
+            "link": "https://www.google.com/maps/search/Albayraklar+Hukuk+B%C3%9CRosu/@40.9948699,28.8761934?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        }
+    ],
+    "website": "http://albayrak.legal/",
+    "owner": {
+        "id": "111482831121763197330",
+        "name": "Albayrak Legal (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/111482831121763197330"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nIA5qUV8hgbISKuq-hbm5g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=130.78873&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0216) 353 44 44",
+    "address": "Ac\u0131badem, Albayrak Legal, Ac\u0131badem Cd. No:218/7, 34660 \u00dcsk\u00fcdar/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJLY-9JOPJyhQR7OF_SdLblD4",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJLY-9JOPJyhQR7OF_SdLblD4&q=?q=place_id:ChIJLY-9JOPJyhQR7OF_SdLblD4&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.012937,
+        "longitude": 29.054592999999997
+    },
+    "plus_code": "2373+5R \u00dcsk\u00fcdar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Ac\u0131badem",
+        "street": "Ac\u0131badem Cd. No:218/7",
+        "city": "\u00dcsk\u00fcdar",
+        "postal_code": "34660",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4509470823127441900",
+    "data_id": "0x14cac9e324bd8f2d:0x3e94dbd2497fe1ec",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nIA5qUV8hgbISKuq-hbm5g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=130.78873&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nIA5qUV8hgbISKuq-hbm5g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=130.78873&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

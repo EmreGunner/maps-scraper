@@ -1,0 +1,185 @@
+{
+    "place_id": "ChIJ81vcPXy3yhQRh9lrZTA8cGw",
+    "name": "Legal B Plan",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "A Plan Hukuk",
+            "link": "https://www.google.com/maps/search/A+Plan+Hukuk/@41.0622815,28.9844971?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "B+B Law Firm",
+            "link": "https://www.google.com/maps/search/B%2BB+Law+Firm/@41.0868648,29.010107599999998?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Legalzone",
+            "link": "https://www.google.com/maps/search/Legalzone/@41.080481999999996,29.003249399999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "NET Law Office",
+            "link": "https://www.google.com/maps/search/NET+Law+Office/@41.068413,29.0023149?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Karaahmeto\u011flu Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Karaahmeto%C4%9Flu+Hukuk+B%C3%BCrosu/@41.0674606,29.0117524?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 2.6,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "https://legalbplan.com/",
+    "owner": {
+        "id": "110909881242443770400",
+        "name": "Legal B Plan (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/110909881242443770400"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPhUBmeLb_DC7hTUIYeOybuxCwx6vNpBP8iotnG=w408-h724-k-no",
+    "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti",
+    "categories": [
+        "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+    ],
+    "rating": 5,
+    "workday_timing": "09:30\u201319:30",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0538 221 91 80",
+    "address": "Legal B Plan, Esentepe Mah. Talatpa\u015fa Cad Harmen Sok. Giri\u015fi, No:5, 34394 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ81vcPXy3yhQRh9lrZTA8cGw",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 19:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ81vcPXy3yhQRh9lrZTA8cGw&q=?q=place_id:ChIJ81vcPXy3yhQRh9lrZTA8cGw&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.079803299999995,
+        "longitude": 29.0085938
+    },
+    "plus_code": "32H5+WC \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Esentepe",
+        "street": "Esentepe Mah. Talatpa\u015fa Cad Harmen Sok. Giri\u015fi, No:5",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34394",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "7813811532045474183",
+    "data_id": "0x14cab77c3ddc5bf3:0x6c703c30656bd987",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://legalbplan.com/randevu-al",
+            "source": "legalbplan.com"
+        }
+    ],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPhUBmeLb_DC7hTUIYeOybuxCwx6vNpBP8iotnG=w224-h397-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPainmr4o3datk6LIF1NpX7LsuZIG8DJV4PrmkE=w224-h397-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iNqCVGyzgZaXNWpmN6hQuQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=146.79082&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:30\u201319:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:30\u201319:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:30\u201319:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:30\u201319:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:30\u201319:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:30\u201319:30"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Aykan Ayd\u0131nl\u0131",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-11-25T19:39:14.951000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/114572500799399288598/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ_R4GJ5QD5x7eVXDn6xHCw91kDS9JyItTf4sHEg49q=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

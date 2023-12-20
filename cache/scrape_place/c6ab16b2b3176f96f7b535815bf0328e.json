@@ -1,0 +1,144 @@
+{
+    "place_id": "ChIJ8xNdrQKPKBURdXkAb-nBL6k",
+    "name": "\u00c7EL\u0130K HUKUK B\u00dcROSU",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "\u00c7elik Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%87elik+Hukuk+B%C3%BCrosu/@36.9961173,35.3251087?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AV. DO\u011eHAN DO\u011eAN \u00c7OLAK HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/AV.+DO%C4%9EHAN+DO%C4%9EAN+%C3%87OLAK+HUKUK+B%C3%9CROSU/@36.9927388,35.3290662?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Yatmaz Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Yatmaz+Hukuk+B%C3%BCrosu/@36.9925342,35.323678799999996?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 4.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "DO\u011eAN HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/DO%C4%9EAN+HUKUK+B%C3%9CROSU/@36.992871699999995,35.329942599999995?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "110807277943876482400",
+        "name": "\u00c7EL\u0130K HUKUK B\u00dcROSU (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/110807277943876482400"
+    },
+    "featured_image": "//lh4.googleusercontent.com/bgUBzg08ageFmfFzkjBGC4D2_6p1FggA_-n8ahxRggAzbKAglBQEmY5VjvHalWGl=w426-h240-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "08:30\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0322) 351 81 98",
+    "address": "\u00c7EL\u0130K HUKUK B\u00dcROSU, Turhan Cemal BER\u0130KER Bulvar\u0131 Nazif Bayram \u0130\u015f Merkezi No:11 Kat:4 Daire:19, 01010 Seyhan/Adana",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ8xNdrQKPKBURdXkAb-nBL6k",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 08:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ8xNdrQKPKBURdXkAb-nBL6k&q=?q=place_id:ChIJ8xNdrQKPKBURdXkAb-nBL6k&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.9914384,
+        "longitude": 35.3279992
+    },
+    "plus_code": "X8RH+H5 Seyhan, Adana",
+    "detailed_address": {
+        "ward": "Kayal\u0131ba\u011f",
+        "street": "Turhan Cemal BER\u0130KER Bulvar\u0131 Nazif Bayram \u0130\u015f Merkezi No:11 Kat:4 Daire:19",
+        "city": "Seyhan",
+        "postal_code": "01010",
+        "state": "Adana",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12191175924649064821",
+    "data_id": "0x15288f02ad5d13f3:0xa92fc1e96f007975",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh4.googleusercontent.com/bgUBzg08ageFmfFzkjBGC4D2_6p1FggA_-n8ahxRggAzbKAglBQEmY5VjvHalWGl=w529-h298-k-no"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201314:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

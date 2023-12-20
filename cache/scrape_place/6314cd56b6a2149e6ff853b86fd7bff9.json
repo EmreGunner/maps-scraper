@@ -1,0 +1,156 @@
+{
+    "place_id": "ChIJOVB0LHvEyhQRoVF2Gf7k450",
+    "name": "Hanel Hukuk",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Demirhan Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Demirhan+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9116557,29.1630698?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Siyah Hukuk Ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Siyah+Hukuk+Ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@40.9217817,29.1576746?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Keskinler Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Keskinler+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9119275,29.1759821?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Engin Hukuk B\u00fcrosu - Av. Fahri Engin",
+            "link": "https://www.google.com/maps/search/Engin+Hukuk+B%C3%BCrosu+-+Av.+Fahri+Engin/@40.9116049,29.1771977?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Fi Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Fi+Hukuk+B%C3%BCrosu/@40.9128742,29.176950699999995?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 3,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Hanel Hukuk (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh3.googleusercontent.com/RpJtg9gZjiDPImKdTBEkzPZMu_u04XA6l3gtLEAfiJDS8GrD5SK2PAUc3lGfiLY=w426-h240-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0532 059 86 49",
+    "address": "Cevizli Mah., Hanel Hukuk, Anafartalar Cad. & Kastamonu Sk. Yaver Uslu Apt. No:15 D:8, 34865 Kartal/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJOVB0LHvEyhQRoVF2Gf7k450",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJOVB0LHvEyhQRoVF2Gf7k450&q=?q=place_id:ChIJOVB0LHvEyhQRoVF2Gf7k450&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9116036,
+        "longitude": 29.1772352
+    },
+    "plus_code": "W56G+JV Kartal, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Cevizli Mah.",
+        "street": "Anafartalar Cad. & Kastamonu Sk. Yaver Uslu Apt. No:15 D:8",
+        "city": "Kartal",
+        "postal_code": "34865",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "11377188863668015521",
+    "data_id": "0x14cac47b2c745039:0x9de3e4fe197651a1",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh3.googleusercontent.com/RpJtg9gZjiDPImKdTBEkzPZMu_u04XA6l3gtLEAfiJDS8GrD5SK2PAUc3lGfiLY=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HfnU3sPVKhl6qaezEOEpNA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=32.61284&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

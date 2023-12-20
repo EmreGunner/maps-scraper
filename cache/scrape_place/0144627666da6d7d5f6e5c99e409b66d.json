@@ -1,0 +1,114 @@
+{
+    "place_id": "ChIJN-IU5Au7yhQRq1VO9mn5bIY",
+    "name": "Kayali",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Devletin Kilici Restorani",
+            "link": "https://www.google.com/maps/search/Devletin+Kilici+Restorani/@41.002859199999996,28.902931199999998?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Restoran"
+        },
+        {
+            "name": "Saray Semaver Lokantasi",
+            "link": "https://www.google.com/maps/search/Saray+Semaver+Lokantasi/@40.9857197,28.9015228?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 4,
+            "main_category": "Restoran"
+        },
+        {
+            "name": "Mangaldan",
+            "link": "https://www.google.com/maps/search/Mangaldan/@40.9973148,28.9035427?authuser=0&entry=ttu",
+            "reviews": 193,
+            "rating": 4,
+            "main_category": "Restoran"
+        },
+        {
+            "name": "Saray",
+            "link": "https://www.google.com/maps/search/Saray/@40.9972478,28.9134253?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4,
+            "main_category": "Restoran"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Kayali (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mwdx46HMSrMTFHW5wxmUrw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=26.126993&pitch=0&thumbfov=100",
+    "main_category": "Restoran",
+    "categories": [
+        "Restoran"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Be\u015ftelsiz, Kayali, 75/2. Sk. No:144, 34020 Zeytinburnu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJN-IU5Au7yhQRq1VO9mn5bIY",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJN-IU5Au7yhQRq1VO9mn5bIY&q=?q=place_id:ChIJN-IU5Au7yhQRq1VO9mn5bIY&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.001163299999995,
+        "longitude": 28.9014638
+    },
+    "plus_code": "2W22+FH Zeytinburnu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Be\u015ftelsiz",
+        "street": "75/2. Sk. No:144",
+        "city": "Zeytinburnu",
+        "postal_code": "34020",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "9686391132066305451",
+    "data_id": "0x14cabb0be414e237:0x866cf969f64e55ab",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "\u0130\u00e7eride servis",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mwdx46HMSrMTFHW5wxmUrw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=26.126993&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mwdx46HMSrMTFHW5wxmUrw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=26.126993&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

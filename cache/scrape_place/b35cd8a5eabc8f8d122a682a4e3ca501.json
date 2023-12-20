@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJFwIRQ7KhyhQRCQwZWkxyQfI",
+    "name": "Al Tai Group",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Daas Group Istanbul",
+            "link": "https://www.google.com/maps/search/Daas+Group+Istanbul/@40.979517099999995,28.7222582?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Emlak\u00e7\u0131"
+        },
+        {
+            "name": "Al Asalah Gayrimenkul",
+            "link": "https://www.google.com/maps/search/Al+Asalah+Gayrimenkul/@40.9813851,28.7276101?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 2,
+            "main_category": "Emlak B\u00fcrosu"
+        },
+        {
+            "name": "Al-Daleel Group",
+            "link": "https://www.google.com/maps/search/Al-Daleel+Group/@40.9831977,28.732399199999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Emlak B\u00fcrosu"
+        },
+        {
+            "name": "Al-Aman",
+            "link": "https://www.google.com/maps/search/Al-Aman/@40.984836,28.7240984?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Emlak B\u00fcrosu"
+        },
+        {
+            "name": "Aldammam group",
+            "link": "https://www.google.com/maps/search/Aldammam+group/@40.9739739,28.715905700000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Emlak B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Al Tai Group (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SvouKQ95ps2bxkXB5YIXtg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=229.9047&pitch=0&thumbfov=100",
+    "main_category": "Emlak B\u00fcrosu",
+    "categories": [
+        "Emlak B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Merkez, Al Tai Group, Talimhane Soka\u011f\u0131 No:13, 34310 Avc\u0131lar/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJFwIRQ7KhyhQRCQwZWkxyQfI",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJFwIRQ7KhyhQRCQwZWkxyQfI&q=?q=place_id:ChIJFwIRQ7KhyhQRCQwZWkxyQfI&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.978995499999996,
+        "longitude": 28.7235683
+    },
+    "plus_code": "XPHF+HC Avc\u0131lar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkez",
+        "street": "Talimhane Soka\u011f\u0131 No:13",
+        "city": "Avc\u0131lar",
+        "postal_code": "34310",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "17456359302919425033",
+    "data_id": "0x14caa1b243110217:0xf241724c5a190c09",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SvouKQ95ps2bxkXB5YIXtg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=229.9047&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SvouKQ95ps2bxkXB5YIXtg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=229.9047&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

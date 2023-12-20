@@ -1,0 +1,267 @@
+{
+    "place_id": "ChIJlYIvEcrDJRURyB7hSGaC2Lc",
+    "name": "Asgroup Gayrimenkul",
+    "description": null,
+    "reviews": 5,
+    "competitors": [
+        {
+            "name": "As Emlak",
+            "link": "https://www.google.com/maps/search/As+Emlak/@36.1997578,36.154443199999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Emlak B\u00fcrosu"
+        },
+        {
+            "name": "Atrisa Gayrimenkul",
+            "link": "https://www.google.com/maps/search/Atrisa+Gayrimenkul/@36.1988178,36.1409579?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Gayrimenkul Dan\u0131\u015fman\u0131"
+        },
+        {
+            "name": "antakya asi emlak",
+            "link": "https://www.google.com/maps/search/antakya+asi+emlak/@36.211857099999996,36.1570637?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 3.9,
+            "main_category": "Emlak B\u00fcrosu"
+        },
+        {
+            "name": "Antakya Ak Emlak",
+            "link": "https://www.google.com/maps/search/Antakya+Ak+Emlak/@36.201056,36.157497899999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Emlak B\u00fcrosu"
+        },
+        {
+            "name": "Ata Gayrimenkul",
+            "link": "https://www.google.com/maps/search/Ata+Gayrimenkul/@36.2064271,36.1613063?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Emlak B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "105222314699097565566",
+        "name": "Asgroup Gayrimenkul (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/105222314699097565566"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7jKOBClND8xeWRTz9sTT3g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=253.84283&pitch=0&thumbfov=100",
+    "main_category": "Gayrimenkul Dan\u0131\u015fman\u0131",
+    "categories": [
+        "Gayrimenkul Dan\u0131\u015fman\u0131"
+    ],
+    "rating": 4.6,
+    "workday_timing": "08:00\u201318:30",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0326) 213 76 76",
+    "address": "Cumhuriyet, Asgroup Gayrimenkul, Kantarma Sokak, Tekin Apt. No:52 / A1, 31040 Antakya/Hatay",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJlYIvEcrDJRURyB7hSGaC2Lc",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 4
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJlYIvEcrDJRURyB7hSGaC2Lc&q=?q=place_id:ChIJlYIvEcrDJRURyB7hSGaC2Lc&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.201498199999996,
+        "longitude": 36.1549232
+    },
+    "plus_code": "6523+HX Antakya, Hatay",
+    "detailed_address": {
+        "ward": "Cumhuriyet",
+        "street": "Kantarma Sokak, Tekin Apt. No:52 / A1",
+        "city": "Antakya",
+        "postal_code": "31040",
+        "state": "Hatay",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "13247481679731302088",
+    "data_id": "0x1525c3ca112f8295:0xb7d8826648e11ec8",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7jKOBClND8xeWRTz9sTT3g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=253.84283&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7jKOBClND8xeWRTz9sTT3g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=253.84283&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "08:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Gayrimenkul \u00fcn en g\u00fcvenilir adresi",
+            "reviewer_name": "s\u00fcleyman Elmas",
+            "rating": 5,
+            "review_text": "Gayrimenkul \u00fcn en g\u00fcvenilir adresi",
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-08-24T21:13:35.970000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 25,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101754812698918159384/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWpRHnylrO6r_o_QZ_QeDp6GABkzul00IhC1yjwQzLG8bY=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Kalite \ud83d\udc4d",
+            "reviewer_name": "Fuat K\u0131rk\u0131c\u0131",
+            "rating": 5,
+            "review_text": "Kalite \ud83d\udc4d",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-08-10T10:07:15.600000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 79,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/103163274300731363545/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIR3RqfOdQjNOTWWTgmJ-gfIFK31EhcOOD7o4JH_ph1=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Alper Ozturk",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "6 y\u0131l \u00f6nce",
+            "published_at_date": "2017-08-14T06:53:32.846000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/101819369352421751509/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIIKJYggwgd7WGwXHNvrfuS3rRkOSeJouNbE8RCzTiO=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "y\u00fccel Sayar",
+            "rating": 3,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-11-08T13:52:55.242000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 37,
+            "total_number_of_photos_by_reviewer": 147,
+            "reviewer_url": "https://www.google.com/maps/contrib/115996810260304649572/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUuut19ptnLsM9-77RfeU_tMjnnG7eyj8du_BT1AhrzJQ=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "G\u00fcrkan Y\u00fcksel",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-10-20T09:05:53.347000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113977923580637861897/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKSgSsyFMyNiFSKkQAM1Alh3PwCyIKCmO3MSI3b-f40=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

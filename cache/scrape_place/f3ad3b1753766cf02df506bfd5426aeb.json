@@ -1,0 +1,243 @@
+{
+    "place_id": "ChIJVyg0mwXFyhQRYRDcHLpYUFk",
+    "name": "BAL Serbest Muhasebeci Mali M\u00fc\u015favirlik",
+    "description": null,
+    "reviews": 2,
+    "competitors": [
+        {
+            "name": "Serbest Muhasebeci Mali M\u00fc\u015favir Atabey Balc\u0131",
+            "link": "https://www.google.com/maps/search/Serbest+Muhasebeci+Mali+M%C3%BC%C5%9Favir+Atabey+Balc%C4%B1/@40.9047023,29.163383?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Serbest Muhasebeci Mali M\u00fc\u015favir"
+        },
+        {
+            "name": "Kartal Muhasebe Ba\u011f\u0131ms\u0131z Denetim",
+            "link": "https://www.google.com/maps/search/Kartal+Muhasebe+Ba%C4%9F%C4%B1ms%C4%B1z+Denetim/@40.8914049,29.1913185?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Serbest Muhasebeci Mali M\u00fc\u015favir"
+        },
+        {
+            "name": "S.M. Mali M\u00fc\u015favir Birol \u00c7\u0131nar",
+            "link": "https://www.google.com/maps/search/S.M.+Mali+M%C3%BC%C5%9Favir+Birol+%C3%87%C4%B1nar/@40.889257699999995,29.182876900000004?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Serbest Muhasebeci Mali M\u00fc\u015favir"
+        },
+        {
+            "name": "AHMET ALKAN SERBEST MUHASEBECI MALI M\u00dc\u015eAVIR",
+            "link": "https://www.google.com/maps/search/AHMET+ALKAN+SERBEST+MUHASEBECI+MALI+M%C3%9C%C5%9EAVIR/@40.8921937,29.19951?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Serbest Muhasebeci Mali M\u00fc\u015favir"
+        },
+        {
+            "name": "Halit \u00c7ALI\u015eKAN - Serbest Muhasebeci Mali M\u00fc\u015favir",
+            "link": "https://www.google.com/maps/search/Halit+%C3%87ALI%C5%9EKAN+-+Serbest+Muhasebeci+Mali+M%C3%BC%C5%9Favir/@40.9066494,29.1868885?authuser=0&entry=ttu",
+            "reviews": 36,
+            "rating": 5,
+            "main_category": "Serbest Muhasebeci Mali M\u00fc\u015favir"
+        }
+    ],
+    "website": "http://balsmmm.com.tr/",
+    "owner": {
+        "id": "104507882512619827841",
+        "name": "BAL Serbest Muhasebeci Mali M\u00fc\u015favirlik (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/104507882512619827841"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMfX4A-fbexxgrNg0dQqJn5k86P9ak6k7mr0uZJ=w408-h305-k-no",
+    "main_category": "Serbest Muhasebeci Mali M\u00fc\u015favir",
+    "categories": [
+        "Serbest Muhasebeci Mali M\u00fc\u015favir"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0506 394 18 89",
+    "address": "Esentepe, BAL Serbest Muhasebeci Mali M\u00fc\u015favirlik, Toros Cd. No:57/4, 34870 Kartal/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJVyg0mwXFyhQRYRDcHLpYUFk",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJVyg0mwXFyhQRYRDcHLpYUFk&q=?q=place_id:ChIJVyg0mwXFyhQRYRDcHLpYUFk&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.901660899999996,
+        "longitude": 29.190941199999997
+    },
+    "plus_code": "W52R+M9 Kartal, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Esentepe",
+        "street": "Toros Cd. No:57/4",
+        "city": "Kartal",
+        "postal_code": "34870",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6435741423883784289",
+    "data_id": "0x14cac5059b342857:0x595058ba1cdc1061",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun oturma d\u00fczeni",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                },
+                {
+                    "name": "\u00dcniseks tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMfX4A-fbexxgrNg0dQqJn5k86P9ak6k7mr0uZJ=w397-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM7Mmak4OqmG7kA6g_N1eoNLZ6Ewxsc9KPpmCAW=w371-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xD4ixWVFHvkbeR4kScvPAw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=117.52292&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201313:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "G\u00fcvenin tek adresi her i\u015finizi hallederler \u00e7al\u0131\u015fanlar\u0131n g\u00fcler y\u00fcz\u00fc bizi \u00e7ok memnun etti te\u015fekk\u00fcr ediyoruz iyi \u00e7al\u0131\u015fmalar\ud83d\ude01",
+            "reviewer_name": "Emre \u00dclgen",
+            "rating": 5,
+            "review_text": "G\u00fcvenin tek adresi her i\u015finizi hallederler \u00e7al\u0131\u015fanlar\u0131n g\u00fcler y\u00fcz\u00fc bizi \u00e7ok memnun etti te\u015fekk\u00fcr ediyoruz iyi \u00e7al\u0131\u015fmalar\ud83d\ude01",
+            "published_at": "9 ay \u00f6nce",
+            "published_at_date": "2023-03-15T13:25:46.320000",
+            "response_from_owner_text": "G\u00fczel yorum ve y\u0131ld\u0131zlar i\u00e7in te\u015fekk\u00fcr ederiz...",
+            "response_from_owner_ago": "9 ay \u00f6nce",
+            "response_from_owner_date": "2023-03-15T13:30:54.371000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/112293439402291019087/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKMNdcMCiXt3zphP4pNwq5qHvdG4mowjQgqC5BMtuga=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u00c7ok nazik ve kibar insanlar. g\u00fclery\u00fczle kar\u015f\u0131lad\u0131lar ve \u00e7ok destek oldular. \u00c7ok te\u015fekk\u00fcr ederim kendilerine \ud83c\udf38",
+            "reviewer_name": "\u015eeyda Ay",
+            "rating": 5,
+            "review_text": "\u00c7ok nazik ve kibar insanlar. g\u00fclery\u00fczle kar\u015f\u0131lad\u0131lar ve \u00e7ok destek oldular. \u00c7ok te\u015fekk\u00fcr ederim kendilerine \ud83c\udf38",
+            "published_at": "9 ay \u00f6nce",
+            "published_at_date": "2023-03-15T13:38:28.758000",
+            "response_from_owner_text": "G\u00fczel yorumunuz i\u00e7in biz te\u015fekk\u00fcr ederiz...",
+            "response_from_owner_ago": "9 ay \u00f6nce",
+            "response_from_owner_date": "2023-03-15T13:46:30.671000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104133151918161267983/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLgTLWoUJH-HKWWbBEon1EBC3KR8Lvduil-EBbcBeSl=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

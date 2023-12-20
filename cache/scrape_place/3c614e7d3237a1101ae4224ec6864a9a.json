@@ -1,0 +1,157 @@
+{
+    "place_id": "ChIJc6P5UBS5yhQRnygNIdgzASI",
+    "name": "Galata Group \u0130thalat \u0130hracat D\u0131\u015f Ticaret Ltd.\u015eti.",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "TGZ Turizm Galata",
+            "link": "https://www.google.com/maps/search/TGZ+Turizm+Galata/@41.023676099999996,28.977914799999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Seyahat Acentesi"
+        },
+        {
+            "name": "Apg Global Associates",
+            "link": "https://www.google.com/maps/search/Apg+Global+Associates/@41.0377892,28.987995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Turizm Dan\u0131\u015fma B\u00fcrosu"
+        },
+        {
+            "name": "GLOBAL GROUP",
+            "link": "https://www.google.com/maps/search/GLOBAL+GROUP/@41.0131149,28.938331899999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Turizm Dan\u0131\u015fma B\u00fcrosu"
+        },
+        {
+            "name": "Al Hali\u00e7 D\u0131\u015f Ticaret",
+            "link": "https://www.google.com/maps/search/Al+Hali%C3%A7+D%C4%B1%C5%9F+Ticaret/@41.0116953,28.942897400000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Turizm Dan\u0131\u015fma B\u00fcrosu"
+        },
+        {
+            "name": "Turktur",
+            "link": "https://www.google.com/maps/search/Turktur/@41.031045999999996,28.970247999999998?authuser=0&entry=ttu",
+            "reviews": 11,
+            "rating": 2.5,
+            "main_category": "Turlar"
+        }
+    ],
+    "website": "http://www.groupgalata.com.tr/",
+    "owner": {
+        "id": "103108875673246095375",
+        "name": "Galata Group \u0130thalat \u0130hracat D\u0131\u015f Ticaret Ltd.\u015eti. (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/103108875673246095375"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MssHlzT7fUTLdJ9r9fXe0Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=155.65166&pitch=0&thumbfov=100",
+    "main_category": "Uluslararas\u0131 Ticaret Dan\u0131\u015fman\u0131",
+    "categories": [
+        "Uluslararas\u0131 Ticaret Dan\u0131\u015fman\u0131",
+        "Dan\u0131\u015fman"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0552 670 19 43",
+    "address": "Galataport, Galata Group \u0130thalat \u0130hracat D\u0131\u015f Ticaret Ltd.\u015eti., 34093 Beyo\u011flu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJc6P5UBS5yhQRnygNIdgzASI",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJc6P5UBS5yhQRnygNIdgzASI&q=?q=place_id:ChIJc6P5UBS5yhQRnygNIdgzASI&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0279209,
+        "longitude": 28.9849608
+    },
+    "plus_code": "2XHM+5X Beyo\u011flu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Galataport",
+        "street": null,
+        "city": "Beyo\u011flu",
+        "postal_code": "34093",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2450296675626723487",
+    "data_id": "0x14cab91450f9a373:0x220133d8210d289f",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MssHlzT7fUTLdJ9r9fXe0Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=155.65166&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MssHlzT7fUTLdJ9r9fXe0Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=155.65166&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

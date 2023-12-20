@@ -1,0 +1,209 @@
+{
+    "place_id": "ChIJb9JLcJa3yhQRy0NhvP2Zm5A",
+    "name": "Avukat \u0130smail \u015eenol",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "G\u00fcll\u00fc & \u015eent\u00fcrk Hukuk B\u00fcrosu/ \u0130\u015f Davas\u0131 Avukat\u0131",
+            "link": "https://www.google.com/maps/search/G%C3%BCll%C3%BC+%26+%C5%9Eent%C3%BCrk+Hukuk+B%C3%BCrosu%2F+%C4%B0%C5%9F+Davas%C4%B1+Avukat%C4%B1/@41.073223299999995,28.9813106?authuser=0&entry=ttu",
+            "reviews": 21,
+            "rating": 5,
+            "main_category": "\u0130\u015f Hukuku Avukat\u0131"
+        },
+        {
+            "name": "Inal Law",
+            "link": "https://www.google.com/maps/search/Inal+Law/@41.050854,28.992342999999998?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u015eenel Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C5%9Eenel+Hukuk+B%C3%BCrosu/@41.052606399999995,28.990449400000003?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 2.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Aslan Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Aslan+Hukuk+B%C3%BCrosu/@41.0569968,29.005902799999994?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u015eenol Somran Law Firm",
+            "link": "https://www.google.com/maps/search/%C5%9Eenol+Somran+Law+Firm/@41.0882134,29.0211199?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.ismailsenol.av.tr/",
+    "owner": {
+        "id": "107644171141913618042",
+        "name": "Avukat \u0130smail \u015eenol (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/107644171141913618042"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNGaAe9gIiZaR1VTvVylMhIKu86dfbsnwJbPZDc=w426-h240-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat",
+        "Avukatl\u0131k Dan\u0131\u015fma Hizmeti",
+        "Hukuk B\u00fcrosu",
+        "Yard\u0131mc\u0131 Avukatl\u0131k Hizmetleri Sa\u011flay\u0131c\u0131s\u0131",
+        "Dava Avukat\u0131"
+    ],
+    "rating": 5,
+    "workday_timing": "08:00\u201319:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0532 449 51 52",
+    "address": "Avukat \u0130smail \u015eenol, Dikilita\u015f Mahallesi, Hakk\u0131 Yeten Caddesi, Selenium Plaza No 10/c K:6, 34400 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJb9JLcJa3yhQRy0NhvP2Zm5A",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 19:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJb9JLcJa3yhQRy0NhvP2Zm5A&authuser=0&hl=tr&gl=TR",
+    "coordinates": {
+        "latitude": 41.054213499999996,
+        "longitude": 29.000016199999997
+    },
+    "plus_code": "3232+M2 Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Dikilita\u015f",
+        "street": "Dikilita\u015f Mahallesi, Hakk\u0131 Yeten Caddesi, Selenium Plaza No 10/c K:6",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34400",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10420091477918041035",
+    "data_id": "0x14cab796704bd26f:0x909b99fdbc6143cb",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNGaAe9gIiZaR1VTvVylMhIKu86dfbsnwJbPZDc=w529-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO0jX-6jWYxMUif2SQMX651Z0eh3edxzvCHY0Ab=w298-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8I2GP4st1RuvlVTjLFI1oA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=89.47918&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201319:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "08:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Absolut empfehlenswert. Ich f\u00fchle mich beim Herr Senol  wirklich sehr gut aufgehoben. Jede Frage wird mir ausf\u00fchrlich und geduldig beantwortet, und generell ein gro\u00dfes Verst\u00e4ndnis entgegengebracht. Fachlich sehr kompetent, verst\u00e4ndnisvoll und zu 100 % weiterzuempfehlen.",
+            "reviewer_name": "KADIR DEMIR",
+            "rating": 5,
+            "review_text": "Absolut empfehlenswert. Ich f\u00fchle mich beim Herr Senol  wirklich sehr gut aufgehoben. Jede Frage wird mir ausf\u00fchrlich und geduldig beantwortet, und generell ein gro\u00dfes Verst\u00e4ndnis entgegengebracht. Fachlich sehr kompetent, verst\u00e4ndnisvoll und zu 100 % weiterzuempfehlen.",
+            "published_at": "11 ay \u00f6nce",
+            "published_at_date": "2022-12-28T09:43:22.312000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/111074997831691529985/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXPPNqdAs-M3ELbYX__P6PiBqvVELttPuL78mgO4Kd_YJw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "\u015eiddetle Tavsiye Edilir. Ger\u00e7ekten \u015eenol Bey ile emin ellerde oldu\u011fumu hissediyorum. Sordu\u011fum her soruya ayr\u0131nt\u0131l\u0131 ve sab\u0131rla cevap veriliyor ve genel olarak b\u00fcy\u00fck bir anlay\u0131\u015f var. Teknik olarak \u00e7ok yetkin, anlay\u0131\u015fl\u0131 ve %100 tavsiye edilecek.",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

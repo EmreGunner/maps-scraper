@@ -1,0 +1,317 @@
+{
+    "place_id": "ChIJH5gtqDW3yhQRS0ydXskzJ_A",
+    "name": "Kalyoncu Law",
+    "description": null,
+    "reviews": 19,
+    "competitors": [
+        {
+            "name": "KALYONCU HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/KALYONCU+HUKUK+B%C3%9CROSU/@41.0733479,28.9811617?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Kalyoncu Legal Avukatl\u0131k",
+            "link": "https://www.google.com/maps/search/Kalyoncu+Legal+Avukatl%C4%B1k/@40.9920161,28.835021800000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "\u00d6zkan Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%96zkan+Hukuk+B%C3%BCrosu/@41.061999300000004,28.9873181?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Duygun Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Duygun+Hukuk+B%C3%BCrosu/@41.061616099999995,28.9871601?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.kalyonculaw.com/",
+    "owner": {
+        "id": "100610610177285761620",
+        "name": "Kalyoncu Law (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/100610610177285761620"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNXQKpCes_6be-WogqtndiuDG18Gw7MzAzEXzhG=w408-h408-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 4.9,
+    "workday_timing": "08:00\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0535 735 57 75",
+    "address": "Merkez, Kalyoncu Law, Abide-i H\u00fcrriyet Cd No:177, 34381 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJH5gtqDW3yhQRS0ydXskzJ_A",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 18
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJH5gtqDW3yhQRS0ydXskzJ_A&q=?q=place_id:ChIJH5gtqDW3yhQRS0ydXskzJ_A&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.062782299999995,
+        "longitude": 28.9875287
+    },
+    "plus_code": "3X7Q+42 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkez",
+        "street": "Abide-i H\u00fcrriyet Cd No:177",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34381",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "17304857033163230283",
+    "data_id": "0x14cab735a82d981f:0xf02733c95e9d4c4b",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNXQKpCes_6be-WogqtndiuDG18Gw7MzAzEXzhG=w298-h298-k-no"
+        },
+        {
+            "about": "\u0130\u00e7",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNcQZ0ScLKse3rw6v_0AxFS3mEqSRtoqwbsbBon=w224-h398-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOtvq2KsKdQA2nhCOE4mMR7SZfRExvPv-4em4FM=w298-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-51sX2kAldrlbsdnr8Rosg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=277.67047&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Berk Bey son derece alanina hakim ve ilgili siddetle tavsiye ederim.",
+            "reviewer_name": "sel\u00e7uk \u00f6zayd\u0131n",
+            "rating": 5,
+            "review_text": "Berk Bey son derece alanina hakim ve ilgili siddetle tavsiye ederim.",
+            "published_at": "10 ay \u00f6nce",
+            "published_at_date": "2023-02-02T18:03:16.207000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/108575015841596081241/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJmHHIoEvIrJTk6sskuUDtyU8WD7itFRWAtMhnd0voL=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Tecr\u00fcbeli ekip, do\u011fru y\u00f6nlendirme sonu\u00e7 kusursuz. \u0130yi ki vars\u0131n\u0131z ve ben de iyi ki hakk\u0131m olan\u0131 kazand\u0131m.",
+            "reviewer_name": "Dilan Carus",
+            "rating": 5,
+            "review_text": "Tecr\u00fcbeli ekip, do\u011fru y\u00f6nlendirme sonu\u00e7 kusursuz. \u0130yi ki vars\u0131n\u0131z ve ben de iyi ki hakk\u0131m olan\u0131 kazand\u0131m.",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-03-07T09:49:15.655000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/114266689777888644596/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXf1foJ6RJ8uFSTmfmKIxTJRqm7N0n8JHczvCdS4tLqMg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Olduk\u00e7a profesyonel ve g\u00fcvenilir bir hukuk b\u00fcrosu \ud83d\udc4d\ud83c\udffb",
+            "reviewer_name": "Zeynep Cansu Yurtcan",
+            "rating": 5,
+            "review_text": "Olduk\u00e7a profesyonel ve g\u00fcvenilir bir hukuk b\u00fcrosu \ud83d\udc4d\ud83c\udffb",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-03-06T15:38:34.665000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108176058568774679878/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUaKIF8OQwvixIzOqGwkWxAjtq4ief5Fao39vMGkAso8A=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Son derece g\u00fcvenilir ve tecr\u00fcbeli ekip. Kesinlikle tavsiye ederim.",
+            "reviewer_name": "Eda Lar\u00e7\u0131n",
+            "rating": 5,
+            "review_text": "Son derece g\u00fcvenilir ve tecr\u00fcbeli ekip. Kesinlikle tavsiye ederim.",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-03-06T16:27:06.438000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 50,
+            "total_number_of_photos_by_reviewer": 27,
+            "reviewer_url": "https://www.google.com/maps/contrib/100956262414421575329/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLp2p292fQKI558DvlURopTH0rjW7GNjfHfcICrMw3R=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "ingilizce ve t\u00fcrk\u00e7e hukuk konusunda uzmanlar",
+            "reviewer_name": "saim gemici",
+            "rating": 5,
+            "review_text": "ingilizce ve t\u00fcrk\u00e7e hukuk konusunda uzmanlar",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-08-21T17:30:58.395000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 318,
+            "total_number_of_photos_by_reviewer": 62,
+            "reviewer_url": "https://www.google.com/maps/contrib/107791485867792394181/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWdGwC2uINK5cirFGu3c7MpbvHl1teqpTEEkkBJq1RYjc8=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Enerjileri ve ileti\u015fimleri \u00e7ok iyi.",
+            "reviewer_name": "Fehmi Altundagli",
+            "rating": 5,
+            "review_text": "Enerjileri ve ileti\u015fimleri \u00e7ok iyi.",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-03-06T20:02:18.895000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/118436625447178851775/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ2ZRtiplRxbTbKqAvcnFrBlcfDrhaQjDxsEVRwvi0i=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Very helpful and truthful lawyers. They can advise you on many subjects and really try to solve problems like their own. Give them a call whenever you need a legal advisor.",
+            "reviewer_name": "Yigit Cinar",
+            "rating": 5,
+            "review_text": "Very helpful and truthful lawyers. They can advise you on many subjects and really try to solve problems like their own. Give them a call whenever you need a legal advisor.",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-03-06T15:20:28.206000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 8,
+            "reviewer_url": "https://www.google.com/maps/contrib/113937413806860796908/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVKXVfue4t0kpAa3ZEJ9TPo5IkA6eBds0yr5Hs1kVS9vVlQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "\u00c7ok yard\u0131msever ve d\u00fcr\u00fcst avukatlar. Size bir\u00e7ok konuda tavsiyelerde bulunabilirler ve ger\u00e7ekten kendi sorunlar\u0131 gibi sorunlar\u0131 \u00e7\u00f6zmeye \u00e7al\u0131\u015fabilirler. Bir hukuk dan\u0131\u015fman\u0131na ihtiya\u00e7 duydu\u011funuzda onlar\u0131 aray\u0131n.",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Berk and Or\u00e7un were instrumental in helping me get my Turkish residency permit. As an American, I had heard horror stories from fellow ex-pats who had attempted to navigate this process without help, so I decided to trust Kalyoncu with helping me through the process. There were indeed a number of unavoidable snags that, had I faced them alone, would surely have prevented me from getting my permit. Luckily, Berk and Or\u00e7un's knowledge of the ever-changing legal landscape here and their flexibility resulted in a nearly painless process for me. Happy to call Turkey my home away from home and very grateful for Kalyoncu Law for helping me do so :).",
+            "reviewer_name": "Charlie Molthrop",
+            "rating": 5,
+            "review_text": "Berk and Or\u00e7un were instrumental in helping me get my Turkish residency permit. As an American, I had heard horror stories from fellow ex-pats who had attempted to navigate this process without help, so I decided to trust Kalyoncu with helping me through the process. There were indeed a number of unavoidable snags that, had I faced them alone, would surely have prevented me from getting my permit. Luckily, Berk and Or\u00e7un's knowledge of the ever-changing legal landscape here and their flexibility resulted in a nearly painless process for me. Happy to call Turkey my home away from home and very grateful for Kalyoncu Law for helping me do so :).",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-04-16T13:01:34.211000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/118192041663080590981/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV-zULtH1S1wVLkfSIxnKmnLA929VEtnjVV6jxCC_bC_92P=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "Berk ve Or\u00e7un T\u00fcrkiye'de oturma iznimi almamda \u00e7ok yard\u0131mc\u0131 oldular. Bir Amerikal\u0131 olarak, bu s\u00fcreci yard\u0131m almadan y\u00fcr\u00fctmeye \u00e7al\u0131\u015fan eski arkada\u015flar\u0131mdan korku hikayeleri duymu\u015ftum, bu y\u00fczden bu s\u00fcre\u00e7te bana yard\u0131m etmesi konusunda Kalyoncu'ya g\u00fcvenmeye karar verdim. Ger\u00e7ekten de, onlarla tek ba\u015f\u0131ma y\u00fczle\u015fseydim, kesinlikle izin almam\u0131 engelleyecek bir tak\u0131m ka\u00e7\u0131n\u0131lmaz engeller vard\u0131. \u015eans eseri Berk ve Or\u00e7un'un de\u011fi\u015fen hukuki \u015fartlara dair bilgileri ve esneklikleri benim i\u00e7in neredeyse sanc\u0131s\u0131z bir s\u00fcre\u00e7le sonu\u00e7land\u0131. T\u00fcrkiye'yi evimden uzaktaki evim olarak g\u00f6rmekten mutluyum ve bunu yapmama yard\u0131mc\u0131 oldu\u011fu i\u00e7in Kalyoncu Hukuk'a \u00e7ok minnettar\u0131m :).",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

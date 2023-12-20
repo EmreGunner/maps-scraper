@@ -1,0 +1,146 @@
+{
+    "place_id": "ChIJ_we4dma4yhQRwSlw_PKWC-g",
+    "name": "Uluda\u011f Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "Avukat G\u00f6rg\u00fcn Uluda\u011f",
+            "link": "https://www.google.com/maps/search/Avukat+G%C3%B6rg%C3%BCn+Uluda%C4%9F/@40.99183,29.0290257?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Bursal\u0131 Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Bursal%C4%B1+Hukuk+B%C3%BCrosu/@40.9909959,29.030720700000003?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "\u0130stanbul Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C4%B0stanbul+Hukuk+B%C3%BCrosu/@40.9850492,29.024719299999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "U\u011eURLUEL Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/U%C4%9EURLUEL+Hukuk+B%C3%BCrosu/@40.9860377,29.028011099999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Legal office",
+            "link": "https://www.google.com/maps/search/Legal+office/@40.9860906,29.038605699999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.uludag.av.tr/",
+    "owner": {
+        "id": null,
+        "name": "Uluda\u011f Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh6.googleusercontent.com/RvgN7LSoyoyUW61RDVQr1TmOTSB4yQaPmJr6RO0ZknS2LrqW_Ml_M_oKVZ10BTFb=w426-h240-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": 5,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0216) 492 30 40",
+    "address": "Selimiye, Uluda\u011f Hukuk B\u00fcrosu, Nail Bey Sok. Poyraz \u0130\u015f Merkezi No:8/10 D:4, 34714 \u00dcsk\u00fcdar/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ_we4dma4yhQRwSlw_PKWC-g",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ_we4dma4yhQRwSlw_PKWC-g&q=?q=place_id:ChIJ_we4dma4yhQRwSlw_PKWC-g&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9884742,
+        "longitude": 29.0282301
+    },
+    "plus_code": "X2QH+97 \u00dcsk\u00fcdar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Selimiye",
+        "street": "Nail Bey Sok. Poyraz \u0130\u015f Merkezi No:8/10 D:4",
+        "city": "\u00dcsk\u00fcdar",
+        "postal_code": "34714",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16720624011904559553",
+    "data_id": "0x14cab86676b807ff:0xe80b96f2fc7029c1",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh6.googleusercontent.com/RvgN7LSoyoyUW61RDVQr1TmOTSB4yQaPmJr6RO0ZknS2LrqW_Ml_M_oKVZ10BTFb=w529-h298-k-no"
+        },
+        {
+            "about": "D\u0131\u015ftan g\u00f6r\u00fcn\u00fcm",
+            "link": "//lh6.googleusercontent.com/RvgN7LSoyoyUW61RDVQr1TmOTSB4yQaPmJr6RO0ZknS2LrqW_Ml_M_oKVZ10BTFb=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dlatYtgOZ82DdiFxtdqJoQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=327.6199&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Mehmet Ak\u015fit",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "3 hafta \u00f6nce",
+            "published_at_date": "2023-11-25T18:04:49.939000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 12,
+            "reviewer_url": "https://www.google.com/maps/contrib/113091350132756461366/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKHnE66PWvHLQEWd73ndGMItvj3FdoueI8n3sl5Y55C=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

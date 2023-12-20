@@ -1,0 +1,103 @@
+{
+    "place_id": "ChIJ6STMQR23yhQRUBSwE7sb57c",
+    "name": "MBG Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "MB HUKUK",
+            "link": "https://www.google.com/maps/search/MB+HUKUK/@41.069736999999996,28.977084?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 1,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "MBH Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/MBH+Hukuk+B%C3%BCrosu/@41.0606273,28.999026399999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "MY Hukuk & Arabuluculuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/MY+Hukuk+%26+Arabuluculuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.059669799999995,28.986167799999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "MTG hukuk b\u00fcrosu",
+            "link": "https://www.google.com/maps/search/MTG+hukuk+b%C3%BCrosu/@41.067109599999995,28.992394299999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "MBG Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mKnhlN0VxjszEHrWAmNeYg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=217.62048&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 458 11 99",
+    "address": "Merkez, MBG Hukuk B\u00fcrosu, Koca Mansur Sk. No: 137/14, 34381 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ6STMQR23yhQRUBSwE7sb57c",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ6STMQR23yhQRUBSwE7sb57c&q=?q=place_id:ChIJ6STMQR23yhQRUBSwE7sb57c&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0653027,
+        "longitude": 28.9863996
+    },
+    "plus_code": "3X8P+4H \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkez",
+        "street": "Koca Mansur Sk. No: 137/14",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34381",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "13251590918864114768",
+    "data_id": "0x14cab71d41cc24e9:0xb7e71bbb13b01450",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mKnhlN0VxjszEHrWAmNeYg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=217.62048&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mKnhlN0VxjszEHrWAmNeYg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=217.62048&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

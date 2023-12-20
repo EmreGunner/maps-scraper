@@ -1,0 +1,2403 @@
+{
+    "query": "law firms near Sultanbeyli, Istanbul",
+    "places": [
+        {
+            "place_id": "ChIJZ0jrIyTHyhQR5I8eaKHPsJM",
+            "name": "iSTANBUL Av. Ali Mert Gencoglu Hukuk&Danismanlik",
+            "description": null,
+            "reviews": 6,
+            "competitors": [
+                {
+                    "name": "AVMADA HUKUK & DANISMANLIK",
+                    "link": "https://www.google.com/maps/search/AVMADA+HUKUK+%26+DANI%C5%9EMANLIK/@40.9955208,29.0783977?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 5,
+                    "rating": 5,
+                    "main_category": "Hukuk Burosu"
+                },
+                {
+                    "name": "Demiral Hukuk & Danismanlik",
+                    "link": "https://www.google.com/maps/search/Demiral+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.992563499999996,29.122253099999995?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Hukuk Burosu"
+                },
+                {
+                    "name": "Asri Hukuk ve Danismanlik Burosu",
+                    "link": "https://www.google.com/maps/search/Asri+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@40.996154,29.074596899999996?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Hukuk Burosu"
+                },
+                {
+                    "name": "Ceylan Mahmutoglu",
+                    "link": "https://www.google.com/maps/search/Ceylan+Mahmuto%C4%9Flu/@40.968271,29.066402399999998?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Avukat"
+                },
+                {
+                    "name": "Gencoglu Hukuk Burosu / Gencoglu Law Firm",
+                    "link": "https://www.google.com/maps/search/Gen%C3%A7o%C4%9Flu+Hukuk+B%C3%BCrosu+%2F+Gen%C3%A7o%C4%9Flu+Law+Firm/@41.026742,28.975266?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Hukuk Burosu"
+                }
+            ],
+            "website": "https://www.alimertgencoglu.av.tr/",
+            "owner": {
+                "id": "105877913718908224621",
+                "name": "iSTANBUL Av. Ali Mert Gencoglu Hukuk&Danismanlik (Sahibi)",
+                "link": "https://www.google.com/maps/contrib/105877913718908224621"
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fRLzNKZwpqHbCKYzuJLUhA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=148.47017&pitch=0&thumbfov=100",
+            "main_category": "Hukuk Burosu",
+            "categories": [
+                "Hukuk Burosu",
+                "Avukatlik Danisma Hizmeti",
+                "Ceza Avukati",
+                "Bosanma Avukati",
+                "Avukat",
+                "Dava Avukati"
+            ],
+            "rating": 4.3,
+            "workday_timing": "08:30-18:30",
+            "closed_on": "Open All Days",
+            "phone": "0542 460 99 98",
+            "address": "Ornek, iSTANBUL Av. Ali Mert Gencoglu Hukuk&Danismanlik, Ercument Batanay Sk. Dumankaya Ikon Evleri Sitesi A2 Blok No:318, 34704 Atasehir/Istanbul",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/iSTANBUL+Av.+Ali+Mert+Gen%C3%A7o%C4%9Flu+Hukuk%26Dan%C4%B1%C5%9Fmanl%C4%B1k/data=!4m7!3m6!1s0x14cac72423eb4867:0x93b0cfa1681e8fe4!8m2!3d40.9930632!4d29.0861144!16s%2Fg%2F11s5ht7kbq!19sChIJZ0jrIyTHyhQR5I8eaKHPsJM?authuser=0&hl=tr&rclk=1",
+            "status": "Kapali  Acilis saati: 08:30",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 1,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 5
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJZ0jrIyTHyhQR5I8eaKHPsJM&q=iSTANBUL+Av.+Ali+Mert+Gen%C3%A7o%C4%9Flu+Hukuk%26Dan%C4%B1%C5%9Fmanl%C4%B1k&authuser=0&hl=tr&gl=TR",
+            "coordinates": {
+                "latitude": 40.993063199999995,
+                "longitude": 29.0861144
+            },
+            "plus_code": "X3VP+6C Atasehir, Istanbul",
+            "detailed_address": {
+                "ward": "Ornek",
+                "street": "Ercument Batanay Sk. Dumankaya Ikon Evleri Sitesi A2 Blok No:318",
+                "city": "Atasehir",
+                "postal_code": "34704",
+                "state": "Istanbul",
+                "country_code": "TR"
+            },
+            "time_zone": "Europe/Istanbul",
+            "cid": "10642234211619999716",
+            "data_id": "0x14cac72423eb4867:0x93b0cfa1681e8fe4",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [
+                {
+                    "link": "https://www.alimertgencoglu.av.tr/contact-us/",
+                    "source": "alimertgencoglu.av.tr"
+                }
+            ],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Hizmet secenekleri",
+                    "options": [
+                        {
+                            "name": "Online randevu",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Gercek mekanda hizmet",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Erisilebilirlik",
+                    "options": [
+                        {
+                            "name": "Tekerlekli sandalyeye uygun oturma duzeni",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Tekerlekli sandalyeye uygun tuvalet",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "amenities",
+                    "name": "Sunulan olanaklar",
+                    "options": [
+                        {
+                            "name": "Uniseks tuvalet",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "planning",
+                    "name": "Planlama",
+                    "options": [
+                        {
+                            "name": "Randevu gerekli",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fRLzNKZwpqHbCKYzuJLUhA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=148.47017&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Sahibinin sectikleri",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNrIL2HXDDpJDanHTmSuBPzUlFDtt6E1mf4KCi8=w224-h299-k-no"
+                },
+                {
+                    "about": "Street View ve 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fRLzNKZwpqHbCKYzuJLUhA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=148.47017&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "08:30-18:30"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "08:30-18:30"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "08:30-18:30"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "08:30-18:30"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "08:30-18:30"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "08:30-18:30"
+                    ]
+                },
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "08:30-18:30"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "SN.Avukat bey isimizi kolaylikla cozume kavusturdunuz icin tesekkur ederim sizinle tanistigimiza cok memnun oldum islerinizde kolayliklar diliyorum.",
+                    "reviewer_name": "Haldun GENCOGLU",
+                    "rating": 5,
+                    "review_text": "SN.Avukat bey isimizi kolaylikla cozume kavusturdunuz icin tesekkur ederim sizinle tanistigimiza cok memnun oldum islerinizde kolayliklar diliyorum.",
+                    "published_at": "5 ay once",
+                    "published_at_date": "2023-06-29T09:35:35.119000",
+                    "response_from_owner_text": "",
+                    "response_from_owner_ago": "5 ay once",
+                    "response_from_owner_date": "2023-06-29T09:40:32.807000",
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109015954890044052109/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ7p-VKImv-dYsU5rr0yhU-AmExZHm1Furx_jzKL59d=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Online avukatlik hizmetiniz mevcut mu?",
+                    "reviewer_name": "Engin Yildirim",
+                    "rating": 5,
+                    "review_text": "Online avukatlik hizmetiniz mevcut mu?",
+                    "published_at": "4 ay once",
+                    "published_at_date": "2023-07-23T19:49:18.816000",
+                    "response_from_owner_text": "Evet arayabilirsiniz",
+                    "response_from_owner_ago": "4 ay once",
+                    "response_from_owner_date": "2023-07-23T20:00:14.385000",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 12,
+                    "total_number_of_photos_by_reviewer": 5,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112648727271035267388/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXAIBQgF4eqkYgy5wmMIQRlNLaqb3BpA3v3IQHHQA9MM-II=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Avukatlik hizmetinden cok memnun kaldik",
+                    "reviewer_name": "Senaytrrgsrh Yildirim",
+                    "rating": 5,
+                    "review_text": "Avukatlik hizmetinden cok memnun kaldik",
+                    "published_at": "4 ay once",
+                    "published_at_date": "2023-07-24T06:44:37.291000",
+                    "response_from_owner_text": "",
+                    "response_from_owner_ago": "4 ay once",
+                    "response_from_owner_date": "2023-07-24T09:03:25.129000",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 13,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108105201617896172018/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL13zeKGFZq0D_RJj9ffrXywaw8KEPlozdbOElHswJh=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Yardimci oldugunuz icin cok tesekkur ederim",
+                    "reviewer_name": "Irem Kaya",
+                    "rating": 5,
+                    "review_text": "Yardimci oldugunuz icin cok tesekkur ederim",
+                    "published_at": "4 ay once",
+                    "published_at_date": "2023-07-25T07:08:52.062000",
+                    "response_from_owner_text": "",
+                    "response_from_owner_ago": "3 ay once",
+                    "response_from_owner_date": "2023-08-10T17:38:07.087000",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 16,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106405164503357741127/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUf3DioHAjam8mrgKZoeLTRstaE9bm4Dsmx_U_HHNTOj58=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Lale Gencoglu",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "5 ay once",
+                    "published_at_date": "2023-06-29T09:26:05.131000",
+                    "response_from_owner_text": "",
+                    "response_from_owner_ago": "5 ay once",
+                    "response_from_owner_date": "2023-06-29T09:37:21.207000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106358084600990350894/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXVEPlvIug5W9sA5E81rn7tVP66rTNRBw5tSt7VLO3mV20=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Blublu Negerek",
+                    "rating": 1,
+                    "review_text": null,
+                    "published_at": "5 ay once",
+                    "published_at_date": "2023-06-13T19:26:21.503000",
+                    "response_from_owner_text": "",
+                    "response_from_owner_ago": "5 ay once",
+                    "response_from_owner_date": "2023-06-29T09:41:41.059000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107605450857629694272/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIJwuRhkKWrB5AZEKwBbWwYUHc9fWJVS5rwQferQcKL=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": true
+        },
+        {
+            "place_id": "ChIJcbrtU2rQyhQRJnqQhPbnj_M",
+            "name": "Demirci Law Office",
+            "description": null,
+            "reviews": null,
+            "competitors": [],
+            "website": "http://demirci-law.com/",
+            "owner": {
+                "id": null,
+                "name": "Demirci Law Office (Sahibi)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ihq9zlqApa8AFTZ0il14fA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=144.30266&pitch=0&thumbfov=100",
+            "main_category": "Hukuk Burosu",
+            "categories": [
+                "Hukuk Burosu"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": "(0216) 766 06 26",
+            "address": "Abdurrahmangazi, Demirci Law Office, Said Sk. No:26 Kat:5 Daire:14, 34920 Sultanbeyli/Istanbul",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Demirci+Law+Office/data=!4m7!3m6!1s0x14cad06a53edba71:0xf38fe7f684907a26!8m2!3d40.9705889!4d29.2586452!16s%2Fg%2F11vll84lgp!19sChIJcbrtU2rQyhQRJnqQhPbnj_M?authuser=0&hl=tr&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJcbrtU2rQyhQRJnqQhPbnj_M&q=Demirci+Law+Office&authuser=0&hl=tr&gl=TR",
+            "coordinates": {
+                "latitude": 40.970588899999996,
+                "longitude": 29.2586452
+            },
+            "plus_code": "X7C5+6F Sultanbeyli, Istanbul",
+            "detailed_address": {
+                "ward": "Abdurrahmangazi",
+                "street": "Said Sk. No:26 Kat:5 Daire:14",
+                "city": "Sultanbeyli",
+                "postal_code": "34920",
+                "state": "Istanbul",
+                "country_code": "TR"
+            },
+            "time_zone": "Europe/Istanbul",
+            "cid": "17550501318858144294",
+            "data_id": "0x14cad06a53edba71:0xf38fe7f684907a26",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ihq9zlqApa8AFTZ0il14fA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=144.30266&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View ve 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ihq9zlqApa8AFTZ0il14fA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=144.30266&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJfYm621C2yhQRQYRu-9vgTrc",
+            "name": "MGC Legal | Law Firm in Istanbul, Turkey",
+            "description": null,
+            "reviews": 117,
+            "competitors": [
+                {
+                    "name": "Mihci Hukuk Burosu | Istanbul Avukat - Bosanma Avukati - Ceza Avukati - Is Hukuku Avukati - Icra Avukati",
+                    "link": "https://www.google.com/maps/search/M%C4%B1hc%C4%B1+Hukuk+B%C3%BCrosu+%7C+%C4%B0stanbul+Avukat+-+Bo%C5%9Fanma+Avukat%C4%B1+-+Ceza+Avukat%C4%B1+-+%C4%B0%C5%9F+Hukuku+Avukat%C4%B1+-+%C4%B0cra+Avukat%C4%B1/@41.0646272,28.9961945?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 281,
+                    "rating": 4.8,
+                    "main_category": "Avukat"
+                },
+                {
+                    "name": "MGC Hukuk Burosu",
+                    "link": "https://www.google.com/maps/search/MGC+Hukuk+B%C3%BCrosu/@41.0604009,28.9874626?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Hukuk Burosu"
+                },
+                {
+                    "name": "MGC Immigration",
+                    "link": "https://www.google.com/maps/search/MGC+Immigration/@41.0760618,29.0126904?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Gocmenlik ve Yurttasliga Kabul Hizmetleri"
+                },
+                {
+                    "name": "GKC Partners",
+                    "link": "https://www.google.com/maps/search/GKC+Partners/@41.076777,29.013283?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Hukuk Burosu"
+                },
+                {
+                    "name": "Law Firm Istanbul Kilic & Partners",
+                    "link": "https://www.google.com/maps/search/Law+Firm+Istanbul+Kili%C3%A7+%26+Partners/@41.0780473,29.0105306?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Hukuk Burosu"
+                }
+            ],
+            "website": "http://www.mgc.com.tr/",
+            "owner": {
+                "id": "118040837396809903846",
+                "name": "MGC Legal | Law Firm in Istanbul, Turkey (Sahibi)",
+                "link": "https://www.google.com/maps/contrib/118040837396809903846"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOUZYg136vFMkc1GtkJeTQrLpAdPuB4Y11OiHFz=w426-h240-k-no",
+            "main_category": "Hukuk Burosu",
+            "categories": [
+                "Hukuk Burosu",
+                "Danisman"
+            ],
+            "rating": 4.9,
+            "workday_timing": "08:00-17:00",
+            "closed_on": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "phone": "0850 333 8660",
+            "address": "Esentepe, MGC Legal | Law Firm in Istanbul, Turkey, Buyukdere Cd. Astoria No:127 B Blok 5. Kat, 34394 Sisli/Istanbul",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/MGC+Legal+%7C+Law+Firm+in+Istanbul,+Turkey/data=!4m7!3m6!1s0x14cab650dbba897d:0xb74ee0dbfb6e8441!8m2!3d41.0687389!4d29.0057108!16s%2Fg%2F11c318608c!19sChIJfYm621C2yhQRQYRu-9vgTrc?authuser=0&hl=tr&rclk=1",
+            "status": "Kapali  Acilis saati: 08:00",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 1,
+                "2": 1,
+                "3": 0,
+                "4": 1,
+                "5": 114
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJfYm621C2yhQRQYRu-9vgTrc&q=MGC+Legal+%7C+Law+Firm+in+Istanbul,+Turkey&authuser=0&hl=tr&gl=TR",
+            "coordinates": {
+                "latitude": 41.0687389,
+                "longitude": 29.0057108
+            },
+            "plus_code": "3294+F7 Sisli, Istanbul",
+            "detailed_address": {
+                "ward": "Esentepe",
+                "street": "Buyukdere Cd. Astoria No:127 B Blok 5. Kat",
+                "city": "Sisli",
+                "postal_code": "34394",
+                "state": "Istanbul",
+                "country_code": "TR"
+            },
+            "time_zone": "Europe/Istanbul",
+            "cid": "13208741992545027137",
+            "data_id": "0x14cab650dbba897d:0xb74ee0dbfb6e8441",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [
+                {
+                    "link": "https://www.mgc.com.tr/iletisim/",
+                    "source": "mgc.com.tr"
+                }
+            ],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Hizmet secenekleri",
+                    "options": [
+                        {
+                            "name": "Online randevu",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Gercek mekanda hizmet",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Erisilebilirlik",
+                    "options": [
+                        {
+                            "name": "Tekerlekli sandalyeye uygun giris",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Tekerlekli sandalyeye uygun oturma duzeni",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Tekerlekli sandalyeye uygun park yeri",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Tekerlekli sandalyeye uygun tuvalet",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "amenities",
+                    "name": "Sunulan olanaklar",
+                    "options": [
+                        {
+                            "name": "Uniseks tuvalet",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "planning",
+                    "name": "Planlama",
+                    "options": [
+                        {
+                            "name": "Randevu gerekli",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOUZYg136vFMkc1GtkJeTQrLpAdPuB4Y11OiHFz=w529-h298-k-no"
+                },
+                {
+                    "about": "Ic",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOhSJ3vQ1Fp_v3-6i1B54pfCE2UTvIvZle97Yyx=w397-h298-k-no"
+                },
+                {
+                    "about": "Sahibinin sectikleri",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNWwlZukNq0SBt-tuQhUxeXdUGrmRKjymzUGctq=w224-h298-k-no"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "08:00-17:00"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "08:00-17:00"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "08:00-17:00"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "08:00-17:00"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "08:00-17:00"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "Kapali"
+                    ]
+                },
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "Kapali"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Avukatlik burosundan ote, profesyonellik giristeki karsilamayi yapan bayandan itibaren basliyor. Enerjisi yuksek bir isletme. Sahibi Mustafa Bey isinde cok iyi biri",
+                    "reviewer_name": "Gurcan CANDAS",
+                    "rating": 5,
+                    "review_text": "Avukatlik burosundan ote, profesyonellik giristeki karsilamayi yapan bayandan itibaren basliyor. Enerjisi yuksek bir isletme. Sahibi Mustafa Bey isinde cok iyi biri",
+                    "published_at": "3 yil once",
+                    "published_at_date": "2020-02-17T22:20:12.124000",
+                    "response_from_owner_text": "Cok tesekkur ederiz Gurcan Bey",
+                    "response_from_owner_ago": "2 yil once",
+                    "response_from_owner_date": "2020-12-23T06:39:31.255000",
+                    "review_likes_count": 5,
+                    "total_number_of_reviews_by_reviewer": 89,
+                    "total_number_of_photos_by_reviewer": 60,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109879247278472158279/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWdt1Pa4ASRKZGK799GH-DFvvtT3nKsET4saS7pILYebu0=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "MGC Legal, Istanbul merkezli, hem yurt ici hem de yurt disi sundugu ust seviye hukuksal hizmetlerle her zaman kaliteyi on planda tutan global bir hukuk burosudur. Turkiye'nin, uluslararasi hukuk ofisi eksigini tek basina kapatmakta ve kurumsal hizmet anlayisiyla hukuki konularda uctan uca cozumler sunmaktadir.",
+                    "reviewer_name": "Gokhan Furkan OZKAYA",
+                    "rating": 5,
+                    "review_text": "MGC Legal, Istanbul merkezli, hem yurt ici hem de yurt disi sundugu ust seviye hukuksal hizmetlerle her zaman kaliteyi on planda tutan global bir hukuk burosudur. Turkiye'nin, uluslararasi hukuk ofisi eksigini tek basina kapatmakta ve kurumsal hizmet anlayisiyla hukuki konularda uctan uca cozumler sunmaktadir.",
+                    "published_at": "bir yil once",
+                    "published_at_date": "2022-02-11T10:13:17.961000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108011265723615400850/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXwdpT9efOcR4MsY6tf1cc8BhtU-Zkr2h4aNPefUWDY1Y8=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Mustafa bey isinde cok iyi bir avukat. Kendisiyle ankara universitesi gayrimenkul gelistirme ve yonetimi bolumu sektor seminerlerinde tanistik. Bilgi ve tecrubelerinden yararlandik.",
+                    "reviewer_name": "Yusuf Aslaner",
+                    "rating": 5,
+                    "review_text": "Mustafa bey isinde cok iyi bir avukat. Kendisiyle ankara universitesi gayrimenkul gelistirme ve yonetimi bolumu sektor seminerlerinde tanistik. Bilgi ve tecrubelerinden yararlandik.",
+                    "published_at": "3 yil once",
+                    "published_at_date": "2020-09-04T09:22:38.323000",
+                    "response_from_owner_text": "Tesekkur ederiz Yusuf Bey guzel yorumlariniz icin. Mustafa Beye de bilgi verecegiz.",
+                    "response_from_owner_ago": "3 yil once",
+                    "response_from_owner_date": "2020-09-04T12:36:37.883000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 24,
+                    "total_number_of_photos_by_reviewer": 36,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116819410157239243026/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW1ka4Jw9v1zn_pvHg_6YIUcCbQIClZuyKJwO-5G5vQ3qST=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Alisila gelmisin disina umut vermek yerine direk sonuc odakli dogru yonlendirme yapan avukatlari ve yoneticileri ile kurumsallasmis bir sirket. Kendilerine cok tesekkur ediyorum",
+                    "reviewer_name": "Sibel T",
+                    "rating": 5,
+                    "review_text": "Alisila gelmisin disina umut vermek yerine direk sonuc odakli dogru yonlendirme yapan avukatlari ve yoneticileri ile kurumsallasmis bir sirket. Kendilerine cok tesekkur ediyorum",
+                    "published_at": "3 yil once",
+                    "published_at_date": "2020-09-04T09:10:04.111000",
+                    "response_from_owner_text": "Tesekkur ederiz guzel yorumlariniz icin Sibel Hanim",
+                    "response_from_owner_ago": "3 yil once",
+                    "response_from_owner_date": "2020-09-04T12:43:27.091000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114272535669671858378/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ7SLLr7FF3jMhj_OO3wYRMP0c4MJAIOaqQEw56CLGA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Mustafa bey iyi bir profesyonel ve iyi bir insan. Hukuk burosu olarak islerinin ehliler. Basarilarinin devamini diliyorum.",
+                    "reviewer_name": "onur bicer",
+                    "rating": 5,
+                    "review_text": "Mustafa bey iyi bir profesyonel ve iyi bir insan. Hukuk burosu olarak islerinin ehliler. Basarilarinin devamini diliyorum.",
+                    "published_at": "3 yil once",
+                    "published_at_date": "2020-09-04T09:42:52.173000",
+                    "response_from_owner_text": "Tesekkur ederiz Onur Bey",
+                    "response_from_owner_ago": "3 yil once",
+                    "response_from_owner_date": "2020-09-04T12:33:59.439000",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108844412308397967593/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVNjV8fwapRixhWwxyhIk3s6VIPIfbIo1TGpQ8-e1i8JXU=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Basarili bir firma. Etik degerleri var",
+                    "reviewer_name": "Bayram 3534",
+                    "rating": 5,
+                    "review_text": "Basarili bir firma. Etik degerleri var",
+                    "published_at": "bir yil once",
+                    "published_at_date": "2022-08-12T07:35:03.210000",
+                    "response_from_owner_text": "Tesekkurler",
+                    "response_from_owner_ago": "2 yil once",
+                    "response_from_owner_date": "2021-05-25T07:57:57.876000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 23,
+                    "total_number_of_photos_by_reviewer": 15,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112895441859110189767/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUoBBibegH1owp85f31VKGJPzd7fakZ3A1Lh9gMLYYHJ0Y=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Ofisi cok guzel. Her zaman yardimcilar. Her konuda uzmanlasmis bir ekibi var.",
+                    "reviewer_name": "Mehmet Alp Sargin",
+                    "rating": 5,
+                    "review_text": "Ofisi cok guzel. Her zaman yardimcilar. Her konuda uzmanlasmis bir ekibi var.",
+                    "published_at": "4 yil once",
+                    "published_at_date": "2019-11-28T16:38:35.273000",
+                    "response_from_owner_text": "Cok tesekkur ederiz Mehmet Bey",
+                    "response_from_owner_ago": "2 yil once",
+                    "response_from_owner_date": "2020-12-23T06:44:50.958000",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 197,
+                    "total_number_of_photos_by_reviewer": 264,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109658438377150111332/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXFb6xc__HitE-X9dAwKMC2qCAi7I9d8AGukDk7Pbgp63g=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Kurumsal kaliteli hakkinizi koruyan bir kurum",
+                    "reviewer_name": "Mehmet Aslan",
+                    "rating": 5,
+                    "review_text": "Kurumsal kaliteli hakkinizi koruyan bir kurum",
+                    "published_at": "bir yil once",
+                    "published_at_date": "2022-11-20T20:48:22.880000",
+                    "response_from_owner_text": "Degerli muvekkilimiz, oncelikle hukuk buromuzu degerlendirdiginiz ve olumlu yorumlarinizi paylastiginiz icin tesekkur ederiz. Muvekkillerimize en yuksek kalitede hukuki hizmet sunmayi amaclayarak haklarinizi korumak icin elimizden gelenin en iyisini yapmaya calisiyoruz. Sizlerin memnuniyeti ve guveni bizim icin son derece onemlidir. Ileride de sizlere ve tum muvekkillerimize en iyi hizmeti sunmaya devam etmek icin gayret gosterecegiz. Eger herhangi bir sorunuz veya ihtiyaciniz olursa, lutfen bizimle iletisime gecmekten cekinmeyin. Iyi gunler dileriz!",
+                    "response_from_owner_ago": "7 ay once",
+                    "response_from_owner_date": "2023-04-10T07:04:02.979000",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 55,
+                    "total_number_of_photos_by_reviewer": 54,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118309597321099374955/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX2VVKwWJyUqdax0vvFTYacB0-ygRr_SaIUBcBx28ayY1k=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ1882qN21yhQRz-LzjJHS_XY",
+            "name": "Kurucuk & Associates Law Firm Istanbul Turkey | Lawyers in Istanbul, Turkey | Turkish Immigration & Legal Consultancy",
+            "description": null,
+            "reviews": 147,
+            "competitors": [
+                {
+                    "name": "Celiktas Law Firm",
+                    "link": "https://www.google.com/maps/search/Celiktas+Law+Firm/@41.118652399999995,29.0089179?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 15,
+                    "rating": 4.7,
+                    "main_category": "Hukuk Burosu"
+                },
+                {
+                    "name": "Kirbiyik Hukuk Burosu",
+                    "link": "https://www.google.com/maps/search/K%C4%B1rb%C4%B1y%C4%B1k+Hukuk+B%C3%BCrosu/@41.119989000000004,29.006967199999995?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Hukuk Burosu"
+                },
+                {
+                    "name": "Kilic Hukuk Burosu",
+                    "link": "https://www.google.com/maps/search/K%C4%B1l%C4%B1%C3%A7+Hukuk+B%C3%BCrosu/@41.1099384,29.0205376?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Hukuk Burosu"
+                },
+                {
+                    "name": "Karal Hukuki Danismanlik",
+                    "link": "https://www.google.com/maps/search/Karal+Hukuki+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.118569,29.0101405?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Hukuk Burosu"
+                },
+                {
+                    "name": "Gider Law Office",
+                    "link": "https://www.google.com/maps/search/Gider+Law+Office/@41.117227299999996,29.014942800000004?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Hukuk Hizmetleri"
+                }
+            ],
+            "website": "https://www.kurucuk.com.tr/",
+            "owner": {
+                "id": "117517512133136788709",
+                "name": "Kurucuk & Associates Law Firm Istanbul Turkey | Lawyers in Istanbul, Turkey | Turkish Immigration & Legal Consultancy (Sahibi)",
+                "link": "https://www.google.com/maps/contrib/117517512133136788709"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPLyAr1o8ldjHvJdW8Aceb7zpnvg2sRK6B6oKGQ=w408-h306-k-no",
+            "main_category": "Hukuk Burosu",
+            "categories": [
+                "Hukuk Burosu",
+                "Avukatlik Danisma Hizmeti",
+                "Ceza Avukati",
+                "Borc Tahsilati",
+                "Bosanma Avukati",
+                "Is Hukuku Avukati",
+                "Gocmenlik ve Yurttasliga Kabul Hizmetleri",
+                "Gocmenlik Hukuku Avukati",
+                "Avukat",
+                "Hukuk Hizmetleri"
+            ],
+            "rating": 5,
+            "workday_timing": "24 saat acik",
+            "closed_on": "Open All Days",
+            "phone": "(0212) 812 25 00",
+            "address": "Kurucuk & Associates Law Firm Istanbul Turkey | Lawyers in Istanbul, Turkey | Turkish Immigration & Legal Consultancy, Maslak Mahallesi 1453 Caddesi C13 Blok, 34398 Sariyer/Istanbul",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Kurucuk+%26+Associates+Law+Firm+Istanbul+Turkey+%7C+Lawyers+in+Istanbul,+Turkey+%7C+Turkish+Immigration+%26+Legal+Consultancy/data=!4m7!3m6!1s0x14cab5dda836cfd7:0x76fdd2918cf3e2cf!8m2!3d41.118552!4d29.0088669!16s%2Fg%2F11tg2ggqdt!19sChIJ1882qN21yhQRz-LzjJHS_XY?authuser=0&hl=tr&rclk=1",
+            "status": "24 saat acik",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 147
+            },
+            "featured_question": {
+                "question": "(Google tarafindan cevrilmistir) Turkiye'de sirket kurmanin maliyeti nedir?\n\n(Orijinal)\nWhat is the cost of registering a company in Turkey? ",
+                "answer": "(Google tarafindan cevrilmistir) Turkiye'de sirket kurmadan once oncelikle ne tur bir sirket kuracaginiza karar vermeniz gerekir. Yabancilara uygun baslica iki sirket var. Birincisi Limited Sirket (LLC), digeri Anonim Sirket (A.S.)\n\n* Anonim Sirket (minimum 50.000 lira sermayeli)\n* Limited Sirketler (minimum 10.000 lira sermayeli)\n\nBir de sirket kurmanin devlet giderleri var, bunlar da ilgili vergiler, resmi ticaret gazetesinde yayinlama vergileri, tercume ve noter tasdik ucretleri, kayit ucretleri 500-700 USD civarinda olacak.\n\nSirket olarak muhasebeci tutmaniz gerekiyor, bu genellikle aylik 200-250 USD tutarinda bir masraf oluyor.\n\nOfis icin ofis kiralamalisiniz, sanal da olabilir. Sanal ofislerin yillik maliyeti 1000-1500 USD civarindadir.\n\n(Orijinal)\nBefore establishing a company in Turkey, at first you need to decide which type of company you will establish. There are mainly two companies that is suitable for foreigners. First one is Limited Liability Company (LLC) other one is Joint Stock Company ( A.S.)\n\n*    Joint Stock Company (with a minimum capital of 50.000 lira)\n*    Limited Liability Companies (with a minimum capital of 10.000lira)\n\nThere are also government costs of the establishing a company which is relevant taxes, publishing on official trade gazette taxes, translation and notarisation fees and registration fees which will be around 500-700 USD. \n\nYou have to hire an accountant as a company, it is usually an expense of 200-250 USD per month.\n\nFor the office, you should rent an office, it can be also a virtual one. Virtual offices are about 1000-1500 USD per year.\n",
+                "question_date": "2023-08-23T17:33:39",
+                "question_ago": "3 ay once",
+                "asked_by": {
+                    "name": null,
+                    "link": null
+                },
+                "answer_date": "2023-08-23T17:36:14",
+                "answer_ago": "3 ay once",
+                "answered_by": {
+                    "name": "Kurucuk & Associates Law Firm Istanbul Turkey | Lawyers in Istanbul, Turkey | Turkish Immigration & Legal Consultancy (Sahibi)",
+                    "link": "https://www.google.com/maps/contrib/117517512133136788709"
+                }
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1882qN21yhQRz-LzjJHS_XY&q=Kurucuk+%26+Associates+Law+Firm+Istanbul+Turkey+%7C+Lawyers+in+Istanbul,+Turkey+%7C+Turkish+Immigration+%26+Legal+Consultancy&authuser=0&hl=tr&gl=TR",
+            "coordinates": {
+                "latitude": 41.118552,
+                "longitude": 29.008866899999997
+            },
+            "plus_code": "4295+CG Sariyer, Istanbul",
+            "detailed_address": {
+                "ward": "Maslak",
+                "street": "Maslak Mahallesi 1453 Caddesi C13 Blok",
+                "city": "Sariyer",
+                "postal_code": "34398",
+                "state": "Istanbul",
+                "country_code": "TR"
+            },
+            "time_zone": "Europe/Istanbul",
+            "cid": "8574240788160176847",
+            "data_id": "0x14cab5dda836cfd7:0x76fdd2918cf3e2cf",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Hizmet secenekleri",
+                    "options": [
+                        {
+                            "name": "Online randevu",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Gercek mekanda hizmet",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Erisilebilirlik",
+                    "options": [
+                        {
+                            "name": "Tekerlekli sandalyeye uygun giris",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Tekerlekli sandalyeye uygun park yeri",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "amenities",
+                    "name": "Sunulan olanaklar",
+                    "options": [
+                        {
+                            "name": "Uniseks tuvalet",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "planning",
+                    "name": "Planlama",
+                    "options": [
+                        {
+                            "name": "Randevu gerekli",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPLyAr1o8ldjHvJdW8Aceb7zpnvg2sRK6B6oKGQ=w397-h298-k-no"
+                },
+                {
+                    "about": "En son",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMmM5bH81B871omMJkAj01kdC3esyANQyuIRbDX=w596-h298-k-no"
+                },
+                {
+                    "about": "Videolar",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPu6M2zFX0o-4uLBbDKk-foV9K6kZMCnDtNRk5a=w529-h298-k-no"
+                },
+                {
+                    "about": "Distan gorunum",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPj8LaCIJVKrM7ZXu4IvHOkKoPPggnO-WFJPhH1=w224-h298-k-no"
+                },
+                {
+                    "about": "Ic",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipN38O7ZD1c-Bdyo9qSuVYFEiLI9yYbKtXtAs0R6=w397-h298-k-no"
+                },
+                {
+                    "about": "Sahibinin sectikleri",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPL97Uea8UOqxerJzrzkWEcT4KXi8wi3N1uFgoH=w224-h398-k-no"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "24 saat acik"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "24 saat acik"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "24 saat acik"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "24 saat acik"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "24 saat acik"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "24 saat acik"
+                    ]
+                },
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "24 saat acik"
+                    ]
+                }
+            ],
+            "most_popular_times": [
+                {
+                    "hour_of_day": 14,
+                    "average_popularity": 41.42857142857143,
+                    "time_label": "14:00"
+                },
+                {
+                    "hour_of_day": 19,
+                    "average_popularity": 37.142857142857146,
+                    "time_label": "19:00"
+                },
+                {
+                    "hour_of_day": 15,
+                    "average_popularity": 34.285714285714285,
+                    "time_label": "15:00"
+                }
+            ],
+            "popular_times": {
+                "Monday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "04:00",
+                        "popularity_percentage": 40,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "05:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "06:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "07:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "08:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "09:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "13:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "14:00",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "15:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "16:00",
+                        "popularity_percentage": 40,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "17:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "18:00",
+                        "popularity_percentage": 40,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "19:00",
+                        "popularity_percentage": 70,
+                        "popularity_description": "Genellikle biraz yogun"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "20:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "21:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "22:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "23:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "00:00",
+                        "popularity_percentage": 40,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "01:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "02:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "03:00",
+                        "popularity_percentage": 40,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    }
+                ],
+                "Tuesday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "04:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "05:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "06:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "07:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "08:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "09:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "13:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "14:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "15:00",
+                        "popularity_percentage": 70,
+                        "popularity_description": "Genellikle biraz yogun"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "16:00",
+                        "popularity_percentage": 60,
+                        "popularity_description": "Genellikle biraz yogun"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "17:00",
+                        "popularity_percentage": 40,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "18:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "19:00",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "20:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "21:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "22:00",
+                        "popularity_percentage": 40,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "23:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "00:00",
+                        "popularity_percentage": 40,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "01:00",
+                        "popularity_percentage": 70,
+                        "popularity_description": "Genellikle biraz yogun"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "02:00",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "03:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    }
+                ],
+                "Wednesday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "04:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "05:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "06:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "07:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "08:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "09:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "13:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "14:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "15:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "16:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "17:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "18:00",
+                        "popularity_percentage": 70,
+                        "popularity_description": "Genellikle biraz yogun"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "19:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "20:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "21:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "22:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "23:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "00:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "01:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "02:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "03:00",
+                        "popularity_percentage": 40,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    }
+                ],
+                "Thursday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "04:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "05:00",
+                        "popularity_percentage": 40,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "06:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "07:00",
+                        "popularity_percentage": 60,
+                        "popularity_description": "Genellikle biraz yogun"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "08:00",
+                        "popularity_percentage": 60,
+                        "popularity_description": "Genellikle biraz yogun"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "09:00",
+                        "popularity_percentage": 80,
+                        "popularity_description": "Genellikle biraz yogun"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10:00",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11:00",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12:00",
+                        "popularity_percentage": 100,
+                        "popularity_description": "Genellikle en yogun zamani"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "13:00",
+                        "popularity_percentage": 60,
+                        "popularity_description": "Genellikle biraz yogun"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "14:00",
+                        "popularity_percentage": 70,
+                        "popularity_description": "Genellikle biraz yogun"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "15:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "16:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "17:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "18:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "19:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "20:00",
+                        "popularity_percentage": 40,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "21:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "22:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "23:00",
+                        "popularity_percentage": 60,
+                        "popularity_description": "Genellikle biraz yogun"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "00:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "01:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "02:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "03:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    }
+                ],
+                "Friday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "04:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "05:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "06:00",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "07:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "08:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "09:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11:00",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "13:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "14:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "15:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "16:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "17:00",
+                        "popularity_percentage": 60,
+                        "popularity_description": "Genellikle biraz yogun"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "18:00",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "19:00",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "20:00",
+                        "popularity_percentage": 40,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "21:00",
+                        "popularity_percentage": 70,
+                        "popularity_description": "Genellikle biraz yogun"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "22:00",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "23:00",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "00:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "01:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "02:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "03:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    }
+                ],
+                "Saturday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "04:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "05:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "06:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "07:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "08:00",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "09:00",
+                        "popularity_percentage": 70,
+                        "popularity_description": "Genellikle biraz yogun"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "13:00",
+                        "popularity_percentage": 40,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "14:00",
+                        "popularity_percentage": 90,
+                        "popularity_description": "Genellikle en yogun zamani"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "15:00",
+                        "popularity_percentage": 70,
+                        "popularity_description": "Genellikle biraz yogun"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "16:00",
+                        "popularity_percentage": 40,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "17:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "18:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "19:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "20:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "21:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "22:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "23:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "00:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "01:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "02:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "03:00",
+                        "popularity_percentage": 70,
+                        "popularity_description": "Genellikle biraz yogun"
+                    }
+                ],
+                "Sunday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "04:00",
+                        "popularity_percentage": 40,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "05:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "06:00",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "07:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "08:00",
+                        "popularity_percentage": 40,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "09:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "13:00",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "14:00",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "15:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "16:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "17:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "18:00",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "19:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "20:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "21:00",
+                        "popularity_percentage": 40,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "22:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "23:00",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "00:00",
+                        "popularity_percentage": 40,
+                        "popularity_description": "Genellikle cok yogun degil"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "01:00",
+                        "popularity_percentage": 20,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "02:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "03:00",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Genellikle yogun degil"
+                    }
+                ]
+            },
+            "featured_reviews": [
+                {
+                    "review_id": "Ozgur bey ile Kurtalan Ekspres ve Baris Manco hayrani olarak yillar oncesine dayali dostlugumuz ve arkadasligimiz var, bilgisi, guvenilirligi disiplinli is hayati ile profesyonel hayatinda bu ozelligini on planda tuttuguna sahidiz.. sizlerin huzurunda basarilarinin devamini diler, nice basarilara imza atacagina gonulden inaniyor, yeni ofisinin de hayirli olmasini diliyorum.",
+                    "reviewer_name": "cihangir akkuzu",
+                    "rating": 5,
+                    "review_text": "Ozgur bey ile Kurtalan Ekspres ve Baris Manco hayrani olarak yillar oncesine dayali dostlugumuz ve arkadasligimiz var, bilgisi, guvenilirligi disiplinli is hayati ile profesyonel hayatinda bu ozelligini on planda tuttuguna sahidiz.. sizlerin huzurunda basarilarinin devamini diler, nice basarilara imza atacagina gonulden inaniyor, yeni ofisinin de hayirli olmasini diliyorum.",
+                    "published_at": "4 ay once",
+                    "published_at_date": "2023-08-01T09:39:56.492000",
+                    "response_from_owner_text": "Nazik yorumlariniz icin cok tesekkur ederiz Cihangir Bey. ",
+                    "response_from_owner_ago": "4 ay once",
+                    "response_from_owner_date": "2023-08-01T11:00:07.060000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116911255413853352385/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUpkJuFaJnf-PhbcQuuISH7NDIR8n-potLCnef83bd77A=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Ozgur Bey isinde uzman, guvenilir ve cok basarili bir avukat, alaninda uzun yillar daha fark yaratacagini dusunuyorum.",
+                    "reviewer_name": "Ali Kapicioglu",
+                    "rating": 5,
+                    "review_text": "Ozgur Bey isinde uzman, guvenilir ve cok basarili bir avukat, alaninda uzun yillar daha fark yaratacagini dusunuyorum.",
+                    "published_at": "2 ay once",
+                    "published_at_date": "2023-09-24T13:12:07.584000",
+                    "response_from_owner_text": "Hello Ali Kemal , \n\nWe're so grateful that you took the time to share your feedback with Kurucuk & Associates, Turkish Law Firm based in Istanbul, Turkey with english-speaking lawyers in Turkey.\n\nHave a wonderful day!",
+                    "response_from_owner_ago": "2 ay once",
+                    "response_from_owner_date": "2023-09-24T14:10:55.461000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103406722269232793405/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIwq0JwnHCUoFOBz-o1ieqGYKhYia59CBEwOsBKWtN5=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": "Merhaba Ali Kemal'im.\n\nGeri bildiriminizi Istanbul, Turkiye merkezli Turk Hukuk Burosu Kurucuk & Associates ile Turkiye'deki Ingilizce konusan avukatlarla paylasmaya zaman ayirdiginiz icin cok minnettariz.\n\nIyi gunler!",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Bodrum 'da ev alip Turk Vatandasligi basvurusunda bulunan koreli arkadaslarimizin avukati olan Ozgur Kurucuk  Bey tum taraflar acisindan surecin hukuken en guvenli sekilde tamamlanmasini saglayarak koreli dostlarimizin tum islemlerini sorunsuz halletti. Yakin zamanda iki arkadasimiz da Turk Vatandasi olacak. Yakin ilgileri her asamada cok verimli ve hizli harrket etmemizi sagladi. Kendilerine ve calisanlarina cok tesekkur ederiz.",
+                    "reviewer_name": "KUTAY DIK",
+                    "rating": 5,
+                    "review_text": "Bodrum 'da ev alip Turk Vatandasligi basvurusunda bulunan koreli arkadaslarimizin avukati olan Ozgur Kurucuk  Bey tum taraflar acisindan surecin hukuken en guvenli sekilde tamamlanmasini saglayarak koreli dostlarimizin tum islemlerini sorunsuz halletti. Yakin zamanda iki arkadasimiz da Turk Vatandasi olacak. Yakin ilgileri her asamada cok verimli ve hizli harrket etmemizi sagladi. Kendilerine ve calisanlarina cok tesekkur ederiz.",
+                    "published_at": "6 ay once",
+                    "published_at_date": "2023-05-10T10:33:27.815000",
+                    "response_from_owner_text": "Hello Kutay ,\n\nWe're so grateful that you took the time to share your feedback with Kurucuk & Associates, Turkish Law Firm with english-speaking Turkish Lawyers based in Istanbul, Turkey. \n\nHave a wonderful day!",
+                    "response_from_owner_ago": "2 ay once",
+                    "response_from_owner_date": "2023-05-10T10:37:22.490000",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 10,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108430364285444712389/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLUuBy9Nof3CFPMbbceaBPDLBI5YaEXwFSFAkhS8N_s=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": "Merhaba Kutay,\n\nGeri bildiriminizi Istanbul, Turkiye'de bulunan Ingilizce konusan Turk Avukatlarin gorev yaptigi Turk Hukuk Burosu Kurucuk & Associates ile paylasmaya zaman ayirdiginiz icin cok minnettariz.\n\nIyi gunler!",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Guvenebilecegiz isini duzgun yapan avukatlik burolarindan biri.Ozgur bey'i Istanbulda avukat arayisiniz var ise siddetle tavsiye ediyorum.",
+                    "reviewer_name": "Sahra Kayhan",
+                    "rating": 5,
+                    "review_text": "Guvenebilecegiz isini duzgun yapan avukatlik burolarindan biri.Ozgur bey'i Istanbulda avukat arayisiniz var ise siddetle tavsiye ediyorum.",
+                    "published_at": "4 ay once",
+                    "published_at_date": "2023-07-10T10:12:33.989000",
+                    "response_from_owner_text": "Hello Sahra,\n\nWe're so grateful that you took the time to share your feedback with Kurucuk & Associates, Turkish Law Firm with english-speaking Turkish Lawyers based in Istanbul, Turkey. \n\nHave a wonderful day!\n",
+                    "response_from_owner_ago": "2 ay once",
+                    "response_from_owner_date": "2023-07-10T11:09:10.238000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107507019379179009642/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUcieowqD1JHSRk5fvaCcpkGpc9jyJ60OYuVckcL5_bXA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": "Merhaba Sahra,\n\nGeri bildiriminizi Istanbul, Turkiye'de bulunan Ingilizce konusan Turk Avukatlarin gorev yaptigi Turk Hukuk Burosu Kurucuk & Associates ile paylasmaya zaman ayirdiginiz icin cok minnettariz.\n\nIyi gunler!\n",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Tebrik ediyorum. Yillardir bir cok konuda essiz destegini esirgemedigi ve profesyonel cozumlerle firma ve haklarimizi sonuna kadar korudugu icin sonsuz tesekkur ediyorum.  Sayin Ozgur Kurucuk ile calismaktan gurur ve mutluluk duyuyoruz.",
+                    "reviewer_name": "Alp Zey",
+                    "rating": 5,
+                    "review_text": "Tebrik ediyorum. Yillardir bir cok konuda essiz destegini esirgemedigi ve profesyonel cozumlerle firma ve haklarimizi sonuna kadar korudugu icin sonsuz tesekkur ediyorum.  Sayin Ozgur Kurucuk ile calismaktan gurur ve mutluluk duyuyoruz.",
+                    "published_at": "6 ay once",
+                    "published_at_date": "2023-05-15T11:20:09.935000",
+                    "response_from_owner_text": "Hello Alp Zey,\n\nWe're so grateful that you took the time to share your feedback with Kurucuk & Associates, Turkish Law Firm with english-speaking Turkish Lawyers based in Istanbul, Turkey. \n\nHave a wonderful day!\n",
+                    "response_from_owner_ago": "2 ay once",
+                    "response_from_owner_date": "2023-05-15T16:17:18.480000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115282067803196759328/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVUNy_txz1tpt9upaHN1Cs4mENllr-pax9alNZxnoCUZYI=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": "Merhaba Alp Zey,\n\nGeri bildiriminizi Istanbul, Turkiye'de bulunan Ingilizce konusan Turk Avukatlarin gorev yaptigi Turk Hukuk Burosu Kurucuk & Associates ile paylasmaya zaman ayirdiginiz icin cok minnettariz.\n\nIyi gunler!\n",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Isini buyuk bir dikkatle ve sorumluluk ile yapan nadir hukuk burolarindan birisi, aldigi egitimi durustlugu ile birlestirip musterilere sunan degerli bir isletme.",
+                    "reviewer_name": "Medsail Holidays",
+                    "rating": 5,
+                    "review_text": "Isini buyuk bir dikkatle ve sorumluluk ile yapan nadir hukuk burolarindan birisi, aldigi egitimi durustlugu ile birlestirip musterilere sunan degerli bir isletme.",
+                    "published_at": "6 ay once",
+                    "published_at_date": "2023-05-12T09:59:04.490000",
+                    "response_from_owner_text": "We're so grateful that you took the time to share your feedback with Kurucuk & Associates, Turkish Law Firm based in Istanbul, Turkey with english-speaking Turkish lawyers. \n\nHave a wonderful day!\n",
+                    "response_from_owner_ago": "2 ay once",
+                    "response_from_owner_date": "2023-05-12T10:09:22.966000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 23,
+                    "total_number_of_photos_by_reviewer": 37,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108782752489180870094/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX0xnD56UWAd_11h5hgMQkTX2nLdf839u9Pz0HnWGk5J1k=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": "Geri bildiriminizi Istanbul, Turkiye merkezli Turk Hukuk Burosu Kurucuk & Associates ile Ingilizce konusan Turk avukatlarla paylasmaya zaman ayirdiginiz icin cok minnettariz.\n\nIyi gunler!\n",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Gercekten cok ilgili ve islerinde cok iyiler. Miras davamiz icin uzun bir suredir birlikte ilerlemekteydik. Yakin bir zamanda olumlu sonuclandi. Cok tesekkurler....",
+                    "reviewer_name": "Hilal Caglar",
+                    "rating": 5,
+                    "review_text": "Gercekten cok ilgili ve islerinde cok iyiler. Miras davamiz icin uzun bir suredir birlikte ilerlemekteydik. Yakin bir zamanda olumlu sonuclandi. Cok tesekkurler....",
+                    "published_at": "6 ay once",
+                    "published_at_date": "2023-05-10T10:21:11.872000",
+                    "response_from_owner_text": "We're so grateful that you took the time to share your feedback with Kurucuk & Associates, Turkish Law Firm based in Istanbul, Turkey with english-speaking Turkish lawyers. \n\nHave a wonderful day!",
+                    "response_from_owner_ago": "2 ay once",
+                    "response_from_owner_date": "2023-05-10T10:38:07.684000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100674942015119764225/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI_vPMRlve5gDSm_iqgbHdJyEFXtRN1lCDIauWsEpCi=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": "Geri bildiriminizi Istanbul, Turkiye merkezli Turk Hukuk Burosu Kurucuk & Associates ile Ingilizce konusan Turk avukatlarla paylasmaya zaman ayirdiginiz icin cok minnettariz.\n\nIyi gunler!",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Ozgur bey, cok iyi, isini titizlikle en iyi sekilde yapan biridir. Tesekkurler Kurucuk&Associates.",
+                    "reviewer_name": "MEHMET HAKAN Batir",
+                    "rating": 5,
+                    "review_text": "Ozgur bey, cok iyi, isini titizlikle en iyi sekilde yapan biridir. Tesekkurler Kurucuk&Associates.",
+                    "published_at": "3 ay once",
+                    "published_at_date": "2023-08-19T14:24:49.369000",
+                    "response_from_owner_text": "We're so grateful that you took the time to share your feedback with Kurucuk & Associates, Turkish Law Firm based in Istanbul, Turkey with english-speaking Turkish lawyers. \n\nHave a wonderful day!",
+                    "response_from_owner_ago": "2 ay once",
+                    "response_from_owner_date": "2023-08-19T15:10:10.539000",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 100,
+                    "total_number_of_photos_by_reviewer": 27,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105175931840706534560/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXMe38qxQapb9eXMaG30m65AL9fwGFBlX-3VwKo2m7wTQo=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": "Geri bildiriminizi Istanbul, Turkiye merkezli Turk Hukuk Burosu Kurucuk & Associates ile Ingilizce konusan Turk avukatlarla paylasmaya zaman ayirdiginiz icin cok minnettariz.\n\nIyi gunler!",
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJV481JtTRyhQROpE2a5uB650",
+            "name": "Elmas Hukuk Burosu",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Yildiz Hukuk Burosu",
+                    "link": "https://www.google.com/maps/search/Y%C4%B1ld%C4%B1z+Hukuk+B%C3%BCrosu/@40.966031099999995,29.2711765?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 33,
+                    "rating": 5,
+                    "main_category": "Avukat"
+                },
+                {
+                    "name": "Av. FATIH DOGAN (HUKUK BUROSU)",
+                    "link": "https://www.google.com/maps/search/Av.+FAT%C4%B0H+DO%C4%9EAN+%28HUKUK+B%C3%9CROSU%29/@40.967559099999995,29.265853999999997?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 8,
+                    "rating": 5,
+                    "main_category": "Hukuk Burosu"
+                },
+                {
+                    "name": "ANKA AVUKATLIK BUROSU",
+                    "link": "https://www.google.com/maps/search/ANKA+AVUKATLIK+B%C3%9CROSU/@40.9660533,29.2695328?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 29,
+                    "rating": 5,
+                    "main_category": "Avukat"
+                },
+                {
+                    "name": "IKA HUKUK BUROSU - Av. Cihan DEMIR",
+                    "link": "https://www.google.com/maps/search/%C4%B0KA+HUKUK+B%C3%9CROSU+-+Av.+Cihan+DEM%C4%B0R/@40.968469999999996,29.262645?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 2,
+                    "rating": 3,
+                    "main_category": "Avukatlik Danisma Hizmeti"
+                },
+                {
+                    "name": "Avukat Ahmet Emin TURKES | Hukuk ve Danismanlik Hizmetleri | Agir Ceza Davalari | Bosanma Davalari | Alacak Davalari",
+                    "link": "https://www.google.com/maps/search/Avukat+Ahmet+Emin+T%C3%9CRKE%C5%9E+%7C+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+Hizmetleri+%7C+A%C4%9F%C4%B1r+Ceza+Davalar%C4%B1+%7C+Bo%C5%9Fanma+Davalar%C4%B1+%7C+Alacak+Davalar%C4%B1/@41.0319226,29.180261699999996?authuser=0&hl=tr&entry=ttu",
+                    "reviews": 241,
+                    "rating": 4.9,
+                    "main_category": "Avukat"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": "105522858524610790537",
+                "name": "Elmas Hukuk Burosu (Sahibi)",
+                "link": "https://www.google.com/maps/contrib/105522858524610790537"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPOUBqtxdVgn0km1FIcTevx4aXBqqtYlzGT2N3X=w408-h544-k-no",
+            "main_category": "Kurumsal Ofis",
+            "categories": [
+                "Kurumsal Ofis",
+                "Hukuk Burosu"
+            ],
+            "rating": null,
+            "workday_timing": "09:00-20:00",
+            "closed_on": [
+                "Cumartesi",
+                "Pazar"
+            ],
+            "phone": "0554 512 89 34",
+            "address": "Abdurrahmangazi, Elmas Hukuk Burosu, Osman, Bedrettin Sk. No:4 / 6, 34920 Sultanbeyli/Istanbul",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Elmas+Hukuk+B%C3%BCrosu/data=!4m7!3m6!1s0x14cad1d426358f57:0x9deb819b6b36913a!8m2!3d40.9703133!4d29.2593203!16s%2Fg%2F11nsrh5d4y!19sChIJV481JtTRyhQROpE2a5uB650?authuser=0&hl=tr&rclk=1",
+            "status": "Kapali  Acilis saati: 09:00",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJV481JtTRyhQROpE2a5uB650&q=Elmas+Hukuk+B%C3%BCrosu&authuser=0&hl=tr&gl=TR",
+            "coordinates": {
+                "latitude": 40.9703133,
+                "longitude": 29.2593203
+            },
+            "plus_code": "X7C5+4P Sultanbeyli, Istanbul",
+            "detailed_address": {
+                "ward": "Abdurrahmangazi",
+                "street": "Osman, Bedrettin Sk. No:4 / 6",
+                "city": "Sultanbeyli",
+                "postal_code": "34920",
+                "state": "Istanbul",
+                "country_code": "TR"
+            },
+            "time_zone": "Europe/Istanbul",
+            "cid": "11379331388000342330",
+            "data_id": "0x14cad1d426358f57:0x9deb819b6b36913a",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "Tumu",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPOUBqtxdVgn0km1FIcTevx4aXBqqtYlzGT2N3X=w224-h298-k-no"
+                },
+                {
+                    "about": "Sahibinin sectikleri",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMatRcQukuIL_z2zFFGOvmi5gdb_X9FXkLm1yPl=w224-h298-k-no"
+                },
+                {
+                    "about": "Street View ve 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cz7SncmnwbIZ2vpMfToLtg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=317.7668&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Pazartesi",
+                    "times": [
+                        "09:00-20:00"
+                    ]
+                },
+                {
+                    "day": "Sali",
+                    "times": [
+                        "09:00-20:00"
+                    ]
+                },
+                {
+                    "day": "Carsamba",
+                    "times": [
+                        "09:00-20:00"
+                    ]
+                },
+                {
+                    "day": "Persembe",
+                    "times": [
+                        "09:00-20:00"
+                    ]
+                },
+                {
+                    "day": "Cuma",
+                    "times": [
+                        "09:00-20:00"
+                    ]
+                },
+                {
+                    "day": "Cumartesi",
+                    "times": [
+                        "Kapali"
+                    ]
+                },
+                {
+                    "day": "Pazar",
+                    "times": [
+                        "Kapali"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        }
+    ]
+}

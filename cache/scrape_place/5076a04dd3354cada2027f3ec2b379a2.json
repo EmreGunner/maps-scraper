@@ -1,0 +1,177 @@
+{
+    "place_id": "ChIJYzBwdmq3yhQRv0Pg7e0qbNw",
+    "name": "Akalp Hukuk",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "Akalp Law Firm",
+            "link": "https://www.google.com/maps/search/Akalp+Law+Firm/@40.992212699999996,29.040589500000003?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Karako\u00e7 Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Karako%C3%A7+Avukatl%C4%B1k+B%C3%BCrosu/@40.9958382,28.8708267?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Birikim Hukuki Dan\u0131\u015fmanl\u0131k Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Birikim+Hukuki+Dan%C4%B1%C5%9Fmanl%C4%B1k+Avukatl%C4%B1k+B%C3%BCrosu/@40.992614200000006,28.8702618?authuser=0&entry=ttu",
+            "reviews": 17,
+            "rating": 4.5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Canpolat Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Canpolat+Hukuk+B%C3%BCrosu/@40.9943581,28.873936699999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "avukat mehmet akif altun",
+            "link": "https://www.google.com/maps/search/avukat+mehmet+akif+altun/@40.9936047,28.876688699999995?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": "https://www.akalphukuk.com.tr/",
+    "owner": {
+        "id": "111108421308569390534",
+        "name": "Akalp Hukuk (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/111108421308569390534"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lv9YQOnv9kZ4F4KJS43JZg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=56.33852&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201317:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 220 29 49",
+    "address": "Zuhuratbaba Mah, Akalp Hukuk, Mahmut Moral\u0131 Sk. No.2, 34147 Bak\u0131rk\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJYzBwdmq3yhQRv0Pg7e0qbNw",
+    "status": "Kapanmak \u00fczere \u22c5 17:30 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Per 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJYzBwdmq3yhQRv0Pg7e0qbNw&q=?q=place_id:ChIJYzBwdmq3yhQRv0Pg7e0qbNw&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.982923,
+        "longitude": 28.871333
+    },
+    "plus_code": "XVMC+5G Bak\u0131rk\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Zuhuratbaba Mah",
+        "street": "Mahmut Moral\u0131 Sk. No.2",
+        "city": "Bak\u0131rk\u00f6y",
+        "postal_code": "34147",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "15883117187215410111",
+    "data_id": "0x14cab76a76703063:0xdc6c2aedede043bf",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lv9YQOnv9kZ4F4KJS43JZg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=56.33852&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lv9YQOnv9kZ4F4KJS43JZg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=56.33852&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Profesyonel",
+            "reviewer_name": "Memduh R. Bal",
+            "rating": 5,
+            "review_text": "Profesyonel",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2020-12-27T06:36:21.836000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109375581471081588959/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXQc7ckMztqueUiBafNuBburBSPorggMxKB5OqUeEvL6do=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJq6qaNx23yhQRocfPn_MgLSc",
+    "name": "KOB\u0130 Dan\u0131\u015fman\u0131",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Cansu Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Cansu+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.0710551,28.9834909?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "E\u011fitim Dan\u0131\u015fman\u0131"
+        },
+        {
+            "name": "Kesand",
+            "link": "https://www.google.com/maps/search/Kesand/@41.065923,28.995552999999994?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Dan\u0131\u015fman"
+        },
+        {
+            "name": "Kobi Destek Merkezi",
+            "link": "https://www.google.com/maps/search/Kobi+Destek+Merkezi/@41.079422199999996,29.0137611?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Dan\u0131\u015fman"
+        },
+        {
+            "name": "Kobider",
+            "link": "https://www.google.com/maps/search/Kobider/@41.07248,28.980426799999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Finans Kurumu"
+        },
+        {
+            "name": "KOSGEB AKRED\u0130TE KOB\u0130 DANI\u015eMANI \u0130HRACAT DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/KOSGEB+AKRED%C4%B0TE+KOB%C4%B0+DANI%C5%9EMANI+%C4%B0HRACAT+DANI%C5%9EMANLIK/@40.9523727,29.0985474?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 4.6,
+            "main_category": "Dan\u0131\u015fman"
+        }
+    ],
+    "website": "http://kobidanismani.org/",
+    "owner": {
+        "id": null,
+        "name": "KOB\u0130 Dan\u0131\u015fman\u0131 (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=C_IPHEsGGO93C6KZhMJyaQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=274.95135&pitch=0&thumbfov=100",
+    "main_category": "\u0130\u015fletme Y\u00f6netimi Dan\u0131\u015fman\u0131",
+    "categories": [
+        "\u0130\u015fletme Y\u00f6netimi Dan\u0131\u015fman\u0131"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 942 87 78",
+    "address": "Merkez, KOB\u0130 Dan\u0131\u015fman\u0131, Stratejik \u0130\u015fler, Abide-i H\u00fcrriyet Cd No: 211/64, 34381 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJq6qaNx23yhQRocfPn_MgLSc",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJq6qaNx23yhQRocfPn_MgLSc&q=?q=place_id:ChIJq6qaNx23yhQRocfPn_MgLSc&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0648378,
+        "longitude": 28.987112099999997
+    },
+    "plus_code": "3X7P+WR \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkez",
+        "street": "Stratejik \u0130\u015fler, Abide-i H\u00fcrriyet Cd No: 211/64",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34381",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2822948772161505185",
+    "data_id": "0x14cab71d379aaaab:0x272d20f39fcfc7a1",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=C_IPHEsGGO93C6KZhMJyaQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=274.95135&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=C_IPHEsGGO93C6KZhMJyaQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=274.95135&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,197 @@
+{
+    "place_id": "ChIJNwHA9hu3yhQRswap2tI1kKw",
+    "name": "Platin Patent",
+    "description": null,
+    "reviews": 2,
+    "competitors": [
+        {
+            "name": "\u0130stanbul Patent A.S.",
+            "link": "https://www.google.com/maps/search/%C4%B0stanbul+Patent+A.S./@41.062031999999995,28.988678699999998?authuser=0&entry=ttu",
+            "reviews": 16,
+            "rating": 4.3,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Patent",
+            "link": "https://www.google.com/maps/search/Patent/@41.0623937,28.9686555?authuser=0&entry=ttu",
+            "reviews": 29,
+            "rating": 4.9,
+            "main_category": "Patent Ofisi"
+        },
+        {
+            "name": "\u00dcST\u00dcN PATENT",
+            "link": "https://www.google.com/maps/search/%C3%9CST%C3%9CN+PATENT/@41.0495453,28.9922841?authuser=0&entry=ttu",
+            "reviews": 78,
+            "rating": 5,
+            "main_category": "Dan\u0131\u015fman"
+        },
+        {
+            "name": "Platin Denetim",
+            "link": "https://www.google.com/maps/search/Platin+Denetim/@41.012226999999996,28.950077?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Sa\u011flam Patent",
+            "link": "https://www.google.com/maps/search/Sa%C4%9Flam+Patent/@41.0402383,28.9923321?authuser=0&entry=ttu",
+            "reviews": 52,
+            "rating": 5,
+            "main_category": "Patent Ofisi"
+        }
+    ],
+    "website": "http://www.platinpatent.com/",
+    "owner": {
+        "id": null,
+        "name": "Platin Patent (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh5.googleusercontent.com/j9N9I49CSrfHi9XCxasvWx2DqYcIxN2hs_rEv_ToteaWsIWLZfngJ01-mvj2Jyo=w426-h240-k-no",
+    "main_category": "Patent Ofisi",
+    "categories": [
+        "Patent Ofisi"
+    ],
+    "rating": 3,
+    "workday_timing": "08:30\u201318:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 225 90 76",
+    "address": "Platin Patent, Merkez \u00c7ifte Cevizler Caddesi Saruhan Plaza, D:168, 23, 34381 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJNwHA9hu3yhQRswap2tI1kKw",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJNwHA9hu3yhQRswap2tI1kKw&q=?q=place_id:ChIJNwHA9hu3yhQRswap2tI1kKw&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0623912,
+        "longitude": 28.9829726
+    },
+    "plus_code": "3X6M+X5 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkez",
+        "street": "Merkez \u00c7ifte Cevizler Caddesi Saruhan Plaza, D:168, 23",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34381",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12434497750897854131",
+    "data_id": "0x14cab71bf6c00137:0xac9035d2daa906b3",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh5.googleusercontent.com/j9N9I49CSrfHi9XCxasvWx2DqYcIxN2hs_rEv_ToteaWsIWLZfngJ01-mvj2Jyo=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2niE6ptoMblOtP2KKbTKag&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=341.61282&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Platin patent yeni firma sahiplerine veya firma logolar\u0131n\u0131 veya firma de\u011fi\u015fikli\u011fine gidecek insanlarin kurumsalligini tescillemek istedi\u011finde platin patent yetkilileri bu konuda \u00f6z g\u00fcvenini kaybetmi\u015f insanlar\u0131 ma\u011fdur edebilen tek firmad\u0131r bu konuda platin patent i\u00e7in iletisimlerinizde dikkatli olman\u0131z\u0131 tavsiye ediyorum",
+            "reviewer_name": "Fatih Aykurt",
+            "rating": 1,
+            "review_text": "Platin patent yeni firma sahiplerine veya firma logolar\u0131n\u0131 veya firma de\u011fi\u015fikli\u011fine gidecek insanlarin kurumsalligini tescillemek istedi\u011finde platin patent yetkilileri bu konuda \u00f6z g\u00fcvenini kaybetmi\u015f insanlar\u0131 ma\u011fdur edebilen tek firmad\u0131r bu konuda platin patent i\u00e7in iletisimlerinizde dikkatli olman\u0131z\u0131 tavsiye ediyorum",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-07-15T15:26:43.203000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 14,
+            "total_number_of_photos_by_reviewer": 42,
+            "reviewer_url": "https://www.google.com/maps/contrib/117851824974247470523/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUF4eQZPb_nJ_XOX8lwI5gXEu9k5qJgqPbIMMmWGYPf0g=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Ge\u00e7mesi zor olan markam\u0131z\u0131 Marka Vekili \u0130skender Yal\u00e7\u0131n Bey in t\u00fcm i\u015flemlerimizi uzmanl\u0131\u011f\u0131 ile y\u00fcr\u00fctmesi sonucu tescil belgemize sahip olduk.\nTe\u015fekk\u00fcrler",
+            "reviewer_name": "\u0131\u015f\u0131l demir",
+            "rating": 5,
+            "review_text": "Ge\u00e7mesi zor olan markam\u0131z\u0131 Marka Vekili \u0130skender Yal\u00e7\u0131n Bey in t\u00fcm i\u015flemlerimizi uzmanl\u0131\u011f\u0131 ile y\u00fcr\u00fctmesi sonucu tescil belgemize sahip olduk.\nTe\u015fekk\u00fcrler",
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-08-21T14:46:49.489000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/103428305868006750947/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVCTt3rJgVY6RaXymloaauODvk8W9r728RQZ6EcGurR9Zo=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

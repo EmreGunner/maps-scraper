@@ -1,0 +1,99 @@
+{
+    "place_id": "ChIJpdjNwe3HyhQR4a9hxf0XBL8",
+    "name": "Bezm-I \u00c2lem Pilavcisi",
+    "description": null,
+    "reviews": null,
+    "competitors": [],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Bezm-I \u00c2lem Pilavcisi (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=V2Iw6xNWfKWRDmgrNHgXDw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=15.747585&pitch=0&thumbfov=100",
+    "main_category": "Restoran",
+    "categories": [
+        "Restoran"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Dumlup\u0131nar, Bezm-I \u00c2lem Pilavcisi, Bar\u0131\u015f Sk. No:60, 34720 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJpdjNwe3HyhQR4a9hxf0XBL8",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJpdjNwe3HyhQR4a9hxf0XBL8&q=?q=place_id:ChIJpdjNwe3HyhQR4a9hxf0XBL8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9943671,
+        "longitude": 29.059137099999997
+    },
+    "plus_code": "X3V5+PM Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Dumlup\u0131nar",
+        "street": "Bar\u0131\u015f Sk. No:60",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34720",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "13764152739856756705",
+    "data_id": "0x14cac7edc1cdd8a5:0xbf0417fdc561afe1",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "\u0130\u00e7eride servis",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosfer",
+            "options": [
+                {
+                    "name": "G\u00fcnl\u00fck k\u0131yafet",
+                    "enabled": true
+                },
+                {
+                    "name": "Rahat",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=V2Iw6xNWfKWRDmgrNHgXDw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=15.747585&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=V2Iw6xNWfKWRDmgrNHgXDw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=15.747585&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

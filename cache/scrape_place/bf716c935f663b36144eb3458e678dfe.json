@@ -1,0 +1,101 @@
+{
+    "place_id": "ChIJ454XsW64yhQRo8jgtuQyTEQ",
+    "name": "B/f",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Fark\u0131ndal\u0131k",
+            "link": "https://www.google.com/maps/search/Fark%C4%B1ndal%C4%B1k/@40.9937228,29.029910800000003?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": ""
+        },
+        {
+            "name": "Bej kad\u0131k\u00f6y Premium Coffee Co.",
+            "link": "https://www.google.com/maps/search/Bej+kad%C4%B1k%C3%B6y+Premium+Coffee+Co./@40.9956527,29.029121399999998?authuser=0&entry=ttu",
+            "reviews": 32,
+            "rating": 5,
+            "main_category": "Kahve Ma\u011fazas\u0131"
+        },
+        {
+            "name": "By Home Life",
+            "link": "https://www.google.com/maps/search/By+Home+Life/@40.993516899999996,29.028170599999996?authuser=0&entry=ttu",
+            "reviews": 11,
+            "rating": 3.9,
+            "main_category": "3 y\u0131ld\u0131zl\u0131 otel"
+        },
+        {
+            "name": "Baydolap",
+            "link": "https://www.google.com/maps/search/Baydolap/@40.9900745,29.0595012?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": ""
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "B/f (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZjO8e2Fr1lcRPTqFY43pLg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=115.36374&pitch=0&thumbfov=100",
+    "main_category": null,
+    "categories": null,
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Rasimpa\u015fa, B/f, Beyda\u011f\u0131 Sk No:21, 34716 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ454XsW64yhQRo8jgtuQyTEQ",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ454XsW64yhQRo8jgtuQyTEQ&q=?q=place_id:ChIJ454XsW64yhQRo8jgtuQyTEQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.993583699999995,
+        "longitude": 29.0290306
+    },
+    "plus_code": "X2VH+CJ Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Rasimpa\u015fa",
+        "street": "Beyda\u011f\u0131 Sk No:21",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34716",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4921364450711226531",
+    "data_id": "0x14cab86eb1179ee3:0x444c32e4b6e0c8a3",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZjO8e2Fr1lcRPTqFY43pLg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=115.36374&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZjO8e2Fr1lcRPTqFY43pLg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=115.36374&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

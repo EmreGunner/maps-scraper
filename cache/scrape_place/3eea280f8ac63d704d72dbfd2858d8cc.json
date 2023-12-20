@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJX8HUm8jHyhQRHZgOReNx680",
+    "name": "Garan Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Garan Hukuk B\u00fcrosu Avukat Nazmiye Ye\u015fim Garan",
+            "link": "https://www.google.com/maps/search/Garan+Hukuk+B%C3%BCrosu+Avukat+Nazmiye+Ye%C5%9Fim+Garan/@40.9885745,29.081340400000002?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 4,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u00d6Z&G\u00dcR Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%96Z%26G%C3%9CR+Hukuk+B%C3%BCrosu/@40.9791201,29.078064800000003?authuser=0&entry=ttu",
+            "reviews": 17,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Miran Legal",
+            "link": "https://www.google.com/maps/search/Miran+Legal/@40.981055999999995,29.086302999999997?authuser=0&entry=ttu",
+            "reviews": 30,
+            "rating": 4.4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "G\u00dcRAS HUKUK B\u00dcROSU & LAW FIRM",
+            "link": "https://www.google.com/maps/search/G%C3%9CRAS+HUKUK+B%C3%9CROSU+%26+LAW+FIRM/@40.978283499999996,29.0921338?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Av. Burcu \u015eahin Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Av.+Burcu+%C5%9Eahin+Hukuk+B%C3%BCrosu/@40.983928999999996,29.082927?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Garan Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_1S07oJ4lc1s_Gsph7XUGw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=48.324394&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Sahray\u0131 Cedit, Garan Hukuk B\u00fcrosu, Bankac\u0131lar Sk. No:4, 34734 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJX8HUm8jHyhQRHZgOReNx680",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJX8HUm8jHyhQRHZgOReNx680&q=?q=place_id:ChIJX8HUm8jHyhQRHZgOReNx680&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.987763,
+        "longitude": 29.081442
+    },
+    "plus_code": "X3QJ+4H Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Sahray\u0131 Cedit",
+        "street": "Bankac\u0131lar Sk. No:4",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34734",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "14838078618232330269",
+    "data_id": "0x14cac7c89bd4c15f:0xcdeb71e3450e981d",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_1S07oJ4lc1s_Gsph7XUGw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=48.324394&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_1S07oJ4lc1s_Gsph7XUGw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=48.324394&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

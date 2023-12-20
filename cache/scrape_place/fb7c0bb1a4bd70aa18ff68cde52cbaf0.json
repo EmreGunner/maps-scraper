@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJP8G5ZR_HyhQREpqST_vqKTU",
+    "name": "\u00d6zge O\u011fuz Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "OGUZ LAW FIRM & CONSULTANCY",
+            "link": "https://www.google.com/maps/search/OGUZ+LAW+FIRM+%26+CONSULTANCY/@40.982963999999996,29.062710000000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat \u00d6zgecan Kunt",
+            "link": "https://www.google.com/maps/search/Avukat+%C3%96zgecan+Kunt/@40.9818765,29.057621?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Erhan \u00d6\u011f\u00fcz",
+            "link": "https://www.google.com/maps/search/Erhan+%C3%96%C4%9F%C3%BCz/@40.9903179,29.028378?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u00d6ZBEK Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%96ZBEK+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@40.993244,29.040853000000002?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "O\u011fuz Hukuk Ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/O%C4%9Fuz+Hukuk+Ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@41.0042939,28.870754299999994?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 4.5,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "\u00d6zge O\u011fuz Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=b9iO7bXvoFhVBjmkkAb2dg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=324.90012&pitch=0&thumbfov=100",
+    "main_category": "Kurumsal Ofis",
+    "categories": [
+        "Kurumsal Ofis"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "E\u011fitim, \u00d6zge O\u011fuz Hukuk B\u00fcrosu, 34722 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJP8G5ZR_HyhQREpqST_vqKTU",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJP8G5ZR_HyhQREpqST_vqKTU&q=?q=place_id:ChIJP8G5ZR_HyhQREpqST_vqKTU&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9860261,
+        "longitude": 29.0480952
+    },
+    "plus_code": "X2PX+C6 Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "E\u011fitim",
+        "street": null,
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "3830851323148016146",
+    "data_id": "0x14cac71f65b9c13f:0x3529eafb4f929a12",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=b9iO7bXvoFhVBjmkkAb2dg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=324.90012&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=b9iO7bXvoFhVBjmkkAb2dg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=324.90012&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

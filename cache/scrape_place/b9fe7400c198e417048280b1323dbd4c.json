@@ -1,0 +1,208 @@
+{
+    "place_id": "ChIJAZ5gpd7FyhQRlCkzBGnVLuQ",
+    "name": "\u0130mar ve Hukuk",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "UNS HUKUK ve DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/UNS+HUKUK+ve+DANI%C5%9EMANLIK/@40.916571,29.189152000000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Marmara Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Marmara+Hukuk+B%C3%BCrosu/@40.916689399999996,29.1954726?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u015eim\u015fek Hukuk - Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/%C5%9Eim%C5%9Fek+Hukuk+-+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.916571,29.189152000000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Balc\u0131 Hukuk Dan\u0131\u015fmanl\u0131k - Avukat Ya\u015far BALCI",
+            "link": "https://www.google.com/maps/search/Balc%C4%B1+Hukuk+Dan%C4%B1%C5%9Fmanl%C4%B1k+-+Avukat+Ya%C5%9Far+BALCI/@40.9122814,29.177863900000002?authuser=0&entry=ttu",
+            "reviews": 62,
+            "rating": 5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Milat Hukuk",
+            "link": "https://www.google.com/maps/search/Milat+Hukuk/@40.9145666,29.187713699999996?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        }
+    ],
+    "website": "https://www.imarvehukuk.com/",
+    "owner": {
+        "id": "109179817340473151383",
+        "name": "\u0130mar ve Hukuk (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/109179817340473151383"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNTUlpWzTX9V-PijQZdQWMnVzJ8zO0X4-aIA4Nq=w408-h408-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu",
+        "Avukat"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201317:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0541 201 44 41",
+    "address": "So\u011fanl\u0131k Yeni, \u0130mar ve Hukuk, Baltac\u0131 Mehmet Pa\u015fa Sk. No:4 B Blok Kat:1 Daire:15, 34862 Kartal/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJAZ5gpd7FyhQRlCkzBGnVLuQ",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 17:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAZ5gpd7FyhQRlCkzBGnVLuQ&q=?q=place_id:ChIJAZ5gpd7FyhQRlCkzBGnVLuQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.916571,
+        "longitude": 29.189152
+    },
+    "plus_code": "W58Q+JM Kartal, \u0130stanbul",
+    "detailed_address": {
+        "ward": "So\u011fanl\u0131k Yeni",
+        "street": "Baltac\u0131 Mehmet Pa\u015fa Sk. No:4 B Blok Kat:1 Daire:15",
+        "city": "Kartal",
+        "postal_code": "34862",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16442313936595003796",
+    "data_id": "0x14cac5dea5609e01:0xe42ed56904332994",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.imarvehukuk.com/iletisim/",
+            "source": "imarvehukuk.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNTUlpWzTX9V-PijQZdQWMnVzJ8zO0X4-aIA4Nq=w298-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNTUlpWzTX9V-PijQZdQWMnVzJ8zO0X4-aIA4Nq=w298-h298-k-no"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Av. G\u00f6khan B\u0130LG\u0130N",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-10-14T11:53:46.004000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/100146162890988091160/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWV6-r3UDB-4c418wgxbZPL-06dnEe_fJlU18Oxvn_VvQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

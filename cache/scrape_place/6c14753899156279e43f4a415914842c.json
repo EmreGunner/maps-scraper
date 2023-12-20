@@ -1,0 +1,351 @@
+{
+    "place_id": "ChIJxzz_sAu3yhQRjrcimX9807c",
+    "name": "FMV I\u015f\u0131k Okullar\u0131 Ni\u015fanta\u015f\u0131 Yerle\u015fkesi",
+    "description": null,
+    "reviews": 32,
+    "competitors": [
+        {
+            "name": "FMV \u00d6zel I\u015f\u0131k Ortaokulu",
+            "link": "https://www.google.com/maps/search/FMV+%C3%96zel+I%C5%9F%C4%B1k+Ortaokulu/@41.0496999,28.9936357?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 4.5,
+            "main_category": "Ortaokul"
+        },
+        {
+            "name": "FMV I\u015f\u0131k Okullar\u0131 Ayaza\u011fa Kamp\u00fcs\u00fc",
+            "link": "https://www.google.com/maps/search/FMV+I%C5%9F%C4%B1k+Okullar%C4%B1+Ayaza%C4%9Fa+Kamp%C3%BCs%C3%BC/@41.110614999999996,29.025452?authuser=0&entry=ttu",
+            "reviews": 13,
+            "rating": 3.9,
+            "main_category": "Okul"
+        },
+        {
+            "name": "FMV I\u015f\u0131k Okullar\u0131 Erenk\u00f6y G\u00fcne\u015f Kamp\u00fcs\u00fc",
+            "link": "https://www.google.com/maps/search/FMV+I%C5%9F%C4%B1k+Okullar%C4%B1+Erenk%C3%B6y+G%C3%BCne%C5%9F+Kamp%C3%BCs%C3%BC/@40.971875,29.087634599999998?authuser=0&entry=ttu",
+            "reviews": 19,
+            "rating": 3.5,
+            "main_category": "Okul"
+        },
+        {
+            "name": "FMV I\u015f\u0131k Okullar\u0131 Florya Yerle\u015fkesi",
+            "link": "https://www.google.com/maps/search/FMV+I%C5%9F%C4%B1k+Okullar%C4%B1+Florya+Yerle%C5%9Fkesi/@40.988420399999995,28.7991968?authuser=0&entry=ttu",
+            "reviews": 11,
+            "rating": 4.6,
+            "main_category": "E\u011fitim Merkezi"
+        }
+    ],
+    "website": "https://www.fmv.edu.tr/",
+    "owner": {
+        "id": "110416002131598303661",
+        "name": "FMV I\u015f\u0131k Okullar\u0131 Ni\u015fanta\u015f\u0131 Yerle\u015fkesi (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/110416002131598303661"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOYgMWKf2zRnjaFCUhN6Ndu_rccbl7T2jDNQUSV=w408-h272-k-no",
+    "main_category": "E\u011fitim Kurumu",
+    "categories": [
+        "E\u011fitim Kurumu",
+        "\u0130lkokul",
+        "Anaokulu",
+        "Ortaokul",
+        "\u0130lk\u00f6\u011fretim Okulu",
+        "Lise",
+        "E\u011fitim Merkezi"
+    ],
+    "rating": 3.7,
+    "workday_timing": "08:00\u201317:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 291 10 92",
+    "address": "Te\u015fvikiye, FMV I\u015f\u0131k Okullar\u0131 Ni\u015fanta\u015f\u0131 Yerle\u015fkesi, Te\u015fvikiye Cd. No:6, 34365 \u015ei\u015fli/Istanbul - Europe",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJxzz_sAu3yhQRjrcimX9807c",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 17:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 9,
+        "2": 0,
+        "3": 2,
+        "4": 3,
+        "5": 18
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJxzz_sAu3yhQRjrcimX9807c&q=?q=place_id:ChIJxzz_sAu3yhQRjrcimX9807c&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.049861199999995,
+        "longitude": 28.993907699999998
+    },
+    "plus_code": "2XXV+WH \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Te\u015fvikiye",
+        "street": "Te\u015fvikiye Cd. No:6",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34365",
+        "state": "Istanbul - Europe",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "13246067816498640782",
+    "data_id": "0x14cab70bb0ff3cc7:0xb7d37c7f9922b78e",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun giri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOYgMWKf2zRnjaFCUhN6Ndu_rccbl7T2jDNQUSV=w446-h298-k-no"
+        },
+        {
+            "about": "En son",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMwclBAiq08eaxz7p4lUmpM8lCuVdaX3_CVjxuI=w397-h298-k-no"
+        },
+        {
+            "about": "Videolar",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOpECT7PCqWwuVMP_UKljiP3Z5V2bkMNuM1JjYY=w224-h398-k-no"
+        },
+        {
+            "about": "Bina",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNetudGiTtCHItknUguG2XUBQzxSduqWOaDmtcG=w448-h298-k-no"
+        },
+        {
+            "about": "S\u0131n\u0131f",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNZt208I1N4YnLXHuBQHRoUR6XQtGDCEC000UcT=w563-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOQh2GxM7FiJ6c1TegUdaJxjqfVu69FmgFdc2SR=w397-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPOUvEA3fNilvq7LJoVCMwpWZ_5IZ-bz4dis-UH=w224-h298-k-no-pi-30-ya90.58161-ro0-fo100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Kurum k\u00fclt\u00fcr\u00fcnden uzak insana sayg\u0131n\u0131n s\u0131f\u0131r oldu\u011fu bir yer. Ge\u00e7mi\u015fine bak\u0131p gelmeyin hayal k\u0131r\u0131kl\u0131\u011f\u0131na u\u011frars\u0131n\u0131z. Personel sirk\u00fclasyonu fazla. Sat\u0131n Alma i\u00e7in gelecek ki\u015filer \u00f6zellikle dikkatli olsunlar.\nK\u0131saca uzak durun.\nA place where there is no respect for people, far from the corporate culture. Don't come here looking at the past, you will be disappointed. Staff turnover is high. People coming to purchase should be especially careful.\nIn short, stay away.",
+            "reviewer_name": "ERDEM KARAASLAN",
+            "rating": 1,
+            "review_text": "Kurum k\u00fclt\u00fcr\u00fcnden uzak insana sayg\u0131n\u0131n s\u0131f\u0131r oldu\u011fu bir yer. Ge\u00e7mi\u015fine bak\u0131p gelmeyin hayal k\u0131r\u0131kl\u0131\u011f\u0131na u\u011frars\u0131n\u0131z. Personel sirk\u00fclasyonu fazla. Sat\u0131n Alma i\u00e7in gelecek ki\u015filer \u00f6zellikle dikkatli olsunlar.\nK\u0131saca uzak durun.\nA place where there is no respect for people, far from the corporate culture. Don't come here looking at the past, you will be disappointed. Staff turnover is high. People coming to purchase should be especially careful.\nIn short, stay away.",
+            "published_at": "4 hafta \u00f6nce",
+            "published_at_date": "2023-11-21T11:11:33.648000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113885430878729748879/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUMHUTN2IsbyYz9RFuNr2mYJFpWve-iUwH8RCKGF_VwhWA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Buraya nas\u0131l g\u00fcvenir de \u00e7ocu\u011funu emanet edersin.. H\u0131rs\u0131z\u0131n, b\u00f6ceklerin yuvas\u0131 ni\u015fanta\u015f\u0131. Hani hakkaten b\u00f6yle bir muhit nas\u0131l bu kadar distopik bir ambiyans ve sokaklara  sahip olur anlam\u0131yorum. Bu lisenin galerisinde verilen bir sergide \u00e7antam g\u00f6z g\u00f6re g\u00f6re \u00e7al\u0131nd\u0131. Lise g\u00fcvenli\u011fi ve kar\u015f\u0131daki Karakol da dahil kimse ilgilenmedi. G\u00fcvenli\u011fin a\u00e7\u0131klamas\u0131 \"bazen sokaktan insanlar giriyor bi \u015feyler yemek i\u00e7in.. onlar alm\u0131\u015f olabilir\" diyorlar.. Yani ben bu kadar le\u015f ve ilgisiz bir okul demeyece\u011fim, bu muhit \u00f6yle. Ya\u015fayan nas\u0131l devam ediyor anlam\u0131yorum. \u00c7ocu\u011fumu da h\u0131rs\u0131z\u0131n rahat\u00e7a girebildi\u011fi bir okula yollamak istemem..",
+            "reviewer_name": "Katri Tora",
+            "rating": 1,
+            "review_text": "Buraya nas\u0131l g\u00fcvenir de \u00e7ocu\u011funu emanet edersin.. H\u0131rs\u0131z\u0131n, b\u00f6ceklerin yuvas\u0131 ni\u015fanta\u015f\u0131. Hani hakkaten b\u00f6yle bir muhit nas\u0131l bu kadar distopik bir ambiyans ve sokaklara  sahip olur anlam\u0131yorum. Bu lisenin galerisinde verilen bir sergide \u00e7antam g\u00f6z g\u00f6re g\u00f6re \u00e7al\u0131nd\u0131. Lise g\u00fcvenli\u011fi ve kar\u015f\u0131daki Karakol da dahil kimse ilgilenmedi. G\u00fcvenli\u011fin a\u00e7\u0131klamas\u0131 \"bazen sokaktan insanlar giriyor bi \u015feyler yemek i\u00e7in.. onlar alm\u0131\u015f olabilir\" diyorlar.. Yani ben bu kadar le\u015f ve ilgisiz bir okul demeyece\u011fim, bu muhit \u00f6yle. Ya\u015fayan nas\u0131l devam ediyor anlam\u0131yorum. \u00c7ocu\u011fumu da h\u0131rs\u0131z\u0131n rahat\u00e7a girebildi\u011fi bir okula yollamak istemem..",
+            "published_at": "9 ay \u00f6nce",
+            "published_at_date": "2023-03-15T05:33:40.680000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 71,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113473398608950214990/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUYysE0nrJ2bIoZGEr65YyqSyZ3mJEu3loIwjhB60CD9zM=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "TAM 16 SENE ERENK\u00d6Y KAMP\u00dcS\u00dcNDE G\u00dcVENL\u0130G\u0130NDE \u00c7ALI\u015eTIM EMEKL\u0130 OLDUM EMEKL\u0130L\u0130K TAZM\u0130NATIMI B\u0130LE VERMED\u0130LER. NEDEN B\u0130L\u0130YORMUSUNUZ GAR\u0130BAN \u0130NSANLARI DAHADA GAR\u0130BAN YAPMAK \u0130\u00c7\u0130N HAKKIMI HELAL ETM\u0130YORUM...BU D\u00dcNYADA.",
+            "reviewer_name": "Hyper Tony",
+            "rating": 1,
+            "review_text": "TAM 16 SENE ERENK\u00d6Y KAMP\u00dcS\u00dcNDE G\u00dcVENL\u0130G\u0130NDE \u00c7ALI\u015eTIM EMEKL\u0130 OLDUM EMEKL\u0130L\u0130K TAZM\u0130NATIMI B\u0130LE VERMED\u0130LER. NEDEN B\u0130L\u0130YORMUSUNUZ GAR\u0130BAN \u0130NSANLARI DAHADA GAR\u0130BAN YAPMAK \u0130\u00c7\u0130N HAKKIMI HELAL ETM\u0130YORUM...BU D\u00dcNYADA.",
+            "published_at": "8 ay \u00f6nce",
+            "published_at_date": "2023-04-16T13:01:31.409000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 8,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114832147494632601602/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWF0beReMGrvTQ5664FW11JDc43_qP99Swu3z9UFjpyXg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I love this school I went there for 3 years and it is amazing would recommend\u2764\ufe0f\u2764\ufe0f Ben bu okulu \u00e7ok seviyorum bence d\u00fcnyadaki en iyi okullardan biri 3 y\u0131l gittim ve \u00e7ok sevdim bence gitmek \u00e7ok g\u00fczel olur",
+            "reviewer_name": "Gaya Hi",
+            "rating": 5,
+            "review_text": "I love this school I went there for 3 years and it is amazing would recommend\u2764\ufe0f\u2764\ufe0f Ben bu okulu \u00e7ok seviyorum bence d\u00fcnyadaki en iyi okullardan biri 3 y\u0131l gittim ve \u00e7ok sevdim bence gitmek \u00e7ok g\u00fczel olur",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-02-20T19:27:58.793000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112067940641744207666/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXtvoN4BTuiggEToMYuQ4yJ8DioTvd49uL1j-LZUQFVL7M=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Ye\u011fenim \u015fafak tanyeri tam burslu olarak buradan mezun oldu.\n\u00c7apa t\u0131p fak\u00fcltesi di\u015f hekimli\u011fi de okudu ve mezun oldu\nEme\u011fi ge\u00e7enlere sonsuz te\u015fekk\u00fcrler.",
+            "reviewer_name": "Okay Tanyeri",
+            "rating": 5,
+            "review_text": "Ye\u011fenim \u015fafak tanyeri tam burslu olarak buradan mezun oldu.\n\u00c7apa t\u0131p fak\u00fcltesi di\u015f hekimli\u011fi de okudu ve mezun oldu\nEme\u011fi ge\u00e7enlere sonsuz te\u015fekk\u00fcrler.",
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-07-08T10:40:09.798000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113543122019744576087/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKegfRM9T4_F7IvNZwDZRL-KY79TlbFdq8EscTYul0g=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "O okulda orta ve liseyi okudum,yatili idim.yuksek pencere ve 50mkare avlu\nBana hep ceza evi hissi verirdi,cunki disariyi hic goremezdiniz(pencerelere ulasma imkani yoktu).hele sevket emir diye herkesi sabah aksam doven bir md yrd da bonusu idi",
+            "reviewer_name": "sadettin atig",
+            "rating": 1,
+            "review_text": "O okulda orta ve liseyi okudum,yatili idim.yuksek pencere ve 50mkare avlu\nBana hep ceza evi hissi verirdi,cunki disariyi hic goremezdiniz(pencerelere ulasma imkani yoktu).hele sevket emir diye herkesi sabah aksam doven bir md yrd da bonusu idi",
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-07-04T20:04:05.079000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 8,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/115920441655175243156/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJa9RC7B1rCHEbbptPzPQ1sPS9te0H1RTYeN5SHc4Zn=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "2 \u00e7ocu\u011fumu toplamda 17 y\u0131l g\u00f6nderip ger\u00e7ekten \"iyi insan\" yeti\u015ftirmek konusunda \u00e7ok ba\u015far\u0131l\u0131 buldu\u011fum kurum. Tavsiye ederim.",
+            "reviewer_name": "Birol Sahin",
+            "rating": 5,
+            "review_text": "2 \u00e7ocu\u011fumu toplamda 17 y\u0131l g\u00f6nderip ger\u00e7ekten \"iyi insan\" yeti\u015ftirmek konusunda \u00e7ok ba\u015far\u0131l\u0131 buldu\u011fum kurum. Tavsiye ederim.",
+            "published_at": "6 y\u0131l \u00f6nce",
+            "published_at_date": "2017-06-12T13:08:58.223000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 5,
+            "total_number_of_reviews_by_reviewer": 54,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/110296206235393830018/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWsVC06e5tJxBllPS7268_-5ktswHWEaL2RB_e9xWmR0Cg=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "2006-2011 y\u0131llar\u0131 aras\u0131nda okudu\u011fum \u00e7ok sevdi\u011fim, \u00e7ok \u00f6zledi\u011fim lisem.",
+            "reviewer_name": "AHMET DO\u011eAN",
+            "rating": 5,
+            "review_text": "2006-2011 y\u0131llar\u0131 aras\u0131nda okudu\u011fum \u00e7ok sevdi\u011fim, \u00e7ok \u00f6zledi\u011fim lisem.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-08-10T10:00:29.040000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 20,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/101215926237326653166/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKkdWVE7qKwpmpU1sxtTAa1WbLhHukTlD2N9XYHYon4yQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

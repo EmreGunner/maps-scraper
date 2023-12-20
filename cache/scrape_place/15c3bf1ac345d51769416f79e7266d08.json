@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJm0PnIRzIyhQRePMCiXd8TCM",
+    "name": "\u00dcnl\u00fc Kuru Selek Avukatl\u0131k B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "S\u00fcren Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/S%C3%BCren+Hukuk+B%C3%BCrosu/@41.0202287,29.0350066?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Arkun Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Arkun+Hukuk+B%C3%BCrosu/@41.018997399999996,29.049128?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 4.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u015eenel Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C5%9Eenel+Hukuk+B%C3%BCrosu/@41.035668199999996,29.046976899999994?authuser=0&entry=ttu",
+            "reviews": 17,
+            "rating": 4.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "S\u00f6nmez Hukuk",
+            "link": "https://www.google.com/maps/search/S%C3%B6nmez+Hukuk/@None,None?authuser=0&entry=ttu",
+            "reviews": 22,
+            "rating": 4.2,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "BRN Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/BRN+Avukatl%C4%B1k+B%C3%BCrosu/@41.0129861,29.054592300000003?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://unlukuruselek.com/",
+    "owner": {
+        "id": null,
+        "name": "\u00dcnl\u00fc Kuru Selek Avukatl\u0131k B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oyqyhfFcQHlYoXsJlOzQ5g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=180.9047&pitch=0&thumbfov=100",
+    "main_category": "Kurumsal Ofis",
+    "categories": [
+        "Kurumsal Ofis"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0216) 321 77 87",
+    "address": "Burhaniye, \u00dcnl\u00fc Kuru Selek Avukatl\u0131k B\u00fcrosu, Altunizade, Atilla Sk. No: 6, 34676 \u00dcsk\u00fcdar/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJm0PnIRzIyhQRePMCiXd8TCM",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJm0PnIRzIyhQRePMCiXd8TCM&q=?q=place_id:ChIJm0PnIRzIyhQRePMCiXd8TCM&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0253617,
+        "longitude": 29.0503295
+    },
+    "plus_code": "23G2+44 \u00dcsk\u00fcdar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Burhaniye",
+        "street": "Altunizade, Atilla Sk. No: 6",
+        "city": "\u00dcsk\u00fcdar",
+        "postal_code": "34676",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2543544742399112056",
+    "data_id": "0x14cac81c21e7439b:0x234c7c778902f378",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oyqyhfFcQHlYoXsJlOzQ5g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=180.9047&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oyqyhfFcQHlYoXsJlOzQ5g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=180.9047&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

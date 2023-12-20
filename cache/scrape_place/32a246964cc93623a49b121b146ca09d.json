@@ -1,0 +1,256 @@
+{
+    "place_id": "ChIJWbtrfAS3yhQR8FH5K0nMq_g",
+    "name": "BAL TEKST\u0130L",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Bal Tekstil",
+            "link": "https://www.google.com/maps/search/Bal+Tekstil/@41.0048081,28.9038813?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Giyim ma\u011fazas\u0131"
+        },
+        {
+            "name": "BALERZA Textile",
+            "link": "https://www.google.com/maps/search/BALERZA+Textile/@41.0495076,28.9741308?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Tekstil Fabrikas\u0131"
+        },
+        {
+            "name": "Brand",
+            "link": "https://www.google.com/maps/search/Brand/@41.057514499999996,28.9858953?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Giyim ma\u011fazas\u0131"
+        },
+        {
+            "name": "Balerina",
+            "link": "https://www.google.com/maps/search/Balerina/@41.053349499999996,28.9905582?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Giyim ma\u011fazas\u0131"
+        },
+        {
+            "name": "Balc\u0131",
+            "link": "https://www.google.com/maps/search/Balc%C4%B1/@41.076243999999996,28.9381894?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Ev E\u015fyalar\u0131 Ma\u011fazas\u0131"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "116890568112248268218",
+        "name": "BAL TEKST\u0130L (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/116890568112248268218"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sXLRdMkz05udHk5jrOBTqw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=43.635696&pitch=0&thumbfov=100",
+    "main_category": "Giyim ma\u011fazas\u0131",
+    "categories": [
+        "Giyim ma\u011fazas\u0131"
+    ],
+    "rating": null,
+    "workday_timing": "08:00\u201319:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0535 040 55 50",
+    "address": "BAL TEKST\u0130L, \u0130\u00c7 KAPI, ERGENEKON CAD MURATOGLU \u00c7AR\u015eI NO 41, NO 20A, 34360 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJWbtrfAS3yhQR8FH5K0nMq_g",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 19:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJWbtrfAS3yhQR8FH5K0nMq_g&q=?q=place_id:ChIJWbtrfAS3yhQR8FH5K0nMq_g&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.052810099999995,
+        "longitude": 28.9837518
+    },
+    "plus_code": "3X3M+4G \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Duatepe",
+        "street": "\u0130\u00c7 KAPI, ERGENEKON CAD MURATOGLU \u00c7AR\u015eI NO 41, NO 20A",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34360",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "17918640157066088944",
+    "data_id": "0x14cab7047c6bbb59:0xf8abcc492bf951f0",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Arabaya teslim alma",
+                    "enabled": true
+                },
+                {
+                    "name": "Adrese servis",
+                    "enabled": true
+                },
+                {
+                    "name": "Ma\u011fazadan teslim alma",
+                    "enabled": true
+                },
+                {
+                    "name": "Ma\u011faza i\u00e7inde al\u0131\u015fveri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Ayn\u0131 g\u00fcn teslimat",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun oturma d\u00fczeni",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Sunulanlar",
+            "options": [
+                {
+                    "name": "Kad\u0131n giyim",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Kablosuz",
+                    "enabled": true
+                },
+                {
+                    "name": "Kablosuz a\u011f ba\u011flant\u0131s\u0131",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "recycling",
+            "name": "Geri d\u00f6n\u00fc\u015f\u00fcm merkezi",
+            "options": [
+                {
+                    "name": "Elektronik",
+                    "enabled": true
+                },
+                {
+                    "name": "Giysi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "\u00d6deme",
+            "options": [
+                {
+                    "name": "Banka kart\u0131",
+                    "enabled": true
+                },
+                {
+                    "name": "\u00c7ek",
+                    "enabled": true
+                },
+                {
+                    "name": "Kredi kart\u0131",
+                    "enabled": true
+                },
+                {
+                    "name": "Kredi kart\u0131",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sXLRdMkz05udHk5jrOBTqw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=43.635696&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sXLRdMkz05udHk5jrOBTqw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=43.635696&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201319:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "08:00\u201313:30"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

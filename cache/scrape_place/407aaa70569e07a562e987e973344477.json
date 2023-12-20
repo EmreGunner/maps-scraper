@@ -1,0 +1,115 @@
+{
+    "place_id": "ChIJH22033dftRQRXRB9Gs11ZfA",
+    "name": "Maya \u00c7eviri Dil Hizmetleri",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "Dijital Terc\u00fcme \u00c7eviri Hizmetleri - \u0130stanbul",
+            "link": "https://www.google.com/maps/search/Dijital+Terc%C3%BCme+%C3%87eviri+Hizmetleri+-+%C4%B0stanbul/@41.0074993,28.6613881?authuser=0&entry=ttu",
+            "reviews": 13,
+            "rating": 4.5,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Beylikd\u00fcz\u00fc Terc\u00fcme B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Beylikd%C3%BCz%C3%BC+Terc%C3%BCme+B%C3%BCrosu/@41.007419,28.661189?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Keyhan Yeminli Terc\u00fcme B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Keyhan+Yeminli+Terc%C3%BCme+B%C3%BCrosu/@40.991314599999995,28.6687055?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "\u00c7evirmen"
+        },
+        {
+            "name": "ASYA TERC\u00dcME",
+            "link": "https://www.google.com/maps/search/ASYA+TERC%C3%9CME/@40.991071,28.668601999999996?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "\u00c7evirmen"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Maya \u00c7eviri Dil Hizmetleri (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "\u00c7evirmen",
+    "categories": [
+        "\u00c7evirmen"
+    ],
+    "rating": 5,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0536 051 28 62",
+    "address": "Maya \u00c7eviri Dil Hizmetleri, Yakuplu Mahallesi H\u00fcrriyet Bulvar\u0131 No:01 Skyport Residence D: 186, Beylikd\u00fcz\u00fc/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJH22033dftRQRXRB9Gs11ZfA",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJH22033dftRQRXRB9Gs11ZfA&q=?q=place_id:ChIJH22033dftRQRXRB9Gs11ZfA&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.007016799999995,
+        "longitude": 28.659912199999997
+    },
+    "plus_code": "2M45+RX Beylikd\u00fcz\u00fc, \u0130stanbul",
+    "detailed_address": {
+        "ward": null,
+        "street": "Yakuplu Mahallesi H\u00fcrriyet Bulvar\u0131 No:01 Skyport Residence D: 186",
+        "city": "Beylikd\u00fcz\u00fc Osb/Beylikd\u00fcz\u00fc",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "17322381065523630173",
+    "data_id": "0x14b55f77dfb46d1f:0xf06575cd1a7d105d",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "MAHMOUD SHAHROUR",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-01-28T12:16:37.545000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107121473196772360319/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU2y6wAvFenXF7wtyNAepOkVW7aDz758VroEvYOjXYcVF8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

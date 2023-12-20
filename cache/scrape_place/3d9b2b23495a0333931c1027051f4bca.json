@@ -1,0 +1,188 @@
+{
+    "place_id": "ChIJSRv734xBHxURKelTwa72ulk",
+    "name": "Nassif Group",
+    "description": null,
+    "reviews": 2,
+    "competitors": [
+        {
+            "name": "Raymond Nassif SARL",
+            "link": "https://www.google.com/maps/search/Raymond+Nassif+SARL/@33.8911138,35.5582561?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "\u0130n\u015faat Ekipman\u0131 Tedarik\u00e7isi"
+        },
+        {
+            "name": "FMC (Farah & Mrad Constructions)",
+            "link": "https://www.google.com/maps/search/FMC+%28Farah+%26+Mrad+Constructions%29/@33.9880559,35.6427841?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 4,
+            "main_category": "M\u00fchendislik Dan\u0131\u015fman\u0131"
+        },
+        {
+            "name": "Nassif Contracting",
+            "link": "https://www.google.com/maps/search/Nassif+Contracting/@33.891514199999996,35.526074099999995?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Konut \u0130n\u015faat"
+        },
+        {
+            "name": "Joe nassif home",
+            "link": "https://www.google.com/maps/search/Joe+nassif+home/@33.9575256,35.614978799999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Apartman"
+        },
+        {
+            "name": "El abed group construction",
+            "link": "https://www.google.com/maps/search/El+abed+group+construction/@33.9842691,35.6344491?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "\u0130n\u015faat \u015eirketi"
+        }
+    ],
+    "website": "http://www.nassifgrp.com/",
+    "owner": {
+        "id": null,
+        "name": "Nassif Group (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "\u0130n\u015faat \u015eirketi",
+    "categories": [
+        "\u0130n\u015faat \u015eirketi"
+    ],
+    "rating": 4.5,
+    "workday_timing": "10:00\u201316:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "+961 9 642 708",
+    "address": "XJRV+34V Nassif Group, Coastal, L\u00fcbnan",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJSRv734xBHxURKelTwa72ulk",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 16:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJSRv734xBHxURKelTwa72ulk&q=?q=place_id:ChIJSRv734xBHxURKelTwa72ulk&authuser=0&hl=en&gl=LB",
+    "coordinates": {
+        "latitude": 33.9902276,
+        "longitude": 35.6428094
+    },
+    "plus_code": null,
+    "detailed_address": {
+        "ward": null,
+        "street": "XJRV+34V, Coastal",
+        "city": null,
+        "postal_code": null,
+        "state": null,
+        "country_code": "LB"
+    },
+    "time_zone": "Asia/Beirut",
+    "cid": "6465751445472012585",
+    "data_id": "0x151f418cdffb1b49:0x59baf6aec153e929",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "10:00\u201316:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "10:00\u201316:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "10:00\u201316:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "10:00\u201316:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "10:00\u201316:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "J Saba",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-06-22T17:31:14.762000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/103032397732032510231/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWbW_gFEWCi4gnvFTedW8Hgc9bPNTMj_GSGg30U5ohKDg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Wehbe Charbel",
+            "rating": 4,
+            "review_text": null,
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-09-11T11:56:13.595000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 561,
+            "reviewer_url": "https://www.google.com/maps/contrib/109421995014649771980/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocImZnLGez1wLDxvdsVJCljbqm1qWYwdfWimkEZ9d1ef=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

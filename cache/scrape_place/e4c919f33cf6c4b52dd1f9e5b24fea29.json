@@ -1,0 +1,337 @@
+{
+    "place_id": "ChIJWR99JUC2yhQRn9_C2JDY_Zk",
+    "name": "ACL \u0130stanbul",
+    "description": null,
+    "reviews": 68,
+    "competitors": [
+        {
+            "name": "MUTLU AVUKATLIK ORTAKLI\u011eI",
+            "link": "https://www.google.com/maps/search/MUTLU+AVUKATLIK+ORTAKLI%C4%9EI/@41.023454,29.043868000000003?authuser=0&entry=ttu",
+            "reviews": 20,
+            "rating": 4.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00c7AVU\u015eO\u011eLU HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/%C3%87AVU%C5%9EO%C4%9ELU+HUKUK+B%C3%9CROSU/@41.0220756,29.04461?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "ACDLAWOFFICE",
+            "link": "https://www.google.com/maps/search/ACDLAWOFFICE/@41.0188513,29.048671700000003?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "S\u00f6nmez Hukuk",
+            "link": "https://www.google.com/maps/search/S%C3%B6nmez+Hukuk/@None,None?authuser=0&entry=ttu",
+            "reviews": 22,
+            "rating": 4.2,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Kanado\u011flu Avukatl\u0131k Ortakl\u0131\u011f\u0131",
+            "link": "https://www.google.com/maps/search/Kanado%C4%9Flu+Avukatl%C4%B1k+Ortakl%C4%B1%C4%9F%C4%B1/@41.024381999999996,29.038522?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.aclistanbul.com/",
+    "owner": {
+        "id": "113817000522337761598",
+        "name": "ACL \u0130stanbul (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/113817000522337761598"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM5iYLV-m26g26kDEo1jymQzPMGsljK0aN2y9on=w408-h305-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0850 888 3854",
+    "address": "Altunizade, ACL \u0130stanbul, No:1 F Blok Daire 3, Okul Soka\u011f\u0131, 34496 \u00dcsk\u00fcdar/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJWR99JUC2yhQRn9_C2JDY_Zk",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 68
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJWR99JUC2yhQRn9_C2JDY_Zk&q=?q=place_id:ChIJWR99JUC2yhQRn9_C2JDY_Zk&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.018825,
+        "longitude": 29.049050299999998
+    },
+    "plus_code": "229X+GJ \u00dcsk\u00fcdar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Altunizade",
+        "street": "No:1 F Blok Daire 3, Okul Soka\u011f\u0131",
+        "city": "\u00dcsk\u00fcdar",
+        "postal_code": "34496",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "11096263173534310303",
+    "data_id": "0x14cab640257d1f59:0x99fdd890d8c2df9f",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM5iYLV-m26g26kDEo1jymQzPMGsljK0aN2y9on=w397-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMdwR02ZnUajsl-3WiBq_-PWRe_ma7rcjVJYq4E=w397-h298-k-no"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Hukuki s\u00fcrecimde dosyam\u0131 teslim ald\u0131\u011f\u0131 andan itibaren g\u00f6sterdikleri hassasiyet ve \u00f6zveri i\u00e7in Ahmet Bey\u2019in nezdinde t\u00fcm ACL \u0130stanbul ekibine \u00e7ok te\u015fekk\u00fcr ediyorum. \u0130\u015flerini iyi ve kaliteli hizmet anlay\u0131\u015f\u0131yla yapt\u0131klar\u0131ndan dolay\u0131 ve ayr\u0131ca vizyon, e\u011fitim, bilgi ve sahip olduklar\u0131 tecr\u00fcbe nedeniyle de ACL \u0130stanbul\u2019u herkese tavsiye ederim.",
+            "reviewer_name": "Muhammed D\u00fczg\u00fcn",
+            "rating": 5,
+            "review_text": "Hukuki s\u00fcrecimde dosyam\u0131 teslim ald\u0131\u011f\u0131 andan itibaren g\u00f6sterdikleri hassasiyet ve \u00f6zveri i\u00e7in Ahmet Bey\u2019in nezdinde t\u00fcm ACL \u0130stanbul ekibine \u00e7ok te\u015fekk\u00fcr ediyorum. \u0130\u015flerini iyi ve kaliteli hizmet anlay\u0131\u015f\u0131yla yapt\u0131klar\u0131ndan dolay\u0131 ve ayr\u0131ca vizyon, e\u011fitim, bilgi ve sahip olduklar\u0131 tecr\u00fcbe nedeniyle de ACL \u0130stanbul\u2019u herkese tavsiye ederim.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-12-02T11:31:30.449000",
+            "response_from_owner_text": "Te\u015fekk\u00fcr ederiz Muhammed Bey.",
+            "response_from_owner_ago": "7 ay \u00f6nce",
+            "response_from_owner_date": "2023-05-16T19:45:24.849000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105679310022228726090/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWQtXg3z2N2rqgfpXT2brKr-Sm_UPi1PEgoC7skDtvy5CA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "ACL \u0130stanbul Hukuk B\u00fcrosunda g\u00f6rev yapan arkada\u015falar\u0131n hassasiyeti,bilgisi, tecr\u00fcbesi bana b\u00fcy\u00fck g\u00fcven verdi.  Bilgi ve tecr\u00fcbesi  her alanda yolumu ayd\u0131nlatt\u0131 kendisine sonsuz te\u015fekk\u00fcr ederim.",
+            "reviewer_name": "alev orhan",
+            "rating": 5,
+            "review_text": "ACL \u0130stanbul Hukuk B\u00fcrosunda g\u00f6rev yapan arkada\u015falar\u0131n hassasiyeti,bilgisi, tecr\u00fcbesi bana b\u00fcy\u00fck g\u00fcven verdi.  Bilgi ve tecr\u00fcbesi  her alanda yolumu ayd\u0131nlatt\u0131 kendisine sonsuz te\u015fekk\u00fcr ederim.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-05-24T11:05:12.655000",
+            "response_from_owner_text": "Te\u015fekk\u00fcr ederiz Alev Han\u0131m.",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-05-24T12:10:04.320000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104333041631851711044/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLPtCa9A3o5sSkiRREeNqyQKEolN6m84e60CHHAY15m=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u0130\u015finin ehli avukatlar. Dosyan\u0131z hakk\u0131nda her a\u015famada derhal bilgilendiriyorlar, telefon uygulamas\u0131ndan da anl\u0131k olarak takip etmek m\u00fcmk\u00fcn oluyor. Bilhassa ticari i\u015fletmeler i\u00e7in, hukuki bilginin yan\u0131nda i\u015fletmelere ili\u015fkin tecr\u00fcbeleri, ender g\u00f6r\u00fclecek meseleleri bile \u00e7ok \u00e7abuk kavramalar\u0131 ve m\u00fcvekkilin muhtemel risklerden haberdar olmas\u0131 bak\u0131m\u0131ndan \u00e7ok k\u0131ymetli. Her \u015fey i\u00e7in te\u015fekk\u00fcr ederiz.",
+            "reviewer_name": "murat kaygusuz",
+            "rating": 5,
+            "review_text": "\u0130\u015finin ehli avukatlar. Dosyan\u0131z hakk\u0131nda her a\u015famada derhal bilgilendiriyorlar, telefon uygulamas\u0131ndan da anl\u0131k olarak takip etmek m\u00fcmk\u00fcn oluyor. Bilhassa ticari i\u015fletmeler i\u00e7in, hukuki bilginin yan\u0131nda i\u015fletmelere ili\u015fkin tecr\u00fcbeleri, ender g\u00f6r\u00fclecek meseleleri bile \u00e7ok \u00e7abuk kavramalar\u0131 ve m\u00fcvekkilin muhtemel risklerden haberdar olmas\u0131 bak\u0131m\u0131ndan \u00e7ok k\u0131ymetli. Her \u015fey i\u00e7in te\u015fekk\u00fcr ederiz.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-12-10T08:53:36.383000",
+            "response_from_owner_text": "G\u00fczel yorumunuz i\u00e7in te\u015fekk\u00fcr ederiz Murat Bey.",
+            "response_from_owner_ago": "2 y\u0131l \u00f6nce",
+            "response_from_owner_date": "2021-12-10T10:44:25.671000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/115811790786914383708/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJNZfiqKoTcVjnOM7Su-dg0qh5_b-cir5D-4_lyFF4z=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "60\u2019tan fazla davam\u0131 en iyi \u015fekilde takip ediyorlar. Hi\u00e7bir zaman ileti\u015fim sorunu ya\u015famad\u0131m. Yap\u0131lan masraflar\u0131m\u0131 kuru\u015f kuru\u015f takip edebiliyorum. \u00c7ok memnunum. D\u00fcr\u00fcst, i\u015finin pe\u015finde avukat arayan herkese tavsiye ederim.",
+            "reviewer_name": "Mustafa Serin",
+            "rating": 5,
+            "review_text": "60\u2019tan fazla davam\u0131 en iyi \u015fekilde takip ediyorlar. Hi\u00e7bir zaman ileti\u015fim sorunu ya\u015famad\u0131m. Yap\u0131lan masraflar\u0131m\u0131 kuru\u015f kuru\u015f takip edebiliyorum. \u00c7ok memnunum. D\u00fcr\u00fcst, i\u015finin pe\u015finde avukat arayan herkese tavsiye ederim.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-10-13T13:02:15.309000",
+            "response_from_owner_text": "Te\u015fekk\u00fcr ederiz Mustafa Bey.",
+            "response_from_owner_ago": "2 y\u0131l \u00f6nce",
+            "response_from_owner_date": "2021-10-13T13:13:52.122000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/103458643915168203121/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVoXtsLNUJtEtzHb9URgTxaTS5k5yN67FdbyIvdtOvlj0o=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u00c7ok ba\u015far\u0131l\u0131 avukatlar b\u00fcnyelerinde, fazlas\u0131yla yard\u0131mc\u0131 oldular.",
+            "reviewer_name": "Emre Bilgin",
+            "rating": 5,
+            "review_text": "\u00c7ok ba\u015far\u0131l\u0131 avukatlar b\u00fcnyelerinde, fazlas\u0131yla yard\u0131mc\u0131 oldular.",
+            "published_at": "7 ay \u00f6nce",
+            "published_at_date": "2023-05-14T11:13:09.166000",
+            "response_from_owner_text": "\u00c7ok te\u015fekk\u00fcr ederiz Emre Bey.",
+            "response_from_owner_ago": "7 ay \u00f6nce",
+            "response_from_owner_date": "2023-05-14T19:17:53.005000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/100080654952252048127/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVnPDPiNVkDzBMZE1RwO-31qZfLR1-CCDRe-s0TY2Jqu7s=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u0130\u015finin ehli avukatlar. Ahmet bey davan\u0131n t\u00fcm s\u00fcrecini bizzat yak\u0131ndan takip etti. Profesyonel deste\u011fini her an yan\u0131mda hissettim. Kendilerine \u00e7ok te\u015fekk\u00fcr ediyorum.",
+            "reviewer_name": "mustafa taha ozkul",
+            "rating": 5,
+            "review_text": "\u0130\u015finin ehli avukatlar. Ahmet bey davan\u0131n t\u00fcm s\u00fcrecini bizzat yak\u0131ndan takip etti. Profesyonel deste\u011fini her an yan\u0131mda hissettim. Kendilerine \u00e7ok te\u015fekk\u00fcr ediyorum.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-07-08T13:32:41.160000",
+            "response_from_owner_text": "Te\u015fekk\u00fcr ederiz Taha Bey",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2020-06-02T09:30:36.316000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 26,
+            "total_number_of_photos_by_reviewer": 25,
+            "reviewer_url": "https://www.google.com/maps/contrib/107235003878645551914/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJDhoJGvFPUxo_NVW9S86IYULrMbCaAYeRSyfSHhIpb=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "G\u00fcvenilir , tecr\u00fcbeli, bilgili ve alan\u0131nda uzman avukat kadrosuyla \u00e7ok kaliteli bir hukuk b\u00fcrosu , destekleri i\u00e7in \u00e7ok te\u015fekk\u00fcr ediyorum.",
+            "reviewer_name": "Ferhat Kazanc\u0131",
+            "rating": 5,
+            "review_text": "G\u00fcvenilir , tecr\u00fcbeli, bilgili ve alan\u0131nda uzman avukat kadrosuyla \u00e7ok kaliteli bir hukuk b\u00fcrosu , destekleri i\u00e7in \u00e7ok te\u015fekk\u00fcr ediyorum.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-05-27T08:45:49.893000",
+            "response_from_owner_text": "Te\u015fekk\u00fcr ederiz Ferhat Bey.",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-07-09T05:44:30.395000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102358693430957098441/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJHT9rcQhQROhCe6BoGU1Rowyfi80HFre5IcDBU-aSt=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Yakla\u015f\u0131k 1 bu\u00e7uk ay Ahmet bey ile \u00e7al\u0131\u015f\u0131yoruz, \u00e7ok memnunuz, i\u015finin ehli avukat \ud83d\udc4f\ud83c\udffb",
+            "reviewer_name": "Othman Raad",
+            "rating": 5,
+            "review_text": "Yakla\u015f\u0131k 1 bu\u00e7uk ay Ahmet bey ile \u00e7al\u0131\u015f\u0131yoruz, \u00e7ok memnunuz, i\u015finin ehli avukat \ud83d\udc4f\ud83c\udffb",
+            "published_at": "11 ay \u00f6nce",
+            "published_at_date": "2023-01-05T16:13:26.074000",
+            "response_from_owner_text": "Te\u015fekk\u00fcr ederiz.",
+            "response_from_owner_ago": "7 ay \u00f6nce",
+            "response_from_owner_date": "2023-05-16T19:44:39.050000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 8,
+            "reviewer_url": "https://www.google.com/maps/contrib/108335677250816518495/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ-4FAGrzkaGJ219APrXk_E_ztYLQ79KUOj_oeB0VLSchU=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

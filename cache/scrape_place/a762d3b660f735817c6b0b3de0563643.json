@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJb14FG_-2yhQR-Rp6uGV9aj4",
+    "name": "Etk Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "EKNA Law Firm",
+            "link": "https://www.google.com/maps/search/EKNA+Law+Firm/@41.0619769,28.9925362?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "TET Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/TET+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.063178799999996,28.9878006?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "T\u00dcRKKAN HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/T%C3%9CRKKAN+HUKUK+B%C3%9CROSU/@41.067423999999995,29.0113164?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ertek Hukuk",
+            "link": "https://www.google.com/maps/search/Ertek+Hukuk/@41.059490499999995,28.986934599999998?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6ktem Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%96ktem+Hukuk+B%C3%BCrosu/@41.0685212,29.010848900000003?authuser=0&entry=ttu",
+            "reviews": 29,
+            "rating": 4.4,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Etk Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-g-1ZC00rEBNj7Im_3vJ4A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=255.61763&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Fulya, Etk Hukuk B\u00fcrosu, B\u00fcy\u00fckdere Cd. No:66/2, 34394 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJb14FG_-2yhQR-Rp6uGV9aj4",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJb14FG_-2yhQR-Rp6uGV9aj4&q=?q=place_id:ChIJb14FG_-2yhQR-Rp6uGV9aj4&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.066389099999995,
+        "longitude": 28.9970268
+    },
+    "plus_code": "3X8W+HR \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Fulya",
+        "street": "B\u00fcy\u00fckdere Cd. No:66/2",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34394",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4497545053723040505",
+    "data_id": "0x14cab6ff1b055e6f:0x3e6a7d65b87a1af9",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-g-1ZC00rEBNj7Im_3vJ4A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=255.61763&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-g-1ZC00rEBNj7Im_3vJ4A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=255.61763&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,230 @@
+{
+    "place_id": "ChIJqUtrNoa7yhQR4QBW9B615AQ",
+    "name": "SMF HUKUK VE DANI\u015eMANLIK B\u00dcROSU",
+    "description": null,
+    "reviews": 4,
+    "competitors": [
+        {
+            "name": "ATASOY HUKUK B\u00dcROSU(AVUKATLIK&HUKUK\u0130 DANI\u015eMANLIK)",
+            "link": "https://www.google.com/maps/search/ATASOY+HUKUK+B%C3%9CROSU%28AVUKATLIK%26HUKUK%C4%B0+DANI%C5%9EMANLIK%29/@41.012336399999995,28.9094835?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 3.4,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "F\u0131rat Hukuk Ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/F%C4%B1rat+Hukuk+Ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@41.0134786,28.9076925?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 5,
+            "main_category": "Ceza Avukat\u0131"
+        },
+        {
+            "name": "G\u00dcL HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/G%C3%9CL+HUKUK+B%C3%9CROSU/@41.0141041,28.9078207?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 3.7,
+            "main_category": "Avukatlar Derne\u011fi"
+        },
+        {
+            "name": "ASM HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/ASM+HUKUK+B%C3%9CROSU/@41.013211,28.907815?authuser=0&entry=ttu",
+            "reviews": 16,
+            "rating": 4.9,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://smfhukuk.com/",
+    "owner": {
+        "id": "116891618353313790088",
+        "name": "SMF HUKUK VE DANI\u015eMANLIK B\u00dcROSU (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/116891618353313790088"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XRp23VkkM6--mI1ohouIKg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=267.26077&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 571 02 21",
+    "address": "SMF HUKUK VE DANI\u015eMANLIK B\u00dcROSU, Merkezefendi Mah.Mevlana Caddesi Terc\u00fcman Sitesi A-4 Blok Kat:1, D:7, 34025 Zeytinburnu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJqUtrNoa7yhQR4QBW9B615AQ",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 4
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJqUtrNoa7yhQR4QBW9B615AQ&q=?q=place_id:ChIJqUtrNoa7yhQR4QBW9B615AQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0127957,
+        "longitude": 28.9091165
+    },
+    "plus_code": "2W75+4J Zeytinburnu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkezefendi",
+        "street": "Merkezefendi Mah.Mevlana Caddesi Terc\u00fcman Sitesi A-4 Blok Kat:1, D:7",
+        "city": "Zeytinburnu",
+        "postal_code": "34025",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "352605815394664673",
+    "data_id": "0x14cabb86366b4ba9:0x4e4b51ef45600e1",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XRp23VkkM6--mI1ohouIKg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=267.26077&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XRp23VkkM6--mI1ohouIKg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=267.26077&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "MUHAMMED AHMET CERRAHO\u011eLU",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "10 ay \u00f6nce",
+            "published_at_date": "2023-02-03T13:02:47.199000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 72,
+            "total_number_of_photos_by_reviewer": 21,
+            "reviewer_url": "https://www.google.com/maps/contrib/114821210941897523607/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVlRYFmiqV8faKWpH8_Wa8sBxTYKrRPrTALUnzc53gGWIo=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Levent Sit",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "9 ay \u00f6nce",
+            "published_at_date": "2023-02-28T15:00:44.394000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 18,
+            "total_number_of_photos_by_reviewer": 18,
+            "reviewer_url": "https://www.google.com/maps/contrib/113818009474414864332/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKnLdfEhCnFU9srhEYWWnJpeczrvhOePbuUswzuVSw9=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Mehmet Yilmaz",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-10-14T09:37:25.791000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100150827684584450325/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVnSjYBLk_lNRgrhsExKWeCG-tcwpsiwamUQqHkKR9Lpg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "TOPRAK DA\u011eHAN",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-11-10T14:18:18.740000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 105,
+            "total_number_of_photos_by_reviewer": 95,
+            "reviewer_url": "https://www.google.com/maps/contrib/117155136131933446886/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJSfp58j-Vt-UWGuRMgOQnuiGnEF3TPGPyN0lY42uMT=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

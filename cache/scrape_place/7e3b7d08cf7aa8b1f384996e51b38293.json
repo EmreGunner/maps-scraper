@@ -1,0 +1,101 @@
+{
+    "place_id": "ChIJQcenck22yhQR_vZ3sFRJl00",
+    "name": "Sar\u0131kaya Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Sar\u0131kaya + \u015eahin",
+            "link": "https://www.google.com/maps/search/Sar%C4%B1kaya+%2B+%C5%9Eahin/@41.0614517,29.014221999999997?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Fatma SARI",
+            "link": "https://www.google.com/maps/search/Avukat+Fatma+SARI/@41.066369,29.004451999999997?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Sar\u0131kaya&Karay Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Sar%C4%B1kaya%26Karay+Hukuk+B%C3%BCrosu/@41.0680361,28.986326499999993?authuser=0&entry=ttu",
+            "reviews": 81,
+            "rating": 4.9,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Karakaya Avukatl\u0131k Ofisi",
+            "link": "https://www.google.com/maps/search/Karakaya+Avukatl%C4%B1k+Ofisi/@41.058875,29.014417999999996?authuser=0&entry=ttu",
+            "reviews": 16,
+            "rating": 4.8,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AS Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/AS+Hukuk+B%C3%BCrosu/@41.0443936,29.004388699999996?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Sar\u0131kaya Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Balmumcu, Sar\u0131kaya Hukuk B\u00fcrosu, Gazi Umur Pa\u015fa Sk. No: 34, 34349 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJQcenck22yhQR_vZ3sFRJl00",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJQcenck22yhQR_vZ3sFRJl00&q=?q=place_id:ChIJQcenck22yhQR_vZ3sFRJl00&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0608814,
+        "longitude": 29.012480399999998
+    },
+    "plus_code": "3266+9X Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Balmumcu",
+        "street": "Gazi Umur Pa\u015fa Sk. No: 34",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34349",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "5591018090490492670",
+    "data_id": "0x14cab64d72a7c741:0x4d974954b077f6fe",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

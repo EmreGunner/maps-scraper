@@ -1,0 +1,181 @@
+{
+    "place_id": "ChIJy4anIB27yhQRRFTyIZFlgVc",
+    "name": "Avar Hukuk&Dan\u0131\u015fmanl\u0131k",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Vefa Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Vefa+Hukuk+B%C3%BCrosu/@41.065050299999996,29.0022503?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ZAFER HUKUK & DANI\u015eMANLIK B\u00dcROSU Mecidiyek\u00f6y-\u015ei\u015fli Avukat Zafer Ka\u00e7ar",
+            "link": "https://www.google.com/maps/search/ZAFER+HUKUK+%26+DANI%C5%9EMANLIK+B%C3%9CROSU+Mecidiyek%C3%B6y-%C5%9Ei%C5%9Fli+Avukat+Zafer+Ka%C3%A7ar/@41.0668264,28.999235400000003?authuser=0&entry=ttu",
+            "reviews": 113,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Eser Hukuk B\u00fcrosu | Law Office",
+            "link": "https://www.google.com/maps/search/Eser+Hukuk+B%C3%BCrosu+%7C+Law+Office/@41.0681187,28.9932245?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Zirve Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Zirve+Hukuk+B%C3%BCrosu/@41.0705501,28.995507399999994?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Ayd\u0131ner Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ayd%C4%B1ner+Hukuk+B%C3%BCrosu/@41.0650796,28.9942616?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "105503729737214679045",
+        "name": "Avar Hukuk&Dan\u0131\u015fmanl\u0131k (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/105503729737214679045"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xQMfn8LfbgBBJ5_MCbeeXA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=0.67778516&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201317:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": null,
+    "address": "Avar Hukuk&Dan\u0131\u015fmanl\u0131k, Mecidiyek\u00f6y mah B\u00fcy\u00fckdere cad Saadet apt No.65 D.4, 34387 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJy4anIB27yhQRRFTyIZFlgVc",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 17:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJy4anIB27yhQRRFTyIZFlgVc&q=?q=place_id:ChIJy4anIB27yhQRRFTyIZFlgVc&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0669135,
+        "longitude": 28.9982695
+    },
+    "plus_code": "3X8X+Q8 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Mecidiyek\u00f6y",
+        "street": "Mecidiyek\u00f6y mah B\u00fcy\u00fckdere cad Saadet apt No.65 D.4",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34387",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "6305432627309597764",
+    "data_id": "0x14cabb1d20a786cb:0x5781659121f25444",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                },
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xQMfn8LfbgBBJ5_MCbeeXA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=0.67778516&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xQMfn8LfbgBBJ5_MCbeeXA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=0.67778516&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

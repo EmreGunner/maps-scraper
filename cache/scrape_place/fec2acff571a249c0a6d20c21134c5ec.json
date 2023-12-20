@@ -1,0 +1,107 @@
+{
+    "place_id": "ChIJuzPGz-a3yhQRHMTYO0UZ2fU",
+    "name": "Kaya K\u00f6ksal Avukatl\u0131k Ortakl\u0131\u011f\u0131",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "\u00c7etinkaya Avukatl\u0131k Ortakl\u0131\u011f\u0131",
+            "link": "https://www.google.com/maps/search/%C3%87etinkaya+Avukatl%C4%B1k+Ortakl%C4%B1%C4%9F%C4%B1/@41.086230799999996,29.021920299999998?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4.5,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "G\u00f6kk\u0131l\u0131\u00e7 Law Office",
+            "link": "https://www.google.com/maps/search/G%C3%B6kk%C4%B1l%C4%B1%C3%A7+Law+Office/@41.0821341,29.0125638?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Akol Law",
+            "link": "https://www.google.com/maps/search/Akol+Law/@41.0780473,29.0105306?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 4.3,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "KEYDAL HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/KEYDAL+HUKUK+B%C3%9CROSU/@41.0830646,29.0203056?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Kurumsal Ofis"
+        }
+    ],
+    "website": "http://kayakoksal.com/",
+    "owner": {
+        "id": "110606183589199740739",
+        "name": "Kaya K\u00f6ksal Avukatl\u0131k Ortakl\u0131\u011f\u0131 (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/110606183589199740739"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP-ARuI6Orr39CBFQnvA4iBkWB4kmVgQ_WsQGQ4=w426-h240-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 268 68 26",
+    "address": "Levent, Kaya K\u00f6ksal Avukatl\u0131k Ortakl\u0131\u011f\u0131, Manolyal\u0131 Sk. No:5 34330, 34330 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJuzPGz-a3yhQRHMTYO0UZ2fU",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJuzPGz-a3yhQRHMTYO0UZ2fU&q=?q=place_id:ChIJuzPGz-a3yhQRHMTYO0UZ2fU&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.082220899999996,
+        "longitude": 29.013758
+    },
+    "plus_code": "32J7+VG Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Levent",
+        "street": "Manolyal\u0131 Sk. No:5 34330",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34330",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "17715218394386056220",
+    "data_id": "0x14cab7e6cfc633bb:0xf5d919453bd8c41c",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP-ARuI6Orr39CBFQnvA4iBkWB4kmVgQ_WsQGQ4=w529-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOYVf6cjeQP6jQZo5Ay8Bg2hREmOIBrtBxNZcnb=w396-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XEFQq0O0UfERM5y_xlOblQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=214.1249&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

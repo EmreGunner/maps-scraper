@@ -1,0 +1,181 @@
+{
+    "place_id": "ChIJc8HksOG3yhQRc6tIrvdZEc8",
+    "name": "Berker Berker Law Office",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "\u00c7ift\u00e7i Avukatl\u0131k Ortakl\u0131\u011f\u0131",
+            "link": "https://www.google.com/maps/search/%C3%87ift%C3%A7i+Avukatl%C4%B1k+Ortakl%C4%B1%C4%9F%C4%B1/@41.0780473,29.0105306?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "G\u00fcrcan Partners Law Office Turkey",
+            "link": "https://www.google.com/maps/search/G%C3%BCrcan+Partners+Law+Office+Turkey/@41.0777399,29.0145232?authuser=0&entry=ttu",
+            "reviews": 15,
+            "rating": 4.9,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Gedik Eraksoy",
+            "link": "https://www.google.com/maps/search/Gedik+Eraksoy/@41.0770415,29.008871899999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Berke Erkesim Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Berke+Erkesim+Hukuk+B%C3%BCrosu/@41.0683187,28.9926514?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Akol Law",
+            "link": "https://www.google.com/maps/search/Akol+Law/@41.0780473,29.0105306?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 4.3,
+            "main_category": "Hukuk Hizmetleri"
+        }
+    ],
+    "website": "http://www.berkerberker.com/",
+    "owner": {
+        "id": "118156953114285272489",
+        "name": "Berker Berker Law Office (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/118156953114285272489"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JnkSMmqcDDbdnfI_RtaIig&cb_client=search.gws-prod.gps&w=408&h=240&yaw=184.94164&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 4,
+    "workday_timing": "09:00\u201318:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 353 03 00",
+    "address": "Berker Berker Law Office, B\u00fcy\u00fckdere Cad. No:185 Kanyon Kompleksi C Blok K:8, D:9, 34394 \u015ei\u015fli",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJc8HksOG3yhQRc6tIrvdZEc8",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJc8HksOG3yhQRc6tIrvdZEc8&q=?q=place_id:ChIJc8HksOG3yhQRc6tIrvdZEc8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0780473,
+        "longitude": 29.0105306
+    },
+    "plus_code": "32H6+66 \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Esentepe",
+        "street": "B\u00fcy\u00fckdere Cad. No:185 Kanyon Kompleksi C Blok K:8, D:9",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34394",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "14920805960770956147",
+    "data_id": "0x14cab7e1b0e4c173:0xcf1159f7ae48ab73",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JnkSMmqcDDbdnfI_RtaIig&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=184.94164&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPBzLuxNbeoUSISf_sq--s7MYPyz9N0VvbyIXyx=w224-h336-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JnkSMmqcDDbdnfI_RtaIig&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=184.94164&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "C\u00fcneyt Tan",
+            "rating": 4,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-04-15T10:51:15.141000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/107174525589293548051/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWjopR281iQNd16m-u7ql3Rx1I6enLn8ATQSKn4IcfFLJU=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,131 @@
+{
+    "place_id": "ChIJt_imhOC2yhQR-Ej7ImepD-0",
+    "name": "Kubra Oktay Law Office",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "KubraOktay Law Office Consulting",
+            "link": "https://www.google.com/maps/search/KubraOktay+Law+Office+Consulting/@41.0330839,28.985522399999997?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "K\u00fcbra Oktay Law&Consulting",
+            "link": "https://www.google.com/maps/search/K%C3%BCbra+Oktay+Law%26Consulting/@41.0721103,28.976764799999998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Avukat Oktay Bozkurt",
+            "link": "https://www.google.com/maps/search/Avukat+Oktay+Bozkurt/@41.071730099999996,28.976841?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "BCK Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/BCK+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.069562399999995,28.982775300000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "G\u00dcND\u00dcZ HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/G%C3%9CND%C3%9CZ+HUKUK+B%C3%9CROSU/@41.068961,28.977142999999998?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Kubra Oktay Law Office (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vDvNgMGNqhveupOzssyE_g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=154.1361&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "G\u00fcrsel, Kubra Oktay Law Office, Aynur Sk. No:12, 34400 K\u00e2\u011f\u0131thane/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJt_imhOC2yhQR-Ej7ImepD-0",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJt_imhOC2yhQR-Ej7ImepD-0&authuser=0&hl=tr&gl=TR",
+    "coordinates": {
+        "latitude": 41.071850999999995,
+        "longitude": 28.976608
+    },
+    "plus_code": "3XCG+PJ K\u00e2\u011f\u0131thane, \u0130stanbul",
+    "detailed_address": {
+        "ward": "G\u00fcrsel",
+        "street": "Aynur Sk. No:12",
+        "city": "K\u00e2\u011f\u0131thane",
+        "postal_code": "34400",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "17082058172073199864",
+    "data_id": "0x14cab6e084a6f8b7:0xed0fa96722fb48f8",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vDvNgMGNqhveupOzssyE_g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=154.1361&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vDvNgMGNqhveupOzssyE_g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=154.1361&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "By Kadir Y\u00dcCEL",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "3 y\u0131l \u00f6nce",
+            "published_at_date": "2020-02-02T21:19:49.383000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 25,
+            "total_number_of_photos_by_reviewer": 59,
+            "reviewer_url": "https://www.google.com/maps/contrib/114312089728325432582/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUPvCqm44RLOqmBjOF7uaX7ot_Plmo83tr0822HhbxVWpf6=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

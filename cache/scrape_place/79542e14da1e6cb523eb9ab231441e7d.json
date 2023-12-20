@@ -1,0 +1,184 @@
+{
+    "place_id": "ChIJ15kadchZLxUR3M9bqTr2RLQ",
+    "name": "Ayd\u0131n Hukuk & Dan\u0131\u015fmanl\u0131k",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Elvin Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Elvin+Hukuk+B%C3%BCrosu/@36.5702978,36.1591619?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "A&E HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/A%26E+HUKUK+B%C3%9CROSU/@36.5812147,36.1582046?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Hatay \u0130skenderun Avukatl\u0131k Ve Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Hatay+%C4%B0skenderun+Avukatl%C4%B1k+Ve+Hukuk+B%C3%BCrosu/@36.572097299999996,36.156009?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Ali D\u00fcndar \u00c7etin",
+            "link": "https://www.google.com/maps/search/Avukat+Ali+D%C3%BCndar+%C3%87etin/@36.5733605,36.1590372?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 4.2,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "G\u00f6kp\u0131nar Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%B6kp%C4%B1nar+Avukatl%C4%B1k+B%C3%BCrosu/@36.5721084,36.1563654?authuser=0&entry=ttu",
+            "reviews": 38,
+            "rating": 3.5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        }
+    ],
+    "website": "https://www.linkedin.com/in/sadet-ayd%25C4%25B1n-0188a7130/%3ForiginalSubdomain%3Dtr",
+    "owner": {
+        "id": "113857884066973549657",
+        "name": "Ayd\u0131n Hukuk & Dan\u0131\u015fmanl\u0131k (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/113857884066973549657"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=j33jlOXpi97bLjGtcnRDAg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=115.17608&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201317:30",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0543 812 13 67",
+    "address": "Meydan, Ayd\u0131n Hukuk & Dan\u0131\u015fmanl\u0131k, Adalet \u0130\u015fhan\u0131, 505/1. Sk. No:17 K:3 D:9, 31230 \u0130skenderun/Hatay",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ15kadchZLxUR3M9bqTr2RLQ",
+    "status": "Kapanmak \u00fczere \u22c5 17:30 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ15kadchZLxUR3M9bqTr2RLQ&q=?q=place_id:ChIJ15kadchZLxUR3M9bqTr2RLQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.577748199999995,
+        "longitude": 36.1614246
+    },
+    "plus_code": "H5H6+3H \u0130skenderun, Hatay",
+    "detailed_address": {
+        "ward": "Meydan",
+        "street": "Adalet \u0130\u015fhan\u0131, 505/1. Sk. No:17 K:3 D:9",
+        "city": "\u0130skenderun",
+        "postal_code": "31230",
+        "state": "Hatay",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12989777957053255644",
+    "data_id": "0x152f59c8751a99d7:0xb444f63aa95bcfdc",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=j33jlOXpi97bLjGtcnRDAg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=115.17608&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPgSXqMlisFehB6qrsd0E7AyBAyFOS7LmystgLL=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=j33jlOXpi97bLjGtcnRDAg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=115.17608&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "10:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

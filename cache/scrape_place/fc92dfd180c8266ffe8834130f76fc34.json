@@ -1,0 +1,225 @@
+{
+    "place_id": "ChIJXSrk0WO6yhQReV5icCfz59c",
+    "name": "Avukat Fatma Toker",
+    "description": null,
+    "reviews": 3,
+    "competitors": [
+        {
+            "name": "Pusula Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Pusula+Hukuk+B%C3%BCrosu/@41.0727057,28.887298200000004?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "\u0130\u015f Hukuku Avukat\u0131"
+        },
+        {
+            "name": "Avukat Erc\u00fcment Ali",
+            "link": "https://www.google.com/maps/search/Avukat+Erc%C3%BCment+Ali/@41.0686374,28.895055799999998?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 3.7,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u0130leri Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/%C4%B0leri+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.035832,28.912083999999997?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Fatih Baklac\u0131 Avukat",
+            "link": "https://www.google.com/maps/search/Fatih+Baklac%C4%B1+Avukat/@41.033191699999996,28.9129485?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 3,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Kocetepe Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kocetepe+Hukuk+B%C3%BCrosu/@41.0357,28.912053000000004?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Avukat Fatma Toker (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh3.googleusercontent.com/hKo7rkWTqpBpWb4EsP-NSe7SHvEV94VahACfyaeT-QzwmICYdnP_71Q67KiHcWk=w426-h240-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": 3.7,
+    "workday_timing": "10:00\u201317:00",
+    "closed_on": "Open All Days",
+    "phone": "(0212) 493 21 05",
+    "address": "Yenido\u011fan, Avukat Fatma Toker, Demirkap\u0131 Cd. Cumhuriyet is Merkezi, 34030 Bayrampa\u015fa/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJXSrk0WO6yhQReV5icCfz59c",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 17:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJXSrk0WO6yhQReV5icCfz59c&q=?q=place_id:ChIJXSrk0WO6yhQReV5icCfz59c&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.037329,
+        "longitude": 28.909126699999998
+    },
+    "plus_code": "2WP5+WM Bayrampa\u015fa, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Yenido\u011fan",
+        "street": "Demirkap\u0131 Cd. Cumhuriyet is Merkezi",
+        "city": "Bayrampa\u015fa",
+        "postal_code": "34030",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "15557670788489436793",
+    "data_id": "0x14caba63d1e42a5d:0xd7e7f32770625e79",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh3.googleusercontent.com/hKo7rkWTqpBpWb4EsP-NSe7SHvEV94VahACfyaeT-QzwmICYdnP_71Q67KiHcWk=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4C9s2Y4f3txPblSznE6MtQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=15.641287&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "10:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "10:00\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "10:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "10:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "10:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "10:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "10:00\u201317:00"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "X \u00dc",
+            "rating": 1,
+            "review_text": null,
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-07-19T23:20:09.954000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101671796066075670674/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKivHE5AIVQAUxcbkGh82vM7XcA5YZNY5bETfrgZyoOZw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "K\u00fcbra Pakel",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-01-08T17:03:04.540000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 67,
+            "total_number_of_photos_by_reviewer": 87,
+            "reviewer_url": "https://www.google.com/maps/contrib/109357705584572615927/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUcKh2YRtgvpfnnX8YAJuFJHoW6_n7nXDKfJdwhzcTIDfEx=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "G\u00f6k\u00e7e N. G\u00fcng\u00f6r",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-03-17T20:30:58.421000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/103448889973910809860/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU4Or14twdIBWU4hfWVLrLloqVuGvaa5Mdi0otMwyrqgr0=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

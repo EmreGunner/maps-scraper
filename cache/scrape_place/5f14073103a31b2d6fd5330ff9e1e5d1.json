@@ -1,0 +1,212 @@
+{
+    "place_id": "ChIJAybFj-u5yhQRKTAJP5EcpM4",
+    "name": "Start Terc\u00fcme",
+    "description": null,
+    "reviews": 2,
+    "competitors": [
+        {
+            "name": "Star Terc\u00fcme",
+            "link": "https://www.google.com/maps/search/Star+Terc%C3%BCme/@41.0081469,28.9538482?authuser=0&entry=ttu",
+            "reviews": 38,
+            "rating": 5,
+            "main_category": "\u00c7evirmen"
+        },
+        {
+            "name": "Cepusta",
+            "link": "https://www.google.com/maps/search/Cepusta/@41.0173803,28.9696036?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "\u00c7evirmen"
+        },
+        {
+            "name": "M\u00fcste\u015far Terc\u00fcme",
+            "link": "https://www.google.com/maps/search/M%C3%BCste%C5%9Far+Terc%C3%BCme/@41.018463499999996,28.9439425?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "\u00c7evirmen"
+        },
+        {
+            "name": "\u00d6zt\u00fcrk Translation",
+            "link": "https://www.google.com/maps/search/%C3%96zt%C3%BCrk+Translation/@41.0096485,28.9470524?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 4,
+            "main_category": "Ekonomi Dan\u0131\u015fman\u0131"
+        },
+        {
+            "name": "TTERC\u00dcME",
+            "link": "https://www.google.com/maps/search/TTERC%C3%9CME/@41.021595,28.945325999999998?authuser=0&entry=ttu",
+            "reviews": 11,
+            "rating": 5,
+            "main_category": "\u00c7evirmen"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Start Terc\u00fcme (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=baPo5T_-QZd3miX_-7LeAw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=53.73007&pitch=0&thumbfov=100",
+    "main_category": "\u00c7evirmen",
+    "categories": [
+        "\u00c7evirmen"
+    ],
+    "rating": 5,
+    "workday_timing": "08:30\u201317:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0542 574 66 70",
+    "address": "Start Terc\u00fcme, Ordu Cad. \u0130nan \u0130\u015f Han\u0131 No:14/202 Kat:2, 34134 Fatih/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJAybFj-u5yhQRKTAJP5EcpM4",
+    "status": "Kapanmak \u00fczere \u22c5 17:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Per 08:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAybFj-u5yhQRKTAJP5EcpM4&q=?q=place_id:ChIJAybFj-u5yhQRKTAJP5EcpM4&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0097422,
+        "longitude": 28.9590218
+    },
+    "plus_code": "2X55+VJ Fatih, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Balabana\u011fa",
+        "street": "Ordu Cad. \u0130nan \u0130\u015f Han\u0131 No:14/202 Kat:2",
+        "city": "Fatih",
+        "postal_code": "34134",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "14890057678147104809",
+    "data_id": "0x14cab9eb8fc52603:0xcea41c913f093029",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=baPo5T_-QZd3miX_-7LeAw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=53.73007&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=baPo5T_-QZd3miX_-7LeAw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=53.73007&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Highly reliable translation service.",
+            "reviewer_name": "Vanderley",
+            "rating": 5,
+            "review_text": "Highly reliable translation service.",
+            "published_at": "10 ay \u00f6nce",
+            "published_at_date": "2023-01-26T18:18:16.229000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117600374578194608777/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW8lZPLVsL4ZkmvQGRI_SZgJTneFEYa1vWd7oWD3ucdcnQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "Son derece g\u00fcvenilir \u00e7eviri hizmeti.",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Abdullah \u00c7ukurlu",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-10-09T13:56:02.378000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108037487439033633965/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUIk31GtYxfNKuGecB7QB6fWqD_wT9y_vK4zgs6QMd9vnyw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

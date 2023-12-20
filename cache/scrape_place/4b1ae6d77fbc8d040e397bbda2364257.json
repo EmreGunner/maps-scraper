@@ -1,0 +1,140 @@
+{
+    "place_id": "ChIJgektIBSPKBURJxY1oOepS4E",
+    "name": "K\u0131l\u0131\u00e7 Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "K\u0131l\u0131\u00e7 Hukuk Ofisi",
+            "link": "https://www.google.com/maps/search/K%C4%B1l%C4%B1%C3%A7+Hukuk+Ofisi/@36.9909482,35.322474299999996?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "K\u0131l\u0131\u00e7 Avukatl\u0131k ve Hukuki Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/K%C4%B1l%C4%B1%C3%A7+Avukatl%C4%B1k+ve+Hukuki+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@36.9908384,35.3289624?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 4.6,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "KILIN\u00c7&SAKLIYAN HUKUK VE DANI\u015eMANLIK - AV.MEHMET CAN KILIN\u00c7 - AV.SARA SAKLIYAN KILIN\u00c7",
+            "link": "https://www.google.com/maps/search/KILIN%C3%87%26SAKLIYAN+HUKUK+VE+DANI%C5%9EMANLIK+-+AV.MEHMET+CAN+KILIN%C3%87+-+AV.SARA+SAKLIYAN+KILIN%C3%87/@36.9912421,35.3289732?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "K\u0131l\u0131n\u00e7 Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/K%C4%B1l%C4%B1n%C3%A7+Hukuk+B%C3%BCrosu/@36.9916489,35.330624799999995?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "107915206969553464405",
+        "name": "K\u0131l\u0131\u00e7 Hukuk B\u00fcrosu (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/107915206969553464405"
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0322) 458 58 82",
+    "address": "Cemalpa\u015fa, K\u0131l\u0131\u00e7 Hukuk B\u00fcrosu, Cevat Yurdakul Cad. \u0130kizler Apt No:16 Kat:2 Daire:4, 01120 Seyhan/Adana",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJgektIBSPKBURJxY1oOepS4E",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJgektIBSPKBURJxY1oOepS4E&q=?q=place_id:ChIJgektIBSPKBURJxY1oOepS4E&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 37.0047414,
+        "longitude": 35.3287288
+    },
+    "plus_code": "283H+VF Seyhan, Adana",
+    "detailed_address": {
+        "ward": "Cemalpa\u015fa",
+        "street": "Cevat Yurdakul Cad. \u0130kizler Apt No:16 Kat:2 Daire:4",
+        "city": "Seyhan",
+        "postal_code": "01120",
+        "state": "Adana",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "9316727066436376103",
+    "data_id": "0x15288f14202de981:0x814ba9e7a0351627",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

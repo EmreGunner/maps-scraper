@@ -1,0 +1,163 @@
+{
+    "place_id": "ChIJG1Yw52W4yhQRSCcR8bRmwuQ",
+    "name": "Avukat Erol Yerlikaya",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "EROL AVUKATLIK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/EROL+AVUKATLIK+B%C3%9CROSU/@40.9743048,29.098357799999995?authuser=0&entry=ttu",
+            "reviews": 11,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Yerlikaya Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Yerlikaya+Hukuk+B%C3%BCrosu/@40.9959266,29.074364199999998?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6MER EROL HUKUK AVUKATLIK&DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/%C3%96MER+EROL+HUKUK+AVUKATLIK%26DANI%C5%9EMANLIK/@40.994445999999996,29.061970000000002?authuser=0&entry=ttu",
+            "reviews": 27,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat Taylan Erimer",
+            "link": "https://www.google.com/maps/search/Avukat+Taylan+Erimer/@40.9876365,29.026589299999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Avukat Erol Yerlikaya (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh5.googleusercontent.com/VVxG_WFCe7xxSXvNJm1-8CWT_qZNT3OMZRekNfSj-q-XfKLB1Pu2S3uHBjqv9dmp=w408-h306-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0216) 414 00 07",
+    "address": "Osmana\u011fa, Avukat Erol Yerlikaya, 5, Gen. As\u0131m G\u00fcnd\u00fcz Cd. No:19/64, 34714 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJG1Yw52W4yhQRSCcR8bRmwuQ",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJG1Yw52W4yhQRSCcR8bRmwuQ&q=?q=place_id:ChIJG1Yw52W4yhQRSCcR8bRmwuQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.988704299999995,
+        "longitude": 29.0289349
+    },
+    "plus_code": "X2QH+FH Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Osmana\u011fa",
+        "street": "5, Gen. As\u0131m G\u00fcnd\u00fcz Cd. No:19/64",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34714",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16483850513454016328",
+    "data_id": "0x14cab865e730561b:0xe4c266b4f1112748",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh5.googleusercontent.com/VVxG_WFCe7xxSXvNJm1-8CWT_qZNT3OMZRekNfSj-q-XfKLB1Pu2S3uHBjqv9dmp=w397-h298-k-no"
+        },
+        {
+            "about": "D\u0131\u015ftan g\u00f6r\u00fcn\u00fcm",
+            "link": "//lh5.googleusercontent.com/VVxG_WFCe7xxSXvNJm1-8CWT_qZNT3OMZRekNfSj-q-XfKLB1Pu2S3uHBjqv9dmp=w397-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8ynU4pzXQ36-MEfLRRfh1g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=71.443054&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

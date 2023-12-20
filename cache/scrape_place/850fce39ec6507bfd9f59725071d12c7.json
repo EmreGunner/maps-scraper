@@ -1,0 +1,74 @@
+{
+    "place_id": "ChIJ9-qjePG3yhQRXWX0tUWZs-Q",
+    "name": "Ayta\u00e7 Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Ayta\u00e7 Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Yh0aL97AkCVAEOzOANdJIQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=74.28547&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "\u015eehit Muhtar, Ayta\u00e7 Hukuk B\u00fcrosu, Mis Sk. No:14, 34435 Beyo\u011flu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ9-qjePG3yhQRXWX0tUWZs-Q",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ9-qjePG3yhQRXWX0tUWZs-Q&q=?q=place_id:ChIJ9-qjePG3yhQRXWX0tUWZs-Q&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.035928399999996,
+        "longitude": 28.9818151
+    },
+    "plus_code": "2XPJ+9P Beyo\u011flu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "\u015eehit Muhtar",
+        "street": "Mis Sk. No:14",
+        "city": "Beyo\u011flu",
+        "postal_code": "34435",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "16479683986163262813",
+    "data_id": "0x14cab7f178a3eaf7:0xe4b39945b5f4655d",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Yh0aL97AkCVAEOzOANdJIQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=74.28547&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Yh0aL97AkCVAEOzOANdJIQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=74.28547&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

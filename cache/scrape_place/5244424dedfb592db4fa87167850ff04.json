@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJL6sRwFfCJRURIux54tNG_ws",
+    "name": "GK HUKUK B\u00dcROSU",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "G & K HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/G+%26+K+HUKUK+B%C3%9CROSU/@36.2261494,36.139967899999995?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Alkan Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Alkan+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@36.2239654,36.1281678?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Akg\u00f6l Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Akg%C3%B6l+Hukuk+B%C3%BCrosu/@36.205154799999995,36.135030799999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Avukat Fevzi Randa",
+            "link": "https://www.google.com/maps/search/Avukat+Fevzi+Randa/@36.2266061,36.131214799999995?authuser=0&entry=ttu",
+            "reviews": 10,
+            "rating": 4.6,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Av. U\u011fur \u0130nan GEN\u00c7 Hukuk ve Dan\u0131\u015fmanl\u0131k Ofisi",
+            "link": "https://www.google.com/maps/search/Av.+U%C4%9Fur+%C4%B0nan+GEN%C3%87+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+Ofisi/@36.209786,36.139539899999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://gkhukukhatay.com/",
+    "owner": {
+        "id": null,
+        "name": "GK HUKUK B\u00dcROSU (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RJWlq4rz8D2y8UbbASckPA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=11.743635&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0326) 502 32 13",
+    "address": "GK HUKUK B\u00dcROSU, AKASYA MAH. 170.SOKAK NO:1 A PLAZA KAT:2 D:A\u0130RE NO:201, Antakya/Hatay",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJL6sRwFfCJRURIux54tNG_ws",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJL6sRwFfCJRURIux54tNG_ws&q=?q=place_id:ChIJL6sRwFfCJRURIux54tNG_ws&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 36.221281399999995,
+        "longitude": 36.1341191
+    },
+    "plus_code": "64CM+GJ Antakya, Hatay",
+    "detailed_address": {
+        "ward": "Akasya",
+        "street": "AKASYA MAH. 170.SOKAK NO:1 A PLAZA KAT:2 D:A\u0130RE NO:201",
+        "city": "Antakya",
+        "postal_code": null,
+        "state": "Hatay",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "864487529330109474",
+    "data_id": "0x1525c257c011ab2f:0xbff46d3e279ec22",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RJWlq4rz8D2y8UbbASckPA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=11.743635&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RJWlq4rz8D2y8UbbASckPA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=11.743635&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

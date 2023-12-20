@@ -1,0 +1,156 @@
+{
+    "place_id": "ChIJLdxHHtLJyhQRketzr4lZZos",
+    "name": "TASARI HUKUK ve DANI\u015eMANLIK",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Mavi Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Mavi+Hukuk+B%C3%BCrosu/@41.0501716,29.053779199999994?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Taboglu Attorneys at Law",
+            "link": "https://www.google.com/maps/search/Taboglu+Attorneys+at+Law/@41.054973,29.0529588?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "GLOKAL HUKUK VE DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/GLOKAL+HUKUK+VE+DANI%C5%9EMANLIK/@41.044104100000006,29.045586699999998?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00c7amlica Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%87amlica+Hukuk+B%C3%BCrosu/@41.0219963,29.0700592?authuser=0&entry=ttu",
+            "reviews": 14,
+            "rating": 4.3,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "G\u00fcr & Demirci Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%BCr+%26+Demirci+Hukuk+B%C3%BCrosu/@41.0202159,29.0350531?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://tasarihukuk.com/",
+    "owner": {
+        "id": "104718467843133607842",
+        "name": "TASARI HUKUK ve DANI\u015eMANLIK (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/104718467843133607842"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNuQ2ehFq4RZ-7eWSIABn6WLFhEdtiYpbl2Sql-=w408-h544-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201317:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 318 80 60",
+    "address": "\u00c7engelk\u00f6y, TASARI HUKUK ve DANI\u015eMANLIK, Bak\u0131rc\u0131ba\u015f\u0131 Sk. No:11 34680, 34680 \u00dcsk\u00fcdar/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJLdxHHtLJyhQRketzr4lZZos",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 17:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJLdxHHtLJyhQRketzr4lZZos&q=?q=place_id:ChIJLdxHHtLJyhQRketzr4lZZos&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.051615999999996,
+        "longitude": 29.056403999999997
+    },
+    "plus_code": "3324+JH \u00dcsk\u00fcdar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "\u00c7engelk\u00f6y",
+        "street": "Bak\u0131rc\u0131ba\u015f\u0131 Sk. No:11 34680",
+        "city": "\u00dcsk\u00fcdar",
+        "postal_code": "34680",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10044814466785471377",
+    "data_id": "0x14cac9d21e47dc2d:0x8b665989af73eb91",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNuQ2ehFq4RZ-7eWSIABn6WLFhEdtiYpbl2Sql-=w224-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=g2DGPXuGdXPzX-qErVQc8w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=295.12418&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,156 @@
+{
+    "place_id": "ChIJzXHB8h63yhQR86LXpyLY8rs",
+    "name": "Nima BAGHER\u0130",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Ko\u00e7 & Bagheri Law Office",
+            "link": "https://www.google.com/maps/search/Ko%C3%A7+%26+Bagheri+Law+Office/@41.035669999999996,28.980646999999998?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "M\u00fcnferit Hukuk",
+            "link": "https://www.google.com/maps/search/M%C3%BCnferit+Hukuk/@41.0262323,28.976902400000004?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "\u00dcmit Kaplan",
+            "link": "https://www.google.com/maps/search/%C3%9Cmit+Kaplan/@41.0353674,28.9821527?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat Nermin Kaplan",
+            "link": "https://www.google.com/maps/search/Avukat+Nermin+Kaplan/@41.0324166,28.975740700000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u00d6zer & \u00d6zer Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/%C3%96zer+%26+%C3%96zer+Hukuk+B%C3%BCrosu/@41.03536,28.981653200000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "101826027091990742189",
+        "name": "Nima BAGHER\u0130 (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/101826027091990742189"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v70fl4PrIFUWBYvEeNvtWw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=43.09387&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0546 646 27 56",
+    "address": "\u015eehit Muhtar, Nima BAGHER\u0130, Mahallesi, \u00d6\u011f\u00fct Sk. No:10/4, 34435 Beyo\u011flu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJzXHB8h63yhQR86LXpyLY8rs",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJzXHB8h63yhQR86LXpyLY8rs&q=?q=place_id:ChIJzXHB8h63yhQR86LXpyLY8rs&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.035669999999996,
+        "longitude": 28.980646999999998
+    },
+    "plus_code": "2XPJ+77 Beyo\u011flu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "\u015eehit Muhtar",
+        "street": "Mahallesi, \u00d6\u011f\u00fct Sk. No:10/4",
+        "city": "Beyo\u011flu",
+        "postal_code": "34435",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "13543124672812917491",
+    "data_id": "0x14cab71ef2c171cd:0xbbf2d822a7d7a2f3",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v70fl4PrIFUWBYvEeNvtWw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=43.09387&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v70fl4PrIFUWBYvEeNvtWw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=43.09387&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

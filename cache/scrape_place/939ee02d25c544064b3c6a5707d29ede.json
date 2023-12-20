@@ -1,0 +1,74 @@
+{
+    "place_id": "ChIJdwqlZV1P0xQRA0s3YOfueHc",
+    "name": "K\u0131l\u0131\u00e7arslan Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "K\u0131l\u0131\u00e7arslan Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PHORTDaLXUVNKV4rrYeBlA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=138.3769&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "B\u00fcy\u00fckesat, K\u0131l\u0131\u00e7arslan Hukuk B\u00fcrosu, Koza Sk. No:54, 06700 \u00c7ankaya/Ankara",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJdwqlZV1P0xQRA0s3YOfueHc",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJdwqlZV1P0xQRA0s3YOfueHc&q=?q=place_id:ChIJdwqlZV1P0xQRA0s3YOfueHc&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 39.8919691,
+        "longitude": 32.8778487
+    },
+    "plus_code": "VVRH+Q4 \u00c7ankaya, Ankara",
+    "detailed_address": {
+        "ward": "B\u00fcy\u00fckesat",
+        "street": "Koza Sk. No:54",
+        "city": "\u00c7ankaya",
+        "postal_code": "06700",
+        "state": "Ankara",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "8608893365237795587",
+    "data_id": "0x14d34f5d65a50a77:0x7778eee760374b03",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PHORTDaLXUVNKV4rrYeBlA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=138.3769&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PHORTDaLXUVNKV4rrYeBlA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=138.3769&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,114 @@
+{
+    "place_id": "ChIJa1ZPUWi2yhQRyqbEIcHB9qQ",
+    "name": "Asl\u0131 \u00d6l\u00e7er",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Mutluer Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Mutluer+Hukuk+B%C3%BCrosu/@41.075609,29.021356?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00c7elebiler | Hukuk Avukatl\u0131k & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/%C3%87elebiler+%7C+Hukuk+Avukatl%C4%B1k+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.077197,29.017897500000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Akol Law",
+            "link": "https://www.google.com/maps/search/Akol+Law/@41.0780473,29.0105306?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 4.3,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "ATLAS HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/ATLAS+HUKUK+B%C3%9CROSU/@41.075423199999996,29.0195762?authuser=0&entry=ttu",
+            "reviews": 14,
+            "rating": 4.9,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Asl\u0131 \u00d6l\u00e7er (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=etgpQ_Jik-eahgqfYpDXrQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=348.42642&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Levent, Asl\u0131 \u00d6l\u00e7er, \u00c7ay\u0131r\u00e7imen Soka\u011f\u0131 No:3, 34330 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJa1ZPUWi2yhQRyqbEIcHB9qQ",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJa1ZPUWi2yhQRyqbEIcHB9qQ&q=?q=place_id:ChIJa1ZPUWi2yhQRyqbEIcHB9qQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0793275,
+        "longitude": 29.013552599999997
+    },
+    "plus_code": "32H7+PC Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Levent",
+        "street": "\u00c7ay\u0131r\u00e7imen Soka\u011f\u0131 No:3",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34330",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "11886901301730387658",
+    "data_id": "0x14cab668514f566b:0xa4f6c1c121c4a6ca",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=etgpQ_Jik-eahgqfYpDXrQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=348.42642&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=etgpQ_Jik-eahgqfYpDXrQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=348.42642&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

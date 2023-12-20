@@ -1,0 +1,101 @@
+{
+    "place_id": "ChIJF2p6N0S2yhQRGYedcRrPZc4",
+    "name": "BKSHUKUK",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Z\u00fcmb\u00fcl Hukuk Ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Z%C3%BCmb%C3%BCl+Hukuk+Ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.075609,29.021356?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "BS AVUKATLIK & DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/BS+AVUKATLIK+%26+DANI%C5%9EMANLIK/@41.078021,29.010848099999993?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ACK Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/ACK+Hukuk+B%C3%BCrosu/@41.068592699999996,29.007892000000002?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ekinoks Hukuk",
+            "link": "https://www.google.com/maps/search/Ekinoks+Hukuk/@41.0790138,29.0186705?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6zbek Avukatl\u0131k Ortakl\u0131\u011f\u0131",
+            "link": "https://www.google.com/maps/search/%C3%96zbek+Avukatl%C4%B1k+Ortakl%C4%B1%C4%9F%C4%B1/@41.081089899999995,29.0165716?authuser=0&entry=ttu",
+            "reviews": 15,
+            "rating": 4.5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "BKSHUKUK (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Nisbetiye, BKSHUKUK, \u015ei\u015fli B\u00fcy\u00fckdere Cd. 104 E, 34340 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJF2p6N0S2yhQRGYedcRrPZc4",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJF2p6N0S2yhQRGYedcRrPZc4&q=?q=place_id:ChIJF2p6N0S2yhQRGYedcRrPZc4&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0703884,
+        "longitude": 29.0156527
+    },
+    "plus_code": "32C8+57 Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Nisbetiye",
+        "street": "\u015ei\u015fli B\u00fcy\u00fckdere Cd. 104 E",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34340",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "14872521056943179545",
+    "data_id": "0x14cab644377a6a17:0xce65cf1a719d8719",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

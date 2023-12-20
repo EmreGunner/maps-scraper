@@ -1,0 +1,363 @@
+{
+    "place_id": "ChIJHaO6Lka3yhQR3ThLN0d-7AQ",
+    "name": "Radolar Group",
+    "description": null,
+    "reviews": 50,
+    "competitors": [
+        {
+            "name": "Dolarla Kira",
+            "link": "https://www.google.com/maps/search/Dolarla+Kira/@41.07674960000001,28.971757800000002?authuser=0&entry=ttu",
+            "reviews": 71,
+            "rating": 4.8,
+            "main_category": "Yat\u0131r\u0131m Hizmetleri"
+        },
+        {
+            "name": "GALATA INVESTMENT",
+            "link": "https://www.google.com/maps/search/GALATA+INVESTMENT/@41.1051718,28.986902?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Yat\u0131r\u0131m \u015eirketi"
+        },
+        {
+            "name": "DPMR",
+            "link": "https://www.google.com/maps/search/DPMR/@41.105204199999996,28.988209599999994?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Yat\u0131r\u0131m \u015eirketi"
+        },
+        {
+            "name": "CENTURY 21 \u0130NVEST GAYR\u0130MENKUL DANI\u015eMANLIK A.\u015e",
+            "link": "https://www.google.com/maps/search/CENTURY+21+%C4%B0NVEST+GAYR%C4%B0MENKUL+DANI%C5%9EMANLIK+A.%C5%9E/@41.102769599999995,28.981880499999995?authuser=0&entry=ttu",
+            "reviews": 55,
+            "rating": 4.8,
+            "main_category": "Gayrimenkul Dan\u0131\u015fman\u0131"
+        },
+        {
+            "name": "Fon Radar Bilisim Teknolojileri San ve Tic. A.\u015e",
+            "link": "https://www.google.com/maps/search/Fon+Radar+Bilisim+Teknolojileri+San+ve+Tic.+A.%C5%9E/@41.1140664,29.0243054?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Mali planlay\u0131c\u0131"
+        }
+    ],
+    "website": "http://www.radolar.com/",
+    "owner": {
+        "id": "102828657316506142775",
+        "name": "Radolar Group (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/102828657316506142775"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPQDdEYfvfbpSULi0ITuVPK4i3ZrDHwW2bymKOG=w408-h272-k-no",
+    "main_category": "Mali planlay\u0131c\u0131",
+    "categories": [
+        "Mali planlay\u0131c\u0131"
+    ],
+    "rating": 4.8,
+    "workday_timing": "10:00\u201318:00",
+    "closed_on": "Open All Days",
+    "phone": "0535 100 35 20",
+    "address": "Hamidiye, Radolar Group, Porta Vadi \u0130\u015f Merkezi, Cendere Cad. No: 103, 34408 K\u00e2\u011f\u0131thane/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJHaO6Lka3yhQR3ThLN0d-7AQ",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 5,
+        "5": 44
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJHaO6Lka3yhQR3ThLN0d-7AQ&q=?q=place_id:ChIJHaO6Lka3yhQR3ThLN0d-7AQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.102725799999995,
+        "longitude": 28.9822116
+    },
+    "plus_code": "4X3J+3V K\u00e2\u011f\u0131thane, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Hamidiye",
+        "street": "Porta Vadi \u0130\u015f Merkezi, Cendere Cad. No: 103",
+        "city": "K\u00e2\u011f\u0131thane",
+        "postal_code": "34408",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "354797314990880989",
+    "data_id": "0x14cab7462ebaa31d:0x4ec7e47374b38dd",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun asans\u00f6r",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPQDdEYfvfbpSULi0ITuVPK4i3ZrDHwW2bymKOG=w447-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP_TCPt3wna6qhaWcUvRgKjK6XtsLk8sFDIQg4V=w446-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xJ6BF5-4wF0vszwzwpbFzg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=43.847244&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "10:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "10:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "10:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "10:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "10:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "12:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "12:00\u201318:00"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Firma ailemize uygun se\u00e7enekleri bulmam\u0131zda ve tan\u0131tmam\u0131zda \u00e7ok yard\u0131mc\u0131 oldu.Bu firmay\u0131 ba\u015fkalar\u0131na da tavsiye ederim.\n\nThe company helped a lot in finding and introducing suitable options to our family. I recommend this company to others.",
+            "reviewer_name": "Atefe Gharebaghi",
+            "rating": 5,
+            "review_text": "Firma ailemize uygun se\u00e7enekleri bulmam\u0131zda ve tan\u0131tmam\u0131zda \u00e7ok yard\u0131mc\u0131 oldu.Bu firmay\u0131 ba\u015fkalar\u0131na da tavsiye ederim.\n\nThe company helped a lot in finding and introducing suitable options to our family. I recommend this company to others.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-07-14T10:18:10.903000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117130770312679762826/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWQqk-pfdbQxY_5FyXBn-QVAh1LYCYlimKO3unGwqLqwa4=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Ciddi, g\u00fcvenilir, \u015feffaf ve m\u00fc\u015fteriye k\u0131ymet veren bir i\u015fletme. Yat\u0131r\u0131m kararlar\u0131mda, \u00f6ncesinde ve sonras\u0131nda takip\u00e7iler, sat\u0131\u015f sonras\u0131nda da desteklerini s\u00fcrd\u00fcrd\u00fcler. Tavsiye ediyorum, tekrar te\u015fekk\u00fcr ederim.",
+            "reviewer_name": "YA\u015eAR \u00c7EL\u0130K",
+            "rating": 5,
+            "review_text": "Ciddi, g\u00fcvenilir, \u015feffaf ve m\u00fc\u015fteriye k\u0131ymet veren bir i\u015fletme. Yat\u0131r\u0131m kararlar\u0131mda, \u00f6ncesinde ve sonras\u0131nda takip\u00e7iler, sat\u0131\u015f sonras\u0131nda da desteklerini s\u00fcrd\u00fcrd\u00fcler. Tavsiye ediyorum, tekrar te\u015fekk\u00fcr ederim.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-07-13T11:44:15.747000",
+            "response_from_owner_text": "\u00c7ok te\u015fekk\u00fcr ederiz",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-07-13T11:47:53.617000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116190544404585666760/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIi4MYqU3jhK5o-rkhBwkmJVhQYfp16nHOD0OeaNAdo=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Bu sekt\u00f6rde insana do\u011fru d\u00fczg\u00fcn bilgi veren d\u00fcr\u00fcst bir yer bulmak cidden zor. Radolar ise bunlar\u0131 \u00e7ok \u00e7ok iyi yap\u0131yor. Gayet \u015feffaflar her ad\u0131mda yard\u0131mc\u0131 oluyorlar. Akl\u0131m\u0131za tak\u0131lan her konuda yard\u0131mc\u0131 oluyorlar sa\u011folsunlar. Buradan Serdar Bey'e tekrar tekrar te\u015fekk\u00fcr ediyorum.",
+            "reviewer_name": "Vildan \u015eensoy",
+            "rating": 5,
+            "review_text": "Bu sekt\u00f6rde insana do\u011fru d\u00fczg\u00fcn bilgi veren d\u00fcr\u00fcst bir yer bulmak cidden zor. Radolar ise bunlar\u0131 \u00e7ok \u00e7ok iyi yap\u0131yor. Gayet \u015feffaflar her ad\u0131mda yard\u0131mc\u0131 oluyorlar. Akl\u0131m\u0131za tak\u0131lan her konuda yard\u0131mc\u0131 oluyorlar sa\u011folsunlar. Buradan Serdar Bey'e tekrar tekrar te\u015fekk\u00fcr ediyorum.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-01-25T12:27:51.192000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/115291592429122339714/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIYK4KFbpZSENX9DkzQvG-R0TuYgZ4GbdujV_vUla8q=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Ciddi ve g\u00fcvenilir bir firma. Ayr\u0131ca m\u00fc\u015fteri memnuniyeti \u00f6n planda. Serdar Bey, i\u00e7ten ve \u00f6zverili bir hizmet sunuyor.",
+            "reviewer_name": "B\u00dcLENT KILIN\u00c7",
+            "rating": 5,
+            "review_text": "Ciddi ve g\u00fcvenilir bir firma. Ayr\u0131ca m\u00fc\u015fteri memnuniyeti \u00f6n planda. Serdar Bey, i\u00e7ten ve \u00f6zverili bir hizmet sunuyor.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-06-29T13:34:21.153000",
+            "response_from_owner_text": "Te\u015fekk\u00fcr ederiz\ud83d\ude4f",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-06-30T08:03:28.178000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112968887033087891938/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJe9e40sMHKAmlhRSuAts5tSsWBc5ZTDKGL0QWNJi8P=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "ger\u00e7ekden m\u00fc\u015fterilerine vakit ay\u0131ran bir \u015firket g\u00fczel davran\u0131\u015flar\u0131n\u0131z ve sab\u0131rla en iyi se\u00e7enekleri bize sundu\u011funuz i\u00e7in t\u015fk ederim",
+            "reviewer_name": "mahnaz abadkon",
+            "rating": 5,
+            "review_text": "ger\u00e7ekden m\u00fc\u015fterilerine vakit ay\u0131ran bir \u015firket g\u00fczel davran\u0131\u015flar\u0131n\u0131z ve sab\u0131rla en iyi se\u00e7enekleri bize sundu\u011funuz i\u00e7in t\u015fk ederim",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-06-28T16:33:28.609000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107156001976020011418/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLyDhFEHqmfNEaMe9S6Vei6czUF8xc8k115uBxbGHnA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "M\u00fc\u015fteri memnuniyetine \u00f6nem veren bir firma. \u0130\u015flerini profesyonelce yap\u0131yorlar ve son derece ilgililer. \ud83d\udc4c",
+            "reviewer_name": "Selma S",
+            "rating": 5,
+            "review_text": "M\u00fc\u015fteri memnuniyetine \u00f6nem veren bir firma. \u0130\u015flerini profesyonelce yap\u0131yorlar ve son derece ilgililer. \ud83d\udc4c",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-05-16T18:22:46.290000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105566577948861012795/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIV3HpPCeu5REa7J2yHg7E4Qr0-kzvXHKkQtpywDwms=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Kaliteli \u00e7al\u0131\u015fma ekibi ve do\u011fru hizmet ald\u0131\u011f\u0131m ger\u00e7ekten \u00e7ok iyi bir firma .",
+            "reviewer_name": "cihan aycan",
+            "rating": 5,
+            "review_text": "Kaliteli \u00e7al\u0131\u015fma ekibi ve do\u011fru hizmet ald\u0131\u011f\u0131m ger\u00e7ekten \u00e7ok iyi bir firma .",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-08-07T12:29:38.235000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101665479304082168954/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKe-5GZNRY-FCo7DaFTGjEe5klbLABoFP5o6PyA-XuM=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u0130yi bir gayrimenkul \u015firketi, kiralama ve sat\u0131\u015f \u00fczerine hizmet veriyorlar.",
+            "reviewer_name": "arya g\u00fcl demirci",
+            "rating": 5,
+            "review_text": "\u0130yi bir gayrimenkul \u015firketi, kiralama ve sat\u0131\u015f \u00fczerine hizmet veriyorlar.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-04-03T10:44:23.509000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100720679906781433526/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL5zBrA5VgyuKesRK4iHjQ5P9eInzF6X7IYpTYHMR9K=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

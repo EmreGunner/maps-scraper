@@ -1,0 +1,103 @@
+{
+    "place_id": "ChIJzYcBv3C7yhQRlDOJEjmv6Dg",
+    "name": "Avukat Aziz DEM\u0130R",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Demir Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Demir+Hukuk+B%C3%BCrosu/@41.0044039,28.906684799999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Av. Seyfettin Demir",
+            "link": "https://www.google.com/maps/search/Av.+Seyfettin+Demir/@40.9876636,28.9004692?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Kahveci Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Kahveci+Hukuk+B%C3%BCrosu/@41.011668199999995,28.9001855?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "E&M Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/E%26M+Hukuk+B%C3%BCrosu/@40.993835999999995,28.905416?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Avukat Aziz DEM\u0130R (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yCAGbj1oCsP9RT0w8eaM4Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=114.13522&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Maltepe, Avukat Aziz DEM\u0130R, \u00c7\u0131rp\u0131c\u0131 Yolu B \u00c7k. no:2/37, 34025 Zeytinburnu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJzYcBv3C7yhQRlDOJEjmv6Dg",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJzYcBv3C7yhQRlDOJEjmv6Dg&q=?q=place_id:ChIJzYcBv3C7yhQRlDOJEjmv6Dg&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9975704,
+        "longitude": 28.896763699999997
+    },
+    "plus_code": "XVXW+2P Zeytinburnu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Maltepe",
+        "street": "\u00c7\u0131rp\u0131c\u0131 Yolu B \u00c7k. no:2/37",
+        "city": "Zeytinburnu",
+        "postal_code": "34025",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4100720120379814804",
+    "data_id": "0x14cabb70bf0187cd:0x38e8af3912893394",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yCAGbj1oCsP9RT0w8eaM4Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=114.13522&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yCAGbj1oCsP9RT0w8eaM4Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=114.13522&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,101 @@
+{
+    "place_id": "ChIJ9WpY7Em3yhQRMLYQKjyv1AI",
+    "name": "TUNCER PARTNERS",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Tuna & Tuncer Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Tuna+%26+Tuncer+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@41.077557,29.014945?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 4.9,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Tuncer & Suzer Hukuk Ofisi",
+            "link": "https://www.google.com/maps/search/Tuncer+%26+Suzer+Hukuk+Ofisi/@41.0757657,29.0201887?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "LP Legal (Law+Partners)",
+            "link": "https://www.google.com/maps/search/LP+Legal+%28Law%2BPartners%29/@41.067738299999995,28.992661899999998?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Y\u0131lmaz & Tuncer Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Y%C4%B1lmaz+%26+Tuncer+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@41.071028999999996,28.982497?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Polat & Partners",
+            "link": "https://www.google.com/maps/search/Polat+%26+Partners/@41.0665774,29.001235?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "TUNCER PARTNERS (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Kurumsal Ofis",
+    "categories": [
+        "Kurumsal Ofis"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 403 14 94",
+    "address": "Mecidiyek\u00f6y, TUNCER PARTNERS, Mecidiyek\u00f6y Yolu Cd. No:12 Trump Towers 1. Kule No: 1706, \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ9WpY7Em3yhQRMLYQKjyv1AI",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ9WpY7Em3yhQRMLYQKjyv1AI&q=?q=place_id:ChIJ9WpY7Em3yhQRMLYQKjyv1AI&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0541188,
+        "longitude": 28.9595837
+    },
+    "plus_code": "3X35+JR \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Mecidiyek\u00f6y",
+        "street": "Mecidiyek\u00f6y Yolu Cd. No:12 Trump Towers 1. Kule No: 1706",
+        "city": "\u015ei\u015fli",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "203980556077151792",
+    "data_id": "0x14cab749ec586af5:0x2d4af3c2a10b630",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

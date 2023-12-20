@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJIa3NpXC3yhQRkj6D-f-mnfQ",
+    "name": "Bab Hukuk",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Bab Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Bab+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.0663469,28.9969505?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ba\u015fc\u0131bey Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ba%C5%9Fc%C4%B1bey+Hukuk+B%C3%BCrosu/@41.027201999999996,28.971759799999997?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "BAB-I HAYAT HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/BAB-I+HAYAT+HUKUK+B%C3%9CROSU/@41.019284,28.9568787?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Abbak Hukuk B\u00fcrosu (Abbak Attorneys at Law)",
+            "link": "https://www.google.com/maps/search/Abbak+Hukuk+B%C3%BCrosu+%28Abbak+Attorneys+at+Law%29/@41.036761600000006,28.991176199999998?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Ba\u015f\u00e7\u0131bey Hukuk",
+            "link": "https://www.google.com/maps/search/Ba%C5%9F%C3%A7%C4%B1bey+Hukuk/@41.032677799999995,28.975293399999998?authuser=0&entry=ttu",
+            "reviews": 27,
+            "rating": 3.6,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Bab Hukuk (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6rzH2kiPc3XoEYTaM8w5lg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=132.18747&pitch=0&thumbfov=100",
+    "main_category": "Kurumsal Ofis",
+    "categories": [
+        "Kurumsal Ofis"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "\u00d6mer Avni, Bab Hukuk, 34427 Beyo\u011flu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJIa3NpXC3yhQRkj6D-f-mnfQ",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJIa3NpXC3yhQRkj6D-f-mnfQ&q=?q=place_id:ChIJIa3NpXC3yhQRkj6D-f-mnfQ&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0371123,
+        "longitude": 28.9927191
+    },
+    "plus_code": "2XPV+R3 Beyo\u011flu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "\u00d6mer Avni",
+        "street": null,
+        "city": "Beyo\u011flu",
+        "postal_code": "34427",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "17626428134930988690",
+    "data_id": "0x14cab770a5cdad21:0xf49da6fff9833e92",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6rzH2kiPc3XoEYTaM8w5lg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=132.18747&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6rzH2kiPc3XoEYTaM8w5lg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=132.18747&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

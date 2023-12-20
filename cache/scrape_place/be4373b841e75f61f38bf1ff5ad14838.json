@@ -1,0 +1,135 @@
+{
+    "place_id": "ChIJzX3QW5uhyhQRtO5PmN2eMjU",
+    "name": "Avukat \u00d6zlem Eral",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "\u00d6zlem Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/%C3%96zlem+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.980781799999995,28.722152099999995?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00c7\u00f6z\u00fcm Hukuk B\u00fcrosu Avc\u0131lar",
+            "link": "https://www.google.com/maps/search/%C3%87%C3%B6z%C3%BCm+Hukuk+B%C3%BCrosu+Avc%C4%B1lar/@40.9811684,28.7222065?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "T\u00dcZEL G\u00dcL\u015eEN HUKUK VE ARABULUCULUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/T%C3%9CZEL+G%C3%9CL%C5%9EEN+HUKUK+VE+ARABULUCULUK+B%C3%9CROSU/@41.003098400000006,28.809575600000002?authuser=0&entry=ttu",
+            "reviews": 9,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u00d6zg\u00fcn Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/%C3%96zg%C3%BCn+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9796196,28.722327599999996?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u00d6Z\u00c7EL\u0130K HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/%C3%96Z%C3%87EL%C4%B0K+HUKUK+B%C3%9CROSU/@41.076246999999995,28.975543000000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "104960822654329266186",
+        "name": "Avukat \u00d6zlem Eral (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/104960822654329266186"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lAAabR8fg37J3hGpVYFfNQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=339.88544&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0534 709 10 20",
+    "address": "Avukat \u00d6zlem Eral, MERKEZ MAH. MARMARA CAD. MARMARA \u0130\u015e HANI NO: 12 K:1 D:40, 34320 Avc\u0131lar/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJzX3QW5uhyhQRtO5PmN2eMjU",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJzX3QW5uhyhQRtO5PmN2eMjU&q=?q=place_id:ChIJzX3QW5uhyhQRtO5PmN2eMjU&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.980146,
+        "longitude": 28.721943
+    },
+    "plus_code": "XPJC+3Q Avc\u0131lar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkez",
+        "street": "MERKEZ MAH. MARMARA CAD. MARMARA \u0130\u015e HANI NO: 12 K:1 D:40",
+        "city": "Avc\u0131lar",
+        "postal_code": "34320",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "3833300907426049716",
+    "data_id": "0x14caa19b5bd07dcd:0x35329edd984feeb4",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lAAabR8fg37J3hGpVYFfNQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=339.88544&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNoM8S5jt3HRmQswk659J0eF-yCXJikfhaYw288=w224-h313-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lAAabR8fg37J3hGpVYFfNQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=339.88544&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

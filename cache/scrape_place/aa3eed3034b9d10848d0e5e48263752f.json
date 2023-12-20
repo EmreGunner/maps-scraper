@@ -1,0 +1,101 @@
+{
+    "place_id": "ChIJuw3M9xu3yhQRujcNsG4305M",
+    "name": "K.S.K. Hukuk ve Dan\u0131\u015fmanl\u0131k",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "K&D Law Firm",
+            "link": "https://www.google.com/maps/search/K%26D+Law+Firm/@41.0339392,28.983476300000003?authuser=0&entry=ttu",
+            "reviews": 11,
+            "rating": 4.6,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "EKS Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/EKS+Hukuk+B%C3%BCrosu/@41.048079699999995,28.9872308?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "PARLAK HUKUK&DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/PARLAK+HUKUK%26DANI%C5%9EMANLIK/@41.0528833,28.986456900000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "CKT Law Firm",
+            "link": "https://www.google.com/maps/search/CKT+Law+Firm/@41.0539059,28.9956386?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "MSK LAW OFF\u0130CE",
+            "link": "https://www.google.com/maps/search/MSK+LAW+OFF%C4%B0CE/@41.0585115,28.986796799999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "K.S.K. Hukuk ve Dan\u0131\u015fmanl\u0131k (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": null,
+    "address": "Ergenekon, K.S.K. Hukuk ve Dan\u0131\u015fmanl\u0131k, Cumhuriyet Cd. No:179, 34000 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJuw3M9xu3yhQRujcNsG4305M",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJuw3M9xu3yhQRujcNsG4305M&q=?q=place_id:ChIJuw3M9xu3yhQRujcNsG4305M&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0472391,
+        "longitude": 28.9868299
+    },
+    "plus_code": "2XWP+VP \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Ergenekon",
+        "street": "Cumhuriyet Cd. No:179",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34000",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "10651918492200941498",
+    "data_id": "0x14cab71bf7cc0dbb:0x93d3376eb00d37ba",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

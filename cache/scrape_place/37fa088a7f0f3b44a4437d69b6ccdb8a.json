@@ -1,0 +1,166 @@
+{
+    "place_id": "ChIJ90TzexK3yhQRo3eEAI0v33g",
+    "name": "Osman \u00d6zler",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "OSMAN AKSU AVUKATLIK OF\u0130S\u0130",
+            "link": "https://www.google.com/maps/search/OSMAN+AKSU+AVUKATLIK+OF%C4%B0S%C4%B0/@41.064936599999996,28.9973036?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6ZAY & DEM\u0130R",
+            "link": "https://www.google.com/maps/search/%C3%96ZAY+%26+DEM%C4%B0R/@41.054594,28.985218?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4.8,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "S\u00f6zer Law Office",
+            "link": "https://www.google.com/maps/search/S%C3%B6zer+Law+Office/@41.046439199999995,28.984823199999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6zocak&Erdo\u011fan Law Firm",
+            "link": "https://www.google.com/maps/search/%C3%96zocak%26Erdo%C4%9Fan+Law+Firm/@41.0511555,28.991991000000002?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "\u00d6zt\u00fcrel",
+            "link": "https://www.google.com/maps/search/%C3%96zt%C3%BCrel/@41.042291299999995,28.987047200000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Osman \u00d6zler (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh6.googleusercontent.com/Gc5c6CP2UTcW88mNix8XJCdsp7qr3b5X_ZKvkYGgomoNtBfBqC5tc1EDq9nVZTDx=w426-h240-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": "08:00\u201319:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0212) 241 87 41",
+    "address": "Ergenekon, Osman \u00d6zler, Halaskargazi Cd. No:43, 34373 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ90TzexK3yhQRo3eEAI0v33g",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 19:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ90TzexK3yhQRo3eEAI0v33g&q=?q=place_id:ChIJ90TzexK3yhQRo3eEAI0v33g&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.050143,
+        "longitude": 28.987343199999998
+    },
+    "plus_code": "3X2P+3W \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Ergenekon",
+        "street": "Halaskargazi Cd. No:43",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34373",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "8709732487003404195",
+    "data_id": "0x14cab7127bf344f7:0x78df2f8d008477a3",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh6.googleusercontent.com/Gc5c6CP2UTcW88mNix8XJCdsp7qr3b5X_ZKvkYGgomoNtBfBqC5tc1EDq9nVZTDx=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=o1siH7_2KZxlAg-xks4hWw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=19.867926&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201319:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "08:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJUxp4CMuwyhQRs3ZKP9alrX0",
+    "name": "Arz Mimarl\u0131k",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Fark Mimarl\u0131k",
+            "link": "https://www.google.com/maps/search/Fark+Mimarl%C4%B1k/@41.0408275,28.985084299999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Mimar"
+        },
+        {
+            "name": "Noar Mimarl\u0131k",
+            "link": "https://www.google.com/maps/search/Noar+Mimarl%C4%B1k/@41.034587599999995,28.979705799999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Mimar"
+        },
+        {
+            "name": "Erkal Architects",
+            "link": "https://www.google.com/maps/search/Erkal+Architects/@41.036463,28.992037?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Mimar"
+        },
+        {
+            "name": "Efekta Architects",
+            "link": "https://www.google.com/maps/search/Efekta+Architects/@41.037125499999995,28.992948799999997?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 4.2,
+            "main_category": "Mimarl\u0131k Firmas\u0131"
+        },
+        {
+            "name": "Arz M\u00fchendislik (Proje ve Taahh\u00fct)",
+            "link": "https://www.google.com/maps/search/Arz+M%C3%BChendislik+%28Proje+ve+Taahh%C3%BCt%29/@40.9971013,28.924250999999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "M\u00fchendis"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Arz Mimarl\u0131k (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_ImEX6enzxGQ0RXtvEIVzQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=3.8073988&pitch=0&thumbfov=100",
+    "main_category": "Mimar",
+    "categories": [
+        "Mimar"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "0532 749 91 18",
+    "address": "\u00d6rnektepe, Arz Mimarl\u0131k, Kervansaray Sk. No:4/3, 34445 Beyo\u011flu/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJUxp4CMuwyhQRs3ZKP9alrX0",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJUxp4CMuwyhQRs3ZKP9alrX0&q=?q=place_id:ChIJUxp4CMuwyhQRs3ZKP9alrX0&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0606383,
+        "longitude": 28.950085299999998
+    },
+    "plus_code": "3X62+72 Beyo\u011flu, \u0130stanbul",
+    "detailed_address": {
+        "ward": "\u00d6rnektepe",
+        "street": "Kervansaray Sk. No:4/3",
+        "city": "Beyo\u011flu",
+        "postal_code": "34445",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "9056076765315364531",
+    "data_id": "0x14cab0cb08781a53:0x7dada5d63f4a76b3",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_ImEX6enzxGQ0RXtvEIVzQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=3.8073988&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_ImEX6enzxGQ0RXtvEIVzQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=3.8073988&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

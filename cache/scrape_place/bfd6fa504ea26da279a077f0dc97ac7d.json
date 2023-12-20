@@ -1,0 +1,358 @@
+{
+    "place_id": "ChIJTTDNmVW7yhQRaPjSmEb8EC8",
+    "name": "Property Invest",
+    "description": null,
+    "reviews": 41,
+    "competitors": [
+        {
+            "name": "Property \u0130stanbul Turkey",
+            "link": "https://www.google.com/maps/search/Property+%C4%B0stanbul+Turkey/@41.093821,29.003053?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Gayrimenkul Yat\u0131r\u0131m\u0131 Firmas\u0131"
+        },
+        {
+            "name": "\u0627\u0645\u0644\u0627\u06a9 \u062a\u0631\u06a9\u06cc\u0647",
+            "link": "https://www.google.com/maps/search/%D8%A7%D9%85%D9%84%D8%A7%DA%A9+%D8%AA%D8%B1%DA%A9%DB%8C%D9%87/@41.0753613,28.972608099999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "End\u00fcstriyel Emlak Ajans\u0131"
+        },
+        {
+            "name": "Prime Property Turkey",
+            "link": "https://www.google.com/maps/search/Prime+Property+Turkey/@41.0761786,28.972404200000003?authuser=0&entry=ttu",
+            "reviews": 15,
+            "rating": 4.7,
+            "main_category": "Gayrimenkul Dan\u0131\u015fman\u0131"
+        },
+        {
+            "name": "Property Show Istanbul",
+            "link": "https://www.google.com/maps/search/Property+Show+Istanbul/@41.1017939,28.9800514?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Emlak B\u00fcrosu"
+        },
+        {
+            "name": "Investa Property",
+            "link": "https://www.google.com/maps/search/Investa+Property/@41.0782909,29.0173006?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 4.7,
+            "main_category": "Yat\u0131r\u0131m Hizmetleri"
+        }
+    ],
+    "website": "https://propertyinvest.com.tr/",
+    "owner": {
+        "id": "101755124012923497754",
+        "name": "Property Invest (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/101755124012923497754"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oCyYzzoEbr6CvU-kbVXm9A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=63.80385&pitch=0&thumbfov=100",
+    "main_category": "Gayrimenkul Yat\u0131r\u0131m\u0131 Firmas\u0131",
+    "categories": [
+        "Gayrimenkul Yat\u0131r\u0131m\u0131 Firmas\u0131"
+    ],
+    "rating": 5,
+    "workday_timing": "09:30\u201318:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 482 05 45",
+    "address": "Merkez, Property Invest, Dap Vadi Z Ofis, Merkez Mh. Kagithane Cd, Se\u00e7kin Sk. No:2/4 K:2-186, 34406 K\u00e2\u011f\u0131thane/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJTTDNmVW7yhQRaPjSmEb8EC8",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 41
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJTTDNmVW7yhQRaPjSmEb8EC8&q=?q=place_id:ChIJTTDNmVW7yhQRaPjSmEb8EC8&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.076744,
+        "longitude": 28.971759499999997
+    },
+    "plus_code": "3XGC+MP K\u00e2\u011f\u0131thane, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Merkez",
+        "street": "Dap Vadi Z Ofis, Merkez Mh. Kagithane Cd, Se\u00e7kin Sk. No:2/4 K:2-186",
+        "city": "K\u00e2\u011f\u0131thane",
+        "postal_code": "34406",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "3391487899551856744",
+    "data_id": "0x14cabb5599cd304d:0x2f10fc4698d2f868",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun giri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun oturma d\u00fczeni",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "\u00dcniseks tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oCyYzzoEbr6CvU-kbVXm9A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=63.80385&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP1A12SawT84n6Q_B0AHxp6WIAwdqUeXwXOQfY-=w298-h298-k-no"
+        },
+        {
+            "about": "Videolar",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOWm3aeQvQPNeOrHwUoOvUdie7koUiCLpImhmGT=w224-h398-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oCyYzzoEbr6CvU-kbVXm9A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=63.80385&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:30\u201318:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:30\u201318:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Property Invest Co. The starting point for your investment in Turkey. Good friends to know if you need a helping hand to find out the most lucrative property investment for your valued \"foreign currency\". Seems like you are lucky enough to have found the right address. Check out the website to have a good look at the the investment opportunities this fast growing property investment company have to offer.\nThese guys know all the answers to questions you should ask and help you learn all the details of an international property purchase. Be safe. Yes. I recommend!",
+            "reviewer_name": "Inan Kalayci",
+            "rating": 5,
+            "review_text": "Property Invest Co. The starting point for your investment in Turkey. Good friends to know if you need a helping hand to find out the most lucrative property investment for your valued \"foreign currency\". Seems like you are lucky enough to have found the right address. Check out the website to have a good look at the the investment opportunities this fast growing property investment company have to offer.\nThese guys know all the answers to questions you should ask and help you learn all the details of an international property purchase. Be safe. Yes. I recommend!",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-03-10T14:05:53.867000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 421,
+            "total_number_of_photos_by_reviewer": 4327,
+            "reviewer_url": "https://www.google.com/maps/contrib/117546064793102477528/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWkXiD0t5_mjORw356eI206yyx8_wV1JJwY98ELGXrseBc3=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": "Property Invest Co. T\u00fcrkiye'deki yat\u0131r\u0131m\u0131n\u0131z\u0131n ba\u015flang\u0131\u00e7 \u200b\u200bnoktas\u0131. De\u011ferli \"d\u00f6viziniz\" i\u00e7in en kazan\u00e7l\u0131 emlak yat\u0131r\u0131m\u0131n\u0131 bulmak i\u00e7in yard\u0131ma ihtiyac\u0131n\u0131z olup olmad\u0131\u011f\u0131n\u0131 bilmek i\u00e7in iyi arkada\u015flar. Do\u011fru adresi buldu\u011funuz i\u00e7in yeterince \u015fansl\u0131s\u0131n\u0131z gibi g\u00f6r\u00fcn\u00fcyor. Bu h\u0131zla b\u00fcy\u00fcyen emlak yat\u0131r\u0131m \u015firketinin sundu\u011fu yat\u0131r\u0131m f\u0131rsatlar\u0131na iyi bir g\u00f6z atmak i\u00e7in web sitesine g\u00f6z at\u0131n.\nBu adamlar, sorman\u0131z gereken t\u00fcm sorular\u0131n yan\u0131tlar\u0131n\u0131 biliyor ve uluslararas\u0131 bir emlak sat\u0131n alma i\u015fleminin t\u00fcm ayr\u0131nt\u0131lar\u0131n\u0131 \u00f6\u011frenmenize yard\u0131mc\u0131 oluyor. Dikkatli ol. Evet. Ben tavsiye ediyorum!",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "It is always great experience dealing with this company, the team is expert about \u0130stanbul Real Estate market, they guide you perfectly based on your demand and expectations from your investment.",
+            "reviewer_name": "Sayed Amir Hashemi",
+            "rating": 5,
+            "review_text": "It is always great experience dealing with this company, the team is expert about \u0130stanbul Real Estate market, they guide you perfectly based on your demand and expectations from your investment.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-07-08T09:09:08.827000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 19,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108373079273895836649/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUvRiLsLWvBQIiyxxg3aXsP5w1dsdRcyEHgjAj7hUy-nw=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": "Bu \u015firketle \u00e7al\u0131\u015fmak her zaman harika bir deneyimdir, ekip \u0130stanbul Emlak piyasas\u0131 konusunda uzmand\u0131r, yat\u0131r\u0131m\u0131n\u0131zdan talep ve beklentilerinize g\u00f6re sizi m\u00fckemmel bir \u015fekilde y\u00f6nlendirirler.",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "They good people\nAnd they professional and good experience in real estate sector.",
+            "reviewer_name": "Ahmed Aldahdooh",
+            "rating": 5,
+            "review_text": "They good people\nAnd they professional and good experience in real estate sector.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-07-05T15:25:59.544000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107456178378337336628/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU5nmEexsHQAjiZPQ6gd47QP3mDskWVaGZP6gTBxrdFwQw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "Onlar iyi insanlar\nVe gayrimenkul sekt\u00f6r\u00fcnde profesyonel ve iyi deneyime sahipler.",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Thank you for answering my questions without getting bored and for your kind approach.",
+            "reviewer_name": "huseyin erbakan",
+            "rating": 5,
+            "review_text": "Thank you for answering my questions without getting bored and for your kind approach.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-07-16T12:33:35.460000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101945597834667821108/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWxR982AnUmOVwybMe3aoIiRl_eR49KzzIeSN8a7U_uyeM=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "Sorular\u0131ma s\u0131k\u0131lmadan cevap verdi\u011finiz ve nazik yakla\u015f\u0131m\u0131n\u0131z i\u00e7in te\u015fekk\u00fcr ederim.",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Best place to find a good properties in good locations ..",
+            "reviewer_name": "Petrus De vries",
+            "rating": 5,
+            "review_text": "Best place to find a good properties in good locations ..",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-08-11T11:51:13.042000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108792771901575346551/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI9R5PyI6POLd_iEmRRCFRi_oR2jNNS5xZSl7zVkqls=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "\u0130yi konumlarda iyi m\u00fclkler bulmak i\u00e7in en iyi yer ..",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "You will not be disappointed, they are real professionals.",
+            "reviewer_name": "Ayse Dogu",
+            "rating": 5,
+            "review_text": "You will not be disappointed, they are real professionals.",
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-01-10T09:40:51.613000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/118156277152056245543/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXPOYZ8Izd_u9s2_AGir3Tw-7t2QePFHZya-1MyTF9wljA=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": "Hayal k\u0131r\u0131kl\u0131\u011f\u0131na u\u011framayacaks\u0131n\u0131z, onlar ger\u00e7ek profesyoneller.",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Professional and trustful team.",
+            "reviewer_name": "Uqba Sardini",
+            "rating": 5,
+            "review_text": "Professional and trustful team.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-06-18T10:07:31.619000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105010253769665492994/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUQx9mgFPKYUUPW_wBMaWPtZWdXpMNSp106zQ2BR1fv2fDl=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "Profesyonel ve g\u00fcvenilir bir ekip.",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "mustafa keskin",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-08-31T17:08:55.310000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105656662623682039603/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVvXHGcOOAcBh-AYWgJxMeDeT4upsqp7sdJPPrsYu_kOpE=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

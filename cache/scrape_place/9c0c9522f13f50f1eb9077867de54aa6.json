@@ -1,0 +1,248 @@
+{
+    "place_id": "ChIJAa-bLkO7yhQRh48pKWxs8to",
+    "name": "Av. Sercan YAZAN",
+    "description": null,
+    "reviews": 4,
+    "competitors": [
+        {
+            "name": "Av. Sercan T\u00fcrk - Hukuki Dan\u0131\u015fmanl\u0131k ve Marka&Patent Tescil \u0130\u015flemleri",
+            "link": "https://www.google.com/maps/search/Av.+Sercan+T%C3%BCrk+-+Hukuki+Dan%C4%B1%C5%9Fmanl%C4%B1k+ve+Marka%26Patent+Tescil+%C4%B0%C5%9Flemleri/@40.9117719,29.176373500000004?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Neta Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Neta+Hukuk+B%C3%BCrosu/@41.0765205,28.9746645?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AVUKAT NAZAN KAYNAK KAN",
+            "link": "https://www.google.com/maps/search/AVUKAT+NAZAN+KAYNAK+KAN/@41.071689299999996,28.976902700000004?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 4.6,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Y\u00fcksel Hukuk B\u00fcrosu Av. Y\u00fcksel Yangel",
+            "link": "https://www.google.com/maps/search/Y%C3%BCksel+Hukuk+B%C3%BCrosu+Av.+Y%C3%BCksel+Yangel/@41.071367599999995,28.9773655?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Aysaner Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Aysaner+Hukuk+B%C3%BCrosu/@41.070383,28.978592900000002?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.yazanhukuk.com/",
+    "owner": {
+        "id": "115441260009129661412",
+        "name": "Av. Sercan YAZAN (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/115441260009129661412"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=buL2Dxs8iNb49miVKjv7vA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=287.26297&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": 4.5,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "0538 626 87 45",
+    "address": "G\u00fcrsel Mah, Av. Sercan YAZAN, Elit Ofis, Alaybey Sk. No:18/14, 34400 K\u00e2\u011f\u0131thane/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJAa-bLkO7yhQRh48pKWxs8to",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 3
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAa-bLkO7yhQRh48pKWxs8to&q=?q=place_id:ChIJAa-bLkO7yhQRh48pKWxs8to&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0693382,
+        "longitude": 28.976567799999998
+    },
+    "plus_code": "3X9G+PJ K\u00e2\u011f\u0131thane, \u0130stanbul",
+    "detailed_address": {
+        "ward": "G\u00fcrsel Mah",
+        "street": "Elit Ofis, Alaybey Sk. No:18/14",
+        "city": "K\u00e2\u011f\u0131thane",
+        "postal_code": "34400",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "15776791656435126151",
+    "data_id": "0x14cabb432e9baf01:0xdaf26c6c29298f87",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=buL2Dxs8iNb49miVKjv7vA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=287.26297&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=buL2Dxs8iNb49miVKjv7vA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=287.26297&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Her hukuki problem i\u00e7in profesyonel yakla\u015f\u0131m sergileyip k\u0131sa s\u00fcre i\u00e7erisinde nihayete erdiren, davalara kar\u015f\u0131 ilgi ve motivasyonunu kaybetmeyen, mesle\u011fini hakk\u0131yla yerine getiren bir ekip.",
+            "reviewer_name": "serkan \u00e7iftci",
+            "rating": 5,
+            "review_text": "Her hukuki problem i\u00e7in profesyonel yakla\u015f\u0131m sergileyip k\u0131sa s\u00fcre i\u00e7erisinde nihayete erdiren, davalara kar\u015f\u0131 ilgi ve motivasyonunu kaybetmeyen, mesle\u011fini hakk\u0131yla yerine getiren bir ekip.",
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-09-07T18:54:57.302000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/103026395269755249271/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXhNPS7JHuyQUq8S1pT77g31pVVJGwMLyTVi3UgR-0S-YY=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Harun Saltaba\u015f",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-03-01T07:31:18.127000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106231525330930785481/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIQJYBYdxAGgoQXNxGRgMzNKlPKASApk1H7o5aoUGrC=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "selver bozlak",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-03-21T06:24:07.992000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100941633755295519557/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIvnHJEWhSy_G2IR_y1LJrkT5XfZn8i1PvdMBuIig--=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Yasemin SARMUSAK",
+            "rating": 3,
+            "review_text": null,
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-08-31T05:54:07.014000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/115949077312198656133/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWcElpEXUipT7a-Pbcf2lqBlXPon-w54R4S0nJecmu4vVQ=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

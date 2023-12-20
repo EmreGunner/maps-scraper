@@ -1,0 +1,152 @@
+{
+    "place_id": "ChIJx7suKGa4yhQR9baGpLmasro",
+    "name": "Avukat Adnan \u0130nanl\u0131",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Av.B\u00fclent Bilen Hukuk b\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Av.B%C3%BClent+Bilen+Hukuk+b%C3%BCrosu/@40.990857,29.0282992?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Avukat A.Nihal Din\u00e7man",
+            "link": "https://www.google.com/maps/search/Avukat+A.Nihal+Din%C3%A7man/@40.9888136,29.030050000000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "K\u0131l\u0131\u00e7 Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/K%C4%B1l%C4%B1%C3%A7+Hukuk+B%C3%BCrosu/@40.9905374,29.0312749?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AL\u00c7IN AVUKATLIK VE DANI\u015eMANLIK B\u00dcROSU / ALCIN LAW FIRM AND LEGAL CONSULTANCY",
+            "link": "https://www.google.com/maps/search/AL%C3%87IN+AVUKATLIK+VE+DANI%C5%9EMANLIK+B%C3%9CROSU+%2F+ALCIN+LAW+FIRM+AND+LEGAL+CONSULTANCY/@40.9912504,29.040058000000002?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "Avukat Ali Naci Kaptan",
+            "link": "https://www.google.com/maps/search/Avukat+Ali+Naci+Kaptan/@40.988706799999996,29.028940300000002?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Avukat Adnan \u0130nanl\u0131 (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh3.googleusercontent.com/_0Z-xE2_SAiG8EJrX4nGwNbQG5IFKeyANN9i0ZWPReMWmo3_J4O0oXB19Z7VohvRiw=w426-h240-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 336 54 17",
+    "address": "Osmana\u011fa, Avukat Adnan \u0130nanl\u0131, S\u00f6\u011f\u00fctl\u00fc\u00e7e\u015fme Cad. & Pavlonya Sokak Kanbero\u011flu \u0130\u015f Han\u0131 No:6, 34714 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJx7suKGa4yhQR9baGpLmasro",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJx7suKGa4yhQR9baGpLmasro&q=?q=place_id:ChIJx7suKGa4yhQR9baGpLmasro&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.990494299999995,
+        "longitude": 29.026197999999997
+    },
+    "plus_code": "X2RG+5F Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Osmana\u011fa",
+        "street": "S\u00f6\u011f\u00fctl\u00fc\u00e7e\u015fme Cad. & Pavlonya Sokak Kanbero\u011flu \u0130\u015f Han\u0131 No:6",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34714",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "13452985159029012213",
+    "data_id": "0x14cab866282ebbc7:0xbab29ab9a486b6f5",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh3.googleusercontent.com/_0Z-xE2_SAiG8EJrX4nGwNbQG5IFKeyANN9i0ZWPReMWmo3_J4O0oXB19Z7VohvRiw=w529-h298-k-no"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,132 @@
+{
+    "place_id": "ChIJS4QxqAO5yhQRzVve8y261vs",
+    "name": "\u00c7AKIR DANI\u015eMANLIK",
+    "description": null,
+    "reviews": null,
+    "competitors": [],
+    "website": null,
+    "owner": {
+        "id": "106575936523563035684",
+        "name": "\u00c7AKIR DANI\u015eMANLIK (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/106575936523563035684"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN5WEse5e_mXeLgBSfPbRn_t0pUBA783ZhHiI0L=w408-h408-k-no",
+    "main_category": "Aile Dan\u0131\u015fman\u0131",
+    "categories": [
+        "Aile Dan\u0131\u015fman\u0131"
+    ],
+    "rating": null,
+    "workday_timing": "10:00\u201318:00",
+    "closed_on": "Open All Days",
+    "phone": "0532 443 16 37",
+    "address": "Osmana\u011fa, \u00c7AKIR DANI\u015eMANLIK, Pavlonya Sk., 34000 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJS4QxqAO5yhQRzVve8y261vs",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJS4QxqAO5yhQRzVve8y261vs&q=?q=place_id:ChIJS4QxqAO5yhQRzVve8y261vs&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.990884,
+        "longitude": 29.0264131
+    },
+    "plus_code": "X2RG+9H Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Osmana\u011fa",
+        "street": "Pavlonya Sk.",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34000",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "18146896455063722957",
+    "data_id": "0x14cab903a831844b:0xfbd6ba2df3de5bcd",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN5WEse5e_mXeLgBSfPbRn_t0pUBA783ZhHiI0L=w298-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP2hbToOVBKSNS-HhVMI1zoBTUTM9cohQpnp8gb=w298-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5ZbaGczZbqEgxYjhYkm9fA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=167.24696&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "10:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "10:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "10:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "10:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "10:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "10:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "12:30\u201318:00"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

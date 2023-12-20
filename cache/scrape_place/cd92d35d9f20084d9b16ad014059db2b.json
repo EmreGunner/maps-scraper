@@ -1,0 +1,359 @@
+{
+    "place_id": "ChIJibcVHVtftRQRl93si17JcUY",
+    "name": "Yeni Ufuk Group Terc\u00fcme Yat\u0131r\u0131m ve Dan\u0131\u015fmanl\u0131k",
+    "description": null,
+    "reviews": 12,
+    "competitors": [
+        {
+            "name": "Dijital Terc\u00fcme \u00c7eviri Hizmetleri - \u0130stanbul",
+            "link": "https://www.google.com/maps/search/Dijital+Terc%C3%BCme+%C3%87eviri+Hizmetleri+-+%C4%B0stanbul/@41.0074993,28.6613881?authuser=0&entry=ttu",
+            "reviews": 14,
+            "rating": 4.5,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Beylikd\u00fcz\u00fc Terc\u00fcme B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Beylikd%C3%BCz%C3%BC+Terc%C3%BCme+B%C3%BCrosu/@41.007419,28.661189?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 4,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Keyhan Yeminli Terc\u00fcme B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Keyhan+Yeminli+Terc%C3%BCme+B%C3%BCrosu/@40.991314599999995,28.6687055?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "\u00c7evirmen"
+        },
+        {
+            "name": "Naz Terc\u00fcme ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Naz+Terc%C3%BCme+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.0117876,28.6432269?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "\u00c7evirmen"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "111833936486139665109",
+        "name": "Yeni Ufuk Group Terc\u00fcme Yat\u0131r\u0131m ve Dan\u0131\u015fmanl\u0131k (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/111833936486139665109"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOEezYQ1ohHvSH9vl2GMLzuImzUEBlbD-AkNSyU=w408-h544-k-no",
+    "main_category": "\u00c7evirmen",
+    "categories": [
+        "\u00c7evirmen"
+    ],
+    "rating": 4.7,
+    "workday_timing": "08:30\u201320:00",
+    "closed_on": "Open All Days",
+    "phone": "0505 025 56 44",
+    "address": "Yakuplu, Yeni Ufuk Group Terc\u00fcme Yat\u0131r\u0131m ve Dan\u0131\u015fmanl\u0131k, H\u00fcrriyet Blv No:155, 34524 Beylikd\u00fcz\u00fc Osb/Beylikd\u00fcz\u00fc/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJibcVHVtftRQRl93si17JcUY",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 20:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 11
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJibcVHVtftRQRl93si17JcUY&q=?q=place_id:ChIJibcVHVtftRQRl93si17JcUY&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.991314599999995,
+        "longitude": 28.668705499999998
+    },
+    "plus_code": "XMR9+GF Beylikd\u00fcz\u00fc Osb, Beylikd\u00fcz\u00fc/\u0130stanbul",
+    "detailed_address": {
+        "ward": "Yakuplu",
+        "street": "H\u00fcrriyet Blv No:155",
+        "city": "Beylikd\u00fcz\u00fc Osb/Beylikd\u00fcz\u00fc",
+        "postal_code": "34524",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "5076059662934924695",
+    "data_id": "0x14b55f5b1d15b789:0x4671c95e8becdd97",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://yeniufukgroup.com/iletisim/",
+            "source": "yeniufukgroup.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "from_the_business",
+            "name": "\u0130\u015fletme hakk\u0131nda",
+            "options": [
+                {
+                    "name": "Sahibi kad\u0131n oldu\u011funu belirtiyor",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun giri\u015f",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOEezYQ1ohHvSH9vl2GMLzuImzUEBlbD-AkNSyU=w224-h298-k-no"
+        },
+        {
+            "about": "D\u0131\u015ftan g\u00f6r\u00fcn\u00fcm",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPptL12oMnTkqYDT6GbqG_Q2Iyxpa0uFsoWjhrT=w541-h298-k-no"
+        },
+        {
+            "about": "Videolar",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPptL12oMnTkqYDT6GbqG_Q2Iyxpa0uFsoWjhrT=w541-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOR9lJwVZzxtfGiP2kZfR6M5Dc_qvLbZgFNqUSs=w397-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jjr_SOG6fmWNAJPTevfZgA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=95.433044&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201320:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201320:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201320:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201320:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201320:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "11:00\u201317:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "11:00\u201317:00"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Terc\u00fcme, dan\u0131\u015fmanl\u0131k.... zaman\u0131n \u00f6tesinde kalite",
+            "reviewer_name": "Ibrahim Can",
+            "rating": 5,
+            "review_text": "Terc\u00fcme, dan\u0131\u015fmanl\u0131k.... zaman\u0131n \u00f6tesinde kalite",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-12-13T13:50:35.249000",
+            "response_from_owner_text": "Te\u015fekk\u00fcrler g\u00fczel yorumunuz i\u00e7in :)",
+            "response_from_owner_ago": "2 y\u0131l \u00f6nce",
+            "response_from_owner_date": "2021-12-14T05:43:09.121000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116490386741713375980/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJnS6MLqgfQ9F7KjHx8SMLtU6nkW0gXVOnD1_3hdRcU=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\u062e\u062f\u0645\u0629 \u0633\u064a\u0626\u0629 \u0641\u064a \u0627\u0644\u0627\u0642\u0627\u0645\u0627\u062a \u0648\u0627\u0644\u062c\u0646\u0633\u064a\u0629\n\u0641\u064a \u0627\u0644\u0627\u0642\u0627\u0645\u0629 \u0627\u0639\u0637\u0648\u0646\u064a \u0646\u0635\u064a\u062d\u0629 \u0644\u0648 \u0643\u0646\u062a \u0639\u0645\u0644\u062a \u0644\u0647\u0627 \u0643\u0627\u0646\u062a \u0636\u0627\u0639\u062a \u0639\u0644\u064a\u0627 \u0627\u0644\u0627\u0642\u0627\u0645\u0629\n\u0648\u0641\u064a \u0627\u0644\u062c\u0646\u0633\u064a\u0629 \u0627\u062e\u0630\u0648\u0627 \u0645\u0646\u0649 \u0645\u0628\u0644\u063a \u0643\u0628\u064a\u0631 \u0648\u0644\u0645 \u064a\u062d\u0644\u0648\u0627 \u0645\u0634\u0643\u0644\u062a\u064a \u0648\u0644\u0645 \u0627\u0633\u062a\u0637\u0639 \u0627\u0633\u062a\u0631\u062c\u0627\u0639 \u0627\u0644\u0645\u0628\u0644\u063a\n\u0642\u0627\u0644\u0648\u0627 \u0628\u0623\u0646\u0647\u0645 \u062f\u0641\u0639\u0648\u0647 \u0627\u0643\u0631\u0627\u0645\u064a\u0627\u062a .. \u0645\u0628\u0644\u063a \u0643\u0628\u064a\u0631 \u062f\u0641\u0639 \u0628\u0627\u0644\u0643\u0627\u0645\u0644 \u0627\u0643\u0631\u0627\u0645\u064a\u0627\u062a \u0648\u0644\u0645 \u062a\u062a\u0645 \u0627\u0644\u0645\u0647\u0627\u0645 !!\n\u0627\u0643\u0631\u0627\u0645\u064a\u0627\u062a \u0648\u0627\u0644\u0639\u0645\u0644 \u0644\u0645 \u064a\u0646\u062c\u0632 \u0648\u0627\u0644\u0645\u0634\u0643\u0644\u0629 \u0644\u0645 \u062a\u062d\u0644..\n\u0643\u064a\u0641 \u0627\u0633\u062a\u0623\u0645\u0646\u0647\u0645 \u0639\u0644\u0649 \u0628\u0627\u0642\u064a \u0627\u062c\u0631\u0627\u0621\u0627\u062a \u0627\u0644\u062c\u0646\u0633\u064a\u0629 \u061f\n\n\u0641\u064a \u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u062a\u0631\u062c\u0645\u0648\u0627 \u0644\u064a \u062d\u0643\u0645 \u0645\u062d\u0643\u0645\u0629 \u0628\u0647 \u0643\u0644\u0645\u0629 \u062e\u0637\u0623 \u063a\u064a\u0631\u062a \u0627\u0644\u0645\u0639\u0646\u0649 .\n\n\u0644\u0627 \u0627\u0646\u0635\u062d \u0628\u0627\u0644\u062a\u0639\u0627\u0645\u0644 \u0645\u0639\u0647\n\nBad service in residence and nationality\nIn residency, give me an advice which If I had worked with it, I would have lost my residency !!\nIn citizenship, they took a large amount of money from me and did not solve my problem and I could not get the money back\nThey said that they paid it for tips .. a large amount was paid in full as tips and the tasks were not completed!!\n\nthe work was not done and the problem was not solved.\nHow trust them in the rest of the citizenship procedures?\n\nIn translation, they translated for me a court ruling with a wrong word that changed the meaning.\n\nI do not recommend dealing with him",
+            "reviewer_name": "Riham Akl",
+            "rating": 1,
+            "review_text": "\u062e\u062f\u0645\u0629 \u0633\u064a\u0626\u0629 \u0641\u064a \u0627\u0644\u0627\u0642\u0627\u0645\u0627\u062a \u0648\u0627\u0644\u062c\u0646\u0633\u064a\u0629\n\u0641\u064a \u0627\u0644\u0627\u0642\u0627\u0645\u0629 \u0627\u0639\u0637\u0648\u0646\u064a \u0646\u0635\u064a\u062d\u0629 \u0644\u0648 \u0643\u0646\u062a \u0639\u0645\u0644\u062a \u0644\u0647\u0627 \u0643\u0627\u0646\u062a \u0636\u0627\u0639\u062a \u0639\u0644\u064a\u0627 \u0627\u0644\u0627\u0642\u0627\u0645\u0629\n\u0648\u0641\u064a \u0627\u0644\u062c\u0646\u0633\u064a\u0629 \u0627\u062e\u0630\u0648\u0627 \u0645\u0646\u0649 \u0645\u0628\u0644\u063a \u0643\u0628\u064a\u0631 \u0648\u0644\u0645 \u064a\u062d\u0644\u0648\u0627 \u0645\u0634\u0643\u0644\u062a\u064a \u0648\u0644\u0645 \u0627\u0633\u062a\u0637\u0639 \u0627\u0633\u062a\u0631\u062c\u0627\u0639 \u0627\u0644\u0645\u0628\u0644\u063a\n\u0642\u0627\u0644\u0648\u0627 \u0628\u0623\u0646\u0647\u0645 \u062f\u0641\u0639\u0648\u0647 \u0627\u0643\u0631\u0627\u0645\u064a\u0627\u062a .. \u0645\u0628\u0644\u063a \u0643\u0628\u064a\u0631 \u062f\u0641\u0639 \u0628\u0627\u0644\u0643\u0627\u0645\u0644 \u0627\u0643\u0631\u0627\u0645\u064a\u0627\u062a \u0648\u0644\u0645 \u062a\u062a\u0645 \u0627\u0644\u0645\u0647\u0627\u0645 !!\n\u0627\u0643\u0631\u0627\u0645\u064a\u0627\u062a \u0648\u0627\u0644\u0639\u0645\u0644 \u0644\u0645 \u064a\u0646\u062c\u0632 \u0648\u0627\u0644\u0645\u0634\u0643\u0644\u0629 \u0644\u0645 \u062a\u062d\u0644..\n\u0643\u064a\u0641 \u0627\u0633\u062a\u0623\u0645\u0646\u0647\u0645 \u0639\u0644\u0649 \u0628\u0627\u0642\u064a \u0627\u062c\u0631\u0627\u0621\u0627\u062a \u0627\u0644\u062c\u0646\u0633\u064a\u0629 \u061f\n\n\u0641\u064a \u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u062a\u0631\u062c\u0645\u0648\u0627 \u0644\u064a \u062d\u0643\u0645 \u0645\u062d\u0643\u0645\u0629 \u0628\u0647 \u0643\u0644\u0645\u0629 \u062e\u0637\u0623 \u063a\u064a\u0631\u062a \u0627\u0644\u0645\u0639\u0646\u0649 .\n\n\u0644\u0627 \u0627\u0646\u0635\u062d \u0628\u0627\u0644\u062a\u0639\u0627\u0645\u0644 \u0645\u0639\u0647\n\nBad service in residence and nationality\nIn residency, give me an advice which If I had worked with it, I would have lost my residency !!\nIn citizenship, they took a large amount of money from me and did not solve my problem and I could not get the money back\nThey said that they paid it for tips .. a large amount was paid in full as tips and the tasks were not completed!!\n\nthe work was not done and the problem was not solved.\nHow trust them in the rest of the citizenship procedures?\n\nIn translation, they translated for me a court ruling with a wrong word that changed the meaning.\n\nI do not recommend dealing with him",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-02-22T06:54:13.254000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107419735443715629110/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKn-o5LATfDodjJXHLENhM9WTPLGmJoiHg4ZSAderTr=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "\u0130kamet ve vatanda\u015fl\u0131kta k\u00f6t\u00fc hizmet\n\u0130htisasta bana tavsiye verdiler, e\u011fer \u00e7al\u0131\u015fsayd\u0131m ihtisas\u0131m\u0131 kaybederdim\nVatanda\u015fl\u0131kta benden b\u00fcy\u00fck bir mebla\u011f ald\u0131lar ve sorunumu \u00e7\u00f6zmediler, ben de geri alamad\u0131m.\nOna bah\u015fi\u015f verdiklerini s\u00f6ylediler.. B\u00fcy\u00fck bir mebla\u011f\u0131n tamam\u0131 bah\u015fi\u015f olarak \u00f6dendi ve g\u00f6revler tamamlanmad\u0131!!\nBonus, i\u015f yap\u0131lmad\u0131 ve sorun \u00e7\u00f6z\u00fclmedi.\nGeri kalan vatanda\u015fl\u0131k prosed\u00fcrleri konusunda onlara nas\u0131l g\u00fcvenebilirim?\n\n\u00c7eviride bana, anlam\u0131 de\u011fi\u015ftiren hatal\u0131 bir kelimenin oldu\u011fu bir mahkeme karar\u0131n\u0131 terc\u00fcme ettiler.\n\nonunla u\u011fra\u015fman\u0131 tavsiye etmiyorum\n\n\u0130kamet ve vatanda\u015fl\u0131kta k\u00f6t\u00fc hizmet\n\u0130htisasta bana bir tavsiye ver ki e\u011fer onunla \u00e7al\u0131\u015fsayd\u0131m ihtisas\u0131m\u0131 kaybederdim!!\nVatanda\u015fl\u0131kta benden y\u00fckl\u00fc miktarda para ald\u0131lar ve sorunumu \u00e7\u00f6zmediler, paray\u0131 da geri alamad\u0131m.\nBah\u015fi\u015f i\u00e7in para \u00f6dediklerini s\u00f6ylediler.. B\u00fcy\u00fck bir mebla\u011f\u0131n tamam\u0131 bah\u015fi\u015f olarak \u00f6dendi ve g\u00f6revler tamamlanmad\u0131!!\n\ni\u015f yap\u0131lmad\u0131 ve sorun \u00e7\u00f6z\u00fclmedi.\nVatanda\u015fl\u0131k prosed\u00fcrlerinin geri kalan\u0131nda onlara nas\u0131l g\u00fcveniyorsunuz?\n\n\u00c7eviride bana yanl\u0131\u015f bir kelimeyle anlam\u0131n\u0131 de\u011fi\u015ftiren bir mahkeme karar\u0131 terc\u00fcme ettiler.\n\nonunla u\u011fra\u015fman\u0131 tavsiye etmiyorum",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "WONDERFUL SERVICES GIVEN BY Residence Permit Department specially by Miss. Soman... Much Respect",
+            "reviewer_name": "sabira maqsoodi",
+            "rating": 5,
+            "review_text": "WONDERFUL SERVICES GIVEN BY Residence Permit Department specially by Miss. Soman... Much Respect",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-12-10T12:13:31.155000",
+            "response_from_owner_text": "Thank you very much for this nice comment. :))",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2021-12-20T20:46:22.323000",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104606529109274603793/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ3qMqkTsjTakjpjrp_4v568zI_rN4D93VQ201wXcLL=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "\u0130kamet \u0130zni Departman\u0131ndan Soman Han\u0131ma \u00f6zel olarak VERD\u0130\u011e\u0130N\u0130Z G\u00dcZEL H\u0130ZMETLER... Sayg\u0131lar\u0131m\u0131zla",
+            "response_from_owner_translated_text": "Bu g\u00fczel yorumunuz i\u00e7in \u00e7ok te\u015fekk\u00fcr ederiz. :))",
+            "review_photos": []
+        },
+        {
+            "review_id": "Excellent services . I advice others to go ahead with this office.",
+            "reviewer_name": "Amer Basaeed",
+            "rating": 5,
+            "review_text": "Excellent services . I advice others to go ahead with this office.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-12-10T11:44:42.976000",
+            "response_from_owner_text": "Thank you for this kind comment. :)",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2021-12-20T20:47:27.134000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117043925201930249992/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKj8CurtpzuZEc2TwDe-K-QXgg0dYSe-aOb7o9GFqFe=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "M\u00fckemmel hizmetler. Ba\u015fkalar\u0131na bu ofise devam etmelerini tavsiye ediyorum.",
+            "response_from_owner_translated_text": "Bu t\u00fcr yorumunuz i\u00e7in te\u015fekk\u00fcr ederiz. :)",
+            "review_photos": []
+        },
+        {
+            "review_id": "best services !!! And amazingly cooperative Team. Really recommend them.",
+            "reviewer_name": "MUCAH\u0130T AYDIN",
+            "rating": 5,
+            "review_text": "best services !!! And amazingly cooperative Team. Really recommend them.",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-12-10T11:46:05.834000",
+            "response_from_owner_text": "thanks for your nice comment. :))",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2021-12-20T20:46:51.279000",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117175308947932813794/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKCg-RGv5R0F_WAJ-irrbNHYPEoz-V-xIqYUHbAkDHi=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "en iyi hizmetler!!! Ve inan\u0131lmaz derecede i\u015fbirlik\u00e7i bir ekip. Onlar\u0131 ger\u00e7ekten tavsiye ederim.",
+            "response_from_owner_translated_text": "G\u00fczel yorumun i\u00e7in te\u015fekk\u00fcr ederim. :))",
+            "review_photos": []
+        },
+        {
+            "review_id": "Highly professional staff find honesty and speed in performance",
+            "reviewer_name": "Badrush Haji badrush Twini",
+            "rating": 5,
+            "review_text": "Highly professional staff find honesty and speed in performance",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-12-10T13:00:27.937000",
+            "response_from_owner_text": "Thank you for this nice comment. :)",
+            "response_from_owner_ago": "2 y\u0131l \u00f6nce",
+            "response_from_owner_date": "2021-12-14T05:44:45.914000",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111613579744212612317/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWkznLLUsqfKqhQmdM5TY7t7_1b8Fme0vtHKsIzSa-xKx_9=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "Son derece profesyonel personel performansta d\u00fcr\u00fcstl\u00fc\u011f\u00fc ve h\u0131z\u0131 bulur",
+            "response_from_owner_translated_text": "Bu g\u00fczel yorumunuz i\u00e7in te\u015fekk\u00fcr ederiz. :)",
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Muhammad Jahanzeb",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-12-10T15:41:17.062000",
+            "response_from_owner_text": "Te\u015fekk\u00fcrler",
+            "response_from_owner_ago": "2 y\u0131l \u00f6nce",
+            "response_from_owner_date": "2021-12-14T05:43:55.857000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108334321129559391674/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWZNlBW4Abb48z9r1VMvacYJFUOUmKOwuPYokxAC7501Q=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Kimmarwa123 Kim",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-12-10T11:39:02.688000",
+            "response_from_owner_text": "Te\u015fekk\u00fcrler",
+            "response_from_owner_ago": "2 y\u0131l \u00f6nce",
+            "response_from_owner_date": "2021-12-14T05:46:18.357000",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104199873293938708303/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK4HtdsdHbSV9UCAuKp2RjsEkzKTUYIZHcwR1XsbzPr=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

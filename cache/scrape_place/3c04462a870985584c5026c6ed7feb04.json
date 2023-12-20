@@ -1,0 +1,193 @@
+{
+    "place_id": "ChIJz6xgYQWjyhQREJ6wCA1lMoA",
+    "name": "Avukat Murat Aydo\u011fan",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Andis Hukuk & Dan\u0131\u015fmanl\u0131k \u0130stanbul Ofisi",
+            "link": "https://www.google.com/maps/search/Andis+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k+%C4%B0stanbul+Ofisi/@40.991988,28.833390500000004?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ULUSOY HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/ULUSOY+HUKUK+B%C3%9CROSU/@40.9916224,28.834172499999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "\u00d6zyavuz Hukuk&Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/%C3%96zyavuz+Hukuk%26Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.990431799999996,28.832766300000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Melih Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Melih+Hukuk+B%C3%BCrosu/@40.9918909,28.834202500000004?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "https://www.murataydogan.com.tr/",
+    "owner": {
+        "id": "106633606512537955461",
+        "name": "Avukat Murat Aydo\u011fan (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/106633606512537955461"
+    },
+    "featured_image": null,
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": "08:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 652 81 67",
+    "address": "Avukat Murat Aydo\u011fan, Atak\u00f6y 7-8-9-10. K\u0131s\u0131m Mah. \u00c7oban\u00e7e\u015fme E 5 Yanyol Cad No:6/1 Route \u0130stanbul B Blok K:9, D:93, 34158 Bak\u0131rk\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJz6xgYQWjyhQREJ6wCA1lMoA",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 08:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJz6xgYQWjyhQREJ6wCA1lMoA&q=?q=place_id:ChIJz6xgYQWjyhQREJ6wCA1lMoA&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9924933,
+        "longitude": 28.825537599999997
+    },
+    "plus_code": "XRRG+X6 Bak\u0131rk\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Atak\u00f6y 7-8-9-10",
+        "street": "Atak\u00f6y 7-8-9-10. K\u0131s\u0131m Mah. \u00c7oban\u00e7e\u015fme E 5 Yanyol Cad No:6/1 Route \u0130stanbul B Blok K:9, D:93",
+        "city": "Bak\u0131rk\u00f6y",
+        "postal_code": "34158",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "9237556892345081360",
+    "data_id": "0x14caa3056160accf:0x8032650d08b09e10",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                },
+                {
+                    "name": "Ger\u00e7ek mekanda hizmet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun asans\u00f6r",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun oturma d\u00fczeni",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

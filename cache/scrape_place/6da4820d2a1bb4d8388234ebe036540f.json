@@ -1,0 +1,221 @@
+{
+    "place_id": "ChIJE4FJhY7EyhQRqKVbly2Wya0",
+    "name": "Av. Hakan Keskin",
+    "description": null,
+    "reviews": 3,
+    "competitors": [
+        {
+            "name": "Keskin Hukuk",
+            "link": "https://www.google.com/maps/search/Keskin+Hukuk/@40.9159814,29.188709699999997?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Mert Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Mert+Hukuk+B%C3%BCrosu/@40.911798999999995,29.178251099999994?authuser=0&entry=ttu",
+            "reviews": 10,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Keskin Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Keskin+Hukuk+B%C3%BCrosu/@40.9331574,29.126391599999998?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 4.4,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Keskinler Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Keskinler+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9119275,29.1759821?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Hanedan Hukuk ve Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Hanedan+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k/@40.9095181,29.1996246?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "114619441202072759610",
+        "name": "Av. Hakan Keskin (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/114619441202072759610"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNBmvoHdFRHaWhpOaa9ARV0O52mOSQ20ZVEz-39=w408-h306-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "09:30\u201317:30",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 290 10 36",
+    "address": "Av. Hakan Keskin, Esentepe Mahallesi, Cevizli D-100 G\u00fcney Yan Yol Lapis Han No:25 Ofis:3083, 3084, 34870 Kartal",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJE4FJhY7EyhQRqKVbly2Wya0",
+    "status": "Kapanmak \u00fczere \u22c5 17:30 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Per 09:30",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJE4FJhY7EyhQRqKVbly2Wya0&q=?q=place_id:ChIJE4FJhY7EyhQRqKVbly2Wya0&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.911789299999995,
+        "longitude": 29.1925186
+    },
+    "plus_code": "W56V+P2 Kartal, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Esentepe",
+        "street": "Esentepe Mahallesi, Cevizli D-100 G\u00fcney Yan Yol Lapis Han No:25 Ofis:3083, 3084",
+        "city": "Kartal",
+        "postal_code": "34870",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "12522705361437435304",
+    "data_id": "0x14cac48e85498113:0xadc9962d975ba5a8",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNBmvoHdFRHaWhpOaa9ARV0O52mOSQ20ZVEz-39=w397-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNBmvoHdFRHaWhpOaa9ARV0O52mOSQ20ZVEz-39=w397-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PIGbWtrZpM5VKXnN9YsCcQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=205.16269&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:30\u201317:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:30\u201317:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:30\u201317:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:30\u201317:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Mrs. Ms. sewing house",
+            "reviewer_name": "AH \u015eA\u0130R G\u00d6NL\u00dcM",
+            "rating": 5,
+            "review_text": "Mrs. Ms. sewing house",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-08-06T11:12:25.374000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 53,
+            "reviewer_url": "https://www.google.com/maps/contrib/115579997054263973364/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXw_4Ilb7fOQeq7Yq1gRHIjAk0XZa3nOPks3dU4hazgh4g=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "Bayan Bayan diki\u015f evi",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Mete Ate\u015f Y\u0131lmaz",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-01-31T09:00:35.913000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/117949502013315116066/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX2vG56WOsEEF2dZI6LvyRJgl8f9rMh5H1Nz6F0buYpzso=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "G\u00fcne\u015f Y\u0131lmaz",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-01-11T13:01:09.271000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107369722927751821836/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVaYRKyXwDcKdGdszbpu15-Q3121MfMTavNFdgXIlGVXoky=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

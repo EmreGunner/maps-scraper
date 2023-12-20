@@ -1,0 +1,51 @@
+Traceback (most recent call last):
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/botasaurus/decorators.py", line 593, in run_task
+    result = func(reqs, data)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper.py", line 106, in scrape_place
+    initialization_state_part = html.split(';window.APP_INITIALIZATION_STATE=')[1]
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/botasaurus/decorators.py", line 593, in run_task
+    result = func(reqs, data)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper.py", line 106, in scrape_place
+    initialization_state_part = html.split(';window.APP_INITIALIZATION_STATE=')[1]
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/botasaurus/decorators.py", line 593, in run_task
+    result = func(reqs, data)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper.py", line 106, in scrape_place
+    initialization_state_part = html.split(';window.APP_INITIALIZATION_STATE=')[1]
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/botasaurus/decorators.py", line 593, in run_task
+    result = func(reqs, data)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper.py", line 106, in scrape_place
+    initialization_state_part = html.split(';window.APP_INITIALIZATION_STATE=')[1]
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/botasaurus/decorators.py", line 593, in run_task
+    result = func(reqs, data)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper.py", line 106, in scrape_place
+    initialization_state_part = html.split(';window.APP_INITIALIZATION_STATE=')[1]
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/titan/anaconda3/lib/python3.10/site-packages/botasaurus/decorators.py", line 593, in run_task
+    result = func(reqs, data)
+  File "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/src/scraper.py", line 106, in scrape_place
+    initialization_state_part = html.split(';window.APP_INITIALIZATION_STATE=')[1]
+IndexError: list index out of range

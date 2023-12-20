@@ -1,0 +1,176 @@
+{
+    "place_id": "ChIJ___iaW63yhQRj1wEBoS8IxI",
+    "name": "G\u00fc\u00e7l\u00fc Hukuk",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "G\u00fc\u00e7l\u00fc Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%BC%C3%A7l%C3%BC+Hukuk+B%C3%BCrosu/@40.9964231,28.870874099999998?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Vergi Hukuku Avukat\u0131"
+        },
+        {
+            "name": "\u00d6zden & G\u00fc\u00e7l\u00fc Hukuk Legal",
+            "link": "https://www.google.com/maps/search/%C3%96zden+%26+G%C3%BC%C3%A7l%C3%BC+Hukuk+Legal/@41.052196599999995,28.991108999999998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "G\u00fc\u00e7l\u00fc Law Firm",
+            "link": "https://www.google.com/maps/search/G%C3%BC%C3%A7l%C3%BC+Law+Firm/@41.082659899999996,29.012167500000004?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "G\u00fcn Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%BCn+Hukuk+B%C3%BCrosu/@41.067674,28.9895364?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Analitik Legal",
+            "link": "https://www.google.com/maps/search/Analitik+Legal/@41.067674,28.9895364?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "116566999740023433639",
+        "name": "G\u00fc\u00e7l\u00fc Hukuk (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/116566999740023433639"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM7rxoND79gp3B0fjbTEnjDB2kPzQojfgHt12dx=w408-h572-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu",
+        "Avukatl\u0131k Dan\u0131\u015fma Hizmeti",
+        "\u0130flas Hukuku Avukat\u0131",
+        "Ceza Avukat\u0131",
+        "Avukat",
+        "Patent Avukat\u0131",
+        "Ferdi Kaza Avukat\u0131",
+        "Dava Avukat\u0131"
+    ],
+    "rating": null,
+    "workday_timing": "09:00\u201319:00",
+    "closed_on": "Open All Days",
+    "phone": "0534 573 94 45",
+    "address": "Mecidiyek\u00f6y, G\u00fc\u00e7l\u00fc Hukuk, Ku\u015ftepe Mahallesi, \u0130n\u00f6n\u00fc Caddesi, \u0130zmen Sitesi No:2-6 B2 Blok Kat:3 d:74, 34367 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ___iaW63yhQRj1wEBoS8IxI",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 19:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ___iaW63yhQRj1wEBoS8IxI&q=?q=place_id:ChIJ___iaW63yhQRj1wEBoS8IxI&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0678084,
+        "longitude": 28.9891647
+    },
+    "plus_code": "3X9Q+4M \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Mecidiyek\u00f6y",
+        "street": "Ku\u015ftepe Mahallesi, \u0130n\u00f6n\u00fc Caddesi, \u0130zmen Sitesi No:2-6 B2 Blok Kat:3 d:74",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34367",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "1307095592090229903",
+    "data_id": "0x14cab76e69e2ffff:0x1223bc8406045c8f",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "http://gucluhukuk.com/",
+            "source": "gucluhukuk.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Hizmet se\u00e7enekleri",
+            "options": [
+                {
+                    "name": "Online randevu",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM7rxoND79gp3B0fjbTEnjDB2kPzQojfgHt12dx=w224-h314-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPmXHo2yOEDjAmM-meagyzqE3dKGkYz_VZaMXU6=w349-h298-k-no"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "09:00\u201319:00"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

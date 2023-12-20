@@ -1,0 +1,155 @@
+{
+    "place_id": "ChIJCeKZAxK3yhQRypHQSZVcfsE",
+    "name": "Ta\u015fkan Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "G\u00f6n\u00fcl Hukuk & Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/G%C3%B6n%C3%BCl+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@41.0518858,28.9904471?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ni\u015fanta\u015f\u0131 Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/Ni%C5%9Fanta%C5%9F%C4%B1+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.058040899999995,28.987922899999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "ANT HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/ANT+HUKUK+B%C3%9CROSU/@41.047691,28.987015999999997?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 4.3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AHT HUKUK & DANI\u015eMANLIK",
+            "link": "https://www.google.com/maps/search/AHT+HUKUK+%26+DANI%C5%9EMANLIK/@41.055188799999996,28.987215600000003?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ven\u00fcs Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ven%C3%BCs+Hukuk+B%C3%BCrosu/@41.0493768,28.988048900000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Ta\u015fkan Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "//lh3.googleusercontent.com/ZftmoMK4SNYr83eH60ZV7t_5f7DdwMoRSJ0oxGRbbH89es9XhRfgb97bgEzkIYEC=w426-h240-k-no",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": "08:30\u201319:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0212) 241 39 40",
+    "address": "Ergenekon, Ta\u015fkan Hukuk B\u00fcrosu, Halaskargazi Cd. No:81, 34373 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJCeKZAxK3yhQRypHQSZVcfsE",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 19:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJCeKZAxK3yhQRypHQSZVcfsE&q=?q=place_id:ChIJCeKZAxK3yhQRypHQSZVcfsE&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0519299,
+        "longitude": 28.987293899999997
+    },
+    "plus_code": "3X2P+QW \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Ergenekon",
+        "street": "Halaskargazi Cd. No:81",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34373",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "13942683292643922378",
+    "data_id": "0x14cab7120399e209:0xc17e5c9549d091ca",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "//lh3.googleusercontent.com/ZftmoMK4SNYr83eH60ZV7t_5f7DdwMoRSJ0oxGRbbH89es9XhRfgb97bgEzkIYEC=w529-h298-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ItlhHQlZeotKGZIMIyHE_g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=314.44495&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:30\u201319:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:30\u201319:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:30\u201319:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:30\u201319:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:30\u201319:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "08:30\u201319:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

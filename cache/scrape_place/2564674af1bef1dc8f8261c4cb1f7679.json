@@ -1,0 +1,180 @@
+{
+    "place_id": "ChIJuSOhX2PhMRURGbYRacVYpjg",
+    "name": "AA Hukuk B\u00fcrosu - Law Firm",
+    "description": null,
+    "reviews": 2,
+    "competitors": [
+        {
+            "name": "Ankara Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ankara+Avukatl%C4%B1k+B%C3%BCrosu/@37.0870349,37.3504803?authuser=0&entry=ttu",
+            "reviews": 12,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "ADA HUKUK B\u00dcROSU GAZ\u0130ANTEP",
+            "link": "https://www.google.com/maps/search/ADA+HUKUK+B%C3%9CROSU+GAZ%C4%B0ANTEP/@37.088397199999996,37.3496349?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "ARSLAN HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/ARSLAN+HUKUK+B%C3%9CROSU/@37.0829874,37.351622299999995?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "A\u00e7ar Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/A%C3%A7ar+Hukuk+B%C3%BCrosu/@37.088926199999996,37.353795?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "111920097999830370436",
+        "name": "AA Hukuk B\u00fcrosu - Law Firm (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/111920097999830370436"
+    },
+    "featured_image": null,
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": 5,
+    "workday_timing": "08:00\u201317:30",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "(0342) 322 20 22",
+    "address": "AA Hukuk B\u00fcrosu - Law Firm, Ulus Mahallesi 35 Nolu Sokak No:2 Daire:14, Hukuk Plaza Kat:3, 27090 \u015eehitkamil/Gaziantep",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJuSOhX2PhMRURGbYRacVYpjg",
+    "status": "Kapanmak \u00fczere \u22c5 17:30 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 08:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJuSOhX2PhMRURGbYRacVYpjg&q=?q=place_id:ChIJuSOhX2PhMRURGbYRacVYpjg&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 37.083186999999995,
+        "longitude": 37.351847
+    },
+    "plus_code": "39M2+7P \u015eehitkamil, Gaziantep",
+    "detailed_address": {
+        "ward": "Ulus",
+        "street": "Ulus Mahallesi 35 Nolu Sokak No:2 Daire:14, Hukuk Plaza Kat:3",
+        "city": "\u015eehitkamil",
+        "postal_code": "27090",
+        "state": "Gaziantep",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4082047717152503321",
+    "data_id": "0x1531e1635fa123b9:0x38a658c56911b619",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201317:30"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201317:30"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "08:00\u201314:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Her t\u00fcrl\u00fc hukuki probleminize \u00e7\u00f6z\u00fcm ar\u0131yoruz.",
+            "reviewer_name": "Av. Arb. Atakan \u015eAVL\u0130",
+            "rating": 5,
+            "review_text": "Her t\u00fcrl\u00fc hukuki probleminize \u00e7\u00f6z\u00fcm ar\u0131yoruz.",
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-08-26T07:14:58.101000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 110,
+            "total_number_of_photos_by_reviewer": 12,
+            "reviewer_url": "https://www.google.com/maps/contrib/101856302403634620417/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXEg-6YhmbtXfxZ_Fp1aC1zCM1_TWRTgRDtIToG_CvY1LU3=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "mucahit hasena",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-11-10T22:16:06.124000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114781198183355104626/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLl4c11h5dNUO935z_Qb2pvfJ5YziyH-WQ1OtpKURVB=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,114 @@
+{
+    "place_id": "ChIJq6p6B3XHyhQRzW2A0fnDOz0",
+    "name": "Ceylan Mahmuto\u011flu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "G\u00dcVEN LEGAL",
+            "link": "https://www.google.com/maps/search/G%C3%9CVEN+LEGAL/@40.969868600000005,29.062349500000003?authuser=0&entry=ttu",
+            "reviews": 4,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Fsm Mahmuto\u011flu Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Fsm+Mahmuto%C4%9Flu+Hukuk+B%C3%BCrosu/@40.972363,29.051292?authuser=0&entry=ttu",
+            "reviews": 6,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Bilgi\u00e7 | T\u00fczgen Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Bilgi%C3%A7+%7C+T%C3%BCzgen+Avukatl%C4%B1k+B%C3%BCrosu/@40.9718382,29.0585196?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 5,
+            "main_category": "Kurumsal Ofis"
+        },
+        {
+            "name": "Mahmuto\u011flu Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Mahmuto%C4%9Flu+Hukuk+B%C3%BCrosu/@41.0041176,29.0540608?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Ceylan Mahmuto\u011flu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HQ0oxziWPHpC7w5Ovtu1qg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=60.23249&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0216) 222 11 11",
+    "address": "Caddebostan, Ceylan Mahmuto\u011flu, Ba\u011fdat Cad. No:287, 34728 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJq6p6B3XHyhQRzW2A0fnDOz0",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJq6p6B3XHyhQRzW2A0fnDOz0&q=?q=place_id:ChIJq6p6B3XHyhQRzW2A0fnDOz0&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.968271,
+        "longitude": 29.066402399999998
+    },
+    "plus_code": "X398+8H Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Caddebostan",
+        "street": "Ba\u011fdat Cad. No:287",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34728",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4412335737668660685",
+    "data_id": "0x14cac775077aaaab:0x3d3bc3f9d1806dcd",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HQ0oxziWPHpC7w5Ovtu1qg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=60.23249&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HQ0oxziWPHpC7w5Ovtu1qg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=60.23249&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

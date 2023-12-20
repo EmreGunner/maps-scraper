@@ -1,0 +1,101 @@
+{
+    "place_id": "ChIJcYW5c7i1yhQRsiV-3yKpGGM",
+    "name": "Horizon Consultancy",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Agency Horizon",
+            "link": "https://www.google.com/maps/search/Agency+Horizon/@41.1083912,29.018074799999997?authuser=0&entry=ttu",
+            "reviews": 12,
+            "rating": 5,
+            "main_category": "Pazarlama Ajans\u0131"
+        },
+        {
+            "name": "HORIZON",
+            "link": "https://www.google.com/maps/search/HORIZON/@41.0994083,29.0078243?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "\u0130nternet Pazarlamac\u0131l\u0131\u011f\u0131 Hizmeti"
+        },
+        {
+            "name": "Horizons Limited \u015eirketi",
+            "link": "https://www.google.com/maps/search/Horizons+Limited+%C5%9Eirketi/@41.0187111,28.946976300000003?authuser=0&entry=ttu",
+            "reviews": 24,
+            "rating": 5,
+            "main_category": "Firmadan Firmaya Hizmet"
+        },
+        {
+            "name": "Metyis",
+            "link": "https://www.google.com/maps/search/Metyis/@41.113149,29.020713599999997?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Dan\u0131\u015fman"
+        },
+        {
+            "name": "Horizon \u0130\u00e7 Ve Di\u015f Ticaret Lojistik Sanayi Limited \u015eirketi",
+            "link": "https://www.google.com/maps/search/Horizon+%C4%B0%C3%A7+Ve+Di%C5%9F+Ticaret+Lojistik+Sanayi+Limited+%C5%9Eirketi/@41.122878,28.999467?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Kargo \u015eirketi"
+        }
+    ],
+    "website": "http://horizon-limited.com/",
+    "owner": {
+        "id": null,
+        "name": "Horizon Consultancy (Sahibi)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "D\u0131\u015f Ticaret Dan\u0131\u015fman\u0131",
+    "categories": [
+        "D\u0131\u015f Ticaret Dan\u0131\u015fman\u0131"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0212) 706 79 60",
+    "address": "Horizon Consultancy, Maslak Mah. Sanatkarlar Sokak No:2 Eclips Plaza, Sar\u0131yer/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJcYW5c7i1yhQRsiV-3yKpGGM",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJcYW5c7i1yhQRsiV-3yKpGGM&q=?q=place_id:ChIJcYW5c7i1yhQRsiV-3yKpGGM&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.114979999999996,
+        "longitude": 29.0127836
+    },
+    "plus_code": "4277+X4 Sar\u0131yer, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Maslak",
+        "street": "Maslak Mah. Sanatkarlar Sokak No:2 Eclips Plaza",
+        "city": "Sar\u0131yer",
+        "postal_code": null,
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "7140643176439489970",
+    "data_id": "0x14cab5b873b98571:0x6318a922df7e25b2",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

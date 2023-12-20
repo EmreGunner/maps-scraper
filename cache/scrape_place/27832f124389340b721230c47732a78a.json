@@ -1,0 +1,224 @@
+{
+    "place_id": "ChIJc5IK3J-3yhQRTcd3ZAdQ4Xs",
+    "name": "BARLAS & PARTNERS",
+    "description": null,
+    "reviews": 3,
+    "competitors": [
+        {
+            "name": "Barlass Avukatl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Barlass+Avukatl%C4%B1k+B%C3%BCrosu/@41.0667407,28.9866208?authuser=0&entry=ttu",
+            "reviews": 5,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Barlas Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Barlas+Hukuk+B%C3%BCrosu/@40.9201112,29.1389869?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "BARLAS HUKUK B\u00dcROSU & ARABULUCULUK",
+            "link": "https://www.google.com/maps/search/BARLAS+HUKUK+B%C3%9CROSU+%26+ARABULUCULUK/@40.9221856,29.158273599999998?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Barlas Law Firm",
+            "link": "https://www.google.com/maps/search/Barlas+Law+Firm/@41.1154953,29.009933699999994?authuser=0&entry=ttu",
+            "reviews": 13,
+            "rating": 3.6,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "B&S Law Office",
+            "link": "https://www.google.com/maps/search/B%26S+Law+Office/@41.0446086,29.007665?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.barlas.av.tr/",
+    "owner": {
+        "id": "111498471600744894940",
+        "name": "BARLAS & PARTNERS (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/111498471600744894940"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMiplgAfcMpmO9h0t-pFQdD9PyvjTrSgxRnCp86=w408-h544-k-no",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0212) 327 20 86",
+    "address": "Vi\u015fnezade, BARLAS & PARTNERS, Z\u00fcmr\u00fct Palas, S\u00fcleyman Seba Cd. No:56 Daire:3, 34357 Be\u015fikta\u015f/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJc5IK3J-3yhQRTcd3ZAdQ4Xs",
+    "status": "Kapanmak \u00fczere \u22c5 18:00 \u22c5 A\u00e7\u0131l\u0131\u015f zaman\u0131: Sal 09:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJc5IK3J-3yhQRTcd3ZAdQ4Xs&q=?q=place_id:ChIJc5IK3J-3yhQRTcd3ZAdQ4Xs&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.042707,
+        "longitude": 28.9997319
+    },
+    "plus_code": "2XVX+3V Be\u015fikta\u015f, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Vi\u015fnezade",
+        "street": "Z\u00fcmr\u00fct Palas, S\u00fcleyman Seba Cd. No:56 Daire:3",
+        "city": "Be\u015fikta\u015f",
+        "postal_code": "34357",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "8926503929105598285",
+    "data_id": "0x14cab79fdc0a9273:0x7be150076477c74d",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMiplgAfcMpmO9h0t-pFQdD9PyvjTrSgxRnCp86=w224-h298-k-no"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Ahmet Ak",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-10-26T08:56:53.003000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 14,
+            "total_number_of_photos_by_reviewer": 64,
+            "reviewer_url": "https://www.google.com/maps/contrib/108485873943856967335/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVGHpuNbFfvA42SuH5_MLNBu-FJ5r3r_zo4-Y0uclUTRj0P=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Hakan Kaptan",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "5 y\u0131l \u00f6nce",
+            "published_at_date": "2018-09-06T07:57:37.558000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 64,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109022833009830786544/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUQ9FB0YO-tOtcUiwgveLse6qwABTEYmWeMQVkY6aVeUA=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Cuneyt Binatli",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "4 y\u0131l \u00f6nce",
+            "published_at_date": "2019-08-19T11:04:53.468000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 17,
+            "reviewer_url": "https://www.google.com/maps/contrib/106573024588998597445/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVM3szX4owMIUQ4L7XRVe8w_De2SdleXFlSMoSVd2LXruzW=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

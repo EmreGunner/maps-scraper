@@ -1,0 +1,368 @@
+{
+    "place_id": "ChIJ67hcATijyhQRwhZ6WOz74yA",
+    "name": "Op. Dr. G\u00f6khan Serbes",
+    "description": null,
+    "reviews": 17,
+    "competitors": [
+        {
+            "name": "Op. Dr. Aybanu G\u00f6k\u00e7en",
+            "link": "https://www.google.com/maps/search/Op.+Dr.+Aybanu+G%C3%B6k%C3%A7en/@41.0546362,28.9988434?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 5,
+            "main_category": "Doktor"
+        },
+        {
+            "name": "Prof. Dr. Ahmet T\u00dcRK\u00c7APAR",
+            "link": "https://www.google.com/maps/search/Prof.+Dr.+Ahmet+T%C3%9CRK%C3%87APAR/@41.0577623,29.0011382?authuser=0&entry=ttu",
+            "reviews": 74,
+            "rating": 4.9,
+            "main_category": "Doktor"
+        },
+        {
+            "name": "Prof. Dr. Serb\u00fclent G\u00f6khan Beyaz, FIPP, A\u011fr\u0131 ve Omurga Merkezi",
+            "link": "https://www.google.com/maps/search/Prof.+Dr.+Serb%C3%BClent+G%C3%B6khan+Beyaz%2C+FIPP%2C+A%C4%9Fr%C4%B1+ve+Omurga+Merkezi/@41.0610802,28.9987469?authuser=0&entry=ttu",
+            "reviews": 25,
+            "rating": 4.8,
+            "main_category": "Sa\u011fl\u0131k Merkezi"
+        },
+        {
+            "name": "OPERAT\u00d6R Dr. G\u00f6khan \u00d6Z\u00c7INAR",
+            "link": "https://www.google.com/maps/search/OPERAT%C3%96R+Dr.+G%C3%B6khan+%C3%96Z%C3%87INAR/@41.0579118,29.001398299999995?authuser=0&entry=ttu",
+            "reviews": 29,
+            "rating": 3.9,
+            "main_category": "Doktor"
+        },
+        {
+            "name": "Prof. Dr. Alper Kaya Beyin ve Sinir Cerrah\u0131",
+            "link": "https://www.google.com/maps/search/Prof.+Dr.+Alper+Kaya+Beyin+ve+Sinir+Cerrah%C4%B1/@41.0551988,28.998757999999995?authuser=0&entry=ttu",
+            "reviews": 73,
+            "rating": 4.8,
+            "main_category": "Beyin ve Sinir Cerrah\u0131"
+        }
+    ],
+    "website": "http://www.fulyaagrimerkezi.com/",
+    "owner": {
+        "id": "102935230192829983476",
+        "name": "Op. Dr. G\u00f6khan Serbes (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/102935230192829983476"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPgqKdwweXBWT_Q1M1CxFcvzFpB9VuQDkNmjmrO=w408-h271-k-no",
+    "main_category": "Beyin ve Sinir Cerrah\u0131",
+    "categories": [
+        "Beyin ve Sinir Cerrah\u0131"
+    ],
+    "rating": 4.6,
+    "workday_timing": "08:00\u201318:00",
+    "closed_on": [
+        "Pazar"
+    ],
+    "phone": "0533 075 81 80",
+    "address": "Fulya, Op. Dr. G\u00f6khan Serbes, Academy Klinik, Fulya Mahallesi, Ye\u015fil\u00e7imen Sokak, No:12 \u0130\u00e7 Kap\u0131 No:438 Akbank yan\u0131, 34394 \u015ei\u015fli/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJ67hcATijyhQRwhZ6WOz74yA",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 15
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ67hcATijyhQRwhZ6WOz74yA&authuser=0&hl=tr&gl=TR",
+    "coordinates": {
+        "latitude": 41.056977499999995,
+        "longitude": 28.9996147
+    },
+    "plus_code": "3X4X+QR \u015ei\u015fli, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Fulya",
+        "street": "Academy Klinik, Fulya Mahallesi, Ye\u015fil\u00e7imen Sokak, No:12 \u0130\u00e7 Kap\u0131 No:438 Akbank yan\u0131",
+        "city": "\u015ei\u015fli",
+        "postal_code": "34394",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "2370014821442262722",
+    "data_id": "0x14caa338015cb8eb:0x20e3fbec587a16c2",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://drgokhanserbes.com/iletisim/",
+            "source": "drgokhanserbes.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun asans\u00f6r",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun giri\u015f",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun park yeri",
+                    "enabled": true
+                },
+                {
+                    "name": "Tekerlekli sandalyeye uygun tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planlama",
+            "options": [
+                {
+                    "name": "Randevu gerekli",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPgqKdwweXBWT_Q1M1CxFcvzFpB9VuQDkNmjmrO=w447-h298-k-no"
+        },
+        {
+            "about": "Sahibinin se\u00e7tikleri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOIrMWRQyIUCHg0fAoEnyrVL3dC3Eppe73Tq_ZR=w224-h316-k-no"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9sXRvvK1tU0Sq_BZMQuhaQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=352.60132&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "08:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "Kesinlikle gidilmemesi gereken bir doktor 7 ay \u00f6nce annemin normal bir bel f\u0131t\u0131\u011f\u0131 ameliyat\u0131n\u0131 8 vida ve 1 kafes takarak yapabildi.  Ameliyatta beyin omurilik zar\u0131n\u0131 yarm\u0131\u015f ve temiz i\u015f\u00e7ilik yapmad\u0131\u011f\u0131 i\u00e7in enfeksiyon kapt\u0131rm\u0131\u015f. \u0130lk ba\u015flarda annemin belinden gelen s\u0131z\u0131nt\u0131n\u0131n ne oldu\u011funu sordu\u011fumuzda \u00f6nemli bir \u015fey de\u011fil normal diyip ge\u00e7i\u015ftirdi ayn\u0131 zamanda enjeksiyonla 4 defa s\u0131z\u0131nt\u0131y\u0131 \u00e7ekti annemi mahvetti ve o enfeksiyon da apsele\u015fti. 3 ay boyunca damardan antibiyorik tedavisi almak zorunda kald\u0131k. Ne yaz\u0131k ki h\u00e2l\u00e2 daha kendi ihtiya\u00e7lar\u0131n\u0131 g\u00f6remiyor. Gitmedi\u011fimiz prof kalmad\u0131 herkesin dedi\u011fi \u015fey vidas\u0131z da yap\u0131labilecek bir ameliyatm\u0131\u015f yaz\u0131k olmu\u015f ama bir ba\u015fkas\u0131n\u0131n harap etti\u011fi hastay\u0131 da do\u011fru d\u00fczg\u00fcn kimse kabul etmiyor. \u015eimdi de fizik  tedaviye ba\u015flad\u0131k ama sonu\u00e7 verir mi bilmiyoruz. Biz yand\u0131k, benim annem g\u00f6zlerimizin \u00f6n\u00fcnde aylard\u0131r yatakta ac\u0131 \u00e7ekiyor sizler hataya d\u00fc\u015fmeyin.",
+            "reviewer_name": "K\u00fcbra",
+            "rating": 1,
+            "review_text": "Kesinlikle gidilmemesi gereken bir doktor 7 ay \u00f6nce annemin normal bir bel f\u0131t\u0131\u011f\u0131 ameliyat\u0131n\u0131 8 vida ve 1 kafes takarak yapabildi.  Ameliyatta beyin omurilik zar\u0131n\u0131 yarm\u0131\u015f ve temiz i\u015f\u00e7ilik yapmad\u0131\u011f\u0131 i\u00e7in enfeksiyon kapt\u0131rm\u0131\u015f. \u0130lk ba\u015flarda annemin belinden gelen s\u0131z\u0131nt\u0131n\u0131n ne oldu\u011funu sordu\u011fumuzda \u00f6nemli bir \u015fey de\u011fil normal diyip ge\u00e7i\u015ftirdi ayn\u0131 zamanda enjeksiyonla 4 defa s\u0131z\u0131nt\u0131y\u0131 \u00e7ekti annemi mahvetti ve o enfeksiyon da apsele\u015fti. 3 ay boyunca damardan antibiyorik tedavisi almak zorunda kald\u0131k. Ne yaz\u0131k ki h\u00e2l\u00e2 daha kendi ihtiya\u00e7lar\u0131n\u0131 g\u00f6remiyor. Gitmedi\u011fimiz prof kalmad\u0131 herkesin dedi\u011fi \u015fey vidas\u0131z da yap\u0131labilecek bir ameliyatm\u0131\u015f yaz\u0131k olmu\u015f ama bir ba\u015fkas\u0131n\u0131n harap etti\u011fi hastay\u0131 da do\u011fru d\u00fczg\u00fcn kimse kabul etmiyor. \u015eimdi de fizik  tedaviye ba\u015flad\u0131k ama sonu\u00e7 verir mi bilmiyoruz. Biz yand\u0131k, benim annem g\u00f6zlerimizin \u00f6n\u00fcnde aylard\u0131r yatakta ac\u0131 \u00e7ekiyor sizler hataya d\u00fc\u015fmeyin.",
+            "published_at": "2 ay \u00f6nce",
+            "published_at_date": "2023-10-11T19:52:32.527000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108734077753608080366/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLlKERzEFUsNuSgcCLG2P-CLNoROhpk1fAFORKSFSrb=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Ameliyat olup olmamam konusunda y\u0131llarca bekledim.  Malum toplumda tekrar n\u00fckseder diye bel f\u0131t\u0131\u011f\u0131 ameliyat\u0131 pek do\u011fru g\u00f6r\u00fclm\u00fcyor. B\u00f6yle bilime pek \u00f6rt\u00fc\u015fmeyen bir alg\u0131 var. Neticesinde a\u011fr\u0131lar\u0131m\u0131n artmas\u0131 ile birlikte G\u00f6khan hocam\u0131za ba\u015fvurduk. Olduk\u00e7a ilgili ve i\u015fine hakim bir cerrah olan hocam\u0131z daha ilk g\u00f6r\u00fc\u015fmemizde beni ameliyata ikna etti. M\u00fcthi\u015f bir g\u00fcven verdi bana. Ve akabinde ameliyat olmaya karar verdim. 7 Temmuz 2023 tarihinde hocamda opere oldum ve \u00e7ok memnun kald\u0131m. Bug\u00fcn 10 uncu g\u00fcn\u00fcm ve kendimi \u00e7ok iyi hissediyorum. Te\u015fekk\u00fcrler k\u0131ymetli hocam.",
+            "reviewer_name": "kamuran deniz",
+            "rating": 5,
+            "review_text": "Ameliyat olup olmamam konusunda y\u0131llarca bekledim.  Malum toplumda tekrar n\u00fckseder diye bel f\u0131t\u0131\u011f\u0131 ameliyat\u0131 pek do\u011fru g\u00f6r\u00fclm\u00fcyor. B\u00f6yle bilime pek \u00f6rt\u00fc\u015fmeyen bir alg\u0131 var. Neticesinde a\u011fr\u0131lar\u0131m\u0131n artmas\u0131 ile birlikte G\u00f6khan hocam\u0131za ba\u015fvurduk. Olduk\u00e7a ilgili ve i\u015fine hakim bir cerrah olan hocam\u0131z daha ilk g\u00f6r\u00fc\u015fmemizde beni ameliyata ikna etti. M\u00fcthi\u015f bir g\u00fcven verdi bana. Ve akabinde ameliyat olmaya karar verdim. 7 Temmuz 2023 tarihinde hocamda opere oldum ve \u00e7ok memnun kald\u0131m. Bug\u00fcn 10 uncu g\u00fcn\u00fcm ve kendimi \u00e7ok iyi hissediyorum. Te\u015fekk\u00fcrler k\u0131ymetli hocam.",
+            "published_at": "5 ay \u00f6nce",
+            "published_at_date": "2023-07-16T11:00:25.027000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/112435651756234431214/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWfKHexsrThmotLw0CD74tQx3fqx40RDAcq6OtNJOYT6p8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Dr. G\u00f6khan Serbes bey'e muayene oldum.Yap\u0131lan MR sonucunda bel f\u0131t\u0131\u011f\u0131 ameliyat\u0131 olmam gerekti\u011fi s\u00f6ylendi.  Ba\u015far\u0131l\u0131 bir operasyonla beni sa\u011fl\u0131\u011f\u0131ma kavu\u015fturdu. Kendisine ve Adem beye \u00e7ok te\u015fekk\u00fcr ederim.",
+            "reviewer_name": "Durmus Yildiz",
+            "rating": 5,
+            "review_text": "Dr. G\u00f6khan Serbes bey'e muayene oldum.Yap\u0131lan MR sonucunda bel f\u0131t\u0131\u011f\u0131 ameliyat\u0131 olmam gerekti\u011fi s\u00f6ylendi.  Ba\u015far\u0131l\u0131 bir operasyonla beni sa\u011fl\u0131\u011f\u0131ma kavu\u015fturdu. Kendisine ve Adem beye \u00e7ok te\u015fekk\u00fcr ederim.",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-05-17T14:02:45.493000",
+            "response_from_owner_text": "Sevgili Durmu\u015f bey,\nG\u00fczel yorumunuz i\u00e7in te\u015fekk\u00fcr ederiz. Operasyon sonras\u0131 sa\u011fl\u0131\u011f\u0131n\u0131za kavu\u015fman\u0131z bizler i\u00e7in de mutluluk verici. Her zaman yan\u0131n\u0131zda oldu\u011fumuzu bilmenizi isteriz. Sevgilerle.",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-12-09T08:34:16.956000",
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 24,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/105651622875124834564/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIShf9Tc6-KxmvZPWdIhFKgpumKHIwX8EE277QcSbIr=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "D\u00f6rt ayd\u0131r kolumda a\u011fr\u0131 ve ellerimde uyu\u015fma vard\u0131.Hayat kalitem \u00e7ok k\u00f6t\u00fc d\u00fc\u015fm\u00fc\u015ft\u00fc.Bir \u00e7ok dr gitmi\u015f olama ra\u011fmen a\u011fr\u0131lar\u0131m artt\u0131 sevgili aile dostumuz \u0130smail Ayd\u0131n tavsiyesi \u00fczerine dr G\u00f6khan Serbest ile g\u00f6r\u00fc\u015ft\u00fcm ve boyun f\u0131t\u0131\u011f\u0131 ameliyat\u0131m\u0131 oldum ekibine ve kendisine \u00e7ok \u00e7ok t\u015fk ederim",
+            "reviewer_name": "FER\u0130DE ALPTEK\u0130N",
+            "rating": 5,
+            "review_text": "D\u00f6rt ayd\u0131r kolumda a\u011fr\u0131 ve ellerimde uyu\u015fma vard\u0131.Hayat kalitem \u00e7ok k\u00f6t\u00fc d\u00fc\u015fm\u00fc\u015ft\u00fc.Bir \u00e7ok dr gitmi\u015f olama ra\u011fmen a\u011fr\u0131lar\u0131m artt\u0131 sevgili aile dostumuz \u0130smail Ayd\u0131n tavsiyesi \u00fczerine dr G\u00f6khan Serbest ile g\u00f6r\u00fc\u015ft\u00fcm ve boyun f\u0131t\u0131\u011f\u0131 ameliyat\u0131m\u0131 oldum ekibine ve kendisine \u00e7ok \u00e7ok t\u015fk ederim",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-11-30T10:56:24.426000",
+            "response_from_owner_text": "\u00d6ncelikle \u00e7ok ge\u00e7mi\u015f olsun Feride han\u0131m,\n K\u0131sa s\u00fcrede eski sa\u011fl\u0131kl\u0131 ya\u015fam\u0131n\u0131za d\u00f6nmeniz bizi de \u00e7ok memnun etti. T\u00fcm ekibimiz ve hocam\u0131z ad\u0131na bizler te\u015fekk\u00fcr eder, uzun ve sa\u011fl\u0131kl\u0131 bir ya\u015fam dileriz.",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-12-09T08:15:17.794000",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117750835045384679899/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXefa0Ty4G4lxTeCDT6G1PxfoZx_5UT-qJeWyxq3c9jCw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "3 senedir A\u011fr\u0131 ve hareket k\u0131s\u0131tlamas\u0131yla u\u011fra\u015f\u0131yordum gitmed\u0131\u011f\u0131m doktor ve uygulamad\u0131\u011f\u0131m tedavi yok son olarak geld\u0131\u011f\u0131m gokhan hocam uygulad\u0131\u011f\u0131 bir tedaviyle 10 g\u00fcn oldu a\u011fr\u0131 bitti \u015f\u00fck\u00fcr \u00e7ok te\u015fekk\u00fcr ederim hocama \ud83d\ude4f\ud83c\udffb",
+            "reviewer_name": "Elah Mc",
+            "rating": 5,
+            "review_text": "3 senedir A\u011fr\u0131 ve hareket k\u0131s\u0131tlamas\u0131yla u\u011fra\u015f\u0131yordum gitmed\u0131\u011f\u0131m doktor ve uygulamad\u0131\u011f\u0131m tedavi yok son olarak geld\u0131\u011f\u0131m gokhan hocam uygulad\u0131\u011f\u0131 bir tedaviyle 10 g\u00fcn oldu a\u011fr\u0131 bitti \u015f\u00fck\u00fcr \u00e7ok te\u015fekk\u00fcr ederim hocama \ud83d\ude4f\ud83c\udffb",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-12-08T12:18:03.984000",
+            "response_from_owner_text": "\u00d6ncelikle \u00e7ok ge\u00e7mi\u015f olsun Elah han\u0131m,\nUygulam\u0131\u015f oldu\u011fumuz nokta at\u0131\u015f\u0131 tedavimiz ile  k\u0131sa s\u00fcrede eski sa\u011fl\u0131kl\u0131 ya\u015fam\u0131n\u0131za d\u00f6nmeniz bizi de \u00e7ok memnun etti. Hocam\u0131z ad\u0131na bizler te\u015fekk\u00fcr eder, uzun ve sa\u011fl\u0131kl\u0131 bir ya\u015fam dileriz.",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-12-09T09:58:52.755000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117904761798804898405/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUSX60i526uhqeSTBeSVJdXUDHe2vXgdjC6jih3e3xR9g=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Doktor g\u00f6khan babama ameliyat yapti. \u00c7ok memnun kaldk agrilarindan kurtuldu hoca i\u00e7in erbilden geldik akrabalar\u0131m\u0131z da gelecek kendisine \u00e7ok te\u015fekk\u00fcr ederiz",
+            "reviewer_name": "Hawkar Sardar",
+            "rating": 5,
+            "review_text": "Doktor g\u00f6khan babama ameliyat yapti. \u00c7ok memnun kaldk agrilarindan kurtuldu hoca i\u00e7in erbilden geldik akrabalar\u0131m\u0131z da gelecek kendisine \u00e7ok te\u015fekk\u00fcr ederiz",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-08-31T10:07:40.759000",
+            "response_from_owner_text": "\u00d6ncelik \u00e7ok ge\u00e7mi\u015f olsun Hawkar bey,\nBaban\u0131z\u0131n ameliyat \u00f6ncesi sa\u011fl\u0131kl\u0131 ya\u015fam\u0131na d\u00f6nmesi memnuniyet verici. Bizleri tercih edip tavsiye etti\u011finiz i\u00e7in te\u015fekk\u00fcr ederiz. Sa\u011fl\u0131kla kal\u0131n.",
+            "response_from_owner_ago": "bir y\u0131l \u00f6nce",
+            "response_from_owner_date": "2022-12-09T08:21:56.382000",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113774249558419796889/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLF2GcEfRhPW7mdSRHK-lqHRbm-MIs7X6OYOZXoVUdM=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Op. Dr. G\u00f6khan Serbes \u00e7ok iyi bir doktor \u00e7o\u011fu doktorun yapmak istemedi\u011fi ameliyat\u0131 yapt\u0131 \u00e7ok tehlikeli ve zor bir ameliyat (Tarlov kisti 5cm) \u00e7ok iyi ge\u00e7ti. Harika doktor\u2019a \u00e7ok te\u015fekk\u00fcr ediyorum .",
+            "reviewer_name": "MAYA MASHNOUK",
+            "rating": 5,
+            "review_text": "Op. Dr. G\u00f6khan Serbes \u00e7ok iyi bir doktor \u00e7o\u011fu doktorun yapmak istemedi\u011fi ameliyat\u0131 yapt\u0131 \u00e7ok tehlikeli ve zor bir ameliyat (Tarlov kisti 5cm) \u00e7ok iyi ge\u00e7ti. Harika doktor\u2019a \u00e7ok te\u015fekk\u00fcr ediyorum .",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-01-16T22:16:22.275000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 7,
+            "total_number_of_reviews_by_reviewer": 11,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/112394208669795193956/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXxnD9qS-8dQNW3TVsSdAHLrjS-BuIWRFdfG5NVlWH4lc0=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Op Dr G\u00f6khan serbes hocam\u0131n uygulam\u0131\u015f oldu\u011fu bel f\u0131t\u0131\u011f\u0131 tedavisi nin 15 g\u00fcn\u00fcnde kendimi \u00e7ok iyi hissediyorum te\u015fekk\u00fcr ediyorum kendisine",
+            "reviewer_name": "Cemil Say\u0131n",
+            "rating": 5,
+            "review_text": "Op Dr G\u00f6khan serbes hocam\u0131n uygulam\u0131\u015f oldu\u011fu bel f\u0131t\u0131\u011f\u0131 tedavisi nin 15 g\u00fcn\u00fcnde kendimi \u00e7ok iyi hissediyorum te\u015fekk\u00fcr ediyorum kendisine",
+            "published_at": "bir y\u0131l \u00f6nce",
+            "published_at_date": "2022-05-17T18:43:21.432000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108144204256069291517/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLp4Voag3QUXWt9io_yXjqRZXmO2Bu66KDmwJTtm-g=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

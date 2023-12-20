@@ -1,0 +1,170 @@
+{
+    "place_id": "ChIJV5aCAG_HyhQRcdIQBvbYUUI",
+    "name": "EKYG Hukuk",
+    "description": null,
+    "reviews": 1,
+    "competitors": [
+        {
+            "name": "Ek\u015fio\u011flu Hukuk",
+            "link": "https://www.google.com/maps/search/Ek%C5%9Fio%C4%9Flu+Hukuk/@41.0236933,29.0454521?authuser=0&entry=ttu",
+            "reviews": 26,
+            "rating": 4.1,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "YKSE Avukatl\u0131k Ortakl\u0131\u011f\u0131",
+            "link": "https://www.google.com/maps/search/YKSE+Avukatl%C4%B1k+Ortakl%C4%B1%C4%9F%C4%B1/@41.0044397,29.044562?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 1,
+            "main_category": "Hukuk Hizmetleri"
+        },
+        {
+            "name": "KIZILYEL PARTNERS | Hukuk & Dan\u0131\u015fmanl\u0131k",
+            "link": "https://www.google.com/maps/search/KIZILYEL+PARTNERS+%7C+Hukuk+%26+Dan%C4%B1%C5%9Fmanl%C4%B1k/@41.019804099999995,29.046558899999997?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "Y\u0131lmaz & Y\u0131lmaz Law Firm",
+            "link": "https://www.google.com/maps/search/Y%C4%B1lmaz+%26+Y%C4%B1lmaz+Law+Firm/@41.0219624,29.0443175?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://www.ekyghukuk.com/",
+    "owner": {
+        "id": "116371622119972933165",
+        "name": "EKYG Hukuk (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/116371622119972933165"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EtwngV88BANX4oVLkVyjqA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=120.538055&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": 5,
+    "workday_timing": "09:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": "(0216) 577 73 21",
+    "address": "Altunizade, EKYG Hukuk, Altunizade Kav\u015fa\u011f\u0131 No:3, 34662 \u00dcsk\u00fcdar/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJV5aCAG_HyhQRcdIQBvbYUUI",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJV5aCAG_HyhQRcdIQBvbYUUI&q=?q=place_id:ChIJV5aCAG_HyhQRcdIQBvbYUUI&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.021108,
+        "longitude": 29.0460957
+    },
+    "plus_code": "22CW+CC \u00dcsk\u00fcdar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Altunizade",
+        "street": "Altunizade Kav\u015fa\u011f\u0131 No:3",
+        "city": "\u00dcsk\u00fcdar",
+        "postal_code": "34662",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "4778839230792127089",
+    "data_id": "0x14cac76f00829657:0x4251d8f60610d271",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EtwngV88BANX4oVLkVyjqA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=120.538055&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EtwngV88BANX4oVLkVyjqA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=120.538055&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "09:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [
+        {
+            "review_id": "H\u0131zl\u0131 idi",
+            "reviewer_name": "MEVL\u00dcT AKSOY",
+            "rating": 5,
+            "review_text": "H\u0131zl\u0131 idi",
+            "published_at": "2 y\u0131l \u00f6nce",
+            "published_at_date": "2021-03-05T12:12:42.088000",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/110165851387513305462/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV_HZCOjQo5OJxlL1dA82Mj3PFOD7jk4zDq6PDT8CdHug=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

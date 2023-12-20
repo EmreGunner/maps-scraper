@@ -1,0 +1,110 @@
+{
+    "place_id": "ChIJzQxS45K3yhQR9Q6G2zWVYTY",
+    "name": "Sinano\u011flu Hukuk B\u00fcrosu",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "Avukat Seyfettin Karde\u015f",
+            "link": "https://www.google.com/maps/search/Avukat+Seyfettin+Karde%C5%9F/@41.0250266,29.0190748?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "YAMAN AVUKATLIK OF\u0130S\u0130",
+            "link": "https://www.google.com/maps/search/YAMAN+AVUKATLIK+OF%C4%B0S%C4%B0/@41.025295799999995,29.0173396?authuser=0&entry=ttu",
+            "reviews": 1,
+            "rating": 5,
+            "main_category": "Avukatl\u0131k Dan\u0131\u015fma Hizmeti"
+        },
+        {
+            "name": "AVENTUS HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/AVENTUS+HUKUK+B%C3%9CROSU/@41.0248618,29.013977599999997?authuser=0&entry=ttu",
+            "reviews": 7,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Ahsen Hukuk ve Dan\u0131\u015fmanl\u0131k B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Ahsen+Hukuk+ve+Dan%C4%B1%C5%9Fmanl%C4%B1k+B%C3%BCrosu/@41.0246183,29.0169892?authuser=0&entry=ttu",
+            "reviews": 2,
+            "rating": 3,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "AYANO\u011eLU HUKUK B\u00dcROSU",
+            "link": "https://www.google.com/maps/search/AYANO%C4%9ELU+HUKUK+B%C3%9CROSU/@41.0037538,29.044574299999994?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": "http://sinanogluhukuk.com/",
+    "owner": {
+        "id": null,
+        "name": "Sinano\u011flu Hukuk B\u00fcrosu (Sahibi)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OlfF5e1Y1bHm69Ev8xqVaw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=115.48183&pitch=0&thumbfov=100",
+    "main_category": "Hukuk B\u00fcrosu",
+    "categories": [
+        "Hukuk B\u00fcrosu"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": "Open All Days",
+    "phone": "(0216) 319 11 69",
+    "address": "Sinano\u011flu Hukuk B\u00fcrosu, Kuzguncuk Aksu Apartment Pa\u015fa Liman\u0131 Caddesi D:No:122/3, 34674 \u00dcsk\u00fcdar/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJzQxS45K3yhQR9Q6G2zWVYTY",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJzQxS45K3yhQR9Q6G2zWVYTY&q=?q=place_id:ChIJzQxS45K3yhQR9Q6G2zWVYTY&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 41.0311606,
+        "longitude": 29.020591
+    },
+    "plus_code": "22JC+F6 \u00dcsk\u00fcdar, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Sultantepe",
+        "street": "Kuzguncuk Aksu Apartment Pa\u015fa Liman\u0131 Caddesi D:No:122/3",
+        "city": "\u00dcsk\u00fcdar",
+        "postal_code": "34674",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "3918577209337843445",
+    "data_id": "0x14cab792e3520ccd:0x36619535db860ef5",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OlfF5e1Y1bHm69Ev8xqVaw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=115.48183&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OlfF5e1Y1bHm69Ev8xqVaw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=115.48183&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

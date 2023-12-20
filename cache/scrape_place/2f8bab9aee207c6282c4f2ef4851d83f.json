@@ -1,0 +1,177 @@
+{
+    "place_id": "ChIJoxY936THyhQRA6w-Jq8tUN0",
+    "name": "Av.Ayla O\u011eUZ",
+    "description": null,
+    "reviews": null,
+    "competitors": [
+        {
+            "name": "OGUZ KARA AVUKATLIK BUROSU",
+            "link": "https://www.google.com/maps/search/OGUZ+KARA+AVUKATLIK+BUROSU/@41.0010761,29.100942099999997?authuser=0&entry=ttu",
+            "reviews": 21,
+            "rating": 3.3,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "OGUZ LAW FIRM & CONSULTANCY",
+            "link": "https://www.google.com/maps/search/OGUZ+LAW+FIRM+%26+CONSULTANCY/@40.982963999999996,29.062710000000003?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Avukat CERRAH \u0130ZO\u011eLU",
+            "link": "https://www.google.com/maps/search/Avukat+CERRAH+%C4%B0ZO%C4%9ELU/@40.9115119,29.1806141?authuser=0&entry=ttu",
+            "reviews": 0,
+            "rating": 0,
+            "main_category": "Hukuk B\u00fcrosu"
+        },
+        {
+            "name": "Egeli Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Egeli+Hukuk+B%C3%BCrosu/@40.961143,29.104177?authuser=0&entry=ttu",
+            "reviews": 3,
+            "rating": 5,
+            "main_category": "Avukat"
+        },
+        {
+            "name": "Duymaz Hukuk B\u00fcrosu",
+            "link": "https://www.google.com/maps/search/Duymaz+Hukuk+B%C3%BCrosu/@40.9630794,29.075081?authuser=0&entry=ttu",
+            "reviews": 8,
+            "rating": 5,
+            "main_category": "Hukuk B\u00fcrosu"
+        }
+    ],
+    "website": null,
+    "owner": {
+        "id": "116646243816070238967",
+        "name": "Av.Ayla O\u011eUZ (Sahibi)",
+        "link": "https://www.google.com/maps/contrib/116646243816070238967"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2lrdZ8ejYejpHpLOvEWxHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=147.06845&pitch=0&thumbfov=100",
+    "main_category": "Avukat",
+    "categories": [
+        "Avukat"
+    ],
+    "rating": null,
+    "workday_timing": "10:00\u201318:00",
+    "closed_on": [
+        "Cumartesi",
+        "Pazar"
+    ],
+    "phone": null,
+    "address": "Av.Ayla O\u011eUZ, Ba\u011fdat Caddesi,Selvili Sok.Sedir Apt, No.11, 34744 Kad\u0131k\u00f6y/\u0130stanbul",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/?q=place_id:ChIJoxY936THyhQRA6w-Jq8tUN0",
+    "status": "A\u00e7\u0131k \u22c5 Kapan\u0131\u015f saati: 18:00",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "featured_question": null,
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJoxY936THyhQRA6w-Jq8tUN0&q=?q=place_id:ChIJoxY936THyhQRA6w-Jq8tUN0&authuser=0&hl=en&gl=TR",
+    "coordinates": {
+        "latitude": 40.9585309,
+        "longitude": 29.083851199999998
+    },
+    "plus_code": "X35M+CG Kad\u0131k\u00f6y, \u0130stanbul",
+    "detailed_address": {
+        "ward": "Bostanc\u0131",
+        "street": "Ba\u011fdat Caddesi,Selvili Sok.Sedir Apt, No.11",
+        "city": "Kad\u0131k\u00f6y",
+        "postal_code": "34744",
+        "state": "\u0130stanbul",
+        "country_code": "TR"
+    },
+    "time_zone": "Europe/Istanbul",
+    "cid": "15947296510803094531",
+    "data_id": "0x14cac7a4df3d16a3:0xdd502daf263eac03",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Eri\u015filebilirlik",
+            "options": [
+                {
+                    "name": "Tekerlekli sandalyeye uygun tuvalet",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Sunulan olanaklar",
+            "options": [
+                {
+                    "name": "Tuvalet",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "T\u00fcm\u00fc",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2lrdZ8ejYejpHpLOvEWxHw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=147.06845&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View ve 360\u00b0",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2lrdZ8ejYejpHpLOvEWxHw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=147.06845&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Pazartesi",
+            "times": [
+                "10:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Sal\u0131",
+            "times": [
+                "10:00\u201318:00"
+            ]
+        },
+        {
+            "day": "\u00c7ar\u015famba",
+            "times": [
+                "10:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Per\u015fembe",
+            "times": [
+                "10:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cuma",
+            "times": [
+                "10:00\u201318:00"
+            ]
+        },
+        {
+            "day": "Cumartesi",
+            "times": [
+                "Kapal\u0131"
+            ]
+        },
+        {
+            "day": "Pazar",
+            "times": [
+                "Kapal\u0131"
+            ]
+        }
+    ],
+    "most_popular_times": "Not Present",
+    "popular_times": "Not Present",
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}
