@@ -105,6 +105,8 @@ def set_cookies(ck):
 def scrape_place(requests: AntiDetectRequests, link):
         cookies = get_cookies()
          # URL Validation Check
+         # Convert link to string and check if it's a valid URL
+        link = str(link)  # Convert link to a string
         if not link or not link.startswith("http"):
             logging.error(f"Invalid URL: {link}")
             return None

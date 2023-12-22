@@ -240,13 +240,13 @@ def process_result(min_reviews, max_reviews, category_in, has_website, has_phone
         write_output(query, cleaned_places, fields)
         
         result_item = {"query": query, "places": cleaned_places}
-        return result_item
+        return result_item, "Success"  # Return the result with success status
     except Exception as e:
         logging.error(f"An error occurred: {e}")
         # Save the data obtained so far to a CSV file
         save_to_csv(places_obj.get("places", []), 'error_output.csv')
-        raise  # You can choose to re-raise the exception or return an error response
-
+        #raise  # You can choose to re-raise the exception or return an error response
+        return {"query": query, "places": []}, "Failure"  # Indicate failure
 
 def merge_places(places):
     merged_places = []
@@ -344,7 +344,7 @@ class Gmaps:
       """
 
       result = []
-
+      total_queries = len(queries)
       should_scrape_socials = key is not None      
       fields = determine_fields(fields, should_scrape_socials, scrape_reviews) 
           
@@ -353,18 +353,20 @@ class Gmaps:
         place_data = create_place_data(query, is_spending_on_ads, max, lang, geo_coordinates, zoom, convert_to_english)
         places_obj = scraper.scrape_places(place_data, cache = use_cache)
 
-        result_item = process_result(min_reviews, max_reviews, category_in, has_website, has_phone, min_rating, max_rating, sort, key, scrape_reviews, reviews_max, reviews_sort, fields, lang, should_scrape_socials, convert_to_english,use_cache,places_obj)
+        result_item, status = process_result(min_reviews, max_reviews, category_in, has_website, has_phone, min_rating, max_rating, sort, key, scrape_reviews, reviews_max, reviews_sort, fields, lang, should_scrape_socials, convert_to_english,use_cache,places_obj)
 
         result.append(result_item)
-      
+         # Increment the counter and display progress
+          # Display progress with success/failure status
+        current_query += 1
+        print(f"Processed query {current_query}/{total_queries} - {status}")
+
       all_places = sort_places(merge_places(result), sort)
       write_output("all", all_places, fields)
 
       scraper.scrape_places.close()
       return result
-
-
-
+    
   @staticmethod
   def links(  
               links: List[str],
@@ -423,3 +425,12 @@ class Gmaps:
         result_item = process_result(min_reviews, max_reviews, category_in, has_website, has_phone, min_rating, max_rating, sort, key, scrape_reviews, reviews_max, reviews_sort, fields, lang, should_scrape_socials,convert_to_english, use_cache,places_obj)
         
         return result_item
+
+def display_progress(self, total_queries, current_index):
+    """
+    Display the progress of processing queries.
+
+    :param total_queries: Total number of queries to process.
+    :param current_index: Current index of the query being processed.
+    """
+    print(f"Processing query {current_index + 1}/{total_queries}")

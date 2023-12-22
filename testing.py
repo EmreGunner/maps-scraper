@@ -110,7 +110,7 @@ def display_progress(total_links, processed, found, not_found):
     print(f"Total Links: {total_links}, Processed: {processed}/{total_links}, Found: {found}, Not Found: {not_found}")
 
 # Read the input file
-input_file = "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/input/gmaps_lawyers_extract.csv"
+input_file = "/home/titan/Desktop/Python/ForMarketing/google-maps-scraper/input/test2 - Get_Competitiros.csv"
 df = pd.read_csv(input_file)
 
 # Apply the function to extract links from the 'competitors' column
@@ -156,6 +156,6 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
 results_df = pd.DataFrame(link_results)
 
 # Export the DataFrame to a CSV file
-results_df.to_csv("processed_links_results.csv", index=False)
+results_df.to_csv("competitor_placeIds_links.csv", index=False)
 #print("FOUND LIST ",found_list)
 Gmaps.links(links=found_list,output_folder="/test")  

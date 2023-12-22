@@ -5134,3 +5134,38 @@
 2023-12-20 22:19:42,963 - INFO - NumExpr defaulting to 4 threads.
 2023-12-20 22:20:28,467 - ERROR - Invalid URL: Not Found
 2023-12-20 22:20:30,243 - WARNING - places error
+2023-12-20 22:41:12,350 - INFO - NumExpr defaulting to 4 threads.
+2023-12-20 22:46:11,187 - INFO - NumExpr defaulting to 4 threads.
+2023-12-21 17:35:34,744 - INFO - No candidates found for query: Gürbüz+Hukuk+ve+Danışmanlık+Bürosu+I+Pendik-Kurtköy+Avukat+-Gurbuz+Law+Consulting+I, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-21 17:36:58,530 - INFO - No candidates found for query: Çağlayan+&+Yalçın+Hukuk+Bürosu, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-21 17:37:21,650 - INFO - No candidates found for query: Erarslan+Hukuk+Bürosu, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-21 17:40:25,500 - INFO - No candidates found for query: ÇAKIR+&+ÖZLÜ, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-21 17:40:52,791 - INFO - No candidates found for query: Göktürk+Hukuk+|+Legal, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-21 17:41:12,003 - INFO - No candidates found for query: Özgür+&+Doğan+Hukuk+ve+Danışmanlık+Bürosu, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-21 17:41:36,732 - INFO - No candidates found for query: Erarslan+Hukuk+Bürosu, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-21 17:42:19,771 - INFO - No candidates found for query: Milat+Hukuk, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-21 17:43:07,350 - INFO - No candidates found for query: Hazinedar+Hukuk+Bürosu, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-21 17:44:34,942 - INFO - No candidates found for query: ----, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-21 17:44:34,988 - INFO - No candidates found for query: Çetin+&+Çetin+Hukuk+Bürosu, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-21 17:59:26,296 - INFO - NumExpr defaulting to 4 threads.
+2023-12-21 18:00:16,160 - INFO - NumExpr defaulting to 4 threads.
+2023-12-21 18:10:38,678 - INFO - NumExpr defaulting to 4 threads.
+2023-12-21 18:10:56,112 - INFO - NumExpr defaulting to 4 threads.
+2023-12-21 18:17:01,030 - INFO - NumExpr defaulting to 4 threads.
+2023-12-21 18:20:09,759 - INFO - NumExpr defaulting to 4 threads.
+2023-12-21 18:20:22,711 - ERROR - Invalid URL: nan
+2023-12-21 18:22:19,972 - ERROR - Error scraping place: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-12-21 18:23:14,052 - ERROR - Error scraping place: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-12-22 10:11:30,882 - INFO - No candidates found for query: Çobanoğlu&Yılmaz+Hukuk+ve+Danışmanlık, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-22 10:12:31,914 - INFO - No candidates found for query: Çağlayan+&+Yalçın+Hukuk+Bürosu, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-22 10:12:38,964 - INFO - No candidates found for query: Milat+Hukuk, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-22 10:12:44,474 - INFO - No candidates found for query: D&D+Hukuk+Bürosu, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-22 10:13:11,758 - INFO - No candidates found for query: Gürbüz+Hukuk+ve+Danışmanlık+Bürosu+I+Pendik-Kurtköy+Avukat+-Gurbuz+Law+Consulting+I, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-22 10:14:31,349 - INFO - No candidates found for query: Meriç+Hukuk+&+Danışmanlık, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-22 10:14:59,441 - INFO - No candidates found for query: Erarslan+Hukuk+Bürosu, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-22 10:15:20,454 - INFO - No candidates found for query: Polat+Hukuk+Bürosu, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-22 10:17:58,463 - INFO - No candidates found for query: Erarslan+Hukuk+Bürosu, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-22 10:18:15,177 - INFO - No candidates found for query: ERSOY+HUKUK+BÜROSU, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-22 10:20:09,528 - INFO - No candidates found for query: Bayraktar+Law+Firm, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-22 10:20:25,645 - INFO - No candidates found for query: ----, Response: {'candidates': [], 'status': 'ZERO_RESULTS'}
+2023-12-22 10:26:41,748 - INFO - NumExpr defaulting to 4 threads.
