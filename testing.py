@@ -8,7 +8,7 @@ from src.gmaps import Gmaps
 # Configure logging
 logging.basicConfig(filename='api_logs.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 # Define your Google Maps API key
-API_KEY = 'AIzaSyBKFYUc0NQnSTGjnXCAvyYVAqvRjfqkHhM'
+API_KEY = 'Your APi'
 
 # Caching mechanism to store place_id results
 cache = {}
